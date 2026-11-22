@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-11-22T01:15:18.7350075+00:00",
+  "generatedAt": "2026-11-22T11:14:27.7736605+00:00",
   "events": [
-    {
-      "id": "f1-2026-21-race",
-      "competition": "f1",
-      "season": "2026",
-      "round": 21,
-      "title": "Las Vegas Grand Prix",
-      "session": "race",
-      "startsAt": "2026-11-22T04:00:00+00:00",
-      "venue": "Las Vegas Strip Street Circuit",
-      "city": "Las Vegas",
-      "country": "USA",
-      "status": "scheduled",
-      "videos": []
-    },
-    {
-      "id": "motogp-2026-21-warm_up",
-      "competition": "motogp",
-      "season": "2026",
-      "round": 21,
-      "title": "Grand Prix of Portugal",
-      "session": "warm_up",
-      "startsAt": "2026-11-22T09:00:00+00:00",
-      "venue": "Autódromo Internacional do Algarve",
-      "city": "Portimão",
-      "country": "Portugal",
-      "status": "scheduled",
-      "videos": []
-    },
     {
       "id": "serie-a-2026-27-558521",
       "competition": "serie-a",

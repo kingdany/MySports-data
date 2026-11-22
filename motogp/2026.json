@@ -1,7 +1,7 @@
 {
   "competition": "motogp",
   "season": "2026",
-  "generatedAt": "2026-11-22T01:15:18.7350075+00:00",
+  "generatedAt": "2026-11-22T11:14:27.7736605+00:00",
   "events": [
     {
       "id": "motogp-2026-1-fp1",
@@ -15007,7 +15007,7 @@
       "venue": "Autódromo Internacional do Algarve",
       "city": "Portimão",
       "country": "Portugal",
-      "status": "scheduled",
+      "status": "finished",
       "videos": []
     },
     {

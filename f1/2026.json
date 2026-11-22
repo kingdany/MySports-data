@@ -1,7 +1,7 @@
 {
   "competition": "f1",
   "season": "2026",
-  "generatedAt": "2026-11-22T01:15:18.7350075+00:00",
+  "generatedAt": "2026-11-22T11:14:27.7736605+00:00",
   "events": [
     {
       "id": "f1-2026-1-fp1",
@@ -13721,8 +13721,239 @@
       "venue": "Las Vegas Strip Street Circuit",
       "city": "Las Vegas",
       "country": "USA",
-      "status": "scheduled",
-      "videos": []
+      "status": "finished",
+      "result": [
+        {
+          "pos": 1,
+          "number": "3",
+          "driver": "Max Verstappen",
+          "code": "VER",
+          "team": "Red Bull",
+          "teamColor": "#00007D",
+          "time": "1:27:39.624",
+          "points": 25
+        },
+        {
+          "pos": 2,
+          "number": "1",
+          "driver": "Lando Norris",
+          "code": "NOR",
+          "team": "McLaren",
+          "teamColor": "#FF9900",
+          "time": "+0.639",
+          "points": 18
+        },
+        {
+          "pos": 3,
+          "number": "81",
+          "driver": "Oscar Piastri",
+          "code": "PIA",
+          "team": "McLaren",
+          "teamColor": "#FF9900",
+          "time": "+1.529",
+          "points": 15
+        },
+        {
+          "pos": 4,
+          "number": "12",
+          "driver": "Andrea Kimi Antonelli",
+          "code": "ANT",
+          "team": "Mercedes",
+          "teamColor": "#C0C0C0",
+          "time": "+2.574",
+          "points": 12
+        },
+        {
+          "pos": 5,
+          "number": "10",
+          "driver": "Pierre Gasly",
+          "code": "GAS",
+          "team": "Alpine F1 Team",
+          "teamColor": "#FF6088",
+          "time": "+2.927",
+          "points": 10
+        },
+        {
+          "pos": 6,
+          "number": "43",
+          "driver": "Franco Colapinto",
+          "code": "COL",
+          "team": "Alpine F1 Team",
+          "teamColor": "#FF6088",
+          "time": "+7.955",
+          "points": 8
+        },
+        {
+          "pos": 7,
+          "number": "44",
+          "driver": "Lewis Hamilton",
+          "code": "HAM",
+          "team": "Ferrari",
+          "teamColor": "#CC0000",
+          "time": "+12.795",
+          "points": 6
+        },
+        {
+          "pos": 8,
+          "number": "55",
+          "driver": "Carlos Sainz",
+          "code": "SAI",
+          "team": "Williams",
+          "teamColor": "#1C39BB",
+          "time": "+12.938",
+          "points": 4
+        },
+        {
+          "pos": 9,
+          "number": "63",
+          "driver": "George Russell",
+          "code": "RUS",
+          "team": "Mercedes",
+          "teamColor": "#C0C0C0",
+          "time": "+13.192",
+          "points": 2
+        },
+        {
+          "pos": 10,
+          "number": "16",
+          "driver": "Charles Leclerc",
+          "code": "LEC",
+          "team": "Ferrari",
+          "teamColor": "#CC0000",
+          "time": "+17.554",
+          "points": 1
+        },
+        {
+          "pos": 11,
+          "number": "27",
+          "driver": "Nico Hülkenberg",
+          "code": "HUL",
+          "team": "Audi",
+          "teamColor": "#8F8F8F",
+          "time": "+22.720",
+          "points": 0
+        },
+        {
+          "pos": 12,
+          "number": "5",
+          "driver": "Gabriel Bortoleto",
+          "code": "BOR",
+          "team": "Audi",
+          "teamColor": "#8F8F8F",
+          "time": "+28.602",
+          "points": 0
+        },
+        {
+          "pos": 13,
+          "number": "87",
+          "driver": "Oliver Bearman",
+          "code": "BEA",
+          "team": "Haas F1 Team",
+          "teamColor": "#FFFFFF",
+          "time": "+28.843",
+          "points": 0
+        },
+        {
+          "pos": 14,
+          "number": "30",
+          "driver": "Liam Lawson",
+          "code": "LAW",
+          "team": "RB F1 Team",
+          "teamColor": "#FFFFFF",
+          "time": "+36.588",
+          "points": 0
+        },
+        {
+          "pos": 15,
+          "number": "6",
+          "driver": "Isack Hadjar",
+          "code": "HAD",
+          "team": "Red Bull",
+          "teamColor": "#00007D",
+          "time": "+46.488",
+          "points": 0
+        },
+        {
+          "pos": 16,
+          "number": "51",
+          "driver": "Rafael Camara",
+          "code": "CAM",
+          "team": "Haas F1 Team",
+          "teamColor": "#FFFFFF",
+          "time": "+47.814",
+          "points": 0
+        },
+        {
+          "pos": 17,
+          "number": "18",
+          "driver": "Lance Stroll",
+          "code": "STR",
+          "team": "Aston Martin",
+          "teamColor": "#FFFFFF",
+          "time": "+1:08.353",
+          "points": 0
+        },
+        {
+          "pos": 18,
+          "number": "77",
+          "driver": "Valtteri Bottas",
+          "code": "BOT",
+          "team": "Cadillac F1 Team",
+          "teamColor": "#EFEFEF",
+          "time": "+1:11.673",
+          "points": 0
+        },
+        {
+          "pos": 19,
+          "number": "14",
+          "driver": "Fernando Alonso",
+          "code": "ALO",
+          "team": "Aston Martin",
+          "teamColor": "#FFFFFF",
+          "time": "",
+          "points": 0
+        },
+        {
+          "pos": 20,
+          "number": "41",
+          "driver": "Arvid Lindblad",
+          "code": "LIN",
+          "team": "RB F1 Team",
+          "teamColor": "#FFFFFF",
+          "time": "Retired",
+          "points": 0
+        },
+        {
+          "pos": 21,
+          "number": "11",
+          "driver": "Sergio Pérez",
+          "code": "PER",
+          "team": "Cadillac F1 Team",
+          "teamColor": "#EFEFEF",
+          "time": "Retired",
+          "points": 0
+        },
+        {
+          "pos": 22,
+          "number": "23",
+          "driver": "Alexander Albon",
+          "code": "ALB",
+          "team": "Williams",
+          "teamColor": "#1C39BB",
+          "time": "Did not start",
+          "points": 0
+        }
+      ],
+      "videos": [
+        {
+          "videoId": "CDXcBzD0x7Q",
+          "title": "F1, gli highlights del GP di Las Vegas: gara pazza, con moltissimi sorpassi e duelli infuocati",
+          "thumbnailUrl": "https://i.ytimg.com/vi/CDXcBzD0x7Q/hqdefault.jpg",
+          "publishedAt": "2026-11-22T06:50:25+00:00",
+          "source": "Sky Sport F1",
+          "duration": "4:02"
+        }
+      ]
     },
     {
       "id": "f1-2026-22-fp1",
@@ -13877,7 +14108,7 @@
           "code": "ANT",
           "team": "Mercedes",
           "teamColor": "#C0C0C0",
-          "points": 390,
+          "points": 402,
           "wins": 9
         },
         {
@@ -13887,48 +14118,48 @@
           "code": "VER",
           "team": "Red Bull",
           "teamColor": "#00007D",
-          "points": 279,
-          "wins": 3
+          "points": 304,
+          "wins": 4
         },
         {
           "pos": 3,
           "posText": "3",
-          "name": "George Russell",
-          "code": "RUS",
-          "team": "Mercedes",
-          "teamColor": "#C0C0C0",
-          "points": 262,
-          "wins": 3
-        },
-        {
-          "pos": 4,
-          "posText": "4",
           "name": "Lewis Hamilton",
           "code": "HAM",
           "team": "Ferrari",
           "teamColor": "#CC0000",
-          "points": 261,
+          "points": 267,
           "wins": 1
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "George Russell",
+          "code": "RUS",
+          "team": "Mercedes",
+          "teamColor": "#C0C0C0",
+          "points": 264,
+          "wins": 3
         },
         {
           "pos": 5,
           "posText": "5",
-          "name": "Charles Leclerc",
-          "code": "LEC",
-          "team": "Ferrari",
-          "teamColor": "#CC0000",
-          "points": 249,
-          "wins": 1
-        },
-        {
-          "pos": 6,
-          "posText": "6",
           "name": "Lando Norris",
           "code": "NOR",
           "team": "McLaren",
           "teamColor": "#FF9900",
-          "points": 246,
+          "points": 264,
           "wins": 3
+        },
+        {
+          "pos": 6,
+          "posText": "6",
+          "name": "Charles Leclerc",
+          "code": "LEC",
+          "team": "Ferrari",
+          "teamColor": "#CC0000",
+          "points": 250,
+          "wins": 1
         },
         {
           "pos": 7,
@@ -13937,7 +14168,7 @@
           "code": "PIA",
           "team": "McLaren",
           "teamColor": "#FF9900",
-          "points": 152,
+          "points": 167,
           "wins": 0
         },
         {
@@ -13967,7 +14198,7 @@
           "code": "GAS",
           "team": "Alpine F1 Team",
           "teamColor": "#FF6088",
-          "points": 42,
+          "points": 52,
           "wins": 0
         },
         {
@@ -13987,7 +14218,7 @@
           "code": "COL",
           "team": "Alpine F1 Team",
           "teamColor": "#FF6088",
-          "points": 27,
+          "points": 35,
           "wins": 0
         },
         {
@@ -14023,6 +14254,16 @@
         {
           "pos": 16,
           "posText": "16",
+          "name": "Carlos Sainz",
+          "code": "SAI",
+          "team": "Williams",
+          "teamColor": "#1C39BB",
+          "points": 11,
+          "wins": 0
+        },
+        {
+          "pos": 17,
+          "posText": "17",
           "name": "Esteban Ocon",
           "code": "OCO",
           "team": "Haas F1 Team",
@@ -14031,22 +14272,12 @@
           "wins": 0
         },
         {
-          "pos": 17,
-          "posText": "17",
+          "pos": 18,
+          "posText": "18",
           "name": "Fernando Alonso",
           "code": "ALO",
           "team": "Aston Martin",
           "teamColor": "#FFFFFF",
-          "points": 7,
-          "wins": 0
-        },
-        {
-          "pos": 18,
-          "posText": "18",
-          "name": "Carlos Sainz",
-          "code": "SAI",
-          "team": "Williams",
-          "teamColor": "#1C39BB",
           "points": 7,
           "wins": 0
         },
@@ -14131,7 +14362,7 @@
           "posText": "1",
           "name": "Mercedes",
           "teamColor": "#C0C0C0",
-          "points": 652,
+          "points": 666,
           "wins": 12
         },
         {
@@ -14139,7 +14370,7 @@
           "posText": "2",
           "name": "Ferrari",
           "teamColor": "#CC0000",
-          "points": 510,
+          "points": 517,
           "wins": 2
         },
         {
@@ -14147,15 +14378,15 @@
           "posText": "3",
           "name": "Red Bull",
           "teamColor": "#00007D",
-          "points": 415,
-          "wins": 3
+          "points": 440,
+          "wins": 4
         },
         {
           "pos": 4,
           "posText": "4",
           "name": "McLaren",
           "teamColor": "#FF9900",
-          "points": 398,
+          "points": 431,
           "wins": 3
         },
         {
@@ -14171,7 +14402,7 @@
           "posText": "6",
           "name": "Alpine F1 Team",
           "teamColor": "#FF6088",
-          "points": 69,
+          "points": 87,
           "wins": 0
         },
         {
@@ -14195,7 +14426,7 @@
           "posText": "9",
           "name": "Williams",
           "teamColor": "#1C39BB",
-          "points": 12,
+          "points": 16,
           "wins": 0
         },
         {
