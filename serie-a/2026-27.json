@@ -1,7 +1,7 @@
 {
   "competition": "serie-a",
   "season": "2026-27",
-  "generatedAt": "2026-11-22T11:14:27.7736605+00:00",
+  "generatedAt": "2026-11-22T19:32:30.8861897+00:00",
   "events": [
     {
       "id": "serie-a-2026-27-558629",
@@ -37888,7 +37888,7 @@
       "title": "Juventus - Venezia",
       "session": "match",
       "startsAt": "2026-11-22T11:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
       "homeTeam": {
         "id": "109",
         "name": "Juventus FC",
@@ -37901,7 +37901,293 @@
         "shortName": "Venezia",
         "logoUrl": "https://crests.football-data.org/454.png"
       },
-      "videos": []
+      "homeScore": 4,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "home",
+            "player": "Nick Woltemade",
+            "short": "Woltemade"
+          },
+          {
+            "minute": 59,
+            "type": "goal",
+            "side": "home",
+            "player": "Teun Koopmeiners",
+            "short": "Koopmeiners"
+          },
+          {
+            "minute": 65,
+            "type": "goal",
+            "side": "home",
+            "player": "Juan Cabal",
+            "short": "Cabal"
+          },
+          {
+            "minute": 71,
+            "type": "penalty",
+            "side": "home",
+            "player": "Randal Kolo Muani",
+            "short": "Kolo Muani"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 25,
+              "name": "Guglielmo Vicario",
+              "short": "Vicario"
+            },
+            {
+              "number": 6,
+              "name": "Lloyd Kelly",
+              "short": "Kelly"
+            },
+            {
+              "number": 3,
+              "name": "Bremer"
+            },
+            {
+              "number": 32,
+              "name": "Juan Cabal",
+              "short": "Cabal"
+            },
+            {
+              "number": 2,
+              "name": "Zeki Çelik",
+              "short": "Çelik"
+            },
+            {
+              "number": 22,
+              "name": "Weston McKennie",
+              "short": "McKennie"
+            },
+            {
+              "number": 8,
+              "name": "Teun Koopmeiners",
+              "short": "Koopmeiners"
+            },
+            {
+              "number": 12,
+              "name": "Douglas Luiz",
+              "short": "Luiz"
+            },
+            {
+              "number": 9,
+              "name": "Randal Kolo Muani",
+              "short": "Kolo Muani"
+            },
+            {
+              "number": 17,
+              "name": "Kerim Alajbegovic",
+              "short": "Alajbegovic"
+            },
+            {
+              "number": 11,
+              "name": "Edon Zhegrova",
+              "short": "Zhegrova"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 27,
+                "name": "Nick Woltemade",
+                "short": "Woltemade"
+              },
+              "out": {
+                "number": 17,
+                "name": "Kerim Alajbegovic",
+                "short": "Alajbegovic"
+              }
+            },
+            {
+              "minute": 45,
+              "in": {
+                "number": 29,
+                "name": "Pape Matar Sarr",
+                "short": "Sarr"
+              },
+              "out": {
+                "number": 12,
+                "name": "Douglas Luiz",
+                "short": "Luiz"
+              }
+            },
+            {
+              "minute": 68,
+              "in": {
+                "number": 4,
+                "name": "Federico Gatti",
+                "short": "Gatti"
+              },
+              "out": {
+                "number": 2,
+                "name": "Zeki Çelik",
+                "short": "Çelik"
+              }
+            },
+            {
+              "minute": 74,
+              "in": {
+                "number": 20,
+                "name": "Andrea Cambiaso",
+                "short": "Cambiaso"
+              },
+              "out": {
+                "number": 32,
+                "name": "Juan Cabal",
+                "short": "Cabal"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 13,
+                "name": "Jérémie Boga",
+                "short": "Boga"
+              },
+              "out": {
+                "number": 9,
+                "name": "Randal Kolo Muani",
+                "short": "Kolo Muani"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Filip Stankovic",
+              "short": "Stankovic"
+            },
+            {
+              "number": 2,
+              "name": "Matías Moreno",
+              "short": "Moreno"
+            },
+            {
+              "number": 15,
+              "name": "Juan Jesus",
+              "short": "Jesus"
+            },
+            {
+              "number": 25,
+              "name": "Redouane Halhal",
+              "short": "Halhal"
+            },
+            {
+              "number": 6,
+              "name": "Gianluca Busio",
+              "short": "Busio"
+            },
+            {
+              "number": 71,
+              "name": "Enrique Perez",
+              "short": "Perez"
+            },
+            {
+              "number": 19,
+              "name": "Simon Sohm",
+              "short": "Sohm"
+            },
+            {
+              "number": 5,
+              "name": "Ridgeciano Haps",
+              "short": "Haps"
+            },
+            {
+              "number": 18,
+              "name": "Antoine Hainaut",
+              "short": "Hainaut"
+            },
+            {
+              "number": 29,
+              "name": "Lion Lauberbach",
+              "short": "Lauberbach"
+            },
+            {
+              "number": 45,
+              "name": "Akor Adams",
+              "short": "Adams"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 67,
+              "in": {
+                "number": 30,
+                "name": "Matteo Dagasso",
+                "short": "Dagasso"
+              },
+              "out": {
+                "number": 19,
+                "name": "Simon Sohm",
+                "short": "Sohm"
+              }
+            },
+            {
+              "minute": 67,
+              "in": {
+                "number": 10,
+                "name": "John Yeboah",
+                "short": "Yeboah"
+              },
+              "out": {
+                "number": 29,
+                "name": "Lion Lauberbach",
+                "short": "Lauberbach"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 8,
+                "name": "Lamine Dabo",
+                "short": "Dabo"
+              },
+              "out": {
+                "number": 71,
+                "name": "Enrique Perez",
+                "short": "Perez"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 20,
+                "name": "Richie Sagrado",
+                "short": "Sagrado"
+              },
+              "out": {
+                "number": 18,
+                "name": "Antoine Hainaut",
+                "short": "Hainaut"
+              }
+            },
+            {
+              "minute": 87,
+              "in": {
+                "number": 7,
+                "name": "Albion Rrahmani",
+                "short": "Rrahmani"
+              },
+              "out": {
+                "number": 45,
+                "name": "Akor Adams",
+                "short": "Adams"
+              }
+            }
+          ]
+        }
+      }
     },
     {
       "id": "serie-a-2026-27-558522",
@@ -37911,7 +38197,7 @@
       "title": "Bologna - Udinese",
       "session": "match",
       "startsAt": "2026-11-22T14:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
       "homeTeam": {
         "id": "103",
         "name": "Bologna FC 1909",
@@ -37924,7 +38210,301 @@
         "shortName": "Udinese",
         "logoUrl": "https://crests.football-data.org/115.png"
       },
-      "videos": []
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 6,
+            "type": "yellow",
+            "side": "away",
+            "player": "Matteo Palma",
+            "short": "Palma"
+          },
+          {
+            "minute": 43,
+            "type": "goal",
+            "side": "home",
+            "player": "Nadir Zortea",
+            "short": "Zortea"
+          },
+          {
+            "minute": 51,
+            "type": "yellow",
+            "side": "away",
+            "player": "Oumar Solet",
+            "short": "Solet"
+          },
+          {
+            "minute": 52,
+            "type": "yellow",
+            "side": "home",
+            "player": "Federico Bernardeschi",
+            "short": "Bernardeschi"
+          },
+          {
+            "minute": 67,
+            "type": "goal",
+            "side": "away",
+            "player": "Nicolò Zaniolo",
+            "short": "Zaniolo"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Lukasz Skorupski",
+              "short": "Skorupski"
+            },
+            {
+              "number": 16,
+              "name": "Nicoló Casale",
+              "short": "Casale"
+            },
+            {
+              "number": 3,
+              "name": "Arthur Theate",
+              "short": "Theate"
+            },
+            {
+              "number": 36,
+              "name": "Matteo Darmian",
+              "short": "Darmian"
+            },
+            {
+              "number": 4,
+              "name": "Tommaso Pobega",
+              "short": "Pobega"
+            },
+            {
+              "number": 19,
+              "name": "Lewis Ferguson",
+              "short": "Ferguson"
+            },
+            {
+              "number": 28,
+              "name": "Nicolò Cambiaghi",
+              "short": "Cambiaghi"
+            },
+            {
+              "number": 20,
+              "name": "Nadir Zortea",
+              "short": "Zortea"
+            },
+            {
+              "number": 21,
+              "name": "Jens Odgaard",
+              "short": "Odgaard"
+            },
+            {
+              "number": 10,
+              "name": "Federico Bernardeschi",
+              "short": "Bernardeschi"
+            },
+            {
+              "number": 7,
+              "name": "Riccardo Orsolini",
+              "short": "Orsolini"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 23,
+                "name": "Rahim Alhassane",
+                "short": "Alhassane"
+              },
+              "out": {
+                "number": 7,
+                "name": "Riccardo Orsolini",
+                "short": "Orsolini"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 11,
+                "name": "Samuel Mbangula",
+                "short": "Mbangula"
+              },
+              "out": {
+                "number": 10,
+                "name": "Federico Bernardeschi",
+                "short": "Bernardeschi"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 41,
+                "name": "Martin Vitík",
+                "short": "Vitík"
+              },
+              "out": {
+                "number": 20,
+                "name": "Nadir Zortea",
+                "short": "Zortea"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 8,
+                "name": "Mikel Amondarain",
+                "short": "Amondarain"
+              },
+              "out": {
+                "number": 36,
+                "name": "Matteo Darmian",
+                "short": "Darmian"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 91,
+                "name": "Roberto Piccoli",
+                "short": "Piccoli"
+              },
+              "out": {
+                "number": 28,
+                "name": "Nicolò Cambiaghi",
+                "short": "Cambiaghi"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 40,
+              "name": "Maduka Okoye",
+              "short": "Okoye"
+            },
+            {
+              "number": 28,
+              "name": "Oumar Solet",
+              "short": "Solet"
+            },
+            {
+              "number": 16,
+              "name": "Matteo Palma",
+              "short": "Palma"
+            },
+            {
+              "number": 27,
+              "name": "Christian Kabasele",
+              "short": "Kabasele"
+            },
+            {
+              "number": 24,
+              "name": "Jakub Piotrowski",
+              "short": "Piotrowski"
+            },
+            {
+              "number": 8,
+              "name": "Jesper Karlström",
+              "short": "Karlström"
+            },
+            {
+              "number": 4,
+              "name": "Sandi Lovric",
+              "short": "Lovric"
+            },
+            {
+              "number": 11,
+              "name": "Hassane Kamara",
+              "short": "Kamara"
+            },
+            {
+              "number": 14,
+              "name": "James Abankwah",
+              "short": "Abankwah"
+            },
+            {
+              "number": 10,
+              "name": "Nicolò Zaniolo",
+              "short": "Zaniolo"
+            },
+            {
+              "number": 32,
+              "name": "Jurgen Ekkelenkamp",
+              "short": "Ekkelenkamp"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 56,
+              "in": {
+                "number": 59,
+                "name": "Alessandro Zanoli",
+                "short": "Zanoli"
+              },
+              "out": {
+                "number": 16,
+                "name": "Matteo Palma",
+                "short": "Palma"
+              }
+            },
+            {
+              "minute": 56,
+              "in": {
+                "number": 15,
+                "name": "Bayo Youssouf",
+                "short": "Youssouf"
+              },
+              "out": {
+                "number": 4,
+                "name": "Sandi Lovric",
+                "short": "Lovric"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 23,
+                "name": "Mërgim Vojvoda",
+                "short": "Vojvoda"
+              },
+              "out": {
+                "number": 10,
+                "name": "Nicolò Zaniolo",
+                "short": "Zaniolo"
+              }
+            },
+            {
+              "minute": 87,
+              "in": {
+                "number": 6,
+                "name": "Oier Zarraga",
+                "short": "Zarraga"
+              },
+              "out": {
+                "number": 24,
+                "name": "Jakub Piotrowski",
+                "short": "Piotrowski"
+              }
+            },
+            {
+              "minute": 87,
+              "in": {
+                "number": 5,
+                "name": "David Alaba",
+                "short": "Alaba"
+              },
+              "out": {
+                "number": 27,
+                "name": "Christian Kabasele",
+                "short": "Kabasele"
+              }
+            }
+          ]
+        }
+      }
     },
     {
       "id": "serie-a-2026-27-558524",
@@ -37934,7 +38514,7 @@
       "title": "Sassuolo - Genoa",
       "session": "match",
       "startsAt": "2026-11-22T14:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
       "homeTeam": {
         "id": "471",
         "name": "US Sassuolo Calcio",
@@ -37947,7 +38527,285 @@
         "shortName": "Genoa",
         "logoUrl": "https://crests.football-data.org/107.png"
       },
-      "videos": []
+      "homeScore": 0,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 26,
+            "type": "goal",
+            "side": "away",
+            "player": "Milutin Osmajic",
+            "short": "Osmajic"
+          },
+          {
+            "minute": 38,
+            "type": "goal",
+            "side": "away",
+            "player": "Milutin Osmajic",
+            "short": "Osmajic"
+          },
+          {
+            "minute": 63,
+            "type": "yellow",
+            "side": "home",
+            "player": "Kristian Thorstvedt",
+            "short": "Thorstvedt"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 49,
+              "name": "Arijanet Muric",
+              "short": "Muric"
+            },
+            {
+              "number": 21,
+              "name": "Jay Idzes",
+              "short": "Idzes"
+            },
+            {
+              "number": 5,
+              "name": "Fali Candé",
+              "short": "Candé"
+            },
+            {
+              "number": 6,
+              "name": "Sebastian Walukiewicz",
+              "short": "Walukiewicz"
+            },
+            {
+              "number": 42,
+              "name": "Kristian Thorstvedt",
+              "short": "Thorstvedt"
+            },
+            {
+              "number": 18,
+              "name": "Nemanja Matic",
+              "short": "Matic"
+            },
+            {
+              "number": 33,
+              "name": "Rafael Obrador",
+              "short": "Obrador"
+            },
+            {
+              "number": 20,
+              "name": "Ignace van der Brempt",
+              "short": "van der Brempt"
+            },
+            {
+              "number": 94,
+              "name": "Sebastiano Esposito",
+              "short": "Esposito"
+            },
+            {
+              "number": 45,
+              "name": "Armand Laurienté",
+              "short": "Laurienté"
+            },
+            {
+              "number": 10,
+              "name": "Domenico Berardi",
+              "short": "Berardi"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 9,
+                "name": "Kieron Bowie",
+                "short": "Bowie"
+              },
+              "out": {
+                "number": 94,
+                "name": "Sebastiano Esposito",
+                "short": "Esposito"
+              }
+            },
+            {
+              "minute": 45,
+              "in": {
+                "number": 55,
+                "name": "Sulemana"
+              },
+              "out": {
+                "number": 5,
+                "name": "Fali Candé",
+                "short": "Candé"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 25,
+                "name": "Benjamín Domínguez",
+                "short": "Domínguez"
+              },
+              "out": {
+                "number": 18,
+                "name": "Nemanja Matic",
+                "short": "Matic"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 46,
+                "name": "Simone Cinquegrano",
+                "short": "Cinquegrano"
+              },
+              "out": {
+                "number": 20,
+                "name": "Ignace van der Brempt",
+                "short": "van der Brempt"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 3,
+                "name": "Josh Doig",
+                "short": "Doig"
+              },
+              "out": {
+                "number": 33,
+                "name": "Rafael Obrador",
+                "short": "Obrador"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Justin Bijlow",
+              "short": "Bijlow"
+            },
+            {
+              "number": 5,
+              "name": "Leo Østigard",
+              "short": "Østigard"
+            },
+            {
+              "number": 22,
+              "name": "Johan Vásquez",
+              "short": "Vásquez"
+            },
+            {
+              "number": 27,
+              "name": "Alessandro Marcandalli",
+              "short": "Marcandalli"
+            },
+            {
+              "number": 25,
+              "name": "Hamed Traoré",
+              "short": "Traoré"
+            },
+            {
+              "number": 4,
+              "name": "Alexsandro Amorim",
+              "short": "Amorim"
+            },
+            {
+              "number": 77,
+              "name": "Mikael Ellertsson",
+              "short": "Ellertsson"
+            },
+            {
+              "number": 3,
+              "name": "Kingsley Ehizibue",
+              "short": "Ehizibue"
+            },
+            {
+              "number": 18,
+              "name": "Milutin Osmajic",
+              "short": "Osmajic"
+            },
+            {
+              "number": 8,
+              "name": "Tommaso Baldanzi",
+              "short": "Baldanzi"
+            },
+            {
+              "number": 10,
+              "name": "Junior Messias",
+              "short": "Messias"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 63,
+              "in": {
+                "number": 9,
+                "name": "Vitinha"
+              },
+              "out": {
+                "number": 8,
+                "name": "Tommaso Baldanzi",
+                "short": "Baldanzi"
+              }
+            },
+            {
+              "minute": 63,
+              "in": {
+                "number": 32,
+                "name": "Morten Frendrup",
+                "short": "Frendrup"
+              },
+              "out": {
+                "number": 4,
+                "name": "Alexsandro Amorim",
+                "short": "Amorim"
+              }
+            },
+            {
+              "minute": 74,
+              "in": {
+                "number": 11,
+                "name": "Ethan Meichtry",
+                "short": "Meichtry"
+              },
+              "out": {
+                "number": 10,
+                "name": "Junior Messias",
+                "short": "Messias"
+              }
+            },
+            {
+              "minute": 83,
+              "in": {
+                "number": 29,
+                "name": "Lorenzo Colombo",
+                "short": "Colombo"
+              },
+              "out": {
+                "number": 18,
+                "name": "Milutin Osmajic",
+                "short": "Osmajic"
+              }
+            },
+            {
+              "minute": 83,
+              "in": {
+                "number": 71,
+                "name": "Samuel Wiafe",
+                "short": "Wiafe"
+              },
+              "out": {
+                "number": 25,
+                "name": "Hamed Traoré",
+                "short": "Traoré"
+              }
+            }
+          ]
+        }
+      }
     },
     {
       "id": "serie-a-2026-27-558523",
@@ -37957,7 +38815,7 @@
       "title": "Milan - Frosinone",
       "session": "match",
       "startsAt": "2026-11-22T17:00:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
       "homeTeam": {
         "id": "98",
         "name": "AC Milan",
@@ -37970,7 +38828,343 @@
         "shortName": "Frosinone",
         "logoUrl": "https://crests.football-data.org/470.png"
       },
-      "videos": []
+      "homeScore": 5,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 4,
+            "type": "ownGoal",
+            "side": "home",
+            "player": "Gabriele Calvani",
+            "short": "Calvani"
+          },
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Gonçalo Ramos",
+            "short": "Ramos"
+          },
+          {
+            "minute": 25,
+            "type": "goal",
+            "side": "away",
+            "player": "Patrizio Masini",
+            "short": "Masini"
+          },
+          {
+            "minute": 34,
+            "type": "yellow",
+            "side": "away",
+            "player": "Giorgio Cittadini",
+            "short": "Cittadini"
+          },
+          {
+            "minute": 40,
+            "type": "yellow",
+            "side": "away",
+            "player": "Giacomo Calo",
+            "short": "Calo"
+          },
+          {
+            "minute": 48,
+            "type": "goal",
+            "side": "home",
+            "player": "Ardon Jashari",
+            "short": "Jashari"
+          },
+          {
+            "minute": 57,
+            "type": "yellow",
+            "side": "away",
+            "player": "Ilario Monterisi",
+            "short": "Monterisi"
+          },
+          {
+            "minute": 60,
+            "type": "goal",
+            "side": "home",
+            "player": "Alphadjo Cissè",
+            "short": "Cissè"
+          },
+          {
+            "minute": 66,
+            "type": "yellow",
+            "side": "away",
+            "player": "Anthony Oyono",
+            "short": "Oyono"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Christian Pulisic",
+            "short": "Pulisic"
+          },
+          {
+            "minute": 87,
+            "type": "yellow",
+            "side": "home",
+            "player": "Alphadjo Cissè",
+            "short": "Cissè"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 16,
+              "name": "Mike Maignan",
+              "short": "Maignan"
+            },
+            {
+              "number": 5,
+              "name": "Koni De Winter",
+              "short": "De Winter"
+            },
+            {
+              "number": 13,
+              "name": "Sankhoun Diawara",
+              "short": "Diawara"
+            },
+            {
+              "number": 34,
+              "name": "Mario Gila",
+              "short": "Gila"
+            },
+            {
+              "number": 80,
+              "name": "Yunus Musah",
+              "short": "Musah"
+            },
+            {
+              "number": 12,
+              "name": "Adrien Rabiot",
+              "short": "Rabiot"
+            },
+            {
+              "number": 14,
+              "name": "Luka Modric",
+              "short": "Modric"
+            },
+            {
+              "number": 33,
+              "name": "Davide Bartesaghi",
+              "short": "Bartesaghi"
+            },
+            {
+              "number": 22,
+              "name": "Diego Moreira",
+              "short": "Moreira"
+            },
+            {
+              "number": 9,
+              "name": "Gonçalo Ramos",
+              "short": "Ramos"
+            },
+            {
+              "number": 11,
+              "name": "Christian Pulisic",
+              "short": "Pulisic"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 30,
+                "name": "Ardon Jashari",
+                "short": "Jashari"
+              },
+              "out": {
+                "number": 33,
+                "name": "Davide Bartesaghi",
+                "short": "Bartesaghi"
+              }
+            },
+            {
+              "minute": 51,
+              "in": {
+                "number": 70,
+                "name": "Alphadjo Cissè",
+                "short": "Cissè"
+              },
+              "out": {
+                "number": 9,
+                "name": "Gonçalo Ramos",
+                "short": "Ramos"
+              }
+            },
+            {
+              "minute": 71,
+              "in": {
+                "number": 31,
+                "name": "Strahinja Pavlovic",
+                "short": "Pavlovic"
+              },
+              "out": {
+                "number": 13,
+                "name": "Sankhoun Diawara",
+                "short": "Diawara"
+              }
+            },
+            {
+              "minute": 71,
+              "in": {
+                "number": 2,
+                "name": "Pervis Estupiñán",
+                "short": "Estupiñán"
+              },
+              "out": {
+                "number": 80,
+                "name": "Yunus Musah",
+                "short": "Musah"
+              }
+            },
+            {
+              "minute": 81,
+              "in": {
+                "number": 20,
+                "name": "Omari Hutchinson",
+                "short": "Hutchinson"
+              },
+              "out": {
+                "number": 11,
+                "name": "Christian Pulisic",
+                "short": "Pulisic"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 22,
+              "name": "Lorenzo Palmisani",
+              "short": "Palmisani"
+            },
+            {
+              "number": 30,
+              "name": "Ilario Monterisi",
+              "short": "Monterisi"
+            },
+            {
+              "number": 2,
+              "name": "Giorgio Cittadini",
+              "short": "Cittadini"
+            },
+            {
+              "number": 3,
+              "name": "Gabriele Calvani",
+              "short": "Calvani"
+            },
+            {
+              "number": 73,
+              "name": "Patrizio Masini",
+              "short": "Masini"
+            },
+            {
+              "number": 14,
+              "name": "Giacomo Calo",
+              "short": "Calo"
+            },
+            {
+              "number": 10,
+              "name": "Romano Schmid",
+              "short": "Schmid"
+            },
+            {
+              "number": 90,
+              "name": "Enzo Tchato",
+              "short": "Tchato"
+            },
+            {
+              "number": 20,
+              "name": "Anthony Oyono",
+              "short": "Oyono"
+            },
+            {
+              "number": 17,
+              "name": "Giorgi Kvernadze",
+              "short": "Kvernadze"
+            },
+            {
+              "number": 7,
+              "name": "Farès Ghedjemis",
+              "short": "Ghedjemis"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 5,
+                "name": "Wisdom Amey",
+                "short": "Amey"
+              },
+              "out": {
+                "number": 2,
+                "name": "Giorgio Cittadini",
+                "short": "Cittadini"
+              }
+            },
+            {
+              "minute": 62,
+              "in": {
+                "number": 11,
+                "name": "Daniel Birligea",
+                "short": "Birligea"
+              },
+              "out": {
+                "number": 17,
+                "name": "Giorgi Kvernadze",
+                "short": "Kvernadze"
+              }
+            },
+            {
+              "minute": 62,
+              "in": {
+                "number": 71,
+                "name": "Aleksa Terzic",
+                "short": "Terzic"
+              },
+              "out": {
+                "number": 90,
+                "name": "Enzo Tchato",
+                "short": "Tchato"
+              }
+            },
+            {
+              "minute": 74,
+              "in": {
+                "number": 24,
+                "name": "Alessio Zerbin",
+                "short": "Zerbin"
+              },
+              "out": {
+                "number": 10,
+                "name": "Romano Schmid",
+                "short": "Schmid"
+              }
+            },
+            {
+              "minute": 76,
+              "in": {
+                "number": 34,
+                "name": "Anouar El Azzouzi",
+                "short": "El Azzouzi"
+              },
+              "out": {
+                "number": 14,
+                "name": "Giacomo Calo",
+                "short": "Calo"
+              }
+            }
+          ]
+        }
+      }
     },
     {
       "id": "serie-a-2026-27-558520",
@@ -44236,6 +45430,19 @@
         {
           "pos": 4,
           "posText": "4",
+          "name": "Milan",
+          "code": "MIL",
+          "points": 27,
+          "wins": 8,
+          "played": 12,
+          "draws": 3,
+          "losses": 1,
+          "goalDifference": 14,
+          "zone": "champions"
+        },
+        {
+          "pos": 5,
+          "posText": "5",
           "name": "Como",
           "code": "COM",
           "points": 26,
@@ -44244,37 +45451,36 @@
           "draws": 2,
           "losses": 2,
           "goalDifference": 10,
-          "zone": "champions"
-        },
-        {
-          "pos": 5,
-          "posText": "5",
-          "name": "Milan",
-          "code": "MIL",
-          "points": 24,
-          "wins": 7,
-          "played": 11,
-          "draws": 3,
-          "losses": 1,
-          "goalDifference": 10,
           "zone": "europa"
         },
         {
           "pos": 6,
           "posText": "6",
-          "name": "Frosinone",
-          "code": "FRO",
-          "points": 20,
+          "name": "Juventus",
+          "code": "JUV",
+          "points": 21,
           "wins": 6,
-          "played": 11,
-          "draws": 2,
+          "played": 12,
+          "draws": 3,
           "losses": 3,
-          "goalDifference": 9,
+          "goalDifference": 7,
           "zone": "conference"
         },
         {
           "pos": 7,
           "posText": "7",
+          "name": "Frosinone",
+          "code": "FRO",
+          "points": 20,
+          "wins": 6,
+          "played": 12,
+          "draws": 2,
+          "losses": 4,
+          "goalDifference": 5
+        },
+        {
+          "pos": 8,
+          "posText": "8",
           "name": "Napoli",
           "code": "NAP",
           "points": 18,
@@ -44285,32 +45491,32 @@
           "goalDifference": 5
         },
         {
-          "pos": 8,
-          "posText": "8",
-          "name": "Juventus",
-          "code": "JUV",
-          "points": 18,
-          "wins": 5,
-          "played": 11,
-          "draws": 3,
-          "losses": 3,
-          "goalDifference": 3
-        },
-        {
           "pos": 9,
           "posText": "9",
           "name": "Bologna",
           "code": "BOL",
-          "points": 17,
+          "points": 18,
           "wins": 5,
-          "played": 11,
-          "draws": 2,
+          "played": 12,
+          "draws": 3,
           "losses": 4,
           "goalDifference": 2
         },
         {
           "pos": 10,
           "posText": "10",
+          "name": "Genoa",
+          "code": "GEN",
+          "points": 16,
+          "wins": 5,
+          "played": 12,
+          "draws": 1,
+          "losses": 6,
+          "goalDifference": -3
+        },
+        {
+          "pos": 11,
+          "posText": "11",
           "name": "Cagliari",
           "code": "CAG",
           "points": 16,
@@ -44321,8 +45527,8 @@
           "goalDifference": -7
         },
         {
-          "pos": 11,
-          "posText": "11",
+          "pos": 12,
+          "posText": "12",
           "name": "Atalanta",
           "code": "ATA",
           "points": 14,
@@ -44333,8 +45539,8 @@
           "goalDifference": -3
         },
         {
-          "pos": 12,
-          "posText": "12",
+          "pos": 13,
+          "posText": "13",
           "name": "Torino",
           "code": "TOR",
           "points": 14,
@@ -44343,18 +45549,6 @@
           "draws": 2,
           "losses": 6,
           "goalDifference": -3
-        },
-        {
-          "pos": 13,
-          "posText": "13",
-          "name": "Genoa",
-          "code": "GEN",
-          "points": 13,
-          "wins": 4,
-          "played": 11,
-          "draws": 1,
-          "losses": 6,
-          "goalDifference": -5
         },
         {
           "pos": 14,
@@ -44399,10 +45593,10 @@
           "code": "SAS",
           "points": 8,
           "wins": 2,
-          "played": 11,
+          "played": 12,
           "draws": 2,
-          "losses": 7,
-          "goalDifference": -13
+          "losses": 8,
+          "goalDifference": -15
         },
         {
           "pos": 18,
@@ -44420,27 +45614,27 @@
         {
           "pos": 19,
           "posText": "19",
-          "name": "Venezia",
-          "code": "VEN",
+          "name": "Udinese",
+          "code": "UDI",
           "points": 6,
-          "wins": 2,
-          "played": 11,
-          "draws": 0,
-          "losses": 9,
+          "wins": 1,
+          "played": 12,
+          "draws": 3,
+          "losses": 8,
           "goalDifference": -13,
           "zone": "relegation"
         },
         {
           "pos": 20,
           "posText": "20",
-          "name": "Udinese",
-          "code": "UDI",
-          "points": 5,
-          "wins": 1,
-          "played": 11,
-          "draws": 2,
-          "losses": 8,
-          "goalDifference": -13,
+          "name": "Venezia",
+          "code": "VEN",
+          "points": 6,
+          "wins": 2,
+          "played": 12,
+          "draws": 0,
+          "losses": 10,
+          "goalDifference": -17,
           "zone": "relegation"
         }
       ]
@@ -44480,6 +45674,20 @@
         {
           "pos": 5,
           "posText": "5",
+          "name": "Alphadjo Cisse",
+          "team": "Milan",
+          "points": 6
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Milutin Osmajić",
+          "team": "Genoa",
+          "points": 6
+        },
+        {
+          "pos": 5,
+          "posText": "5",
           "name": "Marcus Thuram-Ulien",
           "team": "Inter",
           "points": 6
@@ -44496,13 +45704,6 @@
           "posText": "6",
           "name": "Anastasios Douvikas",
           "team": "Como",
-          "points": 5
-        },
-        {
-          "pos": 6,
-          "posText": "6",
-          "name": "Alphadjo Cisse",
-          "team": "Milan",
           "points": 5
         },
         {
@@ -44538,6 +45739,13 @@
           "posText": "6",
           "name": "Giacomo Calò",
           "team": "Frosinone",
+          "points": 5
+        },
+        {
+          "pos": 6,
+          "posText": "6",
+          "name": "Christian Pulisic",
+          "team": "Milan",
           "points": 5
         }
       ]
