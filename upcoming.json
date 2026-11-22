@@ -1,29 +1,6 @@
 {
-  "generatedAt": "2026-11-21T19:10:31.405203+00:00",
+  "generatedAt": "2026-11-22T01:15:18.7350075+00:00",
   "events": [
-    {
-      "id": "serie-a-2026-27-558527",
-      "competition": "serie-a",
-      "season": "2026-27",
-      "round": 12,
-      "title": "Napoli - Torino",
-      "session": "match",
-      "startsAt": "2026-11-21T19:45:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "113",
-        "name": "SSC Napoli",
-        "shortName": "Napoli",
-        "logoUrl": "https://crests.football-data.org/113.png"
-      },
-      "awayTeam": {
-        "id": "586",
-        "name": "Torino FC",
-        "shortName": "Torino",
-        "logoUrl": "https://crests.football-data.org/586.png"
-      },
-      "videos": []
-    },
     {
       "id": "f1-2026-21-race",
       "competition": "f1",
@@ -2035,6 +2012,29 @@
         "name": "FC Internazionale Milano",
         "shortName": "Inter",
         "logoUrl": "https://crests.football-data.org/108.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "serie-a-2026-27-558508",
+      "competition": "serie-a",
+      "season": "2026-27",
+      "round": 14,
+      "title": "Napoli - Lecce",
+      "session": "match",
+      "startsAt": "2026-12-05T19:45:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "113",
+        "name": "SSC Napoli",
+        "shortName": "Napoli",
+        "logoUrl": "https://crests.football-data.org/113.png"
+      },
+      "awayTeam": {
+        "id": "5890",
+        "name": "US Lecce",
+        "shortName": "Lecce",
+        "logoUrl": "https://crests.football-data.org/5890.png"
       },
       "videos": []
     }

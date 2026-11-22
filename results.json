@@ -1,6 +1,325 @@
 {
-  "generatedAt": "2026-11-21T19:10:31.405203+00:00",
+  "generatedAt": "2026-11-22T01:15:18.7350075+00:00",
   "events": [
+    {
+      "id": "serie-a-2026-27-558527",
+      "competition": "serie-a",
+      "season": "2026-27",
+      "round": 12,
+      "title": "Napoli - Torino",
+      "session": "match",
+      "startsAt": "2026-11-21T19:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "113",
+        "name": "SSC Napoli",
+        "shortName": "Napoli",
+        "logoUrl": "https://crests.football-data.org/113.png"
+      },
+      "awayTeam": {
+        "id": "586",
+        "name": "Torino FC",
+        "shortName": "Torino",
+        "logoUrl": "https://crests.football-data.org/586.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [
+        {
+          "videoId": "wu-KW-84vpE",
+          "title": "MCTOMINAY decisivo su assist di NOA LANG: Napoli-Torino 1-0 | Serie A | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/wu-KW-84vpE/hqdefault.jpg",
+          "publishedAt": "2026-11-22T00:40:10+00:00",
+          "source": "DAZN",
+          "duration": "4:35",
+          "embeddable": false
+        }
+      ],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 54,
+            "type": "yellow",
+            "side": "away",
+            "player": "Pietro Comuzzo",
+            "short": "Comuzzo"
+          },
+          {
+            "minute": 56,
+            "type": "yellow",
+            "side": "home",
+            "player": "Billy Gilmour",
+            "short": "Gilmour"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "home",
+            "player": "Scott McTominay",
+            "short": "McTominay"
+          },
+          {
+            "minute": 76,
+            "type": "yellow",
+            "side": "home",
+            "player": "Frank Anguissa",
+            "short": "Anguissa"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 32,
+              "name": "Vanja Milinkovic-Savic",
+              "short": "Milinkovic-Savic"
+            },
+            {
+              "number": 13,
+              "name": "Amir Rrahmani",
+              "short": "Rrahmani"
+            },
+            {
+              "number": 16,
+              "name": "Rafa Marín",
+              "short": "Marín"
+            },
+            {
+              "number": 31,
+              "name": "Sam Beukema",
+              "short": "Beukema"
+            },
+            {
+              "number": 8,
+              "name": "Scott McTominay",
+              "short": "McTominay"
+            },
+            {
+              "number": 99,
+              "name": "Frank Anguissa",
+              "short": "Anguissa"
+            },
+            {
+              "number": 6,
+              "name": "Billy Gilmour",
+              "short": "Gilmour"
+            },
+            {
+              "number": 37,
+              "name": "Leonardo Spinazzola",
+              "short": "Spinazzola"
+            },
+            {
+              "number": 21,
+              "name": "Matteo Politano",
+              "short": "Politano"
+            },
+            {
+              "number": 19,
+              "name": "Rasmus Højlund",
+              "short": "Højlund"
+            },
+            {
+              "number": 26,
+              "name": "Antonio Vergara",
+              "short": "Vergara"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 13,
+              "in": {
+                "number": 11,
+                "name": "Kevin De Bruyne",
+                "short": "De Bruyne"
+              },
+              "out": {
+                "number": 26,
+                "name": "Antonio Vergara",
+                "short": "Vergara"
+              }
+            },
+            {
+              "minute": 58,
+              "in": {
+                "number": 17,
+                "name": "Mathías Olivera",
+                "short": "Olivera"
+              },
+              "out": {
+                "number": 16,
+                "name": "Rafa Marín",
+                "short": "Marín"
+              }
+            },
+            {
+              "minute": 58,
+              "in": {
+                "number": 70,
+                "name": "Noa Lang",
+                "short": "Lang"
+              },
+              "out": {
+                "number": 37,
+                "name": "Leonardo Spinazzola",
+                "short": "Spinazzola"
+              }
+            },
+            {
+              "minute": 82,
+              "in": {
+                "number": 23,
+                "name": "Giovane"
+              },
+              "out": {
+                "number": 19,
+                "name": "Rasmus Højlund",
+                "short": "Højlund"
+              }
+            },
+            {
+              "minute": 82,
+              "in": {
+                "number": 2,
+                "name": "Costantino Favasuli",
+                "short": "Favasuli"
+              },
+              "out": {
+                "number": 21,
+                "name": "Matteo Politano",
+                "short": "Politano"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 20,
+              "name": "Lucas Perri",
+              "short": "Perri"
+            },
+            {
+              "number": 44,
+              "name": "Adrian Ismajli",
+              "short": "Ismajli"
+            },
+            {
+              "number": 15,
+              "name": "Pietro Comuzzo",
+              "short": "Comuzzo"
+            },
+            {
+              "number": 23,
+              "name": "Saúl Coco",
+              "short": "Coco"
+            },
+            {
+              "number": 66,
+              "name": "Gvidas Gineitis",
+              "short": "Gineitis"
+            },
+            {
+              "number": 21,
+              "name": "Daniel Bragança",
+              "short": "Bragança"
+            },
+            {
+              "number": 8,
+              "name": "Rolando Mandragora",
+              "short": "Mandragora"
+            },
+            {
+              "number": 77,
+              "name": "Alessio Cacciamani",
+              "short": "Cacciamani"
+            },
+            {
+              "number": 45,
+              "name": "Rafik Belghali",
+              "short": "Belghali"
+            },
+            {
+              "number": 18,
+              "name": "Giovanni Simeone",
+              "short": "Simeone"
+            },
+            {
+              "number": 19,
+              "name": "Ché Adams",
+              "short": "Adams"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 40,
+              "in": {
+                "number": 7,
+                "name": "Zakaria Aboukhlal",
+                "short": "Aboukhlal"
+              },
+              "out": {
+                "number": 45,
+                "name": "Rafik Belghali",
+                "short": "Belghali"
+              }
+            },
+            {
+              "minute": 45,
+              "in": {
+                "number": 10,
+                "name": "Nikola Vlasic",
+                "short": "Vlasic"
+              },
+              "out": {
+                "number": 21,
+                "name": "Daniel Bragança",
+                "short": "Bragança"
+              }
+            },
+            {
+              "minute": 68,
+              "in": {
+                "number": 22,
+                "name": "Cesare Casadei",
+                "short": "Casadei"
+              },
+              "out": {
+                "number": 66,
+                "name": "Gvidas Gineitis",
+                "short": "Gineitis"
+              }
+            },
+            {
+              "minute": 72,
+              "in": {
+                "number": 5,
+                "name": "Eray Cömert",
+                "short": "Cömert"
+              },
+              "out": {
+                "number": 44,
+                "name": "Adrian Ismajli",
+                "short": "Ismajli"
+              }
+            },
+            {
+              "minute": 72,
+              "in": {
+                "number": 91,
+                "name": "Duván Zapata",
+                "short": "Zapata"
+              },
+              "out": {
+                "number": 18,
+                "name": "Giovanni Simeone",
+                "short": "Simeone"
+              }
+            }
+          ]
+        }
+      }
+    },
     {
       "id": "serie-a-2026-27-558526",
       "competition": "serie-a",
@@ -24,7 +343,16 @@
       },
       "homeScore": 1,
       "awayScore": 5,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "VYJXPrHvggY",
+          "title": "MALEN gioca a POKER col campionato: Parma-Roma 1-5 | Serie A Enilive | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VYJXPrHvggY/hqdefault.jpg",
+          "publishedAt": "2026-11-21T21:57:07+00:00",
+          "source": "DAZN",
+          "duration": "4:42"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -588,12 +916,12 @@
       "awayScore": 0,
       "videos": [
         {
-          "videoId": "nkfMY1blwm4",
-          "title": "Como-Cagliari 2-0: gol e highlights | Serie A",
-          "thumbnailUrl": "https://i.ytimg.com/vi/nkfMY1blwm4/hqdefault.jpg",
-          "publishedAt": "2026-11-21T19:00:06+00:00",
-          "source": "Sky Sport",
-          "duration": "2:10"
+          "videoId": "51ovnwChqeM",
+          "title": "RAMON e DA CUNHA piegano il CAGLIARI: Como-Cagliari 2-0 | Serie A Enilive | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/51ovnwChqeM/hqdefault.jpg",
+          "publishedAt": "2026-11-21T20:12:05+00:00",
+          "source": "DAZN",
+          "duration": "4:05"
         }
       ],
       "details": {
@@ -3806,316 +4134,6 @@
                 "number": 16,
                 "name": "Davide Frattesi",
                 "short": "Frattesi"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "serie-a-2026-27-558531",
-      "competition": "serie-a",
-      "season": "2026-27",
-      "round": 11,
-      "title": "Roma - Sassuolo",
-      "session": "match",
-      "startsAt": "2026-11-07T19:45:00+00:00",
-      "status": "finished",
-      "homeTeam": {
-        "id": "100",
-        "name": "AS Roma",
-        "shortName": "Roma",
-        "logoUrl": "https://crests.football-data.org/100.png"
-      },
-      "awayTeam": {
-        "id": "471",
-        "name": "US Sassuolo Calcio",
-        "shortName": "Sassuolo",
-        "logoUrl": "https://crests.football-data.org/471.png"
-      },
-      "homeScore": 3,
-      "awayScore": 0,
-      "videos": [
-        {
-          "videoId": "OV3o31IKurk",
-          "title": "Gasp si gode le conferme di HERMOSO e MORA, che tris: Roma-Sassuolo 3-0 | Serie A Enilive | DAZN",
-          "thumbnailUrl": "https://i.ytimg.com/vi/OV3o31IKurk/hqdefault.jpg",
-          "publishedAt": "2026-11-08T00:42:08+00:00",
-          "source": "DAZN",
-          "duration": "4:17"
-        }
-      ],
-      "details": {
-        "version": 2,
-        "incidents": [
-          {
-            "minute": 27,
-            "type": "goal",
-            "side": "home",
-            "player": "Mario Hermoso",
-            "short": "Hermoso"
-          },
-          {
-            "minute": 30,
-            "type": "ownGoal",
-            "side": "home",
-            "player": "Sebastian Walukiewicz",
-            "short": "Walukiewicz"
-          },
-          {
-            "minute": 58,
-            "type": "goal",
-            "side": "home",
-            "player": "Rodrigo Mora",
-            "short": "Mora"
-          }
-        ],
-        "home": {
-          "starters": [
-            {
-              "number": 32,
-              "name": "Devis Vásquez",
-              "short": "Vásquez"
-            },
-            {
-              "number": 5,
-              "name": "Evan Ndicka",
-              "short": "Ndicka"
-            },
-            {
-              "number": 22,
-              "name": "Mario Hermoso",
-              "short": "Hermoso"
-            },
-            {
-              "number": 26,
-              "name": "Leonardo Balerdi",
-              "short": "Balerdi"
-            },
-            {
-              "number": 17,
-              "name": "Manu Koné",
-              "short": "Koné"
-            },
-            {
-              "number": 4,
-              "name": "Bryan Cristante",
-              "short": "Cristante"
-            },
-            {
-              "number": 43,
-              "name": "Wesley"
-            },
-            {
-              "number": 20,
-              "name": "Nahuel Molina",
-              "short": "Molina"
-            },
-            {
-              "number": 14,
-              "name": "Donyell Malen",
-              "short": "Malen"
-            },
-            {
-              "number": 86,
-              "name": "Rodrigo Mora",
-              "short": "Mora"
-            },
-            {
-              "number": 18,
-              "name": "Matìas Soulè",
-              "short": "Soulè"
-            }
-          ],
-          "substitutions": [
-            {
-              "minute": 66,
-              "in": {
-                "number": 61,
-                "name": "Niccolò Pisilli",
-                "short": "Pisilli"
-              },
-              "out": {
-                "number": 86,
-                "name": "Rodrigo Mora",
-                "short": "Mora"
-              }
-            },
-            {
-              "minute": 66,
-              "in": {
-                "number": 15,
-                "name": "Marten de Roon",
-                "short": "de Roon"
-              },
-              "out": {
-                "number": 17,
-                "name": "Manu Koné",
-                "short": "Koné"
-              }
-            },
-            {
-              "minute": 77,
-              "in": {
-                "number": 9,
-                "name": "Santiago Castro",
-                "short": "Castro"
-              },
-              "out": {
-                "number": 14,
-                "name": "Donyell Malen",
-                "short": "Malen"
-              }
-            },
-            {
-              "minute": 77,
-              "in": {
-                "number": 3,
-                "name": "Konstantinos Koulierakis",
-                "short": "Koulierakis"
-              },
-              "out": {
-                "number": 22,
-                "name": "Mario Hermoso",
-                "short": "Hermoso"
-              }
-            },
-            {
-              "minute": 85,
-              "in": {
-                "number": 87,
-                "name": "Daniele Ghilardi",
-                "short": "Ghilardi"
-              },
-              "out": {
-                "number": 26,
-                "name": "Leonardo Balerdi",
-                "short": "Balerdi"
-              }
-            }
-          ]
-        },
-        "away": {
-          "starters": [
-            {
-              "number": 49,
-              "name": "Arijanet Muric",
-              "short": "Muric"
-            },
-            {
-              "number": 21,
-              "name": "Jay Idzes",
-              "short": "Idzes"
-            },
-            {
-              "number": 15,
-              "name": "Duje Caleta-Car",
-              "short": "Caleta-Car"
-            },
-            {
-              "number": 6,
-              "name": "Sebastian Walukiewicz",
-              "short": "Walukiewicz"
-            },
-            {
-              "number": 55,
-              "name": "Sulemana"
-            },
-            {
-              "number": 42,
-              "name": "Kristian Thorstvedt",
-              "short": "Thorstvedt"
-            },
-            {
-              "number": 18,
-              "name": "Nemanja Matic",
-              "short": "Matic"
-            },
-            {
-              "number": 3,
-              "name": "Josh Doig",
-              "short": "Doig"
-            },
-            {
-              "number": 46,
-              "name": "Simone Cinquegrano",
-              "short": "Cinquegrano"
-            },
-            {
-              "number": 45,
-              "name": "Armand Laurienté",
-              "short": "Laurienté"
-            },
-            {
-              "number": 94,
-              "name": "Sebastiano Esposito",
-              "short": "Esposito"
-            }
-          ],
-          "substitutions": [
-            {
-              "minute": 45,
-              "in": {
-                "number": 9,
-                "name": "Kieron Bowie",
-                "short": "Bowie"
-              },
-              "out": {
-                "number": 18,
-                "name": "Nemanja Matic",
-                "short": "Matic"
-              }
-            },
-            {
-              "minute": 45,
-              "in": {
-                "number": 20,
-                "name": "Ignace van der Brempt",
-                "short": "van der Brempt"
-              },
-              "out": {
-                "number": 46,
-                "name": "Simone Cinquegrano",
-                "short": "Cinquegrano"
-              }
-            },
-            {
-              "minute": 69,
-              "in": {
-                "number": 35,
-                "name": "Luca Lipani",
-                "short": "Lipani"
-              },
-              "out": {
-                "number": 42,
-                "name": "Kristian Thorstvedt",
-                "short": "Thorstvedt"
-              }
-            },
-            {
-              "minute": 69,
-              "in": {
-                "number": 17,
-                "name": "Vasilije Adzic",
-                "short": "Adzic"
-              },
-              "out": {
-                "number": 94,
-                "name": "Sebastiano Esposito",
-                "short": "Esposito"
-              }
-            },
-            {
-              "minute": 90,
-              "in": {
-                "number": 5,
-                "name": "Fali Candé",
-                "short": "Candé"
-              },
-              "out": {
-                "number": 15,
-                "name": "Duje Caleta-Car",
-                "short": "Caleta-Car"
               }
             }
           ]
