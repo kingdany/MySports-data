@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2026-27",
-  "generatedAt": "2026-11-23T12:25:52.2092285+00:00",
+  "generatedAt": "2026-11-23T13:49:31.1119706+00:00",
   "events": [
     {
       "id": "coppa-italia-2026-27-401881688",
@@ -3570,7 +3570,16 @@
       "awayScore": 2,
       "homePenalties": 3,
       "awayPenalties": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "RRcakoLK08g",
+          "title": "Baroni Passa ai Rigori | VERONA-ENTELLA 2-2 (3-2) | HIGHLIGHTS | COPPA ITALIA FRECCIAROSSA 2026/27",
+          "thumbnailUrl": "https://i.ytimg.com/vi/RRcakoLK08g/hqdefault.jpg",
+          "publishedAt": "2026-08-16T22:10:07+00:00",
+          "source": "Serie A",
+          "duration": "2:35"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
