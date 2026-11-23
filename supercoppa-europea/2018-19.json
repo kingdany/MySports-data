@@ -1,0 +1,394 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2018-19",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2018-19-511060",
+      "competition": "supercoppa-europea",
+      "season": "2018-19",
+      "stage": "final",
+      "title": "Real Madrid - Atletico Madrid",
+      "session": "match",
+      "startsAt": "2018-08-15T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-86",
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      },
+      "awayTeam": {
+        "id": "espn-1068",
+        "name": "Atlético Madrid",
+        "shortName": "Atletico Madrid",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+      },
+      "homeScore": 2,
+      "awayScore": 4,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 1,
+            "type": "goal",
+            "side": "away",
+            "player": "Diego Costa",
+            "short": "Costa"
+          },
+          {
+            "minute": 27,
+            "type": "goal",
+            "side": "home",
+            "player": "Karim Benzema",
+            "short": "Benzema"
+          },
+          {
+            "minute": 35,
+            "type": "yellow",
+            "side": "home",
+            "player": "Marco Asensio",
+            "short": "Asensio"
+          },
+          {
+            "minute": 54,
+            "type": "yellow",
+            "side": "home",
+            "player": "Marcelo"
+          },
+          {
+            "minute": 60,
+            "type": "yellow",
+            "side": "away",
+            "player": "Ángel Correa",
+            "short": "Correa"
+          },
+          {
+            "minute": 62,
+            "type": "yellow",
+            "side": "away",
+            "player": "Diego Costa",
+            "short": "Costa"
+          },
+          {
+            "minute": 63,
+            "type": "penalty",
+            "side": "home",
+            "player": "Sergio Ramos",
+            "short": "Ramos"
+          },
+          {
+            "minute": 79,
+            "type": "goal",
+            "side": "away",
+            "player": "Diego Costa",
+            "short": "Costa"
+          },
+          {
+            "minute": 90,
+            "addedTime": 1,
+            "type": "yellow",
+            "side": "home",
+            "player": "Dani Ceballos",
+            "short": "Ceballos"
+          },
+          {
+            "minute": 98,
+            "type": "goal",
+            "side": "away",
+            "player": "Saúl Ñíguez",
+            "short": "Ñíguez"
+          },
+          {
+            "minute": 101,
+            "type": "yellow",
+            "side": "home",
+            "player": "Luka Modric",
+            "short": "Modric"
+          },
+          {
+            "minute": 104,
+            "type": "goal",
+            "side": "away",
+            "player": "Koke"
+          },
+          {
+            "minute": 105,
+            "addedTime": 3,
+            "type": "yellow",
+            "side": "away",
+            "player": "Vitolo"
+          },
+          {
+            "minute": 112,
+            "type": "yellow",
+            "side": "home",
+            "player": "Sergio Ramos",
+            "short": "Ramos"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Keylor Navas",
+              "short": "Navas"
+            },
+            {
+              "number": 4,
+              "name": "Sergio Ramos",
+              "short": "Ramos"
+            },
+            {
+              "number": 5,
+              "name": "Raphaël Varane",
+              "short": "Varane"
+            },
+            {
+              "number": 12,
+              "name": "Marcelo"
+            },
+            {
+              "number": 2,
+              "name": "Dani Carvajal",
+              "short": "Carvajal"
+            },
+            {
+              "number": 22,
+              "name": "Isco"
+            },
+            {
+              "number": 8,
+              "name": "Toni Kroos",
+              "short": "Kroos"
+            },
+            {
+              "number": 14,
+              "name": "Casemiro"
+            },
+            {
+              "number": 9,
+              "name": "Karim Benzema",
+              "short": "Benzema"
+            },
+            {
+              "number": 20,
+              "name": "Marco Asensio",
+              "short": "Asensio"
+            },
+            {
+              "number": 11,
+              "name": "Gareth Bale",
+              "short": "Bale"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 57,
+              "in": {
+                "number": 10,
+                "name": "Luka Modric",
+                "short": "Modric"
+              },
+              "out": {
+                "number": 20,
+                "name": "Marco Asensio",
+                "short": "Asensio"
+              }
+            },
+            {
+              "minute": 76,
+              "in": {
+                "number": 24,
+                "name": "Dani Ceballos",
+                "short": "Ceballos"
+              },
+              "out": {
+                "number": 14,
+                "name": "Casemiro"
+              }
+            },
+            {
+              "minute": 83,
+              "in": {
+                "number": 17,
+                "name": "Lucas Vázquez",
+                "short": "Vázquez"
+              },
+              "out": {
+                "number": 22,
+                "name": "Isco"
+              }
+            },
+            {
+              "minute": 102,
+              "in": {
+                "number": 21,
+                "name": "Borja Mayoral",
+                "short": "Mayoral"
+              },
+              "out": {
+                "number": 8,
+                "name": "Toni Kroos",
+                "short": "Kroos"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "Jan Oblak",
+              "short": "Oblak"
+            },
+            {
+              "number": 2,
+              "name": "Diego Godín",
+              "short": "Godín"
+            },
+            {
+              "number": 15,
+              "name": "Stefan Savic",
+              "short": "Savic"
+            },
+            {
+              "number": 21,
+              "name": "Lucas Hernández",
+              "short": "Hernández"
+            },
+            {
+              "number": 20,
+              "name": "Juanfran"
+            },
+            {
+              "number": 14,
+              "name": "Rodri"
+            },
+            {
+              "number": 8,
+              "name": "Saúl Ñíguez",
+              "short": "Ñíguez"
+            },
+            {
+              "number": 6,
+              "name": "Koke"
+            },
+            {
+              "number": 11,
+              "name": "Thomas Lemar",
+              "short": "Lemar"
+            },
+            {
+              "number": 7,
+              "name": "Antoine Griezmann",
+              "short": "Griezmann"
+            },
+            {
+              "number": 19,
+              "name": "Diego Costa",
+              "short": "Costa"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 57,
+              "in": {
+                "number": 10,
+                "name": "Ángel Correa",
+                "short": "Correa"
+              },
+              "out": {
+                "number": 7,
+                "name": "Antoine Griezmann",
+                "short": "Griezmann"
+              }
+            },
+            {
+              "minute": 71,
+              "in": {
+                "number": 23,
+                "name": "Vitolo"
+              },
+              "out": {
+                "number": 14,
+                "name": "Rodri"
+              }
+            },
+            {
+              "minute": 90,
+              "addedTime": 1,
+              "in": {
+                "number": 5,
+                "name": "Thomas Partey",
+                "short": "Partey"
+              },
+              "out": {
+                "number": 11,
+                "name": "Thomas Lemar",
+                "short": "Lemar"
+              }
+            },
+            {
+              "minute": 109,
+              "in": {
+                "number": 24,
+                "name": "José María Giménez",
+                "short": "Giménez"
+              },
+              "out": {
+                "number": 19,
+                "name": "Diego Costa",
+                "short": "Costa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Diego Costa",
+          "team": "Atletico Madrid",
+          "points": 2
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Saúl Ñíguez",
+          "team": "Atletico Madrid",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Koke",
+          "team": "Atletico Madrid",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Karim Benzema",
+          "team": "Real Madrid",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Sergio Ramos",
+          "team": "Real Madrid",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

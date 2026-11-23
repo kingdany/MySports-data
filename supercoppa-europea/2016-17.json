@@ -1,0 +1,351 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2016-17",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2016-17-450351",
+      "competition": "supercoppa-europea",
+      "season": "2016-17",
+      "stage": "final",
+      "title": "Real Madrid - Siviglia",
+      "session": "match",
+      "startsAt": "2016-08-09T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-86",
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      },
+      "awayTeam": {
+        "id": "espn-243",
+        "name": "Sevilla",
+        "shortName": "Siviglia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "home",
+            "player": "Marco Asensio",
+            "short": "Asensio"
+          },
+          {
+            "minute": 40,
+            "type": "yellow",
+            "side": "away",
+            "player": "Vitolo"
+          },
+          {
+            "minute": 41,
+            "type": "goal",
+            "side": "away",
+            "player": "Franco Vázquez",
+            "short": "Vázquez"
+          },
+          {
+            "minute": 72,
+            "type": "penalty",
+            "side": "away",
+            "player": "Yevhen Konoplyanka",
+            "short": "Konoplyanka"
+          },
+          {
+            "minute": 84,
+            "type": "yellow",
+            "side": "home",
+            "player": "Dani Carvajal",
+            "short": "Carvajal"
+          },
+          {
+            "minute": 86,
+            "type": "yellow",
+            "side": "home",
+            "player": "Marco Asensio",
+            "short": "Asensio"
+          },
+          {
+            "minute": 90,
+            "type": "yellow",
+            "side": "away",
+            "player": "Timothée Kolodziejczak",
+            "short": "Kolodziejczak"
+          },
+          {
+            "minute": 90,
+            "addedTime": 3,
+            "type": "goal",
+            "side": "home",
+            "player": "Sergio Ramos",
+            "short": "Ramos"
+          },
+          {
+            "minute": 93,
+            "type": "yellow",
+            "side": "home",
+            "player": "James Rodríguez",
+            "short": "Rodríguez"
+          },
+          {
+            "minute": 93,
+            "type": "secondYellow",
+            "side": "away",
+            "player": "Timothée Kolodziejczak",
+            "short": "Kolodziejczak"
+          },
+          {
+            "minute": 119,
+            "type": "goal",
+            "side": "home",
+            "player": "Dani Carvajal",
+            "short": "Carvajal"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "Kiko Casilla",
+              "short": "Casilla"
+            },
+            {
+              "number": 4,
+              "name": "Sergio Ramos",
+              "short": "Ramos"
+            },
+            {
+              "number": 5,
+              "name": "Raphaël Varane",
+              "short": "Varane"
+            },
+            {
+              "number": 12,
+              "name": "Marcelo"
+            },
+            {
+              "number": 2,
+              "name": "Dani Carvajal",
+              "short": "Carvajal"
+            },
+            {
+              "number": 14,
+              "name": "Casemiro"
+            },
+            {
+              "number": 16,
+              "name": "Mateo Kovacic",
+              "short": "Kovacic"
+            },
+            {
+              "number": 22,
+              "name": "Isco"
+            },
+            {
+              "number": 21,
+              "name": "Álvaro Morata",
+              "short": "Morata"
+            },
+            {
+              "number": 28,
+              "name": "Marco Asensio",
+              "short": "Asensio"
+            },
+            {
+              "number": 17,
+              "name": "Lucas Vázquez",
+              "short": "Vázquez"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 62,
+              "in": {
+                "number": 9,
+                "name": "Karim Benzema",
+                "short": "Benzema"
+              },
+              "out": {
+                "number": 21,
+                "name": "Álvaro Morata",
+                "short": "Morata"
+              }
+            },
+            {
+              "minute": 66,
+              "in": {
+                "number": 19,
+                "name": "Luka Modric",
+                "short": "Modric"
+              },
+              "out": {
+                "number": 22,
+                "name": "Isco"
+              }
+            },
+            {
+              "minute": 72,
+              "in": {
+                "number": 10,
+                "name": "James Rodríguez",
+                "short": "Rodríguez"
+              },
+              "out": {
+                "number": 16,
+                "name": "Mateo Kovacic",
+                "short": "Kovacic"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Sergio Rico",
+              "short": "Rico"
+            },
+            {
+              "number": 6,
+              "name": "Daniel Carriço",
+              "short": "Carriço"
+            },
+            {
+              "number": 5,
+              "name": "Timothée Kolodziejczak",
+              "short": "Kolodziejczak"
+            },
+            {
+              "number": 21,
+              "name": "Nico Pareja",
+              "short": "Pareja"
+            },
+            {
+              "number": 8,
+              "name": "Vicente Iborra",
+              "short": "Iborra"
+            },
+            {
+              "number": 15,
+              "name": "Steven N'Zonzi",
+              "short": "N'Zonzi"
+            },
+            {
+              "number": 22,
+              "name": "Franco Vázquez",
+              "short": "Vázquez"
+            },
+            {
+              "number": 25,
+              "name": "Mariano "
+            },
+            {
+              "number": 9,
+              "name": "Luciano Vietto",
+              "short": "Vietto"
+            },
+            {
+              "number": 20,
+              "name": "Vitolo"
+            },
+            {
+              "number": 14,
+              "name": "Hiroshi Kiyotake",
+              "short": "Kiyotake"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 51,
+              "in": {
+                "number": 23,
+                "name": "Adil Rami",
+                "short": "Rami"
+              },
+              "out": {
+                "number": 6,
+                "name": "Daniel Carriço",
+                "short": "Carriço"
+              }
+            },
+            {
+              "minute": 67,
+              "in": {
+                "number": 10,
+                "name": "Yevhen Konoplyanka",
+                "short": "Konoplyanka"
+              },
+              "out": {
+                "number": 9,
+                "name": "Luciano Vietto",
+                "short": "Vietto"
+              }
+            },
+            {
+              "minute": 74,
+              "in": {
+                "number": 4,
+                "name": "Matías Kranevitter",
+                "short": "Kranevitter"
+              },
+              "out": {
+                "number": 8,
+                "name": "Vicente Iborra",
+                "short": "Iborra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Marco Asensio",
+          "team": "Real Madrid",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Dani Carvajal",
+          "team": "Real Madrid",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Franco Vázquez",
+          "team": "Siviglia",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Sergio Ramos",
+          "team": "Real Madrid",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Yevhen Konoplyanka",
+          "team": "Siviglia",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2006-07",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2006-07-205181",
+      "competition": "supercoppa-europea",
+      "season": "2006-07",
+      "stage": "final",
+      "title": "Barcellona - Siviglia",
+      "session": "match",
+      "startsAt": "2006-08-25T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-83",
+        "name": "Barcelona",
+        "shortName": "Barcellona",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+      },
+      "awayTeam": {
+        "id": "espn-243",
+        "name": "Sevilla",
+        "shortName": "Siviglia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+      },
+      "homeScore": 0,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 6,
+            "type": "goal",
+            "side": "away",
+            "player": "Renato "
+          },
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "away",
+            "player": "Frédéric Kanouté",
+            "short": "Kanouté"
+          },
+          {
+            "minute": 89,
+            "type": "penalty",
+            "side": "away",
+            "player": "Enzo Maresca",
+            "short": "Maresca"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Víctor Valdés",
+              "short": "Valdés"
+            },
+            {
+              "number": 2,
+              "name": "Juliano Belletti",
+              "short": "Belletti"
+            },
+            {
+              "number": 4,
+              "name": "Rafael Márquez",
+              "short": "Márquez"
+            },
+            {
+              "number": 5,
+              "name": "Carles Puyol",
+              "short": "Puyol"
+            },
+            {
+              "number": 16,
+              "name": "Sylvinho Mendes Campos",
+              "short": "Mendes Campos"
+            },
+            {
+              "number": 3,
+              "name": "Thiago Motta",
+              "short": "Motta"
+            },
+            {
+              "number": 6,
+              "name": "Xavi"
+            },
+            {
+              "number": 10,
+              "name": "Ronaldinho"
+            },
+            {
+              "number": 19,
+              "name": "Lionel Messi",
+              "short": "Messi"
+            },
+            {
+              "number": 20,
+              "name": "Deco"
+            },
+            {
+              "number": 9,
+              "name": "Samuel Eto'o",
+              "short": "Eto'o"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 56,
+              "in": {
+                "number": 24,
+                "name": "Andrés Iniesta",
+                "short": "Iniesta"
+              },
+              "out": {
+                "number": 6,
+                "name": "Xavi"
+              }
+            },
+            {
+              "minute": 56,
+              "in": {
+                "number": 7,
+                "name": "Eidur Gudjohnsen",
+                "short": "Gudjohnsen"
+              },
+              "out": {
+                "number": 3,
+                "name": "Thiago Motta",
+                "short": "Motta"
+              }
+            },
+            {
+              "minute": 71,
+              "in": {
+                "number": 8,
+                "name": "Ludovic Giuly",
+                "short": "Giuly"
+              },
+              "out": {
+                "number": 16,
+                "name": "Sylvinho Mendes Campos",
+                "short": "Mendes Campos"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Andrés Palop",
+              "short": "Palop"
+            },
+            {
+              "number": 2,
+              "name": "Javi Navarro",
+              "short": "Vicente Navarro"
+            },
+            {
+              "number": 3,
+              "name": "David Castedo",
+              "short": "Castedo Escudero"
+            },
+            {
+              "number": 4,
+              "name": "Dani Alves",
+              "short": "Alves"
+            },
+            {
+              "number": 14,
+              "name": "Julien Escudé",
+              "short": "Escudé"
+            },
+            {
+              "number": 6,
+              "name": "Adriano"
+            },
+            {
+              "number": 8,
+              "name": "Christian Poulsen",
+              "short": "Poulsen"
+            },
+            {
+              "number": 11,
+              "name": "Renato "
+            },
+            {
+              "number": 10,
+              "name": "Luis Fabiano",
+              "short": "Fabiano"
+            },
+            {
+              "number": 12,
+              "name": "Frédéric Kanouté",
+              "short": "Kanouté"
+            },
+            {
+              "number": 15,
+              "name": "Jesús Navas",
+              "short": "Navas"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 46,
+              "in": {
+                "number": 18,
+                "name": "José Martí",
+                "short": "Martí"
+              },
+              "out": {
+                "number": 10,
+                "name": "Luis Fabiano",
+                "short": "Fabiano"
+              }
+            },
+            {
+              "minute": 75,
+              "in": {
+                "number": 25,
+                "name": "Enzo Maresca",
+                "short": "Maresca"
+              },
+              "out": {
+                "number": 15,
+                "name": "Jesús Navas",
+                "short": "Navas"
+              }
+            },
+            {
+              "minute": 80,
+              "in": {
+                "number": 27,
+                "name": "Antonio Puerta",
+                "short": "Puerta"
+              },
+              "out": {
+                "number": 6,
+                "name": "Adriano"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Renato ",
+          "team": "Siviglia",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Enzo Maresca",
+          "team": "Siviglia",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Frédéric Kanouté",
+          "team": "Siviglia",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

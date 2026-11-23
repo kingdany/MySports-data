@@ -1,0 +1,293 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2005-06",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2005-06-188738",
+      "competition": "supercoppa-europea",
+      "season": "2005-06",
+      "stage": "final",
+      "title": "Liverpool - CSKA Mosca",
+      "session": "match",
+      "startsAt": "2005-08-26T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-364",
+        "name": "Liverpool",
+        "shortName": "Liverpool",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+      },
+      "awayTeam": {
+        "id": "espn-1963",
+        "name": "CSKA Moscow",
+        "shortName": "CSKA Mosca",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/1963.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 28,
+            "type": "goal",
+            "side": "away",
+            "player": "da Silva Daniel Carvalho",
+            "short": "Daniel Carvalho"
+          },
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "home",
+            "player": "Djibril Cissé",
+            "short": "Cissé"
+          },
+          {
+            "minute": 102,
+            "type": "goal",
+            "side": "home",
+            "player": "Djibril Cissé",
+            "short": "Cissé"
+          },
+          {
+            "minute": 109,
+            "type": "goal",
+            "side": "home",
+            "player": "Luis García",
+            "short": "García"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 25,
+              "name": "Pepe Reina",
+              "short": "Reina"
+            },
+            {
+              "number": 3,
+              "name": "Steve Finnan",
+              "short": "Finnan"
+            },
+            {
+              "number": 4,
+              "name": "Sami Hyypiä",
+              "short": "Hyypiä"
+            },
+            {
+              "number": 17,
+              "name": "Josemi"
+            },
+            {
+              "number": 23,
+              "name": "Jamie Carragher",
+              "short": "Carragher"
+            },
+            {
+              "number": 6,
+              "name": "John Arne Riise",
+              "short": "Riise"
+            },
+            {
+              "number": 10,
+              "name": "Luis García",
+              "short": "García"
+            },
+            {
+              "number": 14,
+              "name": "Xabi Alonso",
+              "short": "Alonso"
+            },
+            {
+              "number": 16,
+              "name": "Dietmar Hamann",
+              "short": "Hamann"
+            },
+            {
+              "number": 30,
+              "name": "Boudewijn Zenden",
+              "short": "Zenden"
+            },
+            {
+              "number": 19,
+              "name": "Fernando Sanchez Morientes",
+              "short": "Morientes"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 55,
+              "in": {
+                "number": 24,
+                "name": "Florent Sinama-Pongolle",
+                "short": "Sinama-Pongolle"
+              },
+              "out": {
+                "number": 3,
+                "name": "Steve Finnan",
+                "short": "Finnan"
+              }
+            },
+            {
+              "minute": 71,
+              "in": {
+                "number": 22,
+                "name": "Mohamed Sissoko",
+                "short": "Sissoko"
+              },
+              "out": {
+                "number": 14,
+                "name": "Xabi Alonso",
+                "short": "Alonso"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 9,
+                "name": "Djibril Cissé",
+                "short": "Cissé"
+              },
+              "out": {
+                "number": 6,
+                "name": "John Arne Riise",
+                "short": "Riise"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 35,
+              "name": "Igor Akinfeev",
+              "short": "Akinfeev"
+            },
+            {
+              "number": 4,
+              "name": "Sergey Ignashevich",
+              "short": "Ignashevich"
+            },
+            {
+              "number": 6,
+              "name": "Aleksei Berezutski",
+              "short": "Berezutski"
+            },
+            {
+              "number": 24,
+              "name": "Vasili Berezutski",
+              "short": "Berezutski"
+            },
+            {
+              "number": 15,
+              "name": "Chidi Odiah",
+              "short": "Odiah"
+            },
+            {
+              "number": 7,
+              "name": "da Silva Daniel Carvalho",
+              "short": "Daniel Carvalho"
+            },
+            {
+              "number": 17,
+              "name": "Milos Krasic",
+              "short": "Krasic"
+            },
+            {
+              "number": 18,
+              "name": "Yuri Zhirkov",
+              "short": "Zhirkov"
+            },
+            {
+              "number": 22,
+              "name": "Eugeni Aldonin",
+              "short": "Aldonin"
+            },
+            {
+              "number": 25,
+              "name": "Elvir Rahimic",
+              "short": "Rahimic"
+            },
+            {
+              "number": 11,
+              "name": "Vágner Love",
+              "short": "Love"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 66,
+              "in": {
+                "number": 2,
+                "name": "Deividas Semberas",
+                "short": "Semberas"
+              },
+              "out": {
+                "number": 18,
+                "name": "Yuri Zhirkov",
+                "short": "Zhirkov"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 20,
+                "name": "Alexandro Dudu",
+                "short": "Dudu"
+              },
+              "out": {
+                "number": 17,
+                "name": "Milos Krasic",
+                "short": "Krasic"
+              }
+            },
+            {
+              "minute": 90,
+              "in": {
+                "number": 8,
+                "name": "Rolan Gusev",
+                "short": "Gusev"
+              },
+              "out": {
+                "number": 15,
+                "name": "Chidi Odiah",
+                "short": "Odiah"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Djibril Cissé",
+          "team": "Liverpool",
+          "points": 2
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "da Silva Daniel Carvalho",
+          "team": "CSKA Mosca",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Luis García",
+          "team": "Liverpool",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

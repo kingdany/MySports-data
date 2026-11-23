@@ -1,0 +1,266 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2010-11",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2010-11-307291",
+      "competition": "supercoppa-europea",
+      "season": "2010-11",
+      "stage": "final",
+      "title": "Inter - Atletico Madrid",
+      "session": "match",
+      "startsAt": "2010-08-27T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-110",
+        "name": "Internazionale",
+        "shortName": "Inter",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+      },
+      "awayTeam": {
+        "id": "espn-1068",
+        "name": "Atlético Madrid",
+        "shortName": "Atletico Madrid",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+      },
+      "homeScore": 0,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 62,
+            "type": "goal",
+            "side": "away",
+            "player": "José Antonio Reyes",
+            "short": "Reyes"
+          },
+          {
+            "minute": 83,
+            "type": "goal",
+            "side": "away",
+            "player": "Sergio Agüero",
+            "short": "Agüero"
+          },
+          {
+            "minute": 89,
+            "type": "missedPenalty",
+            "side": "home",
+            "player": "Diego Milito",
+            "short": "Milito"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Julio César De León",
+              "short": "De León"
+            },
+            {
+              "number": 13,
+              "name": "Maicon"
+            },
+            {
+              "number": 25,
+              "name": "Walter Samuel",
+              "short": "Samuel"
+            },
+            {
+              "number": 6,
+              "name": "Lúcio"
+            },
+            {
+              "number": 26,
+              "name": "Cristian Chivu",
+              "short": "Chivu"
+            },
+            {
+              "number": 4,
+              "name": "Javier Zanetti",
+              "short": "Zanetti"
+            },
+            {
+              "number": 5,
+              "name": "Dejan Stankovic",
+              "short": "Stankovic"
+            },
+            {
+              "number": 19,
+              "name": "Esteban Cambiasso",
+              "short": "Cambiasso"
+            },
+            {
+              "number": 10,
+              "name": "Wesley Sneijder",
+              "short": "Sneijder"
+            },
+            {
+              "number": 9,
+              "name": "Samuel Eto'o",
+              "short": "Eto'o"
+            },
+            {
+              "number": 22,
+              "name": "Diego Milito",
+              "short": "Milito"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 68,
+              "in": {
+                "number": 27,
+                "name": "Goran Pandev",
+                "short": "Pandev"
+              },
+              "out": {
+                "number": 5,
+                "name": "Dejan Stankovic",
+                "short": "Stankovic"
+              }
+            },
+            {
+              "minute": 78,
+              "in": {
+                "number": 29,
+                "name": "Philippe Coutinho",
+                "short": "Coutinho"
+              },
+              "out": {
+                "number": 10,
+                "name": "Wesley Sneijder",
+                "short": "Sneijder"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "David de Gea",
+              "short": "de Gea"
+            },
+            {
+              "number": 17,
+              "name": "Tomas Ujfalusi",
+              "short": "Ujfalusi"
+            },
+            {
+              "number": 21,
+              "name": "Luis Perea",
+              "short": "Perea"
+            },
+            {
+              "number": 15,
+              "name": "Diego Godín",
+              "short": "Godín"
+            },
+            {
+              "number": 18,
+              "name": "Álvaro Domínguez",
+              "short": "Domínguez"
+            },
+            {
+              "number": 12,
+              "name": "Paulo Assunção",
+              "short": "Assunção"
+            },
+            {
+              "number": 19,
+              "name": "José Antonio Reyes",
+              "short": "Reyes"
+            },
+            {
+              "number": 8,
+              "name": "Raúl García",
+              "short": "García"
+            },
+            {
+              "number": 20,
+              "name": "Simão",
+              "short": "Simao"
+            },
+            {
+              "number": 10,
+              "name": "Sergio Agüero",
+              "short": "Agüero"
+            },
+            {
+              "number": 7,
+              "name": "Diego Forlán",
+              "short": "Forlán"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 69,
+              "in": {
+                "number": 11,
+                "name": "Fran Mérida",
+                "short": "Mérida"
+              },
+              "out": {
+                "number": 19,
+                "name": "José Antonio Reyes",
+                "short": "Reyes"
+              }
+            },
+            {
+              "minute": 82,
+              "in": {
+                "number": 9,
+                "name": "José Manuel Jurado",
+                "short": "Jurado"
+              },
+              "out": {
+                "number": 7,
+                "name": "Diego Forlán",
+                "short": "Forlán"
+              }
+            },
+            {
+              "minute": 90,
+              "addedTime": 2,
+              "in": {
+                "number": 6,
+                "name": "Ignacio Camacho",
+                "short": "Camacho"
+              },
+              "out": {
+                "number": 20,
+                "name": "Simão",
+                "short": "Simao"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Sergio Agüero",
+          "team": "Atletico Madrid",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "José Antonio Reyes",
+          "team": "Atletico Madrid",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

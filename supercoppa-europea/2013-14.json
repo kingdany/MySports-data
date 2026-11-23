@@ -1,0 +1,70 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2013-14",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2013-14-375653",
+      "competition": "supercoppa-europea",
+      "season": "2013-14",
+      "stage": "final",
+      "title": "Bayern - Chelsea",
+      "session": "match",
+      "startsAt": "2013-08-30T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-132",
+        "name": "Bayern Munich",
+        "shortName": "Bayern",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+      },
+      "awayTeam": {
+        "id": "espn-363",
+        "name": "Chelsea",
+        "shortName": "Chelsea",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "homePenalties": 5,
+      "awayPenalties": 4,
+      "videos": []
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Fernando Torres",
+          "team": "Chelsea",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Eden Hazard",
+          "team": "Chelsea",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Javi Martínez",
+          "team": "Bayern Munich",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Franck Ribéry",
+          "team": "Bayern Munich",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

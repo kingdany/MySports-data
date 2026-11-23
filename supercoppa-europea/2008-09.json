@@ -1,0 +1,275 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2008-09",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2008-09-248255",
+      "competition": "supercoppa-europea",
+      "season": "2008-09",
+      "stage": "final",
+      "title": "Manchester United - Zenit San Pietroburgo",
+      "session": "match",
+      "startsAt": "2008-08-29T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-360",
+        "name": "Manchester United",
+        "shortName": "Manchester United",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+      },
+      "awayTeam": {
+        "id": "espn-2533",
+        "name": "Zenit St Petersburg",
+        "shortName": "Zenit San Pietroburgo",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2533.png"
+      },
+      "homeScore": 1,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "away",
+            "player": "Pavel Pogrebnyak",
+            "short": "Pogrebnyak"
+          },
+          {
+            "minute": 59,
+            "type": "goal",
+            "side": "away",
+            "player": "Danny"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "home",
+            "player": "Nemanja Vidić",
+            "short": "Vidić"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Edwin van der Sar",
+              "short": "van der Sar"
+            },
+            {
+              "number": 2,
+              "name": "Gary Neville",
+              "short": "Neville"
+            },
+            {
+              "number": 5,
+              "name": "Rio Ferdinand",
+              "short": "Ferdinand"
+            },
+            {
+              "number": 15,
+              "name": "Nemanja Vidić",
+              "short": "Vidić"
+            },
+            {
+              "number": 3,
+              "name": "Patrice Evra",
+              "short": "Evra"
+            },
+            {
+              "number": 24,
+              "name": "Darren Fletcher",
+              "short": "Fletcher"
+            },
+            {
+              "number": 8,
+              "name": "Anderson"
+            },
+            {
+              "number": 18,
+              "name": "Paul Scholes",
+              "short": "Scholes"
+            },
+            {
+              "number": 17,
+              "name": "Nani"
+            },
+            {
+              "number": 10,
+              "name": "Wayne Rooney",
+              "short": "Rooney"
+            },
+            {
+              "number": 32,
+              "name": "Carlos Tevez",
+              "short": "Tevez"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 60,
+              "in": {
+                "number": 13,
+                "name": "Park Ji-Sung",
+                "short": "Ji-Sung"
+              },
+              "out": {
+                "number": 8,
+                "name": "Anderson"
+              }
+            },
+            {
+              "minute": 60,
+              "in": {
+                "number": 22,
+                "name": "John O'Shea",
+                "short": "O'Shea"
+              },
+              "out": {
+                "number": 24,
+                "name": "Darren Fletcher",
+                "short": "Fletcher"
+              }
+            },
+            {
+              "minute": 76,
+              "in": {
+                "number": 6,
+                "name": "Wes Brown",
+                "short": "Brown"
+              },
+              "out": {
+                "number": 2,
+                "name": "Gary Neville",
+                "short": "Neville"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 16,
+              "name": "Vyacheslav Malafeyev",
+              "short": "Malafeyev"
+            },
+            {
+              "number": 4,
+              "name": "Ivica Krizanac",
+              "short": "Krizanac"
+            },
+            {
+              "number": 22,
+              "name": "Aleksandr Aniukov",
+              "short": "Aniukov"
+            },
+            {
+              "number": 28,
+              "name": "Sebastien Puygrenier",
+              "short": "Puygrenier"
+            },
+            {
+              "number": 11,
+              "name": "Radek Shirl",
+              "short": "Shirl"
+            },
+            {
+              "number": 18,
+              "name": "Konstantin Zyrianov",
+              "short": "Zyrianov"
+            },
+            {
+              "number": 19,
+              "name": "Danny"
+            },
+            {
+              "number": 27,
+              "name": "Igor Denisov",
+              "short": "Denisov"
+            },
+            {
+              "number": 44,
+              "name": "Anatoliy Tymoschuk",
+              "short": "Tymoschuk"
+            },
+            {
+              "number": 8,
+              "name": "Pavel Pogrebnyak",
+              "short": "Pogrebnyak"
+            },
+            {
+              "number": 7,
+              "name": "Alejandro Domínguez",
+              "short": "Domínguez"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 46,
+              "in": {
+                "number": 10,
+                "name": "Andrey Arshavin",
+                "short": "Arshavin"
+              },
+              "out": {
+                "number": 7,
+                "name": "Alejandro Domínguez",
+                "short": "Domínguez"
+              }
+            },
+            {
+              "minute": 62,
+              "in": {
+                "number": 15,
+                "name": "Roman Shirokov",
+                "short": "Shirokov"
+              },
+              "out": {
+                "number": 28,
+                "name": "Sebastien Puygrenier",
+                "short": "Puygrenier"
+              }
+            },
+            {
+              "minute": 70,
+              "in": {
+                "number": 2,
+                "name": "Vladislav Radimov",
+                "short": "Radimov"
+              },
+              "out": {
+                "number": 4,
+                "name": "Ivica Krizanac",
+                "short": "Krizanac"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Pavel Pogrebnyak",
+          "team": "Zenit San Pietroburgo",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Nemanja Vidić",
+          "team": "Manchester United",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

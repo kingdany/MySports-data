@@ -1,0 +1,251 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2009-10",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2009-10-267763",
+      "competition": "supercoppa-europea",
+      "season": "2009-10",
+      "stage": "final",
+      "title": "Barcellona - Shakhtar Donetsk",
+      "session": "match",
+      "startsAt": "2009-08-28T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-83",
+        "name": "Barcelona",
+        "shortName": "Barcellona",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+      },
+      "awayTeam": {
+        "id": "espn-493",
+        "name": "Shakhtar Donetsk",
+        "shortName": "Shakhtar Donetsk",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 115,
+            "type": "goal",
+            "side": "home",
+            "player": "Pedro"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Víctor Valdés",
+              "short": "Valdés"
+            },
+            {
+              "number": 2,
+              "name": "Dani Alves",
+              "short": "Alves"
+            },
+            {
+              "number": 5,
+              "name": "Carles Puyol",
+              "short": "Puyol"
+            },
+            {
+              "number": 3,
+              "name": "Gerard Piqué",
+              "short": "Piqué"
+            },
+            {
+              "number": 22,
+              "name": "Eric Abidal",
+              "short": "Abidal"
+            },
+            {
+              "number": 6,
+              "name": "Xavi"
+            },
+            {
+              "number": 24,
+              "name": "Yaya Touré",
+              "short": "Touré"
+            },
+            {
+              "number": 15,
+              "name": "Seydou Keita",
+              "short": "Keita"
+            },
+            {
+              "number": 10,
+              "name": "Lionel Messi",
+              "short": "Messi"
+            },
+            {
+              "number": 9,
+              "name": "Zlatan Ibrahimovic",
+              "short": "Ibrahimovic"
+            },
+            {
+              "number": 14,
+              "name": "Thierry Henry",
+              "short": "Henry"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 81,
+              "in": {
+                "number": 17,
+                "name": "Pedro"
+              },
+              "out": {
+                "number": 9,
+                "name": "Zlatan Ibrahimovic",
+                "short": "Ibrahimovic"
+              }
+            },
+            {
+              "minute": 96,
+              "in": {
+                "number": 11,
+                "name": "Bojan Krkic",
+                "short": "Krkic"
+              },
+              "out": {
+                "number": 14,
+                "name": "Thierry Henry",
+                "short": "Henry"
+              }
+            },
+            {
+              "minute": 100,
+              "in": {
+                "number": 16,
+                "name": "Sergio Busquets",
+                "short": "Busquets"
+              },
+              "out": {
+                "number": 24,
+                "name": "Yaya Touré",
+                "short": "Touré"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 30,
+              "name": "Andriy Pyatov",
+              "short": "Pyatov"
+            },
+            {
+              "number": 5,
+              "name": "Olexandr Kucher",
+              "short": "Kucher"
+            },
+            {
+              "number": 27,
+              "name": "Dmytro Chigrinsky",
+              "short": "Chigrinsky"
+            },
+            {
+              "number": 26,
+              "name": "Razvan Rat",
+              "short": "Rat"
+            },
+            {
+              "number": 3,
+              "name": "Tomás Hübschman",
+              "short": "Hübschman"
+            },
+            {
+              "number": 33,
+              "name": "Darijo Srna",
+              "short": "Srna"
+            },
+            {
+              "number": 11,
+              "name": "Junior Ilsinho",
+              "short": "Ilsinho"
+            },
+            {
+              "number": 19,
+              "name": "Oleksiy Gai",
+              "short": "Gai"
+            },
+            {
+              "number": 22,
+              "name": "Willian"
+            },
+            {
+              "number": 7,
+              "name": "Fernandinho"
+            },
+            {
+              "number": 17,
+              "name": "Luiz Adriano"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 78,
+              "in": {
+                "number": 8,
+                "name": "Rodrigues Jadson",
+                "short": "Jadson"
+              },
+              "out": {
+                "number": 7,
+                "name": "Fernandinho"
+              }
+            },
+            {
+              "minute": 78,
+              "in": {
+                "number": 14,
+                "name": "Vasili Kobin",
+                "short": "Kobin"
+              },
+              "out": {
+                "number": 19,
+                "name": "Oleksiy Gai",
+                "short": "Gai"
+              }
+            },
+            {
+              "minute": 91,
+              "in": {
+                "number": 77,
+                "name": "Julius Aghahowa",
+                "short": "Aghahowa"
+              },
+              "out": {
+                "number": 22,
+                "name": "Willian"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Pedro",
+          "team": "Barcellona",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

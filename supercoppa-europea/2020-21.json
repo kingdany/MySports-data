@@ -1,0 +1,353 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2020-21",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2020-21-580517",
+      "competition": "supercoppa-europea",
+      "season": "2020-21",
+      "stage": "final",
+      "title": "Bayern - Siviglia",
+      "session": "match",
+      "startsAt": "2020-09-24T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-132",
+        "name": "Bayern Munich",
+        "shortName": "Bayern",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+      },
+      "awayTeam": {
+        "id": "espn-243",
+        "name": "Sevilla",
+        "shortName": "Siviglia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 11,
+            "type": "yellow",
+            "side": "home",
+            "player": "David Alaba",
+            "short": "Alaba"
+          },
+          {
+            "minute": 13,
+            "type": "penalty",
+            "side": "away",
+            "player": "Lucas Ocampos",
+            "short": "Ocampos"
+          },
+          {
+            "minute": 34,
+            "type": "goal",
+            "side": "home",
+            "player": "Leon Goretzka",
+            "short": "Goretzka"
+          },
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "yellow",
+            "side": "away",
+            "player": "Joan Jordán",
+            "short": "Jordán"
+          },
+          {
+            "minute": 55,
+            "type": "yellow",
+            "side": "away",
+            "player": "Jules Koundé",
+            "short": "Koundé"
+          },
+          {
+            "minute": 70,
+            "type": "yellow",
+            "side": "away",
+            "player": "Fernando"
+          },
+          {
+            "minute": 90,
+            "addedTime": 1,
+            "type": "yellow",
+            "side": "home",
+            "player": "Lucas Hernández",
+            "short": "Hernández"
+          },
+          {
+            "minute": 104,
+            "type": "goal",
+            "side": "home",
+            "player": "Javi Martínez",
+            "short": "Martínez"
+          },
+          {
+            "minute": 119,
+            "type": "yellow",
+            "side": "away",
+            "player": "Sergio Escudero",
+            "short": "Escudero"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Manuel Neuer",
+              "short": "Neuer"
+            },
+            {
+              "number": 27,
+              "name": "David Alaba",
+              "short": "Alaba"
+            },
+            {
+              "number": 4,
+              "name": "Niklas Süle",
+              "short": "Süle"
+            },
+            {
+              "number": 21,
+              "name": "Lucas Hernández",
+              "short": "Hernández"
+            },
+            {
+              "number": 5,
+              "name": "Benjamin Pavard",
+              "short": "Pavard"
+            },
+            {
+              "number": 25,
+              "name": "Thomas Müller",
+              "short": "Müller"
+            },
+            {
+              "number": 6,
+              "name": "Joshua Kimmich",
+              "short": "Kimmich"
+            },
+            {
+              "number": 18,
+              "name": "Leon Goretzka",
+              "short": "Goretzka"
+            },
+            {
+              "number": 9,
+              "name": "Robert Lewandowski",
+              "short": "Lewandowski"
+            },
+            {
+              "number": 10,
+              "name": "Leroy Sané",
+              "short": "Sané"
+            },
+            {
+              "number": 7,
+              "name": "Serge Gnabry",
+              "short": "Gnabry"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 70,
+              "in": {
+                "number": 24,
+                "name": "Corentin Tolisso",
+                "short": "Tolisso"
+              },
+              "out": {
+                "number": 10,
+                "name": "Leroy Sané",
+                "short": "Sané"
+              }
+            },
+            {
+              "minute": 99,
+              "in": {
+                "number": 19,
+                "name": "Alphonso Davies",
+                "short": "Davies"
+              },
+              "out": {
+                "number": 18,
+                "name": "Leon Goretzka",
+                "short": "Goretzka"
+              }
+            },
+            {
+              "minute": 99,
+              "in": {
+                "number": 8,
+                "name": "Javi Martínez",
+                "short": "Martínez"
+              },
+              "out": {
+                "number": 21,
+                "name": "Lucas Hernández",
+                "short": "Hernández"
+              }
+            },
+            {
+              "minute": 112,
+              "in": {
+                "number": 17,
+                "name": "Jérôme Boateng",
+                "short": "Boateng"
+              },
+              "out": {
+                "number": 27,
+                "name": "David Alaba",
+                "short": "Alaba"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "Yassine Bounou",
+              "short": "Bounou"
+            },
+            {
+              "number": 20,
+              "name": "Diego Carlos",
+              "short": "Carlos"
+            },
+            {
+              "number": 12,
+              "name": "Jules Koundé",
+              "short": "Koundé"
+            },
+            {
+              "number": 18,
+              "name": "Sergio Escudero",
+              "short": "Escudero"
+            },
+            {
+              "number": 16,
+              "name": "Jesús Navas",
+              "short": "Navas"
+            },
+            {
+              "number": 25,
+              "name": "Fernando"
+            },
+            {
+              "number": 10,
+              "name": "Ivan Rakitić",
+              "short": "Rakitić"
+            },
+            {
+              "number": 8,
+              "name": "Joan Jordán",
+              "short": "Jordán"
+            },
+            {
+              "number": 9,
+              "name": "Luuk de Jong",
+              "short": "de Jong"
+            },
+            {
+              "number": 5,
+              "name": "Lucas Ocampos",
+              "short": "Ocampos"
+            },
+            {
+              "number": 7,
+              "name": "Suso"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 56,
+              "in": {
+                "number": 15,
+                "name": "Youssef En-Nesyri",
+                "short": "En-Nesyri"
+              },
+              "out": {
+                "number": 9,
+                "name": "Luuk de Jong",
+                "short": "de Jong"
+              }
+            },
+            {
+              "minute": 56,
+              "in": {
+                "number": 21,
+                "name": "Óliver Torres",
+                "short": "Torres"
+              },
+              "out": {
+                "number": 10,
+                "name": "Ivan Rakitić",
+                "short": "Rakitić"
+              }
+            },
+            {
+              "minute": 73,
+              "in": {
+                "number": 6,
+                "name": "Nemanja Gudelj",
+                "short": "Gudelj"
+              },
+              "out": {
+                "number": 7,
+                "name": "Suso"
+              }
+            },
+            {
+              "minute": 94,
+              "in": {
+                "number": 22,
+                "name": "Franco Vázquez",
+                "short": "Vázquez"
+              },
+              "out": {
+                "number": 8,
+                "name": "Joan Jordán",
+                "short": "Jordán"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Lucas Ocampos",
+          "team": "Siviglia",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Leon Goretzka",
+          "team": "Bayern Munich",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Javi Martínez",
+          "team": "Bayern Munich",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

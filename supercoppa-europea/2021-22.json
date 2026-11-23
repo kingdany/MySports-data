@@ -1,0 +1,378 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2021-22",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2021-22-602914",
+      "competition": "supercoppa-europea",
+      "season": "2021-22",
+      "stage": "final",
+      "title": "Chelsea - Villarreal",
+      "session": "match",
+      "startsAt": "2021-08-11T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-363",
+        "name": "Chelsea",
+        "shortName": "Chelsea",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+      },
+      "awayTeam": {
+        "id": "espn-102",
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "homePenalties": 6,
+      "awayPenalties": 5,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 27,
+            "type": "goal",
+            "side": "home",
+            "player": "Hakim Ziyech",
+            "short": "Ziyech"
+          },
+          {
+            "minute": 44,
+            "type": "yellow",
+            "side": "home",
+            "player": "Antonio Rüdiger",
+            "short": "Rüdiger"
+          },
+          {
+            "minute": 61,
+            "type": "yellow",
+            "side": "away",
+            "player": "Yéremy Pino",
+            "short": "Pino"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "away",
+            "player": "Gerard Moreno",
+            "short": "Moreno"
+          },
+          {
+            "minute": 119,
+            "type": "yellow",
+            "side": "away",
+            "player": "Dani Raba",
+            "short": "Raba"
+          },
+          {
+            "minute": 120,
+            "type": "yellow",
+            "side": "home",
+            "player": "Kepa Arrizabalaga",
+            "short": "Arrizabalaga"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 16,
+              "name": "Édouard Mendy",
+              "short": "Mendy"
+            },
+            {
+              "number": 15,
+              "name": "Kurt Zouma",
+              "short": "Zouma"
+            },
+            {
+              "number": 2,
+              "name": "Antonio Rüdiger",
+              "short": "Rüdiger"
+            },
+            {
+              "number": 14,
+              "name": "Trevoh Chalobah",
+              "short": "Chalobah"
+            },
+            {
+              "number": 17,
+              "name": "Mateo Kovacic",
+              "short": "Kovacic"
+            },
+            {
+              "number": 7,
+              "name": "N'Golo Kanté",
+              "short": "Kanté"
+            },
+            {
+              "number": 3,
+              "name": "Marcos Alonso",
+              "short": "Alonso"
+            },
+            {
+              "number": 20,
+              "name": "Callum Hudson-Odoi",
+              "short": "Hudson-Odoi"
+            },
+            {
+              "number": 11,
+              "name": "Timo Werner",
+              "short": "Werner"
+            },
+            {
+              "number": 29,
+              "name": "Kai Havertz",
+              "short": "Havertz"
+            },
+            {
+              "number": 22,
+              "name": "Hakim Ziyech",
+              "short": "Ziyech"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 43,
+              "in": {
+                "number": 10,
+                "name": "Christian Pulisic",
+                "short": "Pulisic"
+              },
+              "out": {
+                "number": 22,
+                "name": "Hakim Ziyech",
+                "short": "Ziyech"
+              }
+            },
+            {
+              "minute": 65,
+              "in": {
+                "number": 5,
+                "name": "Jorginho"
+              },
+              "out": {
+                "number": 7,
+                "name": "N'Golo Kanté",
+                "short": "Kanté"
+              }
+            },
+            {
+              "minute": 65,
+              "in": {
+                "number": 19,
+                "name": "Mason Mount",
+                "short": "Mount"
+              },
+              "out": {
+                "number": 11,
+                "name": "Timo Werner",
+                "short": "Werner"
+              }
+            },
+            {
+              "minute": 66,
+              "in": {
+                "number": 4,
+                "name": "Andreas Christensen",
+                "short": "Christensen"
+              },
+              "out": {
+                "number": 15,
+                "name": "Kurt Zouma",
+                "short": "Zouma"
+              }
+            },
+            {
+              "minute": 82,
+              "in": {
+                "number": 28,
+                "name": "César Azpilicueta",
+                "short": "Azpilicueta"
+              },
+              "out": {
+                "number": 20,
+                "name": "Callum Hudson-Odoi",
+                "short": "Hudson-Odoi"
+              }
+            },
+            {
+              "minute": 119,
+              "in": {
+                "number": 1,
+                "name": "Kepa Arrizabalaga",
+                "short": "Arrizabalaga"
+              },
+              "out": {
+                "number": 16,
+                "name": "Édouard Mendy",
+                "short": "Mendy"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Sergio Asenjo",
+              "short": "Asenjo"
+            },
+            {
+              "number": 4,
+              "name": "Pau Torres",
+              "short": "Torres"
+            },
+            {
+              "number": 3,
+              "name": "Raúl Albiol",
+              "short": "Albiol"
+            },
+            {
+              "number": 24,
+              "name": "Alfonso Pedraza",
+              "short": "Pedraza"
+            },
+            {
+              "number": 8,
+              "name": "Juan Foyth",
+              "short": "Foyth"
+            },
+            {
+              "number": 25,
+              "name": "Étienne Capoue",
+              "short": "Capoue"
+            },
+            {
+              "number": 14,
+              "name": "Manu Trigueros",
+              "short": "Trigueros"
+            },
+            {
+              "number": 18,
+              "name": "Alberto Moreno",
+              "short": "Moreno"
+            },
+            {
+              "number": 21,
+              "name": "Yéremy Pino",
+              "short": "Pino"
+            },
+            {
+              "number": 16,
+              "name": "Boulaye Dia",
+              "short": "Dia"
+            },
+            {
+              "number": 7,
+              "name": "Gerard Moreno",
+              "short": "Moreno"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 58,
+              "in": {
+                "number": 12,
+                "name": "Pervis Estupiñán",
+                "short": "Estupiñán"
+              },
+              "out": {
+                "number": 24,
+                "name": "Alfonso Pedraza",
+                "short": "Pedraza"
+              }
+            },
+            {
+              "minute": 70,
+              "in": {
+                "number": 2,
+                "name": "Mario"
+              },
+              "out": {
+                "number": 25,
+                "name": "Étienne Capoue",
+                "short": "Capoue"
+              }
+            },
+            {
+              "minute": 70,
+              "in": {
+                "number": 23,
+                "name": "Moi Gómez"
+              },
+              "out": {
+                "number": 14,
+                "name": "Manu Trigueros",
+                "short": "Trigueros"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 6,
+                "name": "Manu Morlanes",
+                "short": "Morlanes"
+              },
+              "out": {
+                "number": 18,
+                "name": "Alberto Moreno",
+                "short": "Moreno"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 17,
+                "name": "Dani Raba",
+                "short": "Raba"
+              },
+              "out": {
+                "number": 16,
+                "name": "Boulaye Dia",
+                "short": "Dia"
+              }
+            },
+            {
+              "minute": 90,
+              "in": {
+                "number": 22,
+                "name": "Aïssa Mandi",
+                "short": "Mandi"
+              },
+              "out": {
+                "number": 21,
+                "name": "Yéremy Pino",
+                "short": "Pino"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Gerard Moreno",
+          "team": "Villarreal",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Hakim Ziyech",
+          "team": "Chelsea",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

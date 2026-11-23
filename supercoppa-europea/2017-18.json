@@ -1,0 +1,297 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2017-18",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2017-18-479569",
+      "competition": "supercoppa-europea",
+      "season": "2017-18",
+      "stage": "final",
+      "title": "Real Madrid - Manchester United",
+      "session": "match",
+      "startsAt": "2017-08-08T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-86",
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      },
+      "awayTeam": {
+        "id": "espn-360",
+        "name": "Manchester United",
+        "shortName": "Manchester United",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 24,
+            "type": "goal",
+            "side": "home",
+            "player": "Casemiro"
+          },
+          {
+            "minute": 42,
+            "type": "yellow",
+            "side": "away",
+            "player": "Jesse Lingard",
+            "short": "Lingard"
+          },
+          {
+            "minute": 52,
+            "type": "goal",
+            "side": "home",
+            "player": "Isco"
+          },
+          {
+            "minute": 62,
+            "type": "goal",
+            "side": "away",
+            "player": "Romelu Lukaku",
+            "short": "Lukaku"
+          },
+          {
+            "minute": 84,
+            "type": "yellow",
+            "side": "home",
+            "player": "Dani Carvajal",
+            "short": "Carvajal"
+          },
+          {
+            "minute": 86,
+            "type": "yellow",
+            "side": "home",
+            "player": "Sergio Ramos",
+            "short": "Ramos"
+          },
+          {
+            "minute": 90,
+            "addedTime": 4,
+            "type": "yellow",
+            "side": "away",
+            "player": "Marcus Rashford",
+            "short": "Rashford"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Keylor Navas",
+              "short": "Navas"
+            },
+            {
+              "number": 4,
+              "name": "Sergio Ramos",
+              "short": "Ramos"
+            },
+            {
+              "number": 5,
+              "name": "Raphaël Varane",
+              "short": "Varane"
+            },
+            {
+              "number": 14,
+              "name": "Casemiro"
+            },
+            {
+              "number": 12,
+              "name": "Marcelo"
+            },
+            {
+              "number": 2,
+              "name": "Dani Carvajal",
+              "short": "Carvajal"
+            },
+            {
+              "number": 22,
+              "name": "Isco"
+            },
+            {
+              "number": 8,
+              "name": "Toni Kroos",
+              "short": "Kroos"
+            },
+            {
+              "number": 10,
+              "name": "Luka Modric",
+              "short": "Modric"
+            },
+            {
+              "number": 11,
+              "name": "Gareth Bale",
+              "short": "Bale"
+            },
+            {
+              "number": 9,
+              "name": "Karim Benzema",
+              "short": "Benzema"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 74,
+              "in": {
+                "number": 17,
+                "name": "Lucas Vázquez",
+                "short": "Vázquez"
+              },
+              "out": {
+                "number": 22,
+                "name": "Isco"
+              }
+            },
+            {
+              "minute": 74,
+              "in": {
+                "number": 20,
+                "name": "Marco Asensio",
+                "short": "Asensio"
+              },
+              "out": {
+                "number": 11,
+                "name": "Gareth Bale",
+                "short": "Bale"
+              }
+            },
+            {
+              "minute": 83,
+              "in": {
+                "number": 7,
+                "name": "Cristiano Ronaldo",
+                "short": "Ronaldo"
+              },
+              "out": {
+                "number": 9,
+                "name": "Karim Benzema",
+                "short": "Benzema"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "David de Gea",
+              "short": "de Gea"
+            },
+            {
+              "number": 12,
+              "name": "Chris Smalling",
+              "short": "Smalling"
+            },
+            {
+              "number": 36,
+              "name": "Matteo Darmian",
+              "short": "Darmian"
+            },
+            {
+              "number": 2,
+              "name": "Victor Lindelöf",
+              "short": "Lindelöf"
+            },
+            {
+              "number": 6,
+              "name": "Paul Pogba",
+              "short": "Pogba"
+            },
+            {
+              "number": 21,
+              "name": "Ander Herrera",
+              "short": "Herrera"
+            },
+            {
+              "number": 31,
+              "name": "Nemanja Matic",
+              "short": "Matic"
+            },
+            {
+              "number": 14,
+              "name": "Jesse Lingard",
+              "short": "Lingard"
+            },
+            {
+              "number": 25,
+              "name": "Antonio Valencia",
+              "short": "Valencia"
+            },
+            {
+              "number": 9,
+              "name": "Romelu Lukaku",
+              "short": "Lukaku"
+            },
+            {
+              "number": 22,
+              "name": "Henrikh Mkhitaryan",
+              "short": "Mkhitaryan"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 19,
+                "name": "Marcus Rashford",
+                "short": "Rashford"
+              },
+              "out": {
+                "number": 14,
+                "name": "Jesse Lingard",
+                "short": "Lingard"
+              }
+            },
+            {
+              "minute": 56,
+              "in": {
+                "number": 27,
+                "name": "Marouane Fellaini",
+                "short": "Fellaini"
+              },
+              "out": {
+                "number": 21,
+                "name": "Ander Herrera",
+                "short": "Herrera"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Casemiro",
+          "team": "Real Madrid",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Romelu Lukaku",
+          "team": "Manchester United",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Isco",
+          "team": "Real Madrid",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2007-08",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2007-08-228747",
+      "competition": "supercoppa-europea",
+      "season": "2007-08",
+      "stage": "final",
+      "title": "Milan - Siviglia",
+      "session": "match",
+      "startsAt": "2007-08-31T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-103",
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+      },
+      "awayTeam": {
+        "id": "espn-243",
+        "name": "Sevilla",
+        "shortName": "Siviglia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 14,
+            "type": "goal",
+            "side": "away",
+            "player": "Renato "
+          },
+          {
+            "minute": 55,
+            "type": "goal",
+            "side": "home",
+            "player": "Filippo Inzaghi",
+            "short": "Inzaghi"
+          },
+          {
+            "minute": 62,
+            "type": "goal",
+            "side": "home",
+            "player": "Marek Jankulovski",
+            "short": "Jankulovski"
+          },
+          {
+            "minute": 87,
+            "type": "missedPenalty",
+            "side": "home",
+            "player": "Kaká"
+          },
+          {
+            "minute": 87,
+            "type": "goal",
+            "side": "home",
+            "player": "Kaká"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Dida"
+            },
+            {
+              "number": 44,
+              "name": "Massimo Oddo",
+              "short": "Oddo"
+            },
+            {
+              "number": 4,
+              "name": "Kakha Kaladze",
+              "short": "Kaladze"
+            },
+            {
+              "number": 13,
+              "name": "Alessandro Nesta",
+              "short": "Nesta"
+            },
+            {
+              "number": 18,
+              "name": "Marek Jankulovski",
+              "short": "Jankulovski"
+            },
+            {
+              "number": 23,
+              "name": "Massimo Ambrosini",
+              "short": "Ambrosini"
+            },
+            {
+              "number": 21,
+              "name": "Andrea Pirlo",
+              "short": "Pirlo"
+            },
+            {
+              "number": 8,
+              "name": "Gennaro Gattuso",
+              "short": "Gattuso"
+            },
+            {
+              "number": 22,
+              "name": "Kaká"
+            },
+            {
+              "number": 10,
+              "name": "Clarence Seedorf",
+              "short": "Seedorf"
+            },
+            {
+              "number": 9,
+              "name": "Filippo Inzaghi",
+              "short": "Inzaghi"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 73,
+              "in": {
+                "number": 5,
+                "name": "Emerson Ferreira",
+                "short": "Ferreira"
+              },
+              "out": {
+                "number": 8,
+                "name": "Gennaro Gattuso",
+                "short": "Gattuso"
+              }
+            },
+            {
+              "minute": 88,
+              "in": {
+                "number": 11,
+                "name": "Alberto Gilardino",
+                "short": "Gilardino"
+              },
+              "out": {
+                "number": 9,
+                "name": "Filippo Inzaghi",
+                "short": "Inzaghi"
+              }
+            },
+            {
+              "minute": 89,
+              "in": {
+                "number": 32,
+                "name": "Christian Brocchi",
+                "short": "Brocchi"
+              },
+              "out": {
+                "number": 10,
+                "name": "Clarence Seedorf",
+                "short": "Seedorf"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Andrés Palop",
+              "short": "Palop"
+            },
+            {
+              "number": 4,
+              "name": "Dani Alves",
+              "short": "Alves"
+            },
+            {
+              "number": 14,
+              "name": "Julien Escudé",
+              "short": "Escudé"
+            },
+            {
+              "number": 3,
+              "name": "Ivica Dragutinovic",
+              "short": "Dragutinovic"
+            },
+            {
+              "number": 18,
+              "name": "José Martí",
+              "short": "Martí"
+            },
+            {
+              "number": 8,
+              "name": "Christian Poulsen",
+              "short": "Poulsen"
+            },
+            {
+              "number": 5,
+              "name": "Duda"
+            },
+            {
+              "number": 11,
+              "name": "Renato "
+            },
+            {
+              "number": 21,
+              "name": "Seydou Keita",
+              "short": "Keita"
+            },
+            {
+              "number": 7,
+              "name": "Jesús Navas",
+              "short": "Navas"
+            },
+            {
+              "number": 12,
+              "name": "Frédéric Kanouté",
+              "short": "Kanouté"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 65,
+              "in": {
+                "number": 9,
+                "name": "Alexander Kerzhakov",
+                "short": "Kerzhakov"
+              },
+              "out": {
+                "number": 18,
+                "name": "José Martí",
+                "short": "Martí"
+              }
+            },
+            {
+              "minute": 74,
+              "in": {
+                "number": 25,
+                "name": "Enzo Maresca",
+                "short": "Maresca"
+              },
+              "out": {
+                "number": 5,
+                "name": "Duda"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 10,
+                "name": "Luis Fabiano",
+                "short": "Fabiano"
+              },
+              "out": {
+                "number": 14,
+                "name": "Julien Escudé",
+                "short": "Escudé"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Renato ",
+          "team": "Siviglia",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Kaká",
+          "team": "AC Milan",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Filippo Inzaghi",
+          "team": "AC Milan",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Marek Jankulovski",
+          "team": "AC Milan",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

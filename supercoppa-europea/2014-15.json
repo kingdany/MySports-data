@@ -1,0 +1,286 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2014-15",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2014-15-400445",
+      "competition": "supercoppa-europea",
+      "season": "2014-15",
+      "stage": "final",
+      "title": "Real Madrid - Siviglia",
+      "session": "match",
+      "startsAt": "2014-08-12T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-86",
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      },
+      "awayTeam": {
+        "id": "espn-243",
+        "name": "Sevilla",
+        "shortName": "Siviglia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 30,
+            "type": "goal",
+            "side": "home",
+            "player": "Cristiano Ronaldo",
+            "short": "Ronaldo"
+          },
+          {
+            "minute": 42,
+            "type": "yellow",
+            "side": "away",
+            "player": "Vitolo"
+          },
+          {
+            "minute": 45,
+            "type": "yellow",
+            "side": "home",
+            "player": "Dani Carvajal",
+            "short": "Carvajal"
+          },
+          {
+            "minute": 49,
+            "type": "goal",
+            "side": "home",
+            "player": "Cristiano Ronaldo",
+            "short": "Ronaldo"
+          },
+          {
+            "minute": 53,
+            "type": "yellow",
+            "side": "home",
+            "player": "Toni Kroos",
+            "short": "Kroos"
+          },
+          {
+            "minute": 66,
+            "type": "yellow",
+            "side": "away",
+            "player": "Fernando Navarro",
+            "short": "Navarro"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Iker Casillas",
+              "short": "Casillas"
+            },
+            {
+              "number": 15,
+              "name": "Dani Carvajal",
+              "short": "Carvajal"
+            },
+            {
+              "number": 3,
+              "name": "Pepe"
+            },
+            {
+              "number": 4,
+              "name": "Sergio Ramos",
+              "short": "Ramos"
+            },
+            {
+              "number": 5,
+              "name": "Fábio Coentrão",
+              "short": "Coentrão"
+            },
+            {
+              "number": 8,
+              "name": "Toni Kroos",
+              "short": "Kroos"
+            },
+            {
+              "number": 10,
+              "name": "James Rodríguez",
+              "short": "Rodríguez"
+            },
+            {
+              "number": 19,
+              "name": "Luka Modric",
+              "short": "Modric"
+            },
+            {
+              "number": 11,
+              "name": "Gareth Bale",
+              "short": "Bale"
+            },
+            {
+              "number": 7,
+              "name": "Cristiano Ronaldo",
+              "short": "Ronaldo"
+            },
+            {
+              "number": 9,
+              "name": "Karim Benzema",
+              "short": "Benzema"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 72,
+              "in": {
+                "number": 23,
+                "name": "Isco"
+              },
+              "out": {
+                "number": 10,
+                "name": "James Rodríguez",
+                "short": "Rodríguez"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 12,
+                "name": "Marcelo"
+              },
+              "out": {
+                "number": 5,
+                "name": "Fábio Coentrão",
+                "short": "Coentrão"
+              }
+            },
+            {
+              "minute": 86,
+              "in": {
+                "number": 24,
+                "name": "Asier Illarramendi",
+                "short": "Illarramendi"
+              },
+              "out": {
+                "number": 19,
+                "name": "Luka Modric",
+                "short": "Modric"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "Beto"
+            },
+            {
+              "number": 23,
+              "name": "Coke"
+            },
+            {
+              "number": 21,
+              "name": "Nico Pareja",
+              "short": "Pareja"
+            },
+            {
+              "number": 2,
+              "name": "Federico Fazio",
+              "short": "Fazio"
+            },
+            {
+              "number": 3,
+              "name": "Fernando Navarro",
+              "short": "Navarro"
+            },
+            {
+              "number": 22,
+              "name": "Aleix Vidal",
+              "short": "Vidal"
+            },
+            {
+              "number": 4,
+              "name": "Grzegorz Krychowiak",
+              "short": "Krychowiak"
+            },
+            {
+              "number": 6,
+              "name": "Daniel Carriço",
+              "short": "Carriço"
+            },
+            {
+              "number": 20,
+              "name": "Vitolo"
+            },
+            {
+              "number": 17,
+              "name": "Denis Suárez",
+              "short": "Suárez"
+            },
+            {
+              "number": 9,
+              "name": "Carlos Bacca",
+              "short": "Bacca"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 66,
+              "in": {
+                "number": 14,
+                "name": "Iago Aspas",
+                "short": "Aspas"
+              },
+              "out": {
+                "number": 22,
+                "name": "Aleix Vidal",
+                "short": "Vidal"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 10,
+                "name": "José Antonio Reyes",
+                "short": "Reyes"
+              },
+              "out": {
+                "number": 17,
+                "name": "Denis Suárez",
+                "short": "Suárez"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 5,
+                "name": "Diogo Figueiras",
+                "short": "Figueiras"
+              },
+              "out": {
+                "number": 23,
+                "name": "Coke"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Cristiano Ronaldo",
+          "team": "Real Madrid",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2015-16",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2015-16-432782",
+      "competition": "supercoppa-europea",
+      "season": "2015-16",
+      "stage": "final",
+      "title": "Barcellona - Siviglia",
+      "session": "match",
+      "startsAt": "2015-08-11T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-83",
+        "name": "Barcelona",
+        "shortName": "Barcellona",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+      },
+      "awayTeam": {
+        "id": "espn-243",
+        "name": "Sevilla",
+        "shortName": "Siviglia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+      },
+      "homeScore": 5,
+      "awayScore": 4,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 3,
+            "type": "goal",
+            "side": "away",
+            "player": "Éver Banega",
+            "short": "Banega"
+          },
+          {
+            "minute": 7,
+            "type": "goal",
+            "side": "home",
+            "player": "Lionel Messi",
+            "short": "Messi"
+          },
+          {
+            "minute": 14,
+            "type": "yellow",
+            "side": "away",
+            "player": "Grzegorz Krychowiak",
+            "short": "Krychowiak"
+          },
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "home",
+            "player": "Lionel Messi",
+            "short": "Messi"
+          },
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "home",
+            "player": "Rafinha"
+          },
+          {
+            "minute": 52,
+            "type": "goal",
+            "side": "home",
+            "player": "Luis Suárez",
+            "short": "Suárez"
+          },
+          {
+            "minute": 57,
+            "type": "goal",
+            "side": "away",
+            "player": "José Antonio Reyes",
+            "short": "Reyes"
+          },
+          {
+            "minute": 71,
+            "type": "yellow",
+            "side": "home",
+            "player": "Jérémy Mathieu",
+            "short": "Mathieu"
+          },
+          {
+            "minute": 72,
+            "type": "penalty",
+            "side": "away",
+            "player": "Kevin Gameiro",
+            "short": "Gameiro"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "away",
+            "player": "Yevhen Konoplyanka",
+            "short": "Konoplyanka"
+          },
+          {
+            "minute": 88,
+            "type": "yellow",
+            "side": "away",
+            "player": "Coke"
+          },
+          {
+            "minute": 90,
+            "addedTime": 2,
+            "type": "yellow",
+            "side": "away",
+            "player": "Éver Banega",
+            "short": "Banega"
+          },
+          {
+            "minute": 92,
+            "type": "yellow",
+            "side": "away",
+            "player": "Ciro Immobile",
+            "short": "Immobile"
+          },
+          {
+            "minute": 94,
+            "type": "yellow",
+            "side": "home",
+            "player": "Pedro"
+          },
+          {
+            "minute": 115,
+            "type": "goal",
+            "side": "home",
+            "player": "Pedro"
+          },
+          {
+            "minute": 117,
+            "type": "yellow",
+            "side": "home",
+            "player": "Sergio Busquets",
+            "short": "Busquets"
+          },
+          {
+            "minute": 120,
+            "type": "yellow",
+            "side": "away",
+            "player": "Michael Krohn-Dehli",
+            "short": "Krohn-Dehli"
+          },
+          {
+            "minute": 120,
+            "type": "yellow",
+            "side": "home",
+            "player": "Dani Alves",
+            "short": "Alves"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Marc-André ter Stegen",
+              "short": "ter Stegen"
+            },
+            {
+              "number": 14,
+              "name": "Javier Mascherano",
+              "short": "Mascherano"
+            },
+            {
+              "number": 3,
+              "name": "Gerard Piqué",
+              "short": "Piqué"
+            },
+            {
+              "number": 24,
+              "name": "Jérémy Mathieu",
+              "short": "Mathieu"
+            },
+            {
+              "number": 6,
+              "name": "Dani Alves",
+              "short": "Alves"
+            },
+            {
+              "number": 5,
+              "name": "Sergio Busquets",
+              "short": "Busquets"
+            },
+            {
+              "number": 8,
+              "name": "Andrés Iniesta",
+              "short": "Iniesta"
+            },
+            {
+              "number": 4,
+              "name": "Ivan Rakitić",
+              "short": "Rakitić"
+            },
+            {
+              "number": 9,
+              "name": "Luis Suárez",
+              "short": "Suárez"
+            },
+            {
+              "number": 12,
+              "name": "Rafinha"
+            },
+            {
+              "number": 10,
+              "name": "Lionel Messi",
+              "short": "Messi"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 63,
+              "in": {
+                "number": 20,
+                "name": "Sergi Roberto",
+                "short": "Roberto"
+              },
+              "out": {
+                "number": 8,
+                "name": "Andrés Iniesta",
+                "short": "Iniesta"
+              }
+            },
+            {
+              "minute": 78,
+              "in": {
+                "number": 15,
+                "name": "Marc Bartra",
+                "short": "Bartra"
+              },
+              "out": {
+                "number": 12,
+                "name": "Rafinha"
+              }
+            },
+            {
+              "minute": 93,
+              "in": {
+                "number": 7,
+                "name": "Pedro"
+              },
+              "out": {
+                "number": 14,
+                "name": "Javier Mascherano",
+                "short": "Mascherano"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "Beto"
+            },
+            {
+              "number": 4,
+              "name": "Grzegorz Krychowiak",
+              "short": "Krychowiak"
+            },
+            {
+              "number": 3,
+              "name": "Adil Rami",
+              "short": "Rami"
+            },
+            {
+              "number": 2,
+              "name": "Benoît Trémoulinas",
+              "short": "Trémoulinas"
+            },
+            {
+              "number": 23,
+              "name": "Coke"
+            },
+            {
+              "number": 8,
+              "name": "Vicente Iborra",
+              "short": "Iborra"
+            },
+            {
+              "number": 19,
+              "name": "Éver Banega",
+              "short": "Banega"
+            },
+            {
+              "number": 7,
+              "name": "Michael Krohn-Dehli",
+              "short": "Krohn-Dehli"
+            },
+            {
+              "number": 9,
+              "name": "Kevin Gameiro",
+              "short": "Gameiro"
+            },
+            {
+              "number": 20,
+              "name": "Vitolo"
+            },
+            {
+              "number": 10,
+              "name": "José Antonio Reyes",
+              "short": "Reyes"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 68,
+              "in": {
+                "number": 22,
+                "name": "Yevhen Konoplyanka",
+                "short": "Konoplyanka"
+              },
+              "out": {
+                "number": 10,
+                "name": "José Antonio Reyes",
+                "short": "Reyes"
+              }
+            },
+            {
+              "minute": 80,
+              "in": {
+                "number": 11,
+                "name": "Ciro Immobile",
+                "short": "Immobile"
+              },
+              "out": {
+                "number": 9,
+                "name": "Kevin Gameiro",
+                "short": "Gameiro"
+              }
+            },
+            {
+              "minute": 80,
+              "in": {
+                "number": 25,
+                "name": "Mariano "
+              },
+              "out": {
+                "number": 8,
+                "name": "Vicente Iborra",
+                "short": "Iborra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Lionel Messi",
+          "team": "Barcellona",
+          "points": 2
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Luis Suárez",
+          "team": "Barcellona",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Éver Banega",
+          "team": "Siviglia",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Kevin Gameiro",
+          "team": "Siviglia",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Rafinha",
+          "team": "Barcellona",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "José Antonio Reyes",
+          "team": "Siviglia",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Yevhen Konoplyanka",
+          "team": "Siviglia",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Pedro",
+          "team": "Barcellona",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

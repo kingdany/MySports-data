@@ -1,0 +1,262 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2011-12",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2011-12-331104",
+      "competition": "supercoppa-europea",
+      "season": "2011-12",
+      "stage": "final",
+      "title": "Barcellona - Porto",
+      "session": "match",
+      "startsAt": "2011-08-26T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-83",
+        "name": "Barcelona",
+        "shortName": "Barcellona",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+      },
+      "awayTeam": {
+        "id": "espn-437",
+        "name": "FC Porto",
+        "shortName": "Porto",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "Lionel Messi",
+            "short": "Messi"
+          },
+          {
+            "minute": 87,
+            "type": "goal",
+            "side": "home",
+            "player": "Cesc Fàbregas",
+            "short": "Fàbregas"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Víctor Valdés",
+              "short": "Valdés"
+            },
+            {
+              "number": 21,
+              "name": "Adriano"
+            },
+            {
+              "number": 22,
+              "name": "Eric Abidal",
+              "short": "Abidal"
+            },
+            {
+              "number": 2,
+              "name": "Dani Alves",
+              "short": "Alves"
+            },
+            {
+              "number": 6,
+              "name": "Xavi"
+            },
+            {
+              "number": 8,
+              "name": "Andrés Iniesta",
+              "short": "Iniesta"
+            },
+            {
+              "number": 14,
+              "name": "Javier Mascherano",
+              "short": "Mascherano"
+            },
+            {
+              "number": 15,
+              "name": "Seydou Keita",
+              "short": "Keita"
+            },
+            {
+              "number": 7,
+              "name": "David Villa",
+              "short": "Villa"
+            },
+            {
+              "number": 17,
+              "name": "Pedro"
+            },
+            {
+              "number": 10,
+              "name": "Lionel Messi",
+              "short": "Messi"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 60,
+              "in": {
+                "number": 9,
+                "name": "Alexis Sánchez",
+                "short": "Sánchez"
+              },
+              "out": {
+                "number": 7,
+                "name": "David Villa",
+                "short": "Villa"
+              }
+            },
+            {
+              "minute": 63,
+              "in": {
+                "number": 16,
+                "name": "Sergio Busquets",
+                "short": "Busquets"
+              },
+              "out": {
+                "number": 21,
+                "name": "Adriano"
+              }
+            },
+            {
+              "minute": 80,
+              "in": {
+                "number": 4,
+                "name": "Cesc Fàbregas",
+                "short": "Fàbregas"
+              },
+              "out": {
+                "number": 17,
+                "name": "Pedro"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Helton"
+            },
+            {
+              "number": 30,
+              "name": "Nicolás Otamendi",
+              "short": "Otamendi"
+            },
+            {
+              "number": 13,
+              "name": "Jorge Ciro Perdomo Fucile",
+              "short": "Fucile"
+            },
+            {
+              "number": 21,
+              "name": "Cristian Sapunaru",
+              "short": "Sapunaru"
+            },
+            {
+              "number": 14,
+              "name": "Rolando"
+            },
+            {
+              "number": 23,
+              "name": "Josef Dias Souza",
+              "short": "Souza"
+            },
+            {
+              "number": 6,
+              "name": "Fredy Guarín",
+              "short": "Guarín"
+            },
+            {
+              "number": 8,
+              "name": "João Moutinho",
+              "short": "Moutinho"
+            },
+            {
+              "number": 10,
+              "name": "Cristian Rodríguez",
+              "short": "Rodríguez"
+            },
+            {
+              "number": 11,
+              "name": "Kléber"
+            },
+            {
+              "number": 12,
+              "name": "Hulk"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 68,
+              "in": {
+                "number": 17,
+                "name": "Silvestre Varela",
+                "short": "Varela"
+              },
+              "out": {
+                "number": 10,
+                "name": "Cristian Rodríguez",
+                "short": "Rodríguez"
+              }
+            },
+            {
+              "minute": 77,
+              "in": {
+                "number": 7,
+                "name": "Fernando Daniel Belluschi",
+                "short": "Belluschi"
+              },
+              "out": {
+                "number": 11,
+                "name": "Kléber"
+              }
+            },
+            {
+              "minute": 77,
+              "in": {
+                "number": 25,
+                "name": "Fernando"
+              },
+              "out": {
+                "number": 23,
+                "name": "Josef Dias Souza",
+                "short": "Souza"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Lionel Messi",
+          "team": "Barcellona",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Cesc Fàbregas",
+          "team": "Barcellona",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

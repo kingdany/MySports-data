@@ -1,0 +1,289 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2012-13",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2012-13-354393",
+      "competition": "supercoppa-europea",
+      "season": "2012-13",
+      "stage": "final",
+      "title": "Chelsea - Atletico Madrid",
+      "session": "match",
+      "startsAt": "2012-08-31T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-363",
+        "name": "Chelsea",
+        "shortName": "Chelsea",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+      },
+      "awayTeam": {
+        "id": "espn-1068",
+        "name": "Atlético Madrid",
+        "shortName": "Atletico Madrid",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+      },
+      "homeScore": 1,
+      "awayScore": 4,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 6,
+            "type": "goal",
+            "side": "away",
+            "player": "Radamel Falcao",
+            "short": "Falcao"
+          },
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "away",
+            "player": "Radamel Falcao",
+            "short": "Falcao"
+          },
+          {
+            "minute": 45,
+            "type": "goal",
+            "side": "away",
+            "player": "Radamel Falcao",
+            "short": "Falcao"
+          },
+          {
+            "minute": 60,
+            "type": "goal",
+            "side": "away",
+            "player": "Miranda"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "home",
+            "player": "Gary Cahill",
+            "short": "Cahill"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Petr Cech",
+              "short": "Cech"
+            },
+            {
+              "number": 2,
+              "name": "Branislav Ivanovic",
+              "short": "Ivanovic"
+            },
+            {
+              "number": 24,
+              "name": "Gary Cahill",
+              "short": "Cahill"
+            },
+            {
+              "number": 4,
+              "name": "David Luiz",
+              "short": "Luiz"
+            },
+            {
+              "number": 3,
+              "name": "Ashley Cole",
+              "short": "Cole"
+            },
+            {
+              "number": 12,
+              "name": "John Obi Mikel",
+              "short": "Mikel"
+            },
+            {
+              "number": 8,
+              "name": "Frank Lampard",
+              "short": "Lampard"
+            },
+            {
+              "number": 7,
+              "name": "Ramires"
+            },
+            {
+              "number": 17,
+              "name": "Eden Hazard",
+              "short": "Hazard"
+            },
+            {
+              "number": 10,
+              "name": "Juan Mata",
+              "short": "Mata"
+            },
+            {
+              "number": 9,
+              "name": "Fernando Torres",
+              "short": "Torres"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 46,
+              "in": {
+                "number": 11,
+                "name": "Oscar"
+              },
+              "out": {
+                "number": 7,
+                "name": "Ramires"
+              }
+            },
+            {
+              "minute": 81,
+              "in": {
+                "number": 23,
+                "name": "Daniel Sturridge",
+                "short": "Sturridge"
+              },
+              "out": {
+                "number": 10,
+                "name": "Juan Mata",
+                "short": "Mata"
+              }
+            },
+            {
+              "minute": 89,
+              "in": {
+                "number": 34,
+                "name": "Ryan Bertrand",
+                "short": "Bertrand"
+              },
+              "out": {
+                "number": 3,
+                "name": "Ashley Cole",
+                "short": "Cole"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "Thibaut Courtois",
+              "short": "Courtois"
+            },
+            {
+              "number": 23,
+              "name": "Miranda"
+            },
+            {
+              "number": 2,
+              "name": "Diego Godín",
+              "short": "Godín"
+            },
+            {
+              "number": 3,
+              "name": "Filipe Luís"
+            },
+            {
+              "number": 20,
+              "name": "Juanfran"
+            },
+            {
+              "number": 4,
+              "name": "Mario Suárez",
+              "short": "Suárez"
+            },
+            {
+              "number": 14,
+              "name": "Gabi"
+            },
+            {
+              "number": 6,
+              "name": "Koke"
+            },
+            {
+              "number": 10,
+              "name": "Arda Turan",
+              "short": "Turan"
+            },
+            {
+              "number": 7,
+              "name": "Adrián"
+            },
+            {
+              "number": 9,
+              "name": "Radamel Falcao",
+              "short": "Falcao"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 56,
+              "in": {
+                "number": 11,
+                "name": "Cristian Rodríguez",
+                "short": "Rodríguez"
+              },
+              "out": {
+                "number": 7,
+                "name": "Adrián"
+              }
+            },
+            {
+              "minute": 81,
+              "in": {
+                "number": 8,
+                "name": "Raúl García",
+                "short": "García"
+              },
+              "out": {
+                "number": 6,
+                "name": "Koke"
+              }
+            },
+            {
+              "minute": 87,
+              "in": {
+                "number": 21,
+                "name": "Emre Belözoglu",
+                "short": "Belözoglu"
+              },
+              "out": {
+                "number": 9,
+                "name": "Radamel Falcao",
+                "short": "Falcao"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Radamel Falcao",
+          "team": "Atletico Madrid",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Miranda",
+          "team": "Atletico Madrid",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Gary Cahill",
+          "team": "Chelsea",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

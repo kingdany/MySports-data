@@ -1,0 +1,337 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2019-20",
+  "generatedAt": "2026-11-23T16:19:24.9111259+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2019-20-540609",
+      "competition": "supercoppa-europea",
+      "season": "2019-20",
+      "stage": "final",
+      "title": "Liverpool - Chelsea",
+      "session": "match",
+      "startsAt": "2019-08-14T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-364",
+        "name": "Liverpool",
+        "shortName": "Liverpool",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+      },
+      "awayTeam": {
+        "id": "espn-363",
+        "name": "Chelsea",
+        "shortName": "Chelsea",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "homePenalties": 5,
+      "awayPenalties": 4,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 36,
+            "type": "goal",
+            "side": "away",
+            "player": "Olivier Giroud",
+            "short": "Giroud"
+          },
+          {
+            "minute": 48,
+            "type": "goal",
+            "side": "home",
+            "player": "Sadio Mané",
+            "short": "Mané"
+          },
+          {
+            "minute": 79,
+            "type": "yellow",
+            "side": "away",
+            "player": "César Azpilicueta",
+            "short": "Azpilicueta"
+          },
+          {
+            "minute": 85,
+            "type": "yellow",
+            "side": "home",
+            "player": "Jordan Henderson",
+            "short": "Henderson"
+          },
+          {
+            "minute": 95,
+            "type": "goal",
+            "side": "home",
+            "player": "Sadio Mané",
+            "short": "Mané"
+          },
+          {
+            "minute": 101,
+            "type": "penalty",
+            "side": "away",
+            "player": "Jorginho"
+          },
+          {
+            "minute": 107,
+            "type": "yellow",
+            "side": "home",
+            "player": "Trent Alexander-Arnold",
+            "short": "Alexander-Arnold"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "Adrián "
+            },
+            {
+              "number": 4,
+              "name": "Virgil van Dijk",
+              "short": "van Dijk"
+            },
+            {
+              "number": 32,
+              "name": "Joël Matip",
+              "short": "Matip"
+            },
+            {
+              "number": 26,
+              "name": "Andy Robertson",
+              "short": "Robertson"
+            },
+            {
+              "number": 12,
+              "name": "Joe Gomez",
+              "short": "Gomez"
+            },
+            {
+              "number": 3,
+              "name": "Fabinho"
+            },
+            {
+              "number": 7,
+              "name": "James Milner",
+              "short": "Milner"
+            },
+            {
+              "number": 14,
+              "name": "Jordan Henderson",
+              "short": "Henderson"
+            },
+            {
+              "number": 10,
+              "name": "Sadio Mané",
+              "short": "Mané"
+            },
+            {
+              "number": 15,
+              "name": "Alex Oxlade-Chamberlain",
+              "short": "Oxlade-Chamberlain"
+            },
+            {
+              "number": 11,
+              "name": "Mohamed Salah",
+              "short": "Salah"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 9,
+                "name": "Roberto Firmino",
+                "short": "Firmino"
+              },
+              "out": {
+                "number": 15,
+                "name": "Alex Oxlade-Chamberlain",
+                "short": "Oxlade-Chamberlain"
+              }
+            },
+            {
+              "minute": 64,
+              "in": {
+                "number": 5,
+                "name": "Georginio Wijnaldum",
+                "short": "Wijnaldum"
+              },
+              "out": {
+                "number": 7,
+                "name": "James Milner",
+                "short": "Milner"
+              }
+            },
+            {
+              "minute": 90,
+              "in": {
+                "number": 66,
+                "name": "Trent Alexander-Arnold",
+                "short": "Alexander-Arnold"
+              },
+              "out": {
+                "number": 26,
+                "name": "Andy Robertson",
+                "short": "Robertson"
+              }
+            },
+            {
+              "minute": 103,
+              "in": {
+                "number": 27,
+                "name": "Divock Origi",
+                "short": "Origi"
+              },
+              "out": {
+                "number": 10,
+                "name": "Sadio Mané",
+                "short": "Mané"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Kepa Arrizabalaga",
+              "short": "Arrizabalaga"
+            },
+            {
+              "number": 15,
+              "name": "Kurt Zouma",
+              "short": "Zouma"
+            },
+            {
+              "number": 4,
+              "name": "Andreas Christensen",
+              "short": "Christensen"
+            },
+            {
+              "number": 33,
+              "name": "Emerson"
+            },
+            {
+              "number": 28,
+              "name": "César Azpilicueta",
+              "short": "Azpilicueta"
+            },
+            {
+              "number": 5,
+              "name": "Jorginho"
+            },
+            {
+              "number": 17,
+              "name": "Mateo Kovacic",
+              "short": "Kovacic"
+            },
+            {
+              "number": 7,
+              "name": "N'Golo Kanté",
+              "short": "Kanté"
+            },
+            {
+              "number": 18,
+              "name": "Olivier Giroud",
+              "short": "Giroud"
+            },
+            {
+              "number": 22,
+              "name": "Christian Pulisic",
+              "short": "Pulisic"
+            },
+            {
+              "number": 11,
+              "name": "Pedro"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 74,
+              "in": {
+                "number": 9,
+                "name": "Tammy Abraham",
+                "short": "Abraham"
+              },
+              "out": {
+                "number": 18,
+                "name": "Olivier Giroud",
+                "short": "Giroud"
+              }
+            },
+            {
+              "minute": 74,
+              "in": {
+                "number": 19,
+                "name": "Mason Mount",
+                "short": "Mount"
+              },
+              "out": {
+                "number": 22,
+                "name": "Christian Pulisic",
+                "short": "Pulisic"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 29,
+                "name": "Fikayo Tomori",
+                "short": "Tomori"
+              },
+              "out": {
+                "number": 4,
+                "name": "Andreas Christensen",
+                "short": "Christensen"
+              }
+            },
+            {
+              "minute": 101,
+              "in": {
+                "number": 8,
+                "name": "Ross Barkley",
+                "short": "Barkley"
+              },
+              "out": {
+                "number": 17,
+                "name": "Mateo Kovacic",
+                "short": "Kovacic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Sadio Mané",
+          "team": "Liverpool",
+          "points": 2
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Jorginho",
+          "team": "Chelsea",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Olivier Giroud",
+          "team": "Chelsea",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}
