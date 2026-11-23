@@ -1,0 +1,369 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2025-26",
+  "generatedAt": "2026-11-23T16:21:43.7509311+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2025-26-735899",
+      "competition": "supercoppa-europea",
+      "season": "2025-26",
+      "stage": "final",
+      "title": "PSG - Tottenham",
+      "session": "match",
+      "startsAt": "2025-08-13T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-160",
+        "name": "Paris Saint-Germain",
+        "shortName": "PSG",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
+      },
+      "awayTeam": {
+        "id": "espn-367",
+        "name": "Tottenham Hotspur",
+        "shortName": "Tottenham",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "homePenalties": 4,
+      "awayPenalties": 3,
+      "videos": [
+        {
+          "videoId": "Cves56jFq0U",
+          "title": "PSG-Tottenham 6-5 (d.c.r.): gol e highlights | Supercoppa Europea",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Cves56jFq0U/hqdefault.jpg",
+          "publishedAt": "2025-08-13T21:54:30+00:00",
+          "source": "Sky Sport",
+          "duration": "4:02"
+        }
+      ],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "away",
+            "player": "Micky van de Ven",
+            "short": "van de Ven"
+          },
+          {
+            "minute": 48,
+            "type": "goal",
+            "side": "away",
+            "player": "Cristian Romero",
+            "short": "Romero"
+          },
+          {
+            "minute": 53,
+            "type": "yellow",
+            "side": "away",
+            "player": "Richarlison"
+          },
+          {
+            "minute": 55,
+            "type": "yellow",
+            "side": "home",
+            "player": "Bradley Barcola",
+            "short": "Barcola"
+          },
+          {
+            "minute": 58,
+            "type": "yellow",
+            "side": "home",
+            "player": "Willian Pacho",
+            "short": "Pacho"
+          },
+          {
+            "minute": 62,
+            "type": "yellow",
+            "side": "away",
+            "player": "Kevin Danso",
+            "short": "Danso"
+          },
+          {
+            "minute": 85,
+            "type": "goal",
+            "side": "home",
+            "player": "Lee Kang-In",
+            "short": "Kang-In"
+          },
+          {
+            "minute": 90,
+            "type": "yellow",
+            "side": "home",
+            "player": "Ousmane Dembélé",
+            "short": "Dembélé"
+          },
+          {
+            "minute": 90,
+            "addedTime": 4,
+            "type": "goal",
+            "side": "home",
+            "player": "Gonçalo Ramos",
+            "short": "Ramos"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 30,
+              "name": "Lucas Chevalier",
+              "short": "Chevalier"
+            },
+            {
+              "number": 51,
+              "name": "Willian Pacho",
+              "short": "Pacho"
+            },
+            {
+              "number": 5,
+              "name": "Marquinhos"
+            },
+            {
+              "number": 25,
+              "name": "Nuno Mendes",
+              "short": "Mendes"
+            },
+            {
+              "number": 2,
+              "name": "Achraf Hakimi",
+              "short": "Hakimi"
+            },
+            {
+              "number": 17,
+              "name": "Vitinha"
+            },
+            {
+              "number": 14,
+              "name": "Désiré Doué",
+              "short": "Doué"
+            },
+            {
+              "number": 33,
+              "name": "Warren Zaïre-Emery",
+              "short": "Zaïre-Emery"
+            },
+            {
+              "number": 10,
+              "name": "Ousmane Dembélé",
+              "short": "Dembélé"
+            },
+            {
+              "number": 29,
+              "name": "Bradley Barcola",
+              "short": "Barcola"
+            },
+            {
+              "number": 7,
+              "name": "Khvicha Kvaratskhelia",
+              "short": "Kvaratskhelia"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 60,
+              "in": {
+                "number": 8,
+                "name": "Fabián Ruiz",
+                "short": "Ruiz"
+              },
+              "out": {
+                "number": 7,
+                "name": "Khvicha Kvaratskhelia",
+                "short": "Kvaratskhelia"
+              }
+            },
+            {
+              "minute": 67,
+              "in": {
+                "number": 49,
+                "name": "Ibrahim Mbaye",
+                "short": "Mbaye"
+              },
+              "out": {
+                "number": 29,
+                "name": "Bradley Barcola",
+                "short": "Barcola"
+              }
+            },
+            {
+              "minute": 67,
+              "in": {
+                "number": 19,
+                "name": "Lee Kang-In",
+                "short": "Kang-In"
+              },
+              "out": {
+                "number": 33,
+                "name": "Warren Zaïre-Emery",
+                "short": "Zaïre-Emery"
+              }
+            },
+            {
+              "minute": 77,
+              "in": {
+                "number": 9,
+                "name": "Gonçalo Ramos",
+                "short": "Ramos"
+              },
+              "out": {
+                "number": 14,
+                "name": "Désiré Doué",
+                "short": "Doué"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Guglielmo Vicario",
+              "short": "Vicario"
+            },
+            {
+              "number": 17,
+              "name": "Cristian Romero",
+              "short": "Romero"
+            },
+            {
+              "number": 37,
+              "name": "Micky van de Ven",
+              "short": "van de Ven"
+            },
+            {
+              "number": 4,
+              "name": "Kevin Danso",
+              "short": "Danso"
+            },
+            {
+              "number": 24,
+              "name": "Djed Spence",
+              "short": "Spence"
+            },
+            {
+              "number": 23,
+              "name": "Pedro Porro",
+              "short": "Porro"
+            },
+            {
+              "number": 30,
+              "name": "Rodrigo Bentancur",
+              "short": "Bentancur"
+            },
+            {
+              "number": 29,
+              "name": "Pape Matar Sarr",
+              "short": "Sarr"
+            },
+            {
+              "number": 6,
+              "name": "João Palhinha",
+              "short": "Palhinha"
+            },
+            {
+              "number": 9,
+              "name": "Richarlison"
+            },
+            {
+              "number": 20,
+              "name": "Mohammed Kudus",
+              "short": "Kudus"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 72,
+              "in": {
+                "number": 19,
+                "name": "Dominic Solanke",
+                "short": "Solanke"
+              },
+              "out": {
+                "number": 9,
+                "name": "Richarlison"
+              }
+            },
+            {
+              "minute": 72,
+              "in": {
+                "number": 14,
+                "name": "Archie Gray",
+                "short": "Gray"
+              },
+              "out": {
+                "number": 6,
+                "name": "João Palhinha",
+                "short": "Palhinha"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 11,
+                "name": "Mathys Tel",
+                "short": "Tel"
+              },
+              "out": {
+                "number": 20,
+                "name": "Mohammed Kudus",
+                "short": "Kudus"
+              }
+            },
+            {
+              "minute": 90,
+              "in": {
+                "number": 15,
+                "name": "Lucas Bergvall",
+                "short": "Bergvall"
+              },
+              "out": {
+                "number": 29,
+                "name": "Pape Matar Sarr",
+                "short": "Sarr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Micky van de Ven",
+          "team": "Tottenham",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Cristian Romero",
+          "team": "Tottenham",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Lee Kang-In",
+          "team": "Paris Saint-Germain",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Gonçalo Ramos",
+          "team": "Paris Saint-Germain",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

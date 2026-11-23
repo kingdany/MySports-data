@@ -1,0 +1,366 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2026-27",
+  "generatedAt": "2026-11-23T16:21:43.7509311+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2026-27-401873624",
+      "competition": "supercoppa-europea",
+      "season": "2026-27",
+      "stage": "final",
+      "title": "PSG - Aston Villa",
+      "session": "match",
+      "startsAt": "2026-08-12T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-160",
+        "name": "Paris Saint-Germain",
+        "shortName": "PSG",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
+      },
+      "awayTeam": {
+        "id": "espn-362",
+        "name": "Aston Villa",
+        "shortName": "Aston Villa",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [
+        {
+          "videoId": "r_VNstDRKBA",
+          "title": "PSG-Aston Villa 2-1: gol e highlights | Supercoppa Europea",
+          "thumbnailUrl": "https://i.ytimg.com/vi/r_VNstDRKBA/hqdefault.jpg",
+          "publishedAt": "2026-08-12T21:42:50+00:00",
+          "source": "Sky Sport",
+          "duration": "4:02"
+        }
+      ],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 20,
+            "type": "goal",
+            "side": "home",
+            "player": "Khvicha Kvaratskhelia",
+            "short": "Kvaratskhelia"
+          },
+          {
+            "minute": 45,
+            "type": "goal",
+            "side": "away",
+            "player": "Brian Madjo",
+            "short": "Madjo"
+          },
+          {
+            "minute": 51,
+            "type": "yellow",
+            "side": "away",
+            "player": "Pau Torres",
+            "short": "Torres"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Désiré Doué",
+            "short": "Doué"
+          },
+          {
+            "minute": 64,
+            "type": "yellow",
+            "side": "away",
+            "player": "João Gomes",
+            "short": "Gomes"
+          },
+          {
+            "minute": 72,
+            "type": "yellow",
+            "side": "away",
+            "player": "John McGinn",
+            "short": "McGinn"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 39,
+              "name": "Matvei Safonov",
+              "short": "Safonov"
+            },
+            {
+              "number": 51,
+              "name": "Willian Pacho",
+              "short": "Pacho"
+            },
+            {
+              "number": 5,
+              "name": "Marquinhos"
+            },
+            {
+              "number": 25,
+              "name": "Nuno Mendes",
+              "short": "Mendes"
+            },
+            {
+              "number": 2,
+              "name": "Achraf Hakimi",
+              "short": "Hakimi"
+            },
+            {
+              "number": 17,
+              "name": "Vitinha"
+            },
+            {
+              "number": 87,
+              "name": "João Neves",
+              "short": "Neves"
+            },
+            {
+              "number": 33,
+              "name": "Warren Zaïre-Emery",
+              "short": "Zaïre-Emery"
+            },
+            {
+              "number": 11,
+              "name": "Maghnes Akliouche",
+              "short": "Akliouche"
+            },
+            {
+              "number": 7,
+              "name": "Khvicha Kvaratskhelia",
+              "short": "Kvaratskhelia"
+            },
+            {
+              "number": 14,
+              "name": "Désiré Doué",
+              "short": "Doué"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 10,
+                "name": "Ousmane Dembélé",
+                "short": "Dembélé"
+              },
+              "out": {
+                "number": 11,
+                "name": "Maghnes Akliouche",
+                "short": "Akliouche"
+              }
+            },
+            {
+              "minute": 75,
+              "in": {
+                "number": 21,
+                "name": "Lucas Hernández",
+                "short": "Hernández"
+              },
+              "out": {
+                "number": 25,
+                "name": "Nuno Mendes",
+                "short": "Mendes"
+              }
+            },
+            {
+              "minute": 75,
+              "in": {
+                "number": 8,
+                "name": "Fabián Ruiz",
+                "short": "Ruiz"
+              },
+              "out": {
+                "number": 87,
+                "name": "João Neves",
+                "short": "Neves"
+              }
+            },
+            {
+              "minute": 87,
+              "in": {
+                "number": 24,
+                "name": "Senny Mayulu",
+                "short": "Mayulu"
+              },
+              "out": {
+                "number": 14,
+                "name": "Désiré Doué",
+                "short": "Doué"
+              }
+            },
+            {
+              "minute": 88,
+              "in": {
+                "number": 4,
+                "name": "Lucas Beraldo",
+                "short": "Beraldo"
+              },
+              "out": {
+                "number": 7,
+                "name": "Khvicha Kvaratskhelia",
+                "short": "Kvaratskhelia"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 40,
+              "name": "Marco Bizot",
+              "short": "Bizot"
+            },
+            {
+              "number": 14,
+              "name": "Pau Torres",
+              "short": "Torres"
+            },
+            {
+              "number": 3,
+              "name": "Victor Lindelöf",
+              "short": "Lindelöf"
+            },
+            {
+              "number": 22,
+              "name": "Ian Maatsen",
+              "short": "Maatsen"
+            },
+            {
+              "number": 2,
+              "name": "Matty Cash",
+              "short": "Cash"
+            },
+            {
+              "number": 10,
+              "name": "Emiliano Buendía",
+              "short": "Buendía"
+            },
+            {
+              "number": 35,
+              "name": "João Gomes",
+              "short": "Gomes"
+            },
+            {
+              "number": 8,
+              "name": "Boubacar Kamara",
+              "short": "Kamara"
+            },
+            {
+              "number": 39,
+              "name": "Brian Madjo",
+              "short": "Madjo"
+            },
+            {
+              "number": 53,
+              "name": "George Hemmings",
+              "short": "Hemmings"
+            },
+            {
+              "number": 7,
+              "name": "John McGinn",
+              "short": "McGinn"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 72,
+              "in": {
+                "number": 18,
+                "name": "Tammy Abraham",
+                "short": "Abraham"
+              },
+              "out": {
+                "number": 39,
+                "name": "Brian Madjo",
+                "short": "Madjo"
+              }
+            },
+            {
+              "minute": 72,
+              "in": {
+                "number": 26,
+                "name": "Lamare Bogarde",
+                "short": "Bogarde"
+              },
+              "out": {
+                "number": 8,
+                "name": "Boubacar Kamara",
+                "short": "Kamara"
+              }
+            },
+            {
+              "minute": 73,
+              "in": {
+                "number": 47,
+                "name": "Alysson"
+              },
+              "out": {
+                "number": 7,
+                "name": "John McGinn",
+                "short": "McGinn"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 5,
+                "name": "Tyrone Mings",
+                "short": "Mings"
+              },
+              "out": {
+                "number": 14,
+                "name": "Pau Torres",
+                "short": "Torres"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 6,
+                "name": "Ross Barkley",
+                "short": "Barkley"
+              },
+              "out": {
+                "number": 35,
+                "name": "João Gomes",
+                "short": "Gomes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Khvicha Kvaratskhelia",
+          "team": "Paris Saint-Germain",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Désiré Doué",
+          "team": "Paris Saint-Germain",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Brian Madjo",
+          "team": "Aston Villa",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

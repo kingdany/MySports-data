@@ -1,0 +1,355 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2024-25",
+  "generatedAt": "2026-11-23T16:21:43.7509311+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2024-25-702700",
+      "competition": "supercoppa-europea",
+      "season": "2024-25",
+      "stage": "final",
+      "title": "Real Madrid - Atalanta",
+      "session": "match",
+      "startsAt": "2024-08-14T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-86",
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      },
+      "awayTeam": {
+        "id": "espn-105",
+        "name": "Atalanta",
+        "shortName": "Atalanta",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [
+        {
+          "videoId": "vzguYB4p4w8",
+          "title": "Real Madrid-Atalanta 2-0: gol e highlights | Supercoppa europea",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vzguYB4p4w8/hqdefault.jpg",
+          "publishedAt": "2024-08-14T21:15:11+00:00",
+          "source": "Sky Sport",
+          "duration": "3:33"
+        }
+      ],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 9,
+            "type": "yellow",
+            "side": "away",
+            "player": "Éderson"
+          },
+          {
+            "minute": 35,
+            "type": "yellow",
+            "side": "home",
+            "player": "Jude Bellingham",
+            "short": "Bellingham"
+          },
+          {
+            "minute": 42,
+            "type": "yellow",
+            "side": "home",
+            "player": "Vinícius Júnior"
+          },
+          {
+            "minute": 59,
+            "type": "goal",
+            "side": "home",
+            "player": "Federico Valverde",
+            "short": "Valverde"
+          },
+          {
+            "minute": 64,
+            "type": "yellow",
+            "side": "away",
+            "player": "Berat Djimsiti",
+            "short": "Djimsiti"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Kylian Mbappé",
+            "short": "Mbappé"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Thibaut Courtois",
+              "short": "Courtois"
+            },
+            {
+              "number": 22,
+              "name": "Antonio Rüdiger",
+              "short": "Rüdiger"
+            },
+            {
+              "number": 3,
+              "name": "Éder Militão",
+              "short": "Militão"
+            },
+            {
+              "number": 23,
+              "name": "Ferland Mendy",
+              "short": "Mendy"
+            },
+            {
+              "number": 2,
+              "name": "Dani Carvajal",
+              "short": "Carvajal"
+            },
+            {
+              "number": 14,
+              "name": "Aurélien Tchouaméni",
+              "short": "Tchouaméni"
+            },
+            {
+              "number": 5,
+              "name": "Jude Bellingham",
+              "short": "Bellingham"
+            },
+            {
+              "number": 8,
+              "name": "Federico Valverde",
+              "short": "Valverde"
+            },
+            {
+              "number": 9,
+              "name": "Kylian Mbappé",
+              "short": "Mbappé"
+            },
+            {
+              "number": 7,
+              "name": "Vinícius Júnior"
+            },
+            {
+              "number": 11,
+              "name": "Rodrygo"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 76,
+              "in": {
+                "number": 10,
+                "name": "Luka Modric",
+                "short": "Modric"
+              },
+              "out": {
+                "number": 11,
+                "name": "Rodrygo"
+              }
+            },
+            {
+              "minute": 83,
+              "in": {
+                "number": 21,
+                "name": "Brahim Díaz",
+                "short": "Díaz"
+              },
+              "out": {
+                "number": 9,
+                "name": "Kylian Mbappé",
+                "short": "Mbappé"
+              }
+            },
+            {
+              "minute": 88,
+              "in": {
+                "number": 15,
+                "name": "Arda Güler",
+                "short": "Güler"
+              },
+              "out": {
+                "number": 7,
+                "name": "Vinícius Júnior"
+              }
+            },
+            {
+              "minute": 89,
+              "in": {
+                "number": 19,
+                "name": "Dani Ceballos",
+                "short": "Ceballos"
+              },
+              "out": {
+                "number": 5,
+                "name": "Jude Bellingham",
+                "short": "Bellingham"
+              }
+            },
+            {
+              "minute": 89,
+              "in": {
+                "number": 17,
+                "name": "Lucas Vázquez",
+                "short": "Vázquez"
+              },
+              "out": {
+                "number": 2,
+                "name": "Dani Carvajal",
+                "short": "Carvajal"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Juan Musso",
+              "short": "Musso"
+            },
+            {
+              "number": 4,
+              "name": "Isak Hien",
+              "short": "Hien"
+            },
+            {
+              "number": 23,
+              "name": "Sead Kolasinac",
+              "short": "Kolasinac"
+            },
+            {
+              "number": 19,
+              "name": "Berat Djimsiti",
+              "short": "Djimsiti"
+            },
+            {
+              "number": 13,
+              "name": "Éderson"
+            },
+            {
+              "number": 15,
+              "name": "Marten de Roon",
+              "short": "de Roon"
+            },
+            {
+              "number": 8,
+              "name": "Mario Pasalic",
+              "short": "Pasalic"
+            },
+            {
+              "number": 22,
+              "name": "Matteo Ruggeri",
+              "short": "Ruggeri"
+            },
+            {
+              "number": 77,
+              "name": "Davide Zappacosta",
+              "short": "Zappacosta"
+            },
+            {
+              "number": 11,
+              "name": "Ademola Lookman",
+              "short": "Lookman"
+            },
+            {
+              "number": 17,
+              "name": "Charles De Ketelaere",
+              "short": "De Ketelaere"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 63,
+              "in": {
+                "number": 32,
+                "name": "Mateo Retegui",
+                "short": "Retegui"
+              },
+              "out": {
+                "number": 17,
+                "name": "Charles De Ketelaere",
+                "short": "De Ketelaere"
+              }
+            },
+            {
+              "minute": 63,
+              "in": {
+                "number": 5,
+                "name": "Ben Godfrey",
+                "short": "Godfrey"
+              },
+              "out": {
+                "number": 77,
+                "name": "Davide Zappacosta",
+                "short": "Zappacosta"
+              }
+            },
+            {
+              "minute": 71,
+              "in": {
+                "number": 20,
+                "name": "Mitchel Bakker",
+                "short": "Bakker"
+              },
+              "out": {
+                "number": 23,
+                "name": "Sead Kolasinac",
+                "short": "Kolasinac"
+              }
+            },
+            {
+              "minute": 90,
+              "in": {
+                "number": 27,
+                "name": "Marco Palestra",
+                "short": "Palestra"
+              },
+              "out": {
+                "number": 4,
+                "name": "Isak Hien",
+                "short": "Hien"
+              }
+            },
+            {
+              "minute": 90,
+              "in": {
+                "number": 44,
+                "name": "Alberto Manzoni",
+                "short": "Manzoni"
+              },
+              "out": {
+                "number": 8,
+                "name": "Mario Pasalic",
+                "short": "Pasalic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Federico Valverde",
+          "team": "Real Madrid",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

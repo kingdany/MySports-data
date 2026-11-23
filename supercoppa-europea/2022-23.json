@@ -1,0 +1,312 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2022-23",
+  "generatedAt": "2026-11-23T16:21:43.7509311+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2022-23-635831",
+      "competition": "supercoppa-europea",
+      "season": "2022-23",
+      "stage": "final",
+      "title": "Real Madrid - Eintracht Francoforte",
+      "session": "match",
+      "startsAt": "2022-08-10T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-86",
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      },
+      "awayTeam": {
+        "id": "espn-125",
+        "name": "Eintracht Frankfurt",
+        "shortName": "Eintracht Francoforte",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [
+        {
+          "videoId": "UgLKhQfuUDY",
+          "title": "Supercoppa, Real-Eintracht 2-0: gol e highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UgLKhQfuUDY/hqdefault.jpg",
+          "publishedAt": "2022-08-12T11:20:00+00:00",
+          "source": "Sky Sport",
+          "duration": "2:48",
+          "embeddable": false
+        }
+      ],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 37,
+            "type": "goal",
+            "side": "home",
+            "player": "David Alaba",
+            "short": "Alaba"
+          },
+          {
+            "minute": 65,
+            "type": "goal",
+            "side": "home",
+            "player": "Karim Benzema",
+            "short": "Benzema"
+          },
+          {
+            "minute": 90,
+            "addedTime": 2,
+            "type": "yellow",
+            "side": "away",
+            "player": "Lucas Alario",
+            "short": "Alario"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Thibaut Courtois",
+              "short": "Courtois"
+            },
+            {
+              "number": 4,
+              "name": "David Alaba",
+              "short": "Alaba"
+            },
+            {
+              "number": 3,
+              "name": "Éder Militão",
+              "short": "Militão"
+            },
+            {
+              "number": 23,
+              "name": "Ferland Mendy",
+              "short": "Mendy"
+            },
+            {
+              "number": 2,
+              "name": "Dani Carvajal",
+              "short": "Carvajal"
+            },
+            {
+              "number": 14,
+              "name": "Casemiro"
+            },
+            {
+              "number": 8,
+              "name": "Toni Kroos",
+              "short": "Kroos"
+            },
+            {
+              "number": 10,
+              "name": "Luka Modric",
+              "short": "Modric"
+            },
+            {
+              "number": 9,
+              "name": "Karim Benzema",
+              "short": "Benzema"
+            },
+            {
+              "number": 20,
+              "name": "Vinícius Júnior"
+            },
+            {
+              "number": 15,
+              "name": "Federico Valverde",
+              "short": "Valverde"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 66,
+              "in": {
+                "number": 21,
+                "name": "Rodrygo"
+              },
+              "out": {
+                "number": 10,
+                "name": "Luka Modric",
+                "short": "Modric"
+              }
+            },
+            {
+              "minute": 76,
+              "in": {
+                "number": 25,
+                "name": "Eduardo Camavinga",
+                "short": "Camavinga"
+              },
+              "out": {
+                "number": 15,
+                "name": "Federico Valverde",
+                "short": "Valverde"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 19,
+                "name": "Dani Ceballos",
+                "short": "Ceballos"
+              },
+              "out": {
+                "number": 20,
+                "name": "Vinícius Júnior"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 18,
+                "name": "Aurélien Tchouaméni",
+                "short": "Tchouaméni"
+              },
+              "out": {
+                "number": 8,
+                "name": "Toni Kroos",
+                "short": "Kroos"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 22,
+                "name": "Antonio Rüdiger",
+                "short": "Rüdiger"
+              },
+              "out": {
+                "number": 2,
+                "name": "Dani Carvajal",
+                "short": "Carvajal"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Kevin Trapp",
+              "short": "Trapp"
+            },
+            {
+              "number": 35,
+              "name": "Tuta"
+            },
+            {
+              "number": 2,
+              "name": "Evan Ndicka",
+              "short": "Ndicka"
+            },
+            {
+              "number": 18,
+              "name": "Almamy Touré",
+              "short": "Touré"
+            },
+            {
+              "number": 8,
+              "name": "Djibril Sow",
+              "short": "Sow"
+            },
+            {
+              "number": 17,
+              "name": "Sebastian Rode",
+              "short": "Rode"
+            },
+            {
+              "number": 25,
+              "name": "Christopher Lenz",
+              "short": "Lenz"
+            },
+            {
+              "number": 36,
+              "name": "Ansgar Knauff",
+              "short": "Knauff"
+            },
+            {
+              "number": 19,
+              "name": "Rafael Borré",
+              "short": "Borré"
+            },
+            {
+              "number": 15,
+              "name": "Daichi Kamada",
+              "short": "Kamada"
+            },
+            {
+              "number": 29,
+              "name": "Jesper Lindstrom",
+              "short": "Lindstrom"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 58,
+              "in": {
+                "number": 27,
+                "name": "Mario Götze",
+                "short": "Götze"
+              },
+              "out": {
+                "number": 17,
+                "name": "Sebastian Rode",
+                "short": "Rode"
+              }
+            },
+            {
+              "minute": 58,
+              "in": {
+                "number": 9,
+                "name": "Randal Kolo Muani",
+                "short": "Kolo Muani"
+              },
+              "out": {
+                "number": 29,
+                "name": "Jesper Lindstrom",
+                "short": "Lindstrom"
+              }
+            },
+            {
+              "minute": 69,
+              "in": {
+                "number": 21,
+                "name": "Lucas Alario",
+                "short": "Alario"
+              },
+              "out": {
+                "number": 18,
+                "name": "Almamy Touré",
+                "short": "Touré"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "David Alaba",
+          "team": "Real Madrid",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Karim Benzema",
+          "team": "Real Madrid",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

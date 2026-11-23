@@ -1,0 +1,292 @@
+{
+  "competition": "supercoppa-europea",
+  "season": "2023-24",
+  "generatedAt": "2026-11-23T16:21:43.7509311+00:00",
+  "events": [
+    {
+      "id": "supercoppa-europea-2023-24-670084",
+      "competition": "supercoppa-europea",
+      "season": "2023-24",
+      "stage": "final",
+      "title": "Man City - Siviglia",
+      "session": "match",
+      "startsAt": "2023-08-16T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-382",
+        "name": "Manchester City",
+        "shortName": "Man City",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+      },
+      "awayTeam": {
+        "id": "espn-243",
+        "name": "Sevilla",
+        "shortName": "Siviglia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "homePenalties": 5,
+      "awayPenalties": 4,
+      "videos": [
+        {
+          "videoId": "Yt8pU-12jKo",
+          "title": "Supercoppa UEFA, Manchester City-Siviglia 5-4 dcr: gli highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Yt8pU-12jKo/hqdefault.jpg",
+          "publishedAt": "2023-08-16T22:30:27+00:00",
+          "source": "Sky Sport",
+          "duration": "3:03",
+          "embeddable": false
+        }
+      ],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 25,
+            "type": "goal",
+            "side": "away",
+            "player": "Youssef En-Nesyri",
+            "short": "En-Nesyri"
+          },
+          {
+            "minute": 33,
+            "type": "yellow",
+            "side": "away",
+            "player": "Loïc Badé",
+            "short": "Badé"
+          },
+          {
+            "minute": 61,
+            "type": "yellow",
+            "side": "away",
+            "player": "Erik Lamela",
+            "short": "Lamela"
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "home",
+            "player": "Cole Palmer",
+            "short": "Palmer"
+          },
+          {
+            "minute": 90,
+            "type": "yellow",
+            "side": "away",
+            "player": "Juanlu Sanchez",
+            "short": "Sánchez"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 31,
+              "name": "Ederson"
+            },
+            {
+              "number": 6,
+              "name": "Nathan Aké",
+              "short": "Aké"
+            },
+            {
+              "number": 25,
+              "name": "Manuel Akanji",
+              "short": "Akanji"
+            },
+            {
+              "number": 24,
+              "name": "Josko Gvardiol",
+              "short": "Gvardiol"
+            },
+            {
+              "number": 2,
+              "name": "Kyle Walker",
+              "short": "Walker"
+            },
+            {
+              "number": 16,
+              "name": "Rodri"
+            },
+            {
+              "number": 8,
+              "name": "Mateo Kovacic",
+              "short": "Kovacic"
+            },
+            {
+              "number": 47,
+              "name": "Phil Foden",
+              "short": "Foden"
+            },
+            {
+              "number": 9,
+              "name": "Erling Haaland",
+              "short": "Haaland"
+            },
+            {
+              "number": 10,
+              "name": "Jack Grealish",
+              "short": "Grealish"
+            },
+            {
+              "number": 80,
+              "name": "Cole Palmer",
+              "short": "Palmer"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 85,
+              "in": {
+                "number": 19,
+                "name": "Julián Álvarez",
+                "short": "Álvarez"
+              },
+              "out": {
+                "number": 80,
+                "name": "Cole Palmer",
+                "short": "Palmer"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "Yassine Bounou",
+              "short": "Bounou"
+            },
+            {
+              "number": 6,
+              "name": "Nemanja Gudelj",
+              "short": "Gudelj"
+            },
+            {
+              "number": 22,
+              "name": "Loïc Badé",
+              "short": "Badé"
+            },
+            {
+              "number": 19,
+              "name": "Marcos Acuña",
+              "short": "Acuña"
+            },
+            {
+              "number": 16,
+              "name": "Jesús Navas",
+              "short": "Navas"
+            },
+            {
+              "number": 21,
+              "name": "Óliver Torres",
+              "short": "Torres"
+            },
+            {
+              "number": 10,
+              "name": "Ivan Rakitić",
+              "short": "Rakitić"
+            },
+            {
+              "number": 8,
+              "name": "Joan Jordán",
+              "short": "Jordán"
+            },
+            {
+              "number": 15,
+              "name": "Youssef En-Nesyri",
+              "short": "En-Nesyri"
+            },
+            {
+              "number": 17,
+              "name": "Erik Lamela",
+              "short": "Lamela"
+            },
+            {
+              "number": 5,
+              "name": "Lucas Ocampos",
+              "short": "Ocampos"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 74,
+              "in": {
+                "number": 26,
+                "name": "Juanlu Sanchez",
+                "short": "Sánchez"
+              },
+              "out": {
+                "number": 21,
+                "name": "Óliver Torres",
+                "short": "Torres"
+              }
+            },
+            {
+              "minute": 83,
+              "in": {
+                "number": 4,
+                "name": "Gonzalo Montiel",
+                "short": "Montiel"
+              },
+              "out": {
+                "number": 16,
+                "name": "Jesús Navas",
+                "short": "Navas"
+              }
+            },
+            {
+              "minute": 90,
+              "addedTime": 3,
+              "in": {
+                "number": 9,
+                "name": "Rafa Mir",
+                "short": "Mir"
+              },
+              "out": {
+                "number": 15,
+                "name": "Youssef En-Nesyri",
+                "short": "En-Nesyri"
+              }
+            },
+            {
+              "minute": 90,
+              "addedTime": 3,
+              "in": {
+                "number": 7,
+                "name": "Suso"
+              },
+              "out": {
+                "number": 17,
+                "name": "Erik Lamela",
+                "short": "Lamela"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Youssef En-Nesyri",
+          "team": "Siviglia",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Cole Palmer",
+          "team": "Manchester City",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}
