@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2016-17",
-  "generatedAt": "2026-11-20T17:15:32.3853036+00:00",
+  "generatedAt": "2026-11-23T14:50:02.9228857+00:00",
   "events": [
     {
       "id": "coppa-italia-2016-17-461310",
@@ -10895,125 +10895,6 @@
           "name": "Lucas Biglia",
           "team": "Lazio",
           "points": 1
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Alessandro Murgia",
-          "team": "Lazio",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Wesley Hoedt",
-          "team": "Lazio",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Patric",
-          "team": "Lazio",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Miranda",
-          "team": "Inter",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Rodrigo Palacio",
-          "team": "Inter",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Senad Lulic",
-          "team": "Lazio",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Marco Parolo",
-          "team": "Lazio",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Stefan Radu",
-          "team": "Lazio",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Éver Banega",
-          "team": "Inter",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Danilo D'Ambrosio",
-          "team": "Inter",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Cristian Ansaldi",
-          "team": "Inter",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Sergej Milinkovic-Savic",
-          "team": "Lazio",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Wallace",
-          "team": "Lazio",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "João Mário",
-          "team": "Inter",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Jordan Lukaku",
-          "team": "Lazio",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Mauro Icardi",
-          "team": "Inter",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Gary Medel",
-          "team": "Inter",
-          "points": 0
         }
       ]
     }
