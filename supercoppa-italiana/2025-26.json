@@ -1,0 +1,942 @@
+{
+  "competition": "supercoppa-italiana",
+  "season": "2025-26",
+  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "events": [
+    {
+      "id": "supercoppa-italiana-2025-26-758975",
+      "competition": "supercoppa-italiana",
+      "season": "2025-26",
+      "stage": "semi_finals",
+      "title": "Napoli - Milan",
+      "session": "match",
+      "startsAt": "2025-12-18T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-114",
+        "name": "Napoli",
+        "shortName": "Napoli",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+      },
+      "awayTeam": {
+        "id": "espn-103",
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 38,
+            "type": "yellow",
+            "side": "away",
+            "player": "Adrien Rabiot",
+            "short": "Rabiot"
+          },
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "David Neres",
+            "short": "Neres"
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "home",
+            "player": "Rasmus Højlund",
+            "short": "Højlund"
+          },
+          {
+            "minute": 81,
+            "type": "yellow",
+            "side": "home",
+            "player": "Leonardo Spinazzola",
+            "short": "Spinazzola"
+          },
+          {
+            "minute": 83,
+            "type": "yellow",
+            "side": "home",
+            "player": "Scott McTominay",
+            "short": "McTominay"
+          },
+          {
+            "minute": 83,
+            "type": "yellow",
+            "side": "away",
+            "player": "Fikayo Tomori",
+            "short": "Tomori"
+          },
+          {
+            "minute": 85,
+            "type": "yellow",
+            "side": "away",
+            "player": "Zachary Athekame",
+            "short": "Athekame"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 32,
+              "name": "Vanja Milinkovic-Savic",
+              "short": "Milinkovic-Savic"
+            },
+            {
+              "number": 13,
+              "name": "Amir Rrahmani",
+              "short": "Rrahmani"
+            },
+            {
+              "number": 5,
+              "name": "Juan Jesus",
+              "short": "Jesus"
+            },
+            {
+              "number": 22,
+              "name": "Giovanni Di Lorenzo",
+              "short": "Di Lorenzo"
+            },
+            {
+              "number": 8,
+              "name": "Scott McTominay",
+              "short": "McTominay"
+            },
+            {
+              "number": 68,
+              "name": "Stanislav Lobotka",
+              "short": "Lobotka"
+            },
+            {
+              "number": 37,
+              "name": "Leonardo Spinazzola",
+              "short": "Spinazzola"
+            },
+            {
+              "number": 21,
+              "name": "Matteo Politano",
+              "short": "Politano"
+            },
+            {
+              "number": 19,
+              "name": "Rasmus Højlund",
+              "short": "Højlund"
+            },
+            {
+              "number": 20,
+              "name": "Eljif Elmas",
+              "short": "Elmas"
+            },
+            {
+              "number": 7,
+              "name": "David Neres",
+              "short": "Neres"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 77,
+              "in": {
+                "number": 70,
+                "name": "Noa Lang",
+                "short": "Lang"
+              },
+              "out": {
+                "number": 20,
+                "name": "Eljif Elmas",
+                "short": "Elmas"
+              }
+            },
+            {
+              "minute": 78,
+              "in": {
+                "number": 30,
+                "name": "Pasquale Mazzocchi",
+                "short": "Mazzocchi"
+              },
+              "out": {
+                "number": 21,
+                "name": "Matteo Politano",
+                "short": "Politano"
+              }
+            },
+            {
+              "minute": 81,
+              "in": {
+                "number": 3,
+                "name": "Miguel Gutiérrez",
+                "short": "Gutiérrez"
+              },
+              "out": {
+                "number": 37,
+                "name": "Leonardo Spinazzola",
+                "short": "Spinazzola"
+              }
+            },
+            {
+              "minute": 82,
+              "in": {
+                "number": 27,
+                "name": "Lorenzo Lucca",
+                "short": "Lucca"
+              },
+              "out": {
+                "number": 19,
+                "name": "Rasmus Højlund",
+                "short": "Højlund"
+              }
+            },
+            {
+              "minute": 88,
+              "in": {
+                "number": 26,
+                "name": "Antonio Vergara",
+                "short": "Vergara"
+              },
+              "out": {
+                "number": 7,
+                "name": "David Neres",
+                "short": "Neres"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 16,
+              "name": "Mike Maignan",
+              "short": "Maignan"
+            },
+            {
+              "number": 5,
+              "name": "Koni De Winter",
+              "short": "De Winter"
+            },
+            {
+              "number": 31,
+              "name": "Strahinja Pavlovic",
+              "short": "Pavlovic"
+            },
+            {
+              "number": 23,
+              "name": "Fikayo Tomori",
+              "short": "Tomori"
+            },
+            {
+              "number": 12,
+              "name": "Adrien Rabiot",
+              "short": "Rabiot"
+            },
+            {
+              "number": 8,
+              "name": "Ruben Loftus-Cheek",
+              "short": "Loftus-Cheek"
+            },
+            {
+              "number": 30,
+              "name": "Ardon Jashari",
+              "short": "Jashari"
+            },
+            {
+              "number": 2,
+              "name": "Pervis Estupiñán",
+              "short": "Estupiñán"
+            },
+            {
+              "number": 56,
+              "name": "Alexis Saelemaekers",
+              "short": "Saelemaekers"
+            },
+            {
+              "number": 11,
+              "name": "Christian Pulisic",
+              "short": "Pulisic"
+            },
+            {
+              "number": 18,
+              "name": "Christopher Nkunku",
+              "short": "Nkunku"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 69,
+              "in": {
+                "number": 19,
+                "name": "Youssouf Fofana",
+                "short": "Fofana"
+              },
+              "out": {
+                "number": 56,
+                "name": "Alexis Saelemaekers",
+                "short": "Saelemaekers"
+              }
+            },
+            {
+              "minute": 69,
+              "in": {
+                "number": 24,
+                "name": "Zachary Athekame",
+                "short": "Athekame"
+              },
+              "out": {
+                "number": 5,
+                "name": "Koni De Winter",
+                "short": "De Winter"
+              }
+            },
+            {
+              "minute": 75,
+              "in": {
+                "number": 14,
+                "name": "Luka Modric",
+                "short": "Modric"
+              },
+              "out": {
+                "number": 30,
+                "name": "Ardon Jashari",
+                "short": "Jashari"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "supercoppa-italiana-2025-26-758976",
+      "competition": "supercoppa-italiana",
+      "season": "2025-26",
+      "stage": "semi_finals",
+      "title": "Bologna - Inter",
+      "session": "match",
+      "startsAt": "2025-12-19T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-107",
+        "name": "Bologna",
+        "shortName": "Bologna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
+      },
+      "awayTeam": {
+        "id": "espn-110",
+        "name": "Internazionale",
+        "shortName": "Inter",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "homePenalties": 3,
+      "awayPenalties": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 2,
+            "type": "goal",
+            "side": "away",
+            "player": "Marcus Thuram",
+            "short": "Thuram"
+          },
+          {
+            "minute": 35,
+            "type": "penalty",
+            "side": "home",
+            "player": "Riccardo Orsolini",
+            "short": "Orsolini"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "Federico Ravaglia",
+              "short": "Ravaglia"
+            },
+            {
+              "number": 26,
+              "name": "Jhon Lucumí",
+              "short": "Lucumí"
+            },
+            {
+              "number": 14,
+              "name": "Torbjørn Heggem",
+              "short": "Heggem"
+            },
+            {
+              "number": 33,
+              "name": "Juan Miranda",
+              "short": "Miranda"
+            },
+            {
+              "number": 2,
+              "name": "Emil Holm",
+              "short": "Holm"
+            },
+            {
+              "number": 21,
+              "name": "Jens Odgaard",
+              "short": "Odgaard"
+            },
+            {
+              "number": 4,
+              "name": "Tommaso Pobega",
+              "short": "Pobega"
+            },
+            {
+              "number": 6,
+              "name": "Nikola Moro",
+              "short": "Moro"
+            },
+            {
+              "number": 9,
+              "name": "Santiago Castro",
+              "short": "Castro"
+            },
+            {
+              "number": 10,
+              "name": "Federico Bernardeschi",
+              "short": "Bernardeschi"
+            },
+            {
+              "number": 7,
+              "name": "Riccardo Orsolini",
+              "short": "Orsolini"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 40,
+              "in": {
+                "number": 11,
+                "name": "Jon Rowe",
+                "short": "Rowe"
+              },
+              "out": {
+                "number": 10,
+                "name": "Federico Bernardeschi",
+                "short": "Bernardeschi"
+              }
+            },
+            {
+              "minute": 63,
+              "in": {
+                "number": 28,
+                "name": "Nicolò Cambiaghi",
+                "short": "Cambiaghi"
+              },
+              "out": {
+                "number": 7,
+                "name": "Riccardo Orsolini",
+                "short": "Orsolini"
+              }
+            },
+            {
+              "minute": 75,
+              "in": {
+                "number": 19,
+                "name": "Lewis Ferguson",
+                "short": "Ferguson"
+              },
+              "out": {
+                "number": 4,
+                "name": "Tommaso Pobega",
+                "short": "Pobega"
+              }
+            },
+            {
+              "minute": 75,
+              "in": {
+                "number": 17,
+                "name": "Ciro Immobile",
+                "short": "Immobile"
+              },
+              "out": {
+                "number": 9,
+                "name": "Santiago Castro",
+                "short": "Castro"
+              }
+            },
+            {
+              "minute": 75,
+              "in": {
+                "number": 80,
+                "name": "Giovanni Fabbian",
+                "short": "Fabbian"
+              },
+              "out": {
+                "number": 21,
+                "name": "Jens Odgaard",
+                "short": "Odgaard"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "Josep Martínez",
+              "short": "Martínez"
+            },
+            {
+              "number": 6,
+              "name": "Stefan de Vrij",
+              "short": "de Vrij"
+            },
+            {
+              "number": 95,
+              "name": "Alessandro Bastoni",
+              "short": "Bastoni"
+            },
+            {
+              "number": 31,
+              "name": "Yann Bisseck",
+              "short": "Bisseck"
+            },
+            {
+              "number": 22,
+              "name": "Henrikh Mkhitaryan",
+              "short": "Mkhitaryan"
+            },
+            {
+              "number": 23,
+              "name": "Nicolò Barella",
+              "short": "Barella"
+            },
+            {
+              "number": 7,
+              "name": "Piotr Zielinski",
+              "short": "Zielinski"
+            },
+            {
+              "number": 32,
+              "name": "Federico Dimarco",
+              "short": "Dimarco"
+            },
+            {
+              "number": 11,
+              "name": "Luis Henrique"
+            },
+            {
+              "number": 14,
+              "name": "Ange-Yoan Bonny",
+              "short": "Bonny"
+            },
+            {
+              "number": 9,
+              "name": "Marcus Thuram",
+              "short": "Thuram"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 71,
+              "in": {
+                "number": 16,
+                "name": "Davide Frattesi",
+                "short": "Frattesi"
+              },
+              "out": {
+                "number": 22,
+                "name": "Henrikh Mkhitaryan",
+                "short": "Mkhitaryan"
+              }
+            },
+            {
+              "minute": 71,
+              "in": {
+                "number": 17,
+                "name": "Andy Diouf",
+                "short": "Diouf"
+              },
+              "out": {
+                "number": 11,
+                "name": "Luis Henrique"
+              }
+            },
+            {
+              "minute": 71,
+              "in": {
+                "number": 10,
+                "name": "Lautaro Martínez",
+                "short": "Martínez"
+              },
+              "out": {
+                "number": 9,
+                "name": "Marcus Thuram",
+                "short": "Thuram"
+              }
+            },
+            {
+              "minute": 86,
+              "in": {
+                "number": 8,
+                "name": "Petar Sucic",
+                "short": "Sucic"
+              },
+              "out": {
+                "number": 7,
+                "name": "Piotr Zielinski",
+                "short": "Zielinski"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "supercoppa-italiana-2025-26-401825161",
+      "competition": "supercoppa-italiana",
+      "season": "2025-26",
+      "stage": "final",
+      "title": "Napoli - Bologna",
+      "session": "match",
+      "startsAt": "2025-12-22T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-114",
+        "name": "Napoli",
+        "shortName": "Napoli",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+      },
+      "awayTeam": {
+        "id": "espn-107",
+        "name": "Bologna",
+        "shortName": "Bologna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "David Neres",
+            "short": "Neres"
+          },
+          {
+            "minute": 44,
+            "type": "yellow",
+            "side": "away",
+            "player": "Torbjørn Heggem",
+            "short": "Heggem"
+          },
+          {
+            "minute": 50,
+            "type": "yellow",
+            "side": "away",
+            "player": "Nicolò Cambiaghi",
+            "short": "Cambiaghi"
+          },
+          {
+            "minute": 57,
+            "type": "goal",
+            "side": "home",
+            "player": "David Neres",
+            "short": "Neres"
+          },
+          {
+            "minute": 77,
+            "type": "yellow",
+            "side": "away",
+            "player": "Emil Holm",
+            "short": "Holm"
+          },
+          {
+            "minute": 79,
+            "type": "yellow",
+            "side": "home",
+            "player": "Matteo Politano",
+            "short": "Politano"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 32,
+              "name": "Vanja Milinkovic-Savic",
+              "short": "Milinkovic-Savic"
+            },
+            {
+              "number": 13,
+              "name": "Amir Rrahmani",
+              "short": "Rrahmani"
+            },
+            {
+              "number": 5,
+              "name": "Juan Jesus",
+              "short": "Jesus"
+            },
+            {
+              "number": 22,
+              "name": "Giovanni Di Lorenzo",
+              "short": "Di Lorenzo"
+            },
+            {
+              "number": 8,
+              "name": "Scott McTominay",
+              "short": "McTominay"
+            },
+            {
+              "number": 68,
+              "name": "Stanislav Lobotka",
+              "short": "Lobotka"
+            },
+            {
+              "number": 37,
+              "name": "Leonardo Spinazzola",
+              "short": "Spinazzola"
+            },
+            {
+              "number": 21,
+              "name": "Matteo Politano",
+              "short": "Politano"
+            },
+            {
+              "number": 19,
+              "name": "Rasmus Højlund",
+              "short": "Højlund"
+            },
+            {
+              "number": 20,
+              "name": "Eljif Elmas",
+              "short": "Elmas"
+            },
+            {
+              "number": 7,
+              "name": "David Neres",
+              "short": "Neres"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 68,
+              "in": {
+                "number": 3,
+                "name": "Miguel Gutiérrez",
+                "short": "Gutiérrez"
+              },
+              "out": {
+                "number": 37,
+                "name": "Leonardo Spinazzola",
+                "short": "Spinazzola"
+              }
+            },
+            {
+              "minute": 68,
+              "in": {
+                "number": 70,
+                "name": "Noa Lang",
+                "short": "Lang"
+              },
+              "out": {
+                "number": 20,
+                "name": "Eljif Elmas",
+                "short": "Elmas"
+              }
+            },
+            {
+              "minute": 78,
+              "in": {
+                "number": 30,
+                "name": "Pasquale Mazzocchi",
+                "short": "Mazzocchi"
+              },
+              "out": {
+                "number": 7,
+                "name": "David Neres",
+                "short": "Neres"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 4,
+                "name": "Alessandro Buongiorno",
+                "short": "Buongiorno"
+              },
+              "out": {
+                "number": 5,
+                "name": "Juan Jesus",
+                "short": "Jesus"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "Federico Ravaglia",
+              "short": "Ravaglia"
+            },
+            {
+              "number": 26,
+              "name": "Jhon Lucumí",
+              "short": "Lucumí"
+            },
+            {
+              "number": 14,
+              "name": "Torbjørn Heggem",
+              "short": "Heggem"
+            },
+            {
+              "number": 33,
+              "name": "Juan Miranda",
+              "short": "Miranda"
+            },
+            {
+              "number": 2,
+              "name": "Emil Holm",
+              "short": "Holm"
+            },
+            {
+              "number": 21,
+              "name": "Jens Odgaard",
+              "short": "Odgaard"
+            },
+            {
+              "number": 4,
+              "name": "Tommaso Pobega",
+              "short": "Pobega"
+            },
+            {
+              "number": 19,
+              "name": "Lewis Ferguson",
+              "short": "Ferguson"
+            },
+            {
+              "number": 9,
+              "name": "Santiago Castro",
+              "short": "Castro"
+            },
+            {
+              "number": 28,
+              "name": "Nicolò Cambiaghi",
+              "short": "Cambiaghi"
+            },
+            {
+              "number": 7,
+              "name": "Riccardo Orsolini",
+              "short": "Orsolini"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 6,
+                "name": "Nikola Moro",
+                "short": "Moro"
+              },
+              "out": {
+                "number": 21,
+                "name": "Jens Odgaard",
+                "short": "Odgaard"
+              }
+            },
+            {
+              "minute": 69,
+              "in": {
+                "number": 11,
+                "name": "Jon Rowe",
+                "short": "Rowe"
+              },
+              "out": {
+                "number": 28,
+                "name": "Nicolò Cambiaghi",
+                "short": "Cambiaghi"
+              }
+            },
+            {
+              "minute": 69,
+              "in": {
+                "number": 24,
+                "name": "Thijs Dallinga",
+                "short": "Dallinga"
+              },
+              "out": {
+                "number": 19,
+                "name": "Lewis Ferguson",
+                "short": "Ferguson"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 17,
+                "name": "Ciro Immobile",
+                "short": "Immobile"
+              },
+              "out": {
+                "number": 9,
+                "name": "Santiago Castro",
+                "short": "Castro"
+              }
+            },
+            {
+              "minute": 80,
+              "in": {
+                "number": 30,
+                "name": "Benjamín Domínguez",
+                "short": "Domínguez"
+              },
+              "out": {
+                "number": 7,
+                "name": "Riccardo Orsolini",
+                "short": "Orsolini"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "David Neres",
+          "team": "Napoli",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Rasmus Højlund",
+          "team": "Napoli",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Riccardo Orsolini",
+          "team": "Bologna",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Marcus Thuram",
+          "team": "Inter",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

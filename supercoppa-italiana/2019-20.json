@@ -1,0 +1,344 @@
+{
+  "competition": "supercoppa-italiana",
+  "season": "2019-20",
+  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "events": [
+    {
+      "id": "supercoppa-italiana-2019-20-559402",
+      "competition": "supercoppa-italiana",
+      "season": "2019-20",
+      "stage": "final",
+      "title": "Juventus - Lazio",
+      "session": "match",
+      "startsAt": "2019-12-22T16:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-111",
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+      },
+      "awayTeam": {
+        "id": "espn-112",
+        "name": "Lazio",
+        "shortName": "Lazio",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
+      },
+      "homeScore": 1,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 9,
+            "type": "yellow",
+            "side": "home",
+            "player": "Blaise Matuidi",
+            "short": "Matuidi"
+          },
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "away",
+            "player": "Luis Alberto",
+            "short": "Alberto"
+          },
+          {
+            "minute": 34,
+            "type": "yellow",
+            "side": "away",
+            "player": "Lucas Leiva",
+            "short": "Leiva"
+          },
+          {
+            "minute": 45,
+            "type": "goal",
+            "side": "home",
+            "player": "Paulo Dybala",
+            "short": "Dybala"
+          },
+          {
+            "minute": 48,
+            "type": "yellow",
+            "side": "home",
+            "player": "Rodrigo Bentancur",
+            "short": "Bentancur"
+          },
+          {
+            "minute": 58,
+            "type": "yellow",
+            "side": "away",
+            "player": "Luis Alberto",
+            "short": "Alberto"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "away",
+            "player": "Senad Lulic",
+            "short": "Lulic"
+          },
+          {
+            "minute": 90,
+            "addedTime": 1,
+            "type": "yellow",
+            "side": "away",
+            "player": "Danilo Cataldi",
+            "short": "Cataldi"
+          },
+          {
+            "minute": 90,
+            "addedTime": 3,
+            "type": "secondYellow",
+            "side": "home",
+            "player": "Rodrigo Bentancur",
+            "short": "Bentancur"
+          },
+          {
+            "minute": 90,
+            "addedTime": 4,
+            "type": "goal",
+            "side": "away",
+            "player": "Danilo Cataldi",
+            "short": "Cataldi"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Wojciech Szczesny",
+              "short": "Szczesny"
+            },
+            {
+              "number": 19,
+              "name": "Leonardo Bonucci",
+              "short": "Bonucci"
+            },
+            {
+              "number": 28,
+              "name": "Merih Demiral",
+              "short": "Demiral"
+            },
+            {
+              "number": 12,
+              "name": "Alex Sandro"
+            },
+            {
+              "number": 2,
+              "name": "Mattia De Sciglio",
+              "short": "De Sciglio"
+            },
+            {
+              "number": 7,
+              "name": "Cristiano Ronaldo",
+              "short": "Ronaldo"
+            },
+            {
+              "number": 5,
+              "name": "Miralem Pjanic",
+              "short": "Pjanic"
+            },
+            {
+              "number": 10,
+              "name": "Paulo Dybala",
+              "short": "Dybala"
+            },
+            {
+              "number": 14,
+              "name": "Blaise Matuidi",
+              "short": "Matuidi"
+            },
+            {
+              "number": 30,
+              "name": "Rodrigo Bentancur",
+              "short": "Bentancur"
+            },
+            {
+              "number": 21,
+              "name": "Gonzalo Higuaín",
+              "short": "Higuaín"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 55,
+              "in": {
+                "number": 16,
+                "name": "Juan Cuadrado",
+                "short": "Cuadrado"
+              },
+              "out": {
+                "number": 2,
+                "name": "Mattia De Sciglio",
+                "short": "De Sciglio"
+              }
+            },
+            {
+              "minute": 66,
+              "in": {
+                "number": 8,
+                "name": "Aaron Ramsey",
+                "short": "Ramsey"
+              },
+              "out": {
+                "number": 21,
+                "name": "Gonzalo Higuaín",
+                "short": "Higuaín"
+              }
+            },
+            {
+              "minute": 76,
+              "in": {
+                "number": 11,
+                "name": "Douglas Costa",
+                "short": "Costa"
+              },
+              "out": {
+                "number": 14,
+                "name": "Blaise Matuidi",
+                "short": "Matuidi"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Thomas Strakosha",
+              "short": "Strakosha"
+            },
+            {
+              "number": 33,
+              "name": "Francesco Acerbi",
+              "short": "Acerbi"
+            },
+            {
+              "number": 26,
+              "name": "Stefan Radu",
+              "short": "Radu"
+            },
+            {
+              "number": 3,
+              "name": "Luiz Felipe"
+            },
+            {
+              "number": 10,
+              "name": "Luis Alberto",
+              "short": "Alberto"
+            },
+            {
+              "number": 21,
+              "name": "Sergej Milinkovic-Savic",
+              "short": "Milinkovic-Savic"
+            },
+            {
+              "number": 6,
+              "name": "Lucas Leiva",
+              "short": "Leiva"
+            },
+            {
+              "number": 19,
+              "name": "Senad Lulic",
+              "short": "Lulic"
+            },
+            {
+              "number": 29,
+              "name": "Manuel Lazzari",
+              "short": "Lazzari"
+            },
+            {
+              "number": 11,
+              "name": "Joaquín Correa",
+              "short": "Correa"
+            },
+            {
+              "number": 17,
+              "name": "Ciro Immobile",
+              "short": "Immobile"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 64,
+              "in": {
+                "number": 32,
+                "name": "Danilo Cataldi",
+                "short": "Cataldi"
+              },
+              "out": {
+                "number": 6,
+                "name": "Lucas Leiva",
+                "short": "Leiva"
+              }
+            },
+            {
+              "minute": 66,
+              "in": {
+                "number": 16,
+                "name": "Marco Parolo",
+                "short": "Parolo"
+              },
+              "out": {
+                "number": 10,
+                "name": "Luis Alberto",
+                "short": "Alberto"
+              }
+            },
+            {
+              "minute": 82,
+              "in": {
+                "number": 20,
+                "name": "Felipe Caicedo",
+                "short": "Caicedo"
+              },
+              "out": {
+                "number": 17,
+                "name": "Ciro Immobile",
+                "short": "Immobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Paulo Dybala",
+          "team": "Juventus",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Senad Lulic",
+          "team": "Lazio",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Luis Alberto",
+          "team": "Lazio",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Danilo Cataldi",
+          "team": "Lazio",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

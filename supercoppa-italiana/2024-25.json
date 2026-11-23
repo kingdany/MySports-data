@@ -1,0 +1,1026 @@
+{
+  "competition": "supercoppa-italiana",
+  "season": "2024-25",
+  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "events": [
+    {
+      "id": "supercoppa-italiana-2024-25-722180",
+      "competition": "supercoppa-italiana",
+      "season": "2024-25",
+      "stage": "semi_finals",
+      "title": "Inter - Atalanta",
+      "session": "match",
+      "startsAt": "2025-01-02T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-110",
+        "name": "Internazionale",
+        "shortName": "Inter",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+      },
+      "awayTeam": {
+        "id": "espn-105",
+        "name": "Atalanta",
+        "shortName": "Atalanta",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 28,
+            "type": "yellow",
+            "side": "away",
+            "player": "Giorgio Scalvini",
+            "short": "Scalvini"
+          },
+          {
+            "minute": 49,
+            "type": "goal",
+            "side": "home",
+            "player": "Denzel Dumfries",
+            "short": "Dumfries"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Denzel Dumfries",
+            "short": "Dumfries"
+          },
+          {
+            "minute": 88,
+            "type": "yellow",
+            "side": "home",
+            "player": "Carlos Augusto",
+            "short": "Augusto"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Yann Sommer",
+              "short": "Sommer"
+            },
+            {
+              "number": 6,
+              "name": "Stefan de Vrij",
+              "short": "de Vrij"
+            },
+            {
+              "number": 95,
+              "name": "Alessandro Bastoni",
+              "short": "Bastoni"
+            },
+            {
+              "number": 31,
+              "name": "Yann Bisseck",
+              "short": "Bisseck"
+            },
+            {
+              "number": 20,
+              "name": "Hakan Çalhanoglu",
+              "short": "Çalhanoglu"
+            },
+            {
+              "number": 22,
+              "name": "Henrikh Mkhitaryan",
+              "short": "Mkhitaryan"
+            },
+            {
+              "number": 23,
+              "name": "Nicolò Barella",
+              "short": "Barella"
+            },
+            {
+              "number": 32,
+              "name": "Federico Dimarco",
+              "short": "Dimarco"
+            },
+            {
+              "number": 2,
+              "name": "Denzel Dumfries",
+              "short": "Dumfries"
+            },
+            {
+              "number": 10,
+              "name": "Lautaro Martínez",
+              "short": "Martínez"
+            },
+            {
+              "number": 9,
+              "name": "Marcus Thuram",
+              "short": "Thuram"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 99,
+                "name": "Mehdi Taremi",
+                "short": "Taremi"
+              },
+              "out": {
+                "number": 9,
+                "name": "Marcus Thuram",
+                "short": "Thuram"
+              }
+            },
+            {
+              "minute": 67,
+              "in": {
+                "number": 30,
+                "name": "Carlos Augusto",
+                "short": "Augusto"
+              },
+              "out": {
+                "number": 95,
+                "name": "Alessandro Bastoni",
+                "short": "Bastoni"
+              }
+            },
+            {
+              "minute": 67,
+              "in": {
+                "number": 21,
+                "name": "Kristjan Asllani",
+                "short": "Asllani"
+              },
+              "out": {
+                "number": 20,
+                "name": "Hakan Çalhanoglu",
+                "short": "Çalhanoglu"
+              }
+            },
+            {
+              "minute": 76,
+              "in": {
+                "number": 36,
+                "name": "Matteo Darmian",
+                "short": "Darmian"
+              },
+              "out": {
+                "number": 32,
+                "name": "Federico Dimarco",
+                "short": "Dimarco"
+              }
+            },
+            {
+              "minute": 81,
+              "in": {
+                "number": 16,
+                "name": "Davide Frattesi",
+                "short": "Frattesi"
+              },
+              "out": {
+                "number": 23,
+                "name": "Nicolò Barella",
+                "short": "Barella"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 29,
+              "name": "Marco Carnesecchi",
+              "short": "Carnesecchi"
+            },
+            {
+              "number": 4,
+              "name": "Isak Hien",
+              "short": "Hien"
+            },
+            {
+              "number": 23,
+              "name": "Sead Kolasinac",
+              "short": "Kolasinac"
+            },
+            {
+              "number": 3,
+              "name": "Odilon Kossounou",
+              "short": "Kossounou"
+            },
+            {
+              "number": 42,
+              "name": "Giorgio Scalvini",
+              "short": "Scalvini"
+            },
+            {
+              "number": 15,
+              "name": "Marten de Roon",
+              "short": "de Roon"
+            },
+            {
+              "number": 22,
+              "name": "Matteo Ruggeri",
+              "short": "Ruggeri"
+            },
+            {
+              "number": 77,
+              "name": "Davide Zappacosta",
+              "short": "Zappacosta"
+            },
+            {
+              "number": 24,
+              "name": "Lazar Samardzic",
+              "short": "Samardzic"
+            },
+            {
+              "number": 10,
+              "name": "Nicolò Zaniolo",
+              "short": "Zaniolo"
+            },
+            {
+              "number": 44,
+              "name": "Marco Brescianini",
+              "short": "Brescianini"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 56,
+              "in": {
+                "number": 11,
+                "name": "Ademola Lookman",
+                "short": "Lookman"
+              },
+              "out": {
+                "number": 10,
+                "name": "Nicolò Zaniolo",
+                "short": "Zaniolo"
+              }
+            },
+            {
+              "minute": 56,
+              "in": {
+                "number": 17,
+                "name": "Charles De Ketelaere",
+                "short": "De Ketelaere"
+              },
+              "out": {
+                "number": 24,
+                "name": "Lazar Samardzic",
+                "short": "Samardzic"
+              }
+            },
+            {
+              "minute": 56,
+              "in": {
+                "number": 13,
+                "name": "Éderson"
+              },
+              "out": {
+                "number": 22,
+                "name": "Matteo Ruggeri",
+                "short": "Ruggeri"
+              }
+            },
+            {
+              "minute": 62,
+              "in": {
+                "number": 19,
+                "name": "Berat Djimsiti",
+                "short": "Djimsiti"
+              },
+              "out": {
+                "number": 42,
+                "name": "Giorgio Scalvini",
+                "short": "Scalvini"
+              }
+            },
+            {
+              "minute": 68,
+              "in": {
+                "number": 27,
+                "name": "Marco Palestra",
+                "short": "Palestra"
+              },
+              "out": {
+                "number": 3,
+                "name": "Odilon Kossounou",
+                "short": "Kossounou"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "supercoppa-italiana-2024-25-722181",
+      "competition": "supercoppa-italiana",
+      "season": "2024-25",
+      "stage": "semi_finals",
+      "title": "Juventus - Milan",
+      "session": "match",
+      "startsAt": "2025-01-03T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-111",
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+      },
+      "awayTeam": {
+        "id": "espn-103",
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+      },
+      "homeScore": 1,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "home",
+            "player": "Kenan Yildiz",
+            "short": "Yildiz"
+          },
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "yellow",
+            "side": "home",
+            "player": "Weston McKennie",
+            "short": "McKennie"
+          },
+          {
+            "minute": 71,
+            "type": "penalty",
+            "side": "away",
+            "player": "Christian Pulisic",
+            "short": "Pulisic"
+          },
+          {
+            "minute": 75,
+            "type": "ownGoal",
+            "side": "away",
+            "player": "Federico Gatti",
+            "short": "Gatti"
+          },
+          {
+            "minute": 79,
+            "type": "yellow",
+            "side": "away",
+            "player": "Emerson Royal",
+            "short": "Royal"
+          },
+          {
+            "minute": 82,
+            "type": "yellow",
+            "side": "away",
+            "player": "Christian Pulisic",
+            "short": "Pulisic"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 29,
+              "name": "Michele Di Gregorio",
+              "short": "Di Gregorio"
+            },
+            {
+              "number": 15,
+              "name": "Pierre Kalulu",
+              "short": "Kalulu"
+            },
+            {
+              "number": 4,
+              "name": "Federico Gatti",
+              "short": "Gatti"
+            },
+            {
+              "number": 16,
+              "name": "Weston McKennie",
+              "short": "McKennie"
+            },
+            {
+              "number": 37,
+              "name": "Nicolò Savona",
+              "short": "Savona"
+            },
+            {
+              "number": 8,
+              "name": "Teun Koopmeiners",
+              "short": "Koopmeiners"
+            },
+            {
+              "number": 19,
+              "name": "Khéphren Thuram",
+              "short": "Thuram"
+            },
+            {
+              "number": 5,
+              "name": "Manuel Locatelli",
+              "short": "Locatelli"
+            },
+            {
+              "number": 9,
+              "name": "Dusan Vlahovic",
+              "short": "Vlahovic"
+            },
+            {
+              "number": 51,
+              "name": "Samuel Mbangula",
+              "short": "Mbangula"
+            },
+            {
+              "number": 10,
+              "name": "Kenan Yildiz",
+              "short": "Yildiz"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 65,
+              "in": {
+                "number": 27,
+                "name": "Andrea Cambiaso",
+                "short": "Cambiaso"
+              },
+              "out": {
+                "number": 51,
+                "name": "Samuel Mbangula",
+                "short": "Mbangula"
+              }
+            },
+            {
+              "minute": 65,
+              "in": {
+                "number": 11,
+                "name": "Nico González",
+                "short": "González"
+              },
+              "out": {
+                "number": 9,
+                "name": "Dusan Vlahovic",
+                "short": "Vlahovic"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 26,
+                "name": "Douglas Luiz",
+                "short": "Luiz"
+              },
+              "out": {
+                "number": 19,
+                "name": "Khéphren Thuram",
+                "short": "Thuram"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 21,
+                "name": "Nicolò Fagioli",
+                "short": "Fagioli"
+              },
+              "out": {
+                "number": 5,
+                "name": "Manuel Locatelli",
+                "short": "Locatelli"
+              }
+            },
+            {
+              "minute": 86,
+              "in": {
+                "number": 22,
+                "name": "Timothy Weah",
+                "short": "Weah"
+              },
+              "out": {
+                "number": 16,
+                "name": "Weston McKennie",
+                "short": "McKennie"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 16,
+              "name": "Mike Maignan",
+              "short": "Maignan"
+            },
+            {
+              "number": 28,
+              "name": "Malick Thiaw",
+              "short": "Thiaw"
+            },
+            {
+              "number": 23,
+              "name": "Fikayo Tomori",
+              "short": "Tomori"
+            },
+            {
+              "number": 19,
+              "name": "Theo Hernández",
+              "short": "Hernández"
+            },
+            {
+              "number": 22,
+              "name": "Emerson Royal",
+              "short": "Royal"
+            },
+            {
+              "number": 29,
+              "name": "Youssouf Fofana",
+              "short": "Fofana"
+            },
+            {
+              "number": 14,
+              "name": "Tijjani Reijnders",
+              "short": "Reijnders"
+            },
+            {
+              "number": 4,
+              "name": "Ismaël Bennacer",
+              "short": "Bennacer"
+            },
+            {
+              "number": 7,
+              "name": "Álvaro Morata",
+              "short": "Morata"
+            },
+            {
+              "number": 20,
+              "name": "Álex Jiménez",
+              "short": "Jiménez"
+            },
+            {
+              "number": 11,
+              "name": "Christian Pulisic",
+              "short": "Pulisic"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 54,
+              "in": {
+                "number": 80,
+                "name": "Yunus Musah",
+                "short": "Musah"
+              },
+              "out": {
+                "number": 4,
+                "name": "Ismaël Bennacer",
+                "short": "Bennacer"
+              }
+            },
+            {
+              "minute": 61,
+              "in": {
+                "number": 90,
+                "name": "Tammy Abraham",
+                "short": "Abraham"
+              },
+              "out": {
+                "number": 20,
+                "name": "Álex Jiménez",
+                "short": "Jiménez"
+              }
+            },
+            {
+              "minute": 82,
+              "in": {
+                "number": 46,
+                "name": "Matteo Gabbia",
+                "short": "Gabbia"
+              },
+              "out": {
+                "number": 22,
+                "name": "Emerson Royal",
+                "short": "Royal"
+              }
+            },
+            {
+              "minute": 82,
+              "in": {
+                "number": 42,
+                "name": "Filippo Terracciano",
+                "short": "Terracciano"
+              },
+              "out": {
+                "number": 7,
+                "name": "Álvaro Morata",
+                "short": "Morata"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "supercoppa-italiana-2024-25-729248",
+      "competition": "supercoppa-italiana",
+      "season": "2024-25",
+      "stage": "final",
+      "title": "Inter - Milan",
+      "session": "match",
+      "startsAt": "2025-01-06T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-110",
+        "name": "Internazionale",
+        "shortName": "Inter",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+      },
+      "awayTeam": {
+        "id": "espn-103",
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+      },
+      "homeScore": 2,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Lautaro Martínez",
+            "short": "Martínez"
+          },
+          {
+            "minute": 47,
+            "type": "goal",
+            "side": "home",
+            "player": "Mehdi Taremi",
+            "short": "Taremi"
+          },
+          {
+            "minute": 51,
+            "type": "yellow",
+            "side": "home",
+            "player": "Henrikh Mkhitaryan",
+            "short": "Mkhitaryan"
+          },
+          {
+            "minute": 52,
+            "type": "goal",
+            "side": "away",
+            "player": "Theo Hernández",
+            "short": "Hernández"
+          },
+          {
+            "minute": 54,
+            "type": "yellow",
+            "side": "home",
+            "player": "Denzel Dumfries",
+            "short": "Dumfries"
+          },
+          {
+            "minute": 57,
+            "type": "yellow",
+            "side": "away",
+            "player": "Fikayo Tomori",
+            "short": "Tomori"
+          },
+          {
+            "minute": 72,
+            "type": "yellow",
+            "side": "home",
+            "player": "Nicolò Barella",
+            "short": "Barella"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "away",
+            "player": "Christian Pulisic",
+            "short": "Pulisic"
+          },
+          {
+            "minute": 89,
+            "type": "yellow",
+            "side": "home",
+            "player": "Alessandro Bastoni",
+            "short": "Bastoni"
+          },
+          {
+            "minute": 90,
+            "addedTime": 3,
+            "type": "goal",
+            "side": "away",
+            "player": "Tammy Abraham",
+            "short": "Abraham"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Yann Sommer",
+              "short": "Sommer"
+            },
+            {
+              "number": 6,
+              "name": "Stefan de Vrij",
+              "short": "de Vrij"
+            },
+            {
+              "number": 95,
+              "name": "Alessandro Bastoni",
+              "short": "Bastoni"
+            },
+            {
+              "number": 31,
+              "name": "Yann Bisseck",
+              "short": "Bisseck"
+            },
+            {
+              "number": 20,
+              "name": "Hakan Çalhanoglu",
+              "short": "Çalhanoglu"
+            },
+            {
+              "number": 22,
+              "name": "Henrikh Mkhitaryan",
+              "short": "Mkhitaryan"
+            },
+            {
+              "number": 23,
+              "name": "Nicolò Barella",
+              "short": "Barella"
+            },
+            {
+              "number": 32,
+              "name": "Federico Dimarco",
+              "short": "Dimarco"
+            },
+            {
+              "number": 2,
+              "name": "Denzel Dumfries",
+              "short": "Dumfries"
+            },
+            {
+              "number": 10,
+              "name": "Lautaro Martínez",
+              "short": "Martínez"
+            },
+            {
+              "number": 99,
+              "name": "Mehdi Taremi",
+              "short": "Taremi"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 35,
+              "in": {
+                "number": 21,
+                "name": "Kristjan Asllani",
+                "short": "Asllani"
+              },
+              "out": {
+                "number": 20,
+                "name": "Hakan Çalhanoglu",
+                "short": "Çalhanoglu"
+              }
+            },
+            {
+              "minute": 65,
+              "in": {
+                "number": 7,
+                "name": "Piotr Zielinski",
+                "short": "Zielinski"
+              },
+              "out": {
+                "number": 22,
+                "name": "Henrikh Mkhitaryan",
+                "short": "Mkhitaryan"
+              }
+            },
+            {
+              "minute": 66,
+              "in": {
+                "number": 30,
+                "name": "Carlos Augusto",
+                "short": "Augusto"
+              },
+              "out": {
+                "number": 32,
+                "name": "Federico Dimarco",
+                "short": "Dimarco"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 16,
+                "name": "Davide Frattesi",
+                "short": "Frattesi"
+              },
+              "out": {
+                "number": 23,
+                "name": "Nicolò Barella",
+                "short": "Barella"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 36,
+                "name": "Matteo Darmian",
+                "short": "Darmian"
+              },
+              "out": {
+                "number": 6,
+                "name": "Stefan de Vrij",
+                "short": "de Vrij"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 16,
+              "name": "Mike Maignan",
+              "short": "Maignan"
+            },
+            {
+              "number": 28,
+              "name": "Malick Thiaw",
+              "short": "Thiaw"
+            },
+            {
+              "number": 23,
+              "name": "Fikayo Tomori",
+              "short": "Tomori"
+            },
+            {
+              "number": 19,
+              "name": "Theo Hernández",
+              "short": "Hernández"
+            },
+            {
+              "number": 22,
+              "name": "Emerson Royal",
+              "short": "Royal"
+            },
+            {
+              "number": 29,
+              "name": "Youssouf Fofana",
+              "short": "Fofana"
+            },
+            {
+              "number": 14,
+              "name": "Tijjani Reijnders",
+              "short": "Reijnders"
+            },
+            {
+              "number": 80,
+              "name": "Yunus Musah",
+              "short": "Musah"
+            },
+            {
+              "number": 7,
+              "name": "Álvaro Morata",
+              "short": "Morata"
+            },
+            {
+              "number": 11,
+              "name": "Christian Pulisic",
+              "short": "Pulisic"
+            },
+            {
+              "number": 20,
+              "name": "Álex Jiménez",
+              "short": "Jiménez"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 50,
+              "in": {
+                "number": 10,
+                "name": "Rafael Leão",
+                "short": "Leão"
+              },
+              "out": {
+                "number": 20,
+                "name": "Álex Jiménez",
+                "short": "Jiménez"
+              }
+            },
+            {
+              "minute": 77,
+              "in": {
+                "number": 90,
+                "name": "Tammy Abraham",
+                "short": "Abraham"
+              },
+              "out": {
+                "number": 80,
+                "name": "Yunus Musah",
+                "short": "Musah"
+              }
+            },
+            {
+              "minute": 77,
+              "in": {
+                "number": 8,
+                "name": "Ruben Loftus-Cheek",
+                "short": "Loftus-Cheek"
+              },
+              "out": {
+                "number": 14,
+                "name": "Tijjani Reijnders",
+                "short": "Reijnders"
+              }
+            },
+            {
+              "minute": 87,
+              "in": {
+                "number": 2,
+                "name": "Davide Calabria",
+                "short": "Calabria"
+              },
+              "out": {
+                "number": 22,
+                "name": "Emerson Royal",
+                "short": "Royal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Christian Pulisic",
+          "team": "AC Milan",
+          "points": 2
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Denzel Dumfries",
+          "team": "Inter",
+          "points": 2
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Theo Hernández",
+          "team": "AC Milan",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Lautaro Martínez",
+          "team": "Inter",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Mehdi Taremi",
+          "team": "Inter",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Tammy Abraham",
+          "team": "AC Milan",
+          "points": 1
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Kenan Yildiz",
+          "team": "Juventus",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

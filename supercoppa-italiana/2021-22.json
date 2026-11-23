@@ -1,0 +1,367 @@
+{
+  "competition": "supercoppa-italiana",
+  "season": "2021-22",
+  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "events": [
+    {
+      "id": "supercoppa-italiana-2021-22-621762",
+      "competition": "supercoppa-italiana",
+      "season": "2021-22",
+      "stage": "final",
+      "title": "Inter - Juventus",
+      "session": "match",
+      "startsAt": "2022-01-12T20:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-110",
+        "name": "Internazionale",
+        "shortName": "Inter",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+      },
+      "awayTeam": {
+        "id": "espn-111",
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 25,
+            "type": "goal",
+            "side": "away",
+            "player": "Weston McKennie",
+            "short": "McKennie"
+          },
+          {
+            "minute": 35,
+            "type": "penalty",
+            "side": "home",
+            "player": "Lautaro Martínez",
+            "short": "Martínez"
+          },
+          {
+            "minute": 43,
+            "type": "yellow",
+            "side": "away",
+            "player": "Federico Bernardeschi",
+            "short": "Bernardeschi"
+          },
+          {
+            "minute": 60,
+            "type": "yellow",
+            "side": "home",
+            "player": "Edin Dzeko",
+            "short": "Dzeko"
+          },
+          {
+            "minute": 105,
+            "type": "yellow",
+            "side": "away",
+            "player": "Paulo Dybala",
+            "short": "Dybala"
+          },
+          {
+            "minute": 106,
+            "type": "yellow",
+            "side": "home",
+            "player": "Joaquín Correa",
+            "short": "Correa"
+          },
+          {
+            "minute": 109,
+            "type": "yellow",
+            "side": "away",
+            "player": "Daniele Rugani",
+            "short": "Rugani"
+          },
+          {
+            "minute": 118,
+            "type": "yellow",
+            "side": "home",
+            "player": "Arturo Vidal",
+            "short": "Vidal"
+          },
+          {
+            "minute": 120,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Alexis Sánchez",
+            "short": "Sánchez"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Samir Handanovic",
+              "short": "Handanovic"
+            },
+            {
+              "number": 6,
+              "name": "Stefan de Vrij",
+              "short": "de Vrij"
+            },
+            {
+              "number": 95,
+              "name": "Alessandro Bastoni",
+              "short": "Bastoni"
+            },
+            {
+              "number": 37,
+              "name": "Milan Skriniar",
+              "short": "Skriniar"
+            },
+            {
+              "number": 20,
+              "name": "Hakan Çalhanoglu",
+              "short": "Çalhanoglu"
+            },
+            {
+              "number": 23,
+              "name": "Nicolò Barella",
+              "short": "Barella"
+            },
+            {
+              "number": 77,
+              "name": "Marcelo Brozovic",
+              "short": "Brozovic"
+            },
+            {
+              "number": 14,
+              "name": "Ivan Perisic",
+              "short": "Perisic"
+            },
+            {
+              "number": 2,
+              "name": "Denzel Dumfries",
+              "short": "Dumfries"
+            },
+            {
+              "number": 10,
+              "name": "Lautaro Martínez",
+              "short": "Martínez"
+            },
+            {
+              "number": 9,
+              "name": "Edin Dzeko",
+              "short": "Dzeko"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 75,
+              "in": {
+                "number": 7,
+                "name": "Alexis Sánchez",
+                "short": "Sánchez"
+              },
+              "out": {
+                "number": 10,
+                "name": "Lautaro Martínez",
+                "short": "Martínez"
+              }
+            },
+            {
+              "minute": 75,
+              "in": {
+                "number": 19,
+                "name": "Joaquín Correa",
+                "short": "Correa"
+              },
+              "out": {
+                "number": 9,
+                "name": "Edin Dzeko",
+                "short": "Dzeko"
+              }
+            },
+            {
+              "minute": 89,
+              "in": {
+                "number": 22,
+                "name": "Arturo Vidal",
+                "short": "Vidal"
+              },
+              "out": {
+                "number": 23,
+                "name": "Nicolò Barella",
+                "short": "Barella"
+              }
+            },
+            {
+              "minute": 89,
+              "in": {
+                "number": 36,
+                "name": "Matteo Darmian",
+                "short": "Darmian"
+              },
+              "out": {
+                "number": 2,
+                "name": "Denzel Dumfries",
+                "short": "Dumfries"
+              }
+            },
+            {
+              "minute": 100,
+              "in": {
+                "number": 32,
+                "name": "Federico Dimarco",
+                "short": "Dimarco"
+              },
+              "out": {
+                "number": 14,
+                "name": "Ivan Perisic",
+                "short": "Perisic"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 36,
+              "name": "Mattia Perin",
+              "short": "Perin"
+            },
+            {
+              "number": 3,
+              "name": "Giorgio Chiellini",
+              "short": "Chiellini"
+            },
+            {
+              "number": 24,
+              "name": "Daniele Rugani",
+              "short": "Rugani"
+            },
+            {
+              "number": 12,
+              "name": "Alex Sandro"
+            },
+            {
+              "number": 2,
+              "name": "Mattia De Sciglio",
+              "short": "De Sciglio"
+            },
+            {
+              "number": 25,
+              "name": "Adrien Rabiot",
+              "short": "Rabiot"
+            },
+            {
+              "number": 27,
+              "name": "Manuel Locatelli",
+              "short": "Locatelli"
+            },
+            {
+              "number": 14,
+              "name": "Weston McKennie",
+              "short": "McKennie"
+            },
+            {
+              "number": 20,
+              "name": "Federico Bernardeschi",
+              "short": "Bernardeschi"
+            },
+            {
+              "number": 9,
+              "name": "Álvaro Morata",
+              "short": "Morata"
+            },
+            {
+              "number": 44,
+              "name": "Dejan Kulusevski",
+              "short": "Kulusevski"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 74,
+              "in": {
+                "number": 10,
+                "name": "Paulo Dybala",
+                "short": "Dybala"
+              },
+              "out": {
+                "number": 44,
+                "name": "Dejan Kulusevski",
+                "short": "Kulusevski"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 5,
+                "name": "Arthur"
+              },
+              "out": {
+                "number": 20,
+                "name": "Federico Bernardeschi",
+                "short": "Bernardeschi"
+              }
+            },
+            {
+              "minute": 88,
+              "in": {
+                "number": 18,
+                "name": "Moise Kean",
+                "short": "Kean"
+              },
+              "out": {
+                "number": 9,
+                "name": "Álvaro Morata",
+                "short": "Morata"
+              }
+            },
+            {
+              "minute": 90,
+              "in": {
+                "number": 30,
+                "name": "Rodrigo Bentancur",
+                "short": "Bentancur"
+              },
+              "out": {
+                "number": 27,
+                "name": "Manuel Locatelli",
+                "short": "Locatelli"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Weston McKennie",
+          "team": "Juventus",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Lautaro Martínez",
+          "team": "Inter",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Alexis Sánchez",
+          "team": "Inter",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

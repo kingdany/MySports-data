@@ -1,0 +1,374 @@
+{
+  "competition": "supercoppa-italiana",
+  "season": "2022-23",
+  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "events": [
+    {
+      "id": "supercoppa-italiana-2022-23-645361",
+      "competition": "supercoppa-italiana",
+      "season": "2022-23",
+      "stage": "final",
+      "title": "Milan - Inter",
+      "session": "match",
+      "startsAt": "2023-01-18T19:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-103",
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+      },
+      "awayTeam": {
+        "id": "espn-110",
+        "name": "Internazionale",
+        "shortName": "Inter",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+      },
+      "homeScore": 0,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 10,
+            "type": "goal",
+            "side": "away",
+            "player": "Federico Dimarco",
+            "short": "Dimarco"
+          },
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "away",
+            "player": "Edin Dzeko",
+            "short": "Dzeko"
+          },
+          {
+            "minute": 33,
+            "type": "yellow",
+            "side": "away",
+            "player": "Nicolò Barella",
+            "short": "Barella"
+          },
+          {
+            "minute": 72,
+            "type": "yellow",
+            "side": "away",
+            "player": "Hakan Çalhanoglu",
+            "short": "Çalhanoglu"
+          },
+          {
+            "minute": 77,
+            "type": "yellow",
+            "side": "home",
+            "player": "Theo Hernández",
+            "short": "Hernández"
+          },
+          {
+            "minute": 77,
+            "type": "goal",
+            "side": "away",
+            "player": "Lautaro Martínez",
+            "short": "Martínez"
+          },
+          {
+            "minute": 79,
+            "type": "yellow",
+            "side": "away",
+            "player": "Lautaro Martínez",
+            "short": "Martínez"
+          },
+          {
+            "minute": 85,
+            "type": "yellow",
+            "side": "home",
+            "player": "Sandro Tonali",
+            "short": "Tonali"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Ciprian Tatarusanu",
+              "short": "Tatarusanu"
+            },
+            {
+              "number": 23,
+              "name": "Fikayo Tomori",
+              "short": "Tomori"
+            },
+            {
+              "number": 24,
+              "name": "Simon Kjaer",
+              "short": "Kjaer"
+            },
+            {
+              "number": 19,
+              "name": "Theo Hernández",
+              "short": "Hernández"
+            },
+            {
+              "number": 2,
+              "name": "Davide Calabria",
+              "short": "Calabria"
+            },
+            {
+              "number": 10,
+              "name": "Brahim Díaz",
+              "short": "Díaz"
+            },
+            {
+              "number": 4,
+              "name": "Ismaël Bennacer",
+              "short": "Bennacer"
+            },
+            {
+              "number": 8,
+              "name": "Sandro Tonali",
+              "short": "Tonali"
+            },
+            {
+              "number": 9,
+              "name": "Olivier Giroud",
+              "short": "Giroud"
+            },
+            {
+              "number": 17,
+              "name": "Rafael Leão",
+              "short": "Leão"
+            },
+            {
+              "number": 30,
+              "name": "Junior Messias",
+              "short": "Messias"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 64,
+              "in": {
+                "number": 90,
+                "name": "Charles De Ketelaere",
+                "short": "De Ketelaere"
+              },
+              "out": {
+                "number": 10,
+                "name": "Brahim Díaz",
+                "short": "Díaz"
+              }
+            },
+            {
+              "minute": 64,
+              "in": {
+                "number": 20,
+                "name": "Pierre Kalulu",
+                "short": "Kalulu"
+              },
+              "out": {
+                "number": 24,
+                "name": "Simon Kjaer",
+                "short": "Kjaer"
+              }
+            },
+            {
+              "minute": 65,
+              "in": {
+                "number": 27,
+                "name": "Divock Origi",
+                "short": "Origi"
+              },
+              "out": {
+                "number": 30,
+                "name": "Junior Messias",
+                "short": "Messias"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 21,
+                "name": "Sergiño Dest",
+                "short": "Dest"
+              },
+              "out": {
+                "number": 2,
+                "name": "Davide Calabria",
+                "short": "Calabria"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 12,
+                "name": "Ante Rebic",
+                "short": "Rebic"
+              },
+              "out": {
+                "number": 9,
+                "name": "Olivier Giroud",
+                "short": "Giroud"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 24,
+              "name": "André Onana",
+              "short": "Onana"
+            },
+            {
+              "number": 15,
+              "name": "Francesco Acerbi",
+              "short": "Acerbi"
+            },
+            {
+              "number": 95,
+              "name": "Alessandro Bastoni",
+              "short": "Bastoni"
+            },
+            {
+              "number": 37,
+              "name": "Milan Skriniar",
+              "short": "Skriniar"
+            },
+            {
+              "number": 22,
+              "name": "Henrikh Mkhitaryan",
+              "short": "Mkhitaryan"
+            },
+            {
+              "number": 23,
+              "name": "Nicolò Barella",
+              "short": "Barella"
+            },
+            {
+              "number": 20,
+              "name": "Hakan Çalhanoglu",
+              "short": "Çalhanoglu"
+            },
+            {
+              "number": 32,
+              "name": "Federico Dimarco",
+              "short": "Dimarco"
+            },
+            {
+              "number": 36,
+              "name": "Matteo Darmian",
+              "short": "Darmian"
+            },
+            {
+              "number": 9,
+              "name": "Edin Dzeko",
+              "short": "Dzeko"
+            },
+            {
+              "number": 10,
+              "name": "Lautaro Martínez",
+              "short": "Martínez"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 63,
+              "in": {
+                "number": 8,
+                "name": "Robin Gosens",
+                "short": "Gosens"
+              },
+              "out": {
+                "number": 32,
+                "name": "Federico Dimarco",
+                "short": "Dimarco"
+              }
+            },
+            {
+              "minute": 71,
+              "in": {
+                "number": 5,
+                "name": "Roberto Gagliardini",
+                "short": "Gagliardini"
+              },
+              "out": {
+                "number": 23,
+                "name": "Nicolò Barella",
+                "short": "Barella"
+              }
+            },
+            {
+              "minute": 71,
+              "in": {
+                "number": 11,
+                "name": "Joaquín Correa",
+                "short": "Correa"
+              },
+              "out": {
+                "number": 9,
+                "name": "Edin Dzeko",
+                "short": "Dzeko"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 14,
+                "name": "Kristjan Asllani",
+                "short": "Asllani"
+              },
+              "out": {
+                "number": 20,
+                "name": "Hakan Çalhanoglu",
+                "short": "Çalhanoglu"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 6,
+                "name": "Stefan de Vrij",
+                "short": "de Vrij"
+              },
+              "out": {
+                "number": 95,
+                "name": "Alessandro Bastoni",
+                "short": "Bastoni"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Lautaro Martínez",
+          "team": "Inter",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Edin Dzeko",
+          "team": "Inter",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Federico Dimarco",
+          "team": "Inter",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

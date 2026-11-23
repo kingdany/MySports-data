@@ -1,0 +1,271 @@
+{
+  "competition": "supercoppa-italiana",
+  "season": "2015-16",
+  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "events": [
+    {
+      "id": "supercoppa-italiana-2015-16-427876",
+      "competition": "supercoppa-italiana",
+      "season": "2015-16",
+      "stage": "final",
+      "title": "Juventus - Lazio",
+      "session": "match",
+      "startsAt": "2015-08-08T12:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-111",
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+      },
+      "awayTeam": {
+        "id": "espn-112",
+        "name": "Lazio",
+        "shortName": "Lazio",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 69,
+            "type": "goal",
+            "side": "home",
+            "player": "Mario Mandzukic",
+            "short": "Mandzukic"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "home",
+            "player": "Paulo Dybala",
+            "short": "Dybala"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Gianluigi Buffon",
+              "short": "Buffon"
+            },
+            {
+              "number": 19,
+              "name": "Leonardo Bonucci",
+              "short": "Bonucci"
+            },
+            {
+              "number": 4,
+              "name": "Martín Cáceres",
+              "short": "Cáceres"
+            },
+            {
+              "number": 15,
+              "name": "Andrea Barzagli",
+              "short": "Barzagli"
+            },
+            {
+              "number": 10,
+              "name": "Paul Pogba",
+              "short": "Pogba"
+            },
+            {
+              "number": 27,
+              "name": "Stefano Sturaro",
+              "short": "Sturaro"
+            },
+            {
+              "number": 8,
+              "name": "Claudio Marchisio",
+              "short": "Marchisio"
+            },
+            {
+              "number": 33,
+              "name": "Patrice Evra",
+              "short": "Evra"
+            },
+            {
+              "number": 26,
+              "name": "Stephan Lichtsteiner",
+              "short": "Lichtsteiner"
+            },
+            {
+              "number": 17,
+              "name": "Mario Mandzukic",
+              "short": "Mandzukic"
+            },
+            {
+              "number": 11,
+              "name": "Kingsley Coman",
+              "short": "Coman"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 61,
+              "in": {
+                "number": 21,
+                "name": "Paulo Dybala",
+                "short": "Dybala"
+              },
+              "out": {
+                "number": 11,
+                "name": "Kingsley Coman",
+                "short": "Coman"
+              }
+            },
+            {
+              "minute": 80,
+              "in": {
+                "number": 14,
+                "name": "Fernando Llorente",
+                "short": "Llorente"
+              },
+              "out": {
+                "number": 17,
+                "name": "Mario Mandzukic",
+                "short": "Mandzukic"
+              }
+            },
+            {
+              "minute": 90,
+              "in": {
+                "number": 37,
+                "name": "Roberto Pereyra",
+                "short": "Pereyra"
+              },
+              "out": {
+                "number": 27,
+                "name": "Stefano Sturaro",
+                "short": "Sturaro"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 22,
+              "name": "Federico Marchetti",
+              "short": "Marchetti"
+            },
+            {
+              "number": 6,
+              "name": "Santiago Gentiletti",
+              "short": "Gentiletti"
+            },
+            {
+              "number": 3,
+              "name": "Stefan de Vrij",
+              "short": "de Vrij"
+            },
+            {
+              "number": 26,
+              "name": "Stefan Radu",
+              "short": "Radu"
+            },
+            {
+              "number": 8,
+              "name": "Dusan Basta",
+              "short": "Basta"
+            },
+            {
+              "number": 20,
+              "name": "Lucas Biglia",
+              "short": "Biglia"
+            },
+            {
+              "number": 32,
+              "name": "Danilo Cataldi",
+              "short": "Cataldi"
+            },
+            {
+              "number": 23,
+              "name": "Ogenyi Onazi",
+              "short": "Onazi"
+            },
+            {
+              "number": 11,
+              "name": "Miroslav Klose",
+              "short": "Klose"
+            },
+            {
+              "number": 87,
+              "name": "Antonio Candreva",
+              "short": "Candreva"
+            },
+            {
+              "number": 10,
+              "name": "Felipe Anderson"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 62,
+              "in": {
+                "number": 9,
+                "name": "Filip Djordjevic",
+                "short": "Djordjevic"
+              },
+              "out": {
+                "number": 11,
+                "name": "Miroslav Klose",
+                "short": "Klose"
+              }
+            },
+            {
+              "minute": 75,
+              "in": {
+                "number": 88,
+                "name": "Ricardo Kishna",
+                "short": "Kishna"
+              },
+              "out": {
+                "number": 32,
+                "name": "Danilo Cataldi",
+                "short": "Cataldi"
+              }
+            },
+            {
+              "minute": 87,
+              "in": {
+                "number": 7,
+                "name": "Ravel Morrison",
+                "short": "Morrison"
+              },
+              "out": {
+                "number": 10,
+                "name": "Felipe Anderson"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Mario Mandzukic",
+          "team": "Juventus",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Paulo Dybala",
+          "team": "Juventus",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

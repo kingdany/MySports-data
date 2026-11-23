@@ -1,0 +1,31 @@
+{
+  "competition": "supercoppa-italiana",
+  "season": "2026-27",
+  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "events": [
+    {
+      "id": "supercoppa-italiana-2026-27-401928184",
+      "competition": "supercoppa-italiana",
+      "season": "2026-27",
+      "stage": "final",
+      "title": "Inter - Lazio",
+      "session": "match",
+      "startsAt": "2026-12-22T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "espn-110",
+        "name": "Internazionale",
+        "shortName": "Inter",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+      },
+      "awayTeam": {
+        "id": "espn-112",
+        "name": "Lazio",
+        "shortName": "Lazio",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
+      },
+      "videos": []
+    }
+  ],
+  "standings": []
+}

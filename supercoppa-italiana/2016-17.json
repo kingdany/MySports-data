@@ -1,0 +1,308 @@
+{
+  "competition": "supercoppa-italiana",
+  "season": "2016-17",
+  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "events": [
+    {
+      "id": "supercoppa-italiana-2016-17-467049",
+      "competition": "supercoppa-italiana",
+      "season": "2016-17",
+      "stage": "final",
+      "title": "Juventus - Milan",
+      "session": "match",
+      "startsAt": "2016-12-23T16:30:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-111",
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+      },
+      "awayTeam": {
+        "id": "espn-103",
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "homePenalties": 3,
+      "awayPenalties": 4,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "home",
+            "player": "Giorgio Chiellini",
+            "short": "Chiellini"
+          },
+          {
+            "minute": 35,
+            "type": "yellow",
+            "side": "home",
+            "player": "Stephan Lichtsteiner",
+            "short": "Lichtsteiner"
+          },
+          {
+            "minute": 38,
+            "type": "goal",
+            "side": "away",
+            "player": "Giacomo Bonaventura",
+            "short": "Bonaventura"
+          },
+          {
+            "minute": 43,
+            "type": "yellow",
+            "side": "away",
+            "player": "Alessio Romagnoli",
+            "short": "Romagnoli"
+          },
+          {
+            "minute": 58,
+            "type": "yellow",
+            "side": "away",
+            "player": "Juraj Kucka",
+            "short": "Kucka"
+          },
+          {
+            "minute": 70,
+            "type": "yellow",
+            "side": "away",
+            "player": "Mattia De Sciglio",
+            "short": "De Sciglio"
+          },
+          {
+            "minute": 120,
+            "addedTime": 1,
+            "type": "yellow",
+            "side": "home",
+            "player": "Gonzalo Higuaín",
+            "short": "Higuaín"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Gianluigi Buffon",
+              "short": "Buffon"
+            },
+            {
+              "number": 3,
+              "name": "Giorgio Chiellini",
+              "short": "Chiellini"
+            },
+            {
+              "number": 24,
+              "name": "Daniele Rugani",
+              "short": "Rugani"
+            },
+            {
+              "number": 12,
+              "name": "Alex Sandro"
+            },
+            {
+              "number": 26,
+              "name": "Stephan Lichtsteiner",
+              "short": "Lichtsteiner"
+            },
+            {
+              "number": 17,
+              "name": "Mario Mandzukic",
+              "short": "Mandzukic"
+            },
+            {
+              "number": 8,
+              "name": "Claudio Marchisio",
+              "short": "Marchisio"
+            },
+            {
+              "number": 5,
+              "name": "Miralem Pjanic",
+              "short": "Pjanic"
+            },
+            {
+              "number": 27,
+              "name": "Stefano Sturaro",
+              "short": "Sturaro"
+            },
+            {
+              "number": 6,
+              "name": "Sami Khedira",
+              "short": "Khedira"
+            },
+            {
+              "number": 9,
+              "name": "Gonzalo Higuaín",
+              "short": "Higuaín"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 33,
+              "in": {
+                "number": 33,
+                "name": "Patrice Evra",
+                "short": "Evra"
+              },
+              "out": {
+                "number": 12,
+                "name": "Alex Sandro"
+              }
+            },
+            {
+              "minute": 67,
+              "in": {
+                "number": 21,
+                "name": "Paulo Dybala",
+                "short": "Dybala"
+              },
+              "out": {
+                "number": 5,
+                "name": "Miralem Pjanic",
+                "short": "Pjanic"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 18,
+                "name": "Mario Lemina",
+                "short": "Lemina"
+              },
+              "out": {
+                "number": 27,
+                "name": "Stefano Sturaro",
+                "short": "Sturaro"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 99,
+              "name": "Gianluigi Donnarumma",
+              "short": "Donnarumma"
+            },
+            {
+              "number": 13,
+              "name": "Alessio Romagnoli",
+              "short": "Romagnoli"
+            },
+            {
+              "number": 29,
+              "name": "Gabriel Paletta",
+              "short": "Paletta"
+            },
+            {
+              "number": 2,
+              "name": "Mattia De Sciglio",
+              "short": "De Sciglio"
+            },
+            {
+              "number": 20,
+              "name": "Ignazio Abate",
+              "short": "Abate"
+            },
+            {
+              "number": 73,
+              "name": "Manuel Locatelli",
+              "short": "Locatelli"
+            },
+            {
+              "number": 91,
+              "name": "Andrea Bertolacci",
+              "short": "Bertolacci"
+            },
+            {
+              "number": 33,
+              "name": "Juraj Kucka",
+              "short": "Kucka"
+            },
+            {
+              "number": 70,
+              "name": "Carlos Bacca",
+              "short": "Bacca"
+            },
+            {
+              "number": 5,
+              "name": "Giacomo Bonaventura",
+              "short": "Bonaventura"
+            },
+            {
+              "number": 8,
+              "name": "Suso"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 74,
+              "in": {
+                "number": 80,
+                "name": "Mario Pasalic",
+                "short": "Pasalic"
+              },
+              "out": {
+                "number": 73,
+                "name": "Manuel Locatelli",
+                "short": "Locatelli"
+              }
+            },
+            {
+              "minute": 102,
+              "in": {
+                "number": 9,
+                "name": "Gianluca Lapadula",
+                "short": "Lapadula"
+              },
+              "out": {
+                "number": 70,
+                "name": "Carlos Bacca",
+                "short": "Bacca"
+              }
+            },
+            {
+              "minute": 102,
+              "in": {
+                "number": 31,
+                "name": "Luca Antonelli",
+                "short": "Antonelli"
+              },
+              "out": {
+                "number": 20,
+                "name": "Ignazio Abate",
+                "short": "Abate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Giacomo Bonaventura",
+          "team": "AC Milan",
+          "points": 1
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Giorgio Chiellini",
+          "team": "Juventus",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

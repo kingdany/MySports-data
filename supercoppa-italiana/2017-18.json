@@ -1,0 +1,350 @@
+{
+  "competition": "supercoppa-italiana",
+  "season": "2017-18",
+  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "events": [
+    {
+      "id": "supercoppa-italiana-2017-18-480519",
+      "competition": "supercoppa-italiana",
+      "season": "2017-18",
+      "stage": "final",
+      "title": "Juventus - Lazio",
+      "session": "match",
+      "startsAt": "2017-08-13T18:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-111",
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+      },
+      "awayTeam": {
+        "id": "espn-112",
+        "name": "Lazio",
+        "shortName": "Lazio",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
+      },
+      "homeScore": 2,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 31,
+            "type": "yellow",
+            "side": "home",
+            "player": "Gianluigi Buffon",
+            "short": "Buffon"
+          },
+          {
+            "minute": 32,
+            "type": "penalty",
+            "side": "away",
+            "player": "Ciro Immobile",
+            "short": "Immobile"
+          },
+          {
+            "minute": 41,
+            "type": "yellow",
+            "side": "away",
+            "player": "Lucas Leiva",
+            "short": "Leiva"
+          },
+          {
+            "minute": 52,
+            "type": "yellow",
+            "side": "home",
+            "player": "Mario Mandzukic",
+            "short": "Mandzukic"
+          },
+          {
+            "minute": 54,
+            "type": "goal",
+            "side": "away",
+            "player": "Ciro Immobile",
+            "short": "Immobile"
+          },
+          {
+            "minute": 70,
+            "type": "yellow",
+            "side": "away",
+            "player": "Senad Lulic",
+            "short": "Lulic"
+          },
+          {
+            "minute": 73,
+            "type": "yellow",
+            "side": "home",
+            "player": "Miralem Pjanic",
+            "short": "Pjanic"
+          },
+          {
+            "minute": 84,
+            "type": "yellow",
+            "side": "away",
+            "player": "Marco Parolo",
+            "short": "Parolo"
+          },
+          {
+            "minute": 85,
+            "type": "goal",
+            "side": "home",
+            "player": "Paulo Dybala",
+            "short": "Dybala"
+          },
+          {
+            "minute": 89,
+            "type": "yellow",
+            "side": "away",
+            "player": "Ciro Immobile",
+            "short": "Immobile"
+          },
+          {
+            "minute": 90,
+            "addedTime": 1,
+            "type": "penalty",
+            "side": "home",
+            "player": "Paulo Dybala",
+            "short": "Dybala"
+          },
+          {
+            "minute": 90,
+            "addedTime": 3,
+            "type": "goal",
+            "side": "away",
+            "player": "Alessandro Murgia",
+            "short": "Murgia"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Gianluigi Buffon",
+              "short": "Buffon"
+            },
+            {
+              "number": 3,
+              "name": "Giorgio Chiellini",
+              "short": "Chiellini"
+            },
+            {
+              "number": 4,
+              "name": "Medhi Benatia",
+              "short": "Benatia"
+            },
+            {
+              "number": 12,
+              "name": "Alex Sandro"
+            },
+            {
+              "number": 15,
+              "name": "Andrea Barzagli",
+              "short": "Barzagli"
+            },
+            {
+              "number": 10,
+              "name": "Paulo Dybala",
+              "short": "Dybala"
+            },
+            {
+              "number": 5,
+              "name": "Miralem Pjanic",
+              "short": "Pjanic"
+            },
+            {
+              "number": 6,
+              "name": "Sami Khedira",
+              "short": "Khedira"
+            },
+            {
+              "number": 9,
+              "name": "Gonzalo Higuaín",
+              "short": "Higuaín"
+            },
+            {
+              "number": 17,
+              "name": "Mario Mandzukic",
+              "short": "Mandzukic"
+            },
+            {
+              "number": 7,
+              "name": "Juan Cuadrado",
+              "short": "Cuadrado"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 56,
+              "in": {
+                "number": 2,
+                "name": "Mattia De Sciglio",
+                "short": "De Sciglio"
+              },
+              "out": {
+                "number": 4,
+                "name": "Medhi Benatia",
+                "short": "Benatia"
+              }
+            },
+            {
+              "minute": 57,
+              "in": {
+                "number": 11,
+                "name": "Douglas Costa",
+                "short": "Costa"
+              },
+              "out": {
+                "number": 7,
+                "name": "Juan Cuadrado",
+                "short": "Cuadrado"
+              }
+            },
+            {
+              "minute": 72,
+              "in": {
+                "number": 33,
+                "name": "Federico Bernardeschi",
+                "short": "Bernardeschi"
+              },
+              "out": {
+                "number": 17,
+                "name": "Mario Mandzukic",
+                "short": "Mandzukic"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Thomas Strakosha",
+              "short": "Strakosha"
+            },
+            {
+              "number": 3,
+              "name": "Stefan de Vrij",
+              "short": "de Vrij"
+            },
+            {
+              "number": 26,
+              "name": "Stefan Radu",
+              "short": "Radu"
+            },
+            {
+              "number": 13,
+              "name": "Wallace"
+            },
+            {
+              "number": 18,
+              "name": "Luis Alberto",
+              "short": "Alberto"
+            },
+            {
+              "number": 16,
+              "name": "Marco Parolo",
+              "short": "Parolo"
+            },
+            {
+              "number": 6,
+              "name": "Lucas Leiva",
+              "short": "Leiva"
+            },
+            {
+              "number": 19,
+              "name": "Senad Lulic",
+              "short": "Lulic"
+            },
+            {
+              "number": 8,
+              "name": "Dusan Basta",
+              "short": "Basta"
+            },
+            {
+              "number": 21,
+              "name": "Sergej Milinkovic-Savic",
+              "short": "Milinkovic-Savic"
+            },
+            {
+              "number": 17,
+              "name": "Ciro Immobile",
+              "short": "Immobile"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 75,
+              "in": {
+                "number": 77,
+                "name": "Adam Marusic",
+                "short": "Marusic"
+              },
+              "out": {
+                "number": 8,
+                "name": "Dusan Basta",
+                "short": "Basta"
+              }
+            },
+            {
+              "minute": 75,
+              "in": {
+                "number": 5,
+                "name": "Jordan Lukaku",
+                "short": "Lukaku"
+              },
+              "out": {
+                "number": 19,
+                "name": "Senad Lulic",
+                "short": "Lulic"
+              }
+            },
+            {
+              "minute": 80,
+              "in": {
+                "number": 96,
+                "name": "Alessandro Murgia",
+                "short": "Murgia"
+              },
+              "out": {
+                "number": 6,
+                "name": "Lucas Leiva",
+                "short": "Leiva"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Paulo Dybala",
+          "team": "Juventus",
+          "points": 2
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Ciro Immobile",
+          "team": "Lazio",
+          "points": 2
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Alessandro Murgia",
+          "team": "Lazio",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

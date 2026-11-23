@@ -1,0 +1,322 @@
+{
+  "competition": "supercoppa-italiana",
+  "season": "2018-19",
+  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "events": [
+    {
+      "id": "supercoppa-italiana-2018-19-529145",
+      "competition": "supercoppa-italiana",
+      "season": "2018-19",
+      "stage": "final",
+      "title": "Juventus - Milan",
+      "session": "match",
+      "startsAt": "2019-01-16T17:30:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-111",
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+      },
+      "awayTeam": {
+        "id": "espn-103",
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 21,
+            "type": "yellow",
+            "side": "away",
+            "player": "Hakan Çalhanoglu",
+            "short": "Çalhanoglu"
+          },
+          {
+            "minute": 26,
+            "type": "yellow",
+            "side": "home",
+            "player": "Alex Sandro"
+          },
+          {
+            "minute": 44,
+            "type": "yellow",
+            "side": "home",
+            "player": "Miralem Pjanic",
+            "short": "Pjanic"
+          },
+          {
+            "minute": 45,
+            "addedTime": 2,
+            "type": "yellow",
+            "side": "away",
+            "player": "Samu Castillejo",
+            "short": "Castillejo"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Cristiano Ronaldo",
+            "short": "Ronaldo"
+          },
+          {
+            "minute": 73,
+            "type": "red",
+            "side": "away",
+            "player": "Franck Kessié",
+            "short": "Kessié"
+          },
+          {
+            "minute": 74,
+            "type": "yellow",
+            "side": "away",
+            "player": "Alessio Romagnoli",
+            "short": "Romagnoli"
+          },
+          {
+            "minute": 82,
+            "type": "yellow",
+            "side": "away",
+            "player": "Davide Calabria",
+            "short": "Calabria"
+          },
+          {
+            "minute": 87,
+            "type": "yellow",
+            "side": "away",
+            "player": "Ricardo Rodríguez",
+            "short": "Rodríguez"
+          },
+          {
+            "minute": 90,
+            "addedTime": 4,
+            "type": "yellow",
+            "side": "home",
+            "player": "Paulo Dybala",
+            "short": "Dybala"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Wojciech Szczesny",
+              "short": "Szczesny"
+            },
+            {
+              "number": 3,
+              "name": "Giorgio Chiellini",
+              "short": "Chiellini"
+            },
+            {
+              "number": 19,
+              "name": "Leonardo Bonucci",
+              "short": "Bonucci"
+            },
+            {
+              "number": 12,
+              "name": "Alex Sandro"
+            },
+            {
+              "number": 20,
+              "name": "João Cancelo",
+              "short": "Cancelo"
+            },
+            {
+              "number": 5,
+              "name": "Miralem Pjanic",
+              "short": "Pjanic"
+            },
+            {
+              "number": 14,
+              "name": "Blaise Matuidi",
+              "short": "Matuidi"
+            },
+            {
+              "number": 30,
+              "name": "Rodrigo Bentancur",
+              "short": "Bentancur"
+            },
+            {
+              "number": 10,
+              "name": "Paulo Dybala",
+              "short": "Dybala"
+            },
+            {
+              "number": 7,
+              "name": "Cristiano Ronaldo",
+              "short": "Ronaldo"
+            },
+            {
+              "number": 11,
+              "name": "Douglas Costa",
+              "short": "Costa"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 65,
+              "in": {
+                "number": 23,
+                "name": "Emre Can",
+                "short": "Can"
+              },
+              "out": {
+                "number": 5,
+                "name": "Miralem Pjanic",
+                "short": "Pjanic"
+              }
+            },
+            {
+              "minute": 86,
+              "in": {
+                "number": 33,
+                "name": "Federico Bernardeschi",
+                "short": "Bernardeschi"
+              },
+              "out": {
+                "number": 30,
+                "name": "Rodrigo Bentancur",
+                "short": "Bentancur"
+              }
+            },
+            {
+              "minute": 89,
+              "in": {
+                "number": 6,
+                "name": "Sami Khedira",
+                "short": "Khedira"
+              },
+              "out": {
+                "number": 11,
+                "name": "Douglas Costa",
+                "short": "Costa"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 99,
+              "name": "Gianluigi Donnarumma",
+              "short": "Donnarumma"
+            },
+            {
+              "number": 13,
+              "name": "Alessio Romagnoli",
+              "short": "Romagnoli"
+            },
+            {
+              "number": 17,
+              "name": "Cristián Zapata",
+              "short": "Zapata"
+            },
+            {
+              "number": 68,
+              "name": "Ricardo Rodríguez",
+              "short": "Rodríguez"
+            },
+            {
+              "number": 2,
+              "name": "Davide Calabria",
+              "short": "Calabria"
+            },
+            {
+              "number": 14,
+              "name": "Tiemoué Bakayoko",
+              "short": "Bakayoko"
+            },
+            {
+              "number": 39,
+              "name": "Lucas Paquetá",
+              "short": "Paquetá"
+            },
+            {
+              "number": 79,
+              "name": "Franck Kessié",
+              "short": "Kessié"
+            },
+            {
+              "number": 63,
+              "name": "Patrick Cutrone",
+              "short": "Cutrone"
+            },
+            {
+              "number": 10,
+              "name": "Hakan Çalhanoglu",
+              "short": "Çalhanoglu"
+            },
+            {
+              "number": 7,
+              "name": "Samu Castillejo",
+              "short": "Castillejo"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 71,
+              "in": {
+                "number": 9,
+                "name": "Gonzalo Higuaín",
+                "short": "Higuaín"
+              },
+              "out": {
+                "number": 7,
+                "name": "Samu Castillejo",
+                "short": "Castillejo"
+              }
+            },
+            {
+              "minute": 71,
+              "in": {
+                "number": 11,
+                "name": "Fabio Borini",
+                "short": "Borini"
+              },
+              "out": {
+                "number": 39,
+                "name": "Lucas Paquetá",
+                "short": "Paquetá"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 12,
+                "name": "Andrea Conti",
+                "short": "Conti"
+              },
+              "out": {
+                "number": 63,
+                "name": "Patrick Cutrone",
+                "short": "Cutrone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Cristiano Ronaldo",
+          "team": "Juventus",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}
