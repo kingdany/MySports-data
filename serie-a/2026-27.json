@@ -1,7 +1,7 @@
 {
   "competition": "serie-a",
   "season": "2026-27",
-  "generatedAt": "2026-11-22T19:32:30.8861897+00:00",
+  "generatedAt": "2026-11-23T01:39:13.2136436+00:00",
   "events": [
     {
       "id": "serie-a-2026-27-558629",
@@ -37903,7 +37903,17 @@
       },
       "homeScore": 4,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "IrKIMUF7V8Q",
+          "title": "POKER JUVE, SPALLETTI ne fa quattro: Juventus-Venezia 4-0 | Serie A Enilive | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/IrKIMUF7V8Q/hqdefault.jpg",
+          "publishedAt": "2026-11-22T16:28:08+00:00",
+          "source": "DAZN",
+          "duration": "4:35",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -38212,7 +38222,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "6HwYn-nnFeM",
+          "title": "ZANIOLO risponde a ZORTEA: Bologna-Udinese 1-1 | Serie A Enilive | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6HwYn-nnFeM/hqdefault.jpg",
+          "publishedAt": "2026-11-22T18:58:09+00:00",
+          "source": "DAZN",
+          "duration": "2:48"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -38529,7 +38548,16 @@
       },
       "homeScore": 0,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "vVj-DxQ4hIs",
+          "title": "OSMAJIC stende IL SASSUOLO: Sassuolo-Genoa 0-2 | Serie A Enilive | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vVj-DxQ4hIs/hqdefault.jpg",
+          "publishedAt": "2026-11-22T19:00:10+00:00",
+          "source": "DAZN",
+          "duration": "4:20"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -38830,7 +38858,16 @@
       },
       "homeScore": 5,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "0uHFq4wQN4Y",
+          "title": "MANITA MILAN, spettacolo a SAN SIRO: Milan-Frosinone 5-1 | Serie A Enilive | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0uHFq4wQN4Y/hqdefault.jpg",
+          "publishedAt": "2026-11-22T21:58:08+00:00",
+          "source": "DAZN",
+          "duration": "4:33"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -39174,7 +39211,7 @@
       "title": "Atalanta - Inter",
       "session": "match",
       "startsAt": "2026-11-22T19:45:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
       "homeTeam": {
         "id": "102",
         "name": "Atalanta BC",
@@ -39187,7 +39224,352 @@
         "shortName": "Inter",
         "logoUrl": "https://crests.football-data.org/108.png"
       },
-      "videos": []
+      "homeScore": 4,
+      "awayScore": 4,
+      "videos": [
+        {
+          "videoId": "Cl6l0wcPZMo",
+          "title": "I 3 gol di ESPOSITO, KESSIE glaciale al 91’: Atalanta-Inter 4-4 | Serie A Enilive | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Cl6l0wcPZMo/hqdefault.jpg",
+          "publishedAt": "2026-11-23T00:42:09+00:00",
+          "source": "DAZN",
+          "duration": "4:14"
+        }
+      ],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "away",
+            "player": "Pio Esposito",
+            "short": "Esposito"
+          },
+          {
+            "minute": 32,
+            "type": "goal",
+            "side": "away",
+            "player": "Pio Esposito",
+            "short": "Esposito"
+          },
+          {
+            "minute": 35,
+            "type": "goal",
+            "side": "home",
+            "player": "Eljif Elmas",
+            "short": "Elmas"
+          },
+          {
+            "minute": 52,
+            "type": "goal",
+            "side": "away",
+            "player": "Pio Esposito",
+            "short": "Esposito"
+          },
+          {
+            "minute": 60,
+            "type": "yellow",
+            "side": "home",
+            "player": "Giorgio Scalvini",
+            "short": "Scalvini"
+          },
+          {
+            "minute": 72,
+            "type": "goal",
+            "side": "home",
+            "player": "Charles De Ketelaere",
+            "short": "De Ketelaere"
+          },
+          {
+            "minute": 74,
+            "type": "yellow",
+            "side": "home",
+            "player": "Davide Zappacosta",
+            "short": "Zappacosta"
+          },
+          {
+            "minute": 76,
+            "type": "penalty",
+            "side": "away",
+            "player": "Petar Sucic",
+            "short": "Sucic"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Charles De Ketelaere",
+            "short": "De Ketelaere"
+          },
+          {
+            "minute": 90,
+            "addedTime": 1,
+            "type": "penalty",
+            "side": "home",
+            "player": "Franck Kessié",
+            "short": "Kessié"
+          },
+          {
+            "minute": 90,
+            "addedTime": 5,
+            "type": "yellow",
+            "side": "away",
+            "player": "Carlos Augusto",
+            "short": "Augusto"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 57,
+              "name": "Marco Sportiello",
+              "short": "Sportiello"
+            },
+            {
+              "number": 23,
+              "name": "Sead Kolasinac",
+              "short": "Kolasinac"
+            },
+            {
+              "number": 42,
+              "name": "Giorgio Scalvini",
+              "short": "Scalvini"
+            },
+            {
+              "number": 77,
+              "name": "Davide Zappacosta",
+              "short": "Zappacosta"
+            },
+            {
+              "number": 16,
+              "name": "Raoul Bellanova",
+              "short": "Bellanova"
+            },
+            {
+              "number": 17,
+              "name": "Charles De Ketelaere",
+              "short": "De Ketelaere"
+            },
+            {
+              "number": 13,
+              "name": "Éderson"
+            },
+            {
+              "number": 19,
+              "name": "Franck Kessié",
+              "short": "Kessié"
+            },
+            {
+              "number": 90,
+              "name": "Nikola Krstovic",
+              "short": "Krstovic"
+            },
+            {
+              "number": 59,
+              "name": "Nicola Zalewski",
+              "short": "Zalewski"
+            },
+            {
+              "number": 99,
+              "name": "Eljif Elmas",
+              "short": "Elmas"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 68,
+              "in": {
+                "number": 11,
+                "name": "Jon Rowe",
+                "short": "Rowe"
+              },
+              "out": {
+                "number": 99,
+                "name": "Eljif Elmas",
+                "short": "Elmas"
+              }
+            },
+            {
+              "minute": 68,
+              "in": {
+                "number": 8,
+                "name": "Mario Pasalic",
+                "short": "Pasalic"
+              },
+              "out": {
+                "number": 13,
+                "name": "Éderson"
+              }
+            },
+            {
+              "minute": 73,
+              "in": {
+                "number": 18,
+                "name": "Giacomo Raspadori",
+                "short": "Raspadori"
+              },
+              "out": {
+                "number": 59,
+                "name": "Nicola Zalewski",
+                "short": "Zalewski"
+              }
+            },
+            {
+              "minute": 88,
+              "in": {
+                "number": 9,
+                "name": "Gianluca Scamacca",
+                "short": "Scamacca"
+              },
+              "out": {
+                "number": 90,
+                "name": "Nikola Krstovic",
+                "short": "Krstovic"
+              }
+            },
+            {
+              "minute": 88,
+              "in": {
+                "number": 47,
+                "name": "Lorenzo Bernasconi",
+                "short": "Bernasconi"
+              },
+              "out": {
+                "number": 16,
+                "name": "Raoul Bellanova",
+                "short": "Bellanova"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Josep Martínez",
+              "short": "Martínez"
+            },
+            {
+              "number": 95,
+              "name": "Alessandro Bastoni",
+              "short": "Bastoni"
+            },
+            {
+              "number": 30,
+              "name": "Carlos Augusto",
+              "short": "Augusto"
+            },
+            {
+              "number": 28,
+              "name": "Benjamin Pavard",
+              "short": "Pavard"
+            },
+            {
+              "number": 22,
+              "name": "Henrikh Mkhitaryan",
+              "short": "Mkhitaryan"
+            },
+            {
+              "number": 23,
+              "name": "Nicolò Barella",
+              "short": "Barella"
+            },
+            {
+              "number": 20,
+              "name": "Hakan Çalhanoglu",
+              "short": "Çalhanoglu"
+            },
+            {
+              "number": 32,
+              "name": "Federico Dimarco",
+              "short": "Dimarco"
+            },
+            {
+              "number": 99,
+              "name": "Djed Spence",
+              "short": "Spence"
+            },
+            {
+              "number": 9,
+              "name": "Marcus Thuram",
+              "short": "Thuram"
+            },
+            {
+              "number": 94,
+              "name": "Pio Esposito",
+              "short": "Esposito"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 33,
+              "in": {
+                "number": 8,
+                "name": "Petar Sucic",
+                "short": "Sucic"
+              },
+              "out": {
+                "number": 20,
+                "name": "Hakan Çalhanoglu",
+                "short": "Çalhanoglu"
+              }
+            },
+            {
+              "minute": 64,
+              "in": {
+                "number": 25,
+                "name": "Manuel Akanji",
+                "short": "Akanji"
+              },
+              "out": {
+                "number": 32,
+                "name": "Federico Dimarco",
+                "short": "Dimarco"
+              }
+            },
+            {
+              "minute": 64,
+              "in": {
+                "number": 21,
+                "name": "Curtis Jones",
+                "short": "Jones"
+              },
+              "out": {
+                "number": 23,
+                "name": "Nicolò Barella",
+                "short": "Barella"
+              }
+            },
+            {
+              "minute": 77,
+              "in": {
+                "number": 10,
+                "name": "Lautaro Martínez",
+                "short": "Martínez"
+              },
+              "out": {
+                "number": 94,
+                "name": "Pio Esposito",
+                "short": "Esposito"
+              }
+            },
+            {
+              "minute": 77,
+              "in": {
+                "number": 5,
+                "name": "Aleksandar Stankovic",
+                "short": "Stankovic"
+              },
+              "out": {
+                "number": 22,
+                "name": "Henrikh Mkhitaryan",
+                "short": "Mkhitaryan"
+              }
+            }
+          ]
+        }
+      }
     },
     {
       "id": "serie-a-2026-27-558519",
@@ -45419,10 +45801,10 @@
           "posText": "3",
           "name": "Inter",
           "code": "INT",
-          "points": 28,
+          "points": 29,
           "wins": 9,
-          "played": 11,
-          "draws": 1,
+          "played": 12,
+          "draws": 2,
           "losses": 1,
           "goalDifference": 15,
           "zone": "champions"
@@ -45531,10 +45913,10 @@
           "posText": "12",
           "name": "Atalanta",
           "code": "ATA",
-          "points": 14,
+          "points": 15,
           "wins": 4,
-          "played": 11,
-          "draws": 2,
+          "played": 12,
+          "draws": 3,
           "losses": 5,
           "goalDifference": -3
         },
@@ -45670,6 +46052,13 @@
           "name": "Nikola Krstović",
           "team": "Atalanta",
           "points": 7
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Francesco Esposito",
+          "team": "Inter",
+          "points": 6
         },
         {
           "pos": 5,

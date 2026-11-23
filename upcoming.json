@@ -1,29 +1,6 @@
 {
-  "generatedAt": "2026-11-22T19:32:30.8861897+00:00",
+  "generatedAt": "2026-11-23T01:39:13.2136436+00:00",
   "events": [
-    {
-      "id": "serie-a-2026-27-558520",
-      "competition": "serie-a",
-      "season": "2026-27",
-      "round": 12,
-      "title": "Atalanta - Inter",
-      "session": "match",
-      "startsAt": "2026-11-22T19:45:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "102",
-        "name": "Atalanta BC",
-        "shortName": "Atalanta",
-        "logoUrl": "https://crests.football-data.org/102.png"
-      },
-      "awayTeam": {
-        "id": "108",
-        "name": "FC Internazionale Milano",
-        "shortName": "Inter",
-        "logoUrl": "https://crests.football-data.org/108.png"
-      },
-      "videos": []
-    },
     {
       "id": "serie-a-2026-27-558519",
       "competition": "serie-a",
@@ -1984,6 +1961,29 @@
         "name": "Udinese Calcio",
         "shortName": "Udinese",
         "logoUrl": "https://crests.football-data.org/115.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "serie-a-2026-27-558505",
+      "competition": "serie-a",
+      "season": "2026-27",
+      "round": 14,
+      "title": "Milan - Parma",
+      "session": "match",
+      "startsAt": "2026-12-06T19:45:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "98",
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "logoUrl": "https://crests.football-data.org/98.png"
+      },
+      "awayTeam": {
+        "id": "112",
+        "name": "Parma Calcio 1913",
+        "shortName": "Parma",
+        "logoUrl": "https://crests.football-data.org/112.png"
       },
       "videos": []
     }
