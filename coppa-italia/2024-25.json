@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2024-25",
-  "generatedAt": "2026-11-23T13:40:42.7286808+00:00",
+  "generatedAt": "2026-11-23T15:37:10.6821373+00:00",
   "events": [
     {
       "id": "coppa-italia-2024-25-712589",
@@ -14019,7 +14019,7 @@
           "pos": 1,
           "posText": "1",
           "name": "Tammy Abraham",
-          "team": "AC Milan",
+          "team": "Milan",
           "points": 4
         },
         {
@@ -14027,13 +14027,6 @@
           "posText": "2",
           "name": "Thijs Dallinga",
           "team": "Bologna",
-          "points": 3
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Cristian Shpendi",
-          "team": "Cesena",
           "points": 3
         },
         {
@@ -14053,50 +14046,8 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Tijjani Reijnders",
-          "team": "AC Milan",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Sebastiano Esposito",
-          "team": "Empoli",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Riccardo Orsolini",
-          "team": "Bologna",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Hakan Çalhanoglu",
+          "name": "Marko Arnautović",
           "team": "Inter",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Augustus Kargbo",
-          "team": "Cesena",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Lorenzo Lucca",
-          "team": "Udinese",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Emmanuel Ekong",
-          "team": "Empoli",
           "points": 2
         },
         {
@@ -14109,85 +14060,8 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Marko Arnautovic",
-          "team": "Inter",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Cyril Ngonge",
-          "team": "Napoli",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Lazar Samardzic",
-          "team": "Atalanta",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Roberto Piccoli",
-          "team": "Cagliari",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Manuel De Luca",
-          "team": "Cremonese",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
           "name": "Samuel Chukwueze",
-          "team": "AC Milan",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Boulaye Dia",
-          "team": "Lazio",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Alessio Tribuzzi",
-          "team": "US Avellino",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Jacopo Fazzini",
-          "team": "Empoli",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Samuele Mulattieri",
-          "team": "Sassuolo",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Luka Jovic",
-          "team": "AC Milan",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Giacomo Olzer",
-          "team": "Brescia",
+          "team": "Milan",
           "points": 2
         },
         {
@@ -14200,8 +14074,92 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Casper Tengstedt",
-          "team": "Hellas Verona",
+          "name": "Emmanuel Ekong",
+          "team": "Empoli",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Sebastiano Esposito",
+          "team": "Empoli",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Jacopo Fazzini",
+          "team": "Empoli",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Luka Jović",
+          "team": "Milan",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Augustus Kargbo",
+          "team": "Cesena",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Samuele Mulattieri",
+          "team": "Sassuolo",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Cyril Ngonge",
+          "team": "Napoli",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Giacomo Olzer",
+          "team": "Brescia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Riccardo Orsolini",
+          "team": "Bologna",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Roberto Piccoli",
+          "team": "Cagliari",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Tijjani Reijnders",
+          "team": "Milan",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Cristian Shpendi",
+          "team": "Cesena",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Lazar Samardžić",
+          "team": "Atalanta",
           "points": 2
         },
         {
@@ -14214,8 +14172,29 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Giacomo Manzari",
-          "team": "Carrarese",
+          "name": "Alessio Tribuzzi",
+          "team": "Avellino",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Hakan Çalhanoğlu",
+          "team": "Inter",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Boulaye Dia",
+          "team": "Salernitana",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Lorenzo Lucca",
+          "team": "Udinese",
           "points": 2
         }
       ]

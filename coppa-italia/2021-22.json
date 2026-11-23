@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2021-22",
-  "generatedAt": "2026-11-20T17:15:32.3853036+00:00",
+  "generatedAt": "2026-11-23T15:37:10.6821373+00:00",
   "events": [
     {
       "id": "coppa-italia-2021-22-615170",
@@ -14331,23 +14331,9 @@
         {
           "pos": 1,
           "posText": "1",
-          "name": "Dusan Vlahovic",
+          "name": "Dušan Vlahović",
           "team": "Juventus",
           "points": 4
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Olivier Giroud",
-          "team": "AC Milan",
-          "points": 3
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Krzysztof Piatek",
-          "team": "Fiorentina",
-          "points": 3
         },
         {
           "pos": 2,
@@ -14359,77 +14345,56 @@
         {
           "pos": 2,
           "posText": "2",
+          "name": "Olivier Giroud",
+          "team": "Milan",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
           "name": "Leonardo Mancuso",
-          "team": "Monza",
+          "team": "Empoli",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Krzysztof Piątek",
+          "team": "Fiorentina",
           "points": 3
         },
         {
           "pos": 3,
           "posText": "3",
-          "name": "Ivan Perisic",
-          "team": "Inter",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Lorenzo Venuti",
-          "team": "Fiorentina",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Nikola Milenkovic",
-          "team": "Fiorentina",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Lautaro Martínez",
-          "team": "Inter",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Alexis Sánchez",
-          "team": "Inter",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Rafael Leão",
-          "team": "AC Milan",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Paulo Dybala",
-          "team": "Juventus",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Diego Peralta",
-          "team": "Ternana",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Ignacio Pussetto",
-          "team": "Udinese",
+          "name": "Federico Bonazzoli",
+          "team": "Salernitana",
           "points": 2
         },
         {
           "pos": 3,
           "posText": "3",
           "name": "Arturo Calabresi",
+          "team": "Lecce",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Mirko Carretta",
+          "team": "Perugia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Moutir Chajia",
+          "team": "Como",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Massimo Coda",
           "team": "Lecce",
           "points": 2
         },
@@ -14443,15 +14408,78 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Massimo Coda",
-          "team": "Lecce",
+          "name": "Paulo Dybala",
+          "team": "Juventus",
           "points": 2
         },
         {
           "pos": 3,
           "posText": "3",
-          "name": "Fabio Quagliarella",
-          "team": "Sampdoria",
+          "name": "Rafael Leão",
+          "team": "Milan",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Lautaro Martínez",
+          "team": "Inter",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Nikola Milenković",
+          "team": "Fiorentina",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Diego Peralta",
+          "team": "Ternana",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Roberto Pereyra",
+          "team": "Udinese",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Ignacio Pussetto",
+          "team": "Udinese",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Alexis Sánchez",
+          "team": "Inter",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Lorenzo Venuti",
+          "team": "Fiorentina",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Simone Corazza",
+          "team": "Alessandria",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "César Falletti",
+          "team": "Ternana",
           "points": 2
         },
         {
@@ -14464,29 +14492,15 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Mirko Carretta",
-          "team": "Perugia",
+          "name": "Ivan Perišić",
+          "team": "Inter",
           "points": 2
         },
         {
           "pos": 3,
           "posText": "3",
-          "name": "Federico Bonazzoli",
-          "team": "Salernitana",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Moutir Chajia",
-          "team": "Como",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Roberto Pereyra",
-          "team": "Udinese",
+          "name": "Fabio Quagliarella",
+          "team": "Sampdoria",
           "points": 2
         }
       ]

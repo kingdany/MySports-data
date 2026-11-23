@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2022-23",
-  "generatedAt": "2026-11-20T17:17:57.8869778+00:00",
+  "generatedAt": "2026-11-23T15:37:10.6821373+00:00",
   "events": [
     {
       "id": "coppa-italia-2022-23-647664",
@@ -14304,34 +14304,13 @@
           "posText": "1",
           "name": "Walid Cheddira",
           "team": "Bari",
-          "points": 4
+          "points": 5
         },
         {
           "pos": 2,
           "posText": "2",
           "name": "Lautaro Martínez",
           "team": "Inter",
-          "points": 3
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Daniele Verde",
-          "team": "Spezia",
-          "points": 3
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Mattia Valoti",
-          "team": "Monza",
-          "points": 3
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Albert Gudmundsson",
-          "team": "Genoa",
           "points": 3
         },
         {
@@ -14344,71 +14323,50 @@
         {
           "pos": 2,
           "posText": "2",
-          "name": "David Strelec",
-          "team": "Reggina",
+          "name": "Dávid Strelec",
+          "team": "Spezia",
           "points": 3
         },
         {
-          "pos": 3,
-          "posText": "3",
-          "name": "Nico González",
-          "team": "Fiorentina",
-          "points": 2
+          "pos": 2,
+          "posText": "2",
+          "name": "Matteo Brunori",
+          "team": "Palermo",
+          "points": 3
         },
         {
-          "pos": 3,
-          "posText": "3",
-          "name": "Leonardo Sernicola",
-          "team": "Cremonese",
-          "points": 2
+          "pos": 2,
+          "posText": "2",
+          "name": "Davide Diaw",
+          "team": "Modena",
+          "points": 3
         },
         {
-          "pos": 3,
-          "posText": "3",
-          "name": "David Okereke",
-          "team": "Cremonese",
-          "points": 2
+          "pos": 2,
+          "posText": "2",
+          "name": "Albert Guðmundsson",
+          "team": "Genoa",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Mattia Valoti",
+          "team": "Monza",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Daniele Verde",
+          "team": "Spezia",
+          "points": 3
         },
         {
           "pos": 3,
           "posText": "3",
           "name": "Felix Afena-Gyan",
           "team": "Cremonese",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Nehuén Pérez",
-          "team": "Udinese",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "M'Bala Nzola",
-          "team": "Spezia",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Nicola Mosti",
-          "team": "Modena",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Nemanja Radonjic",
-          "team": "Torino",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Davide Diaw",
-          "team": "Modena",
           "points": 2
         },
         {
@@ -14421,8 +14379,50 @@
         {
           "pos": 3,
           "posText": "3",
+          "name": "Hilmir Mikaelsson",
+          "team": "Venezia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Nicola Mosti",
+          "team": "Modena",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "David Okereke",
+          "team": "Cremonese",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
           "name": "Pietro Pellegri",
           "team": "Torino",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Nehuén Pérez",
+          "team": "Udinese",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Nemanja Radonjić",
+          "team": "Torino",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Leonardo Sernicola",
+          "team": "Cremonese",
           "points": 2
         },
         {
@@ -14435,8 +14435,15 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Hilmir Rafn Mikaelsson",
-          "team": "Venezia",
+          "name": "Nicolás González",
+          "team": "Fiorentina",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "M'Bala Nzola",
+          "team": "Spezia",
           "points": 2
         }
       ]

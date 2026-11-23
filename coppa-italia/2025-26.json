@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2025-26",
-  "generatedAt": "2026-11-20T17:17:57.8869778+00:00",
+  "generatedAt": "2026-11-23T15:37:10.6821373+00:00",
   "events": [
     {
       "id": "coppa-italia-2025-26-744097",
@@ -13558,7 +13558,7 @@
         {
           "pos": 1,
           "posText": "1",
-          "name": "Mario Pasalic",
+          "name": "Mario Pašalić",
           "team": "Atalanta",
           "points": 4
         },
@@ -13579,35 +13579,14 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Lucas Da Cunha",
-          "team": "Como",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Marcus Thuram",
-          "team": "Inter",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Andy Diouf",
-          "team": "Inter",
+          "name": "Ché Adams",
+          "team": "Torino",
           "points": 2
         },
         {
           "pos": 3,
           "posText": "3",
           "name": "Martin Baturina",
-          "team": "Como",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Jesús Rodriguez",
           "team": "Como",
           "points": 2
         },
@@ -13621,29 +13600,8 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Ché Adams",
-          "team": "Torino",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Christian Pulisic",
-          "team": "AC Milan",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Hakan Çalhanoglu",
+          "name": "Hakan Çalhanoğlu",
           "team": "Inter",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Roberto Piccoli",
-          "team": "Fiorentina",
           "points": 2
         },
         {
@@ -13656,14 +13614,49 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "John Yeboah",
-          "team": "Venezia",
+          "name": "Lucas Da Cunha",
+          "team": "Como",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Andy Diouf",
+          "team": "Inter",
           "points": 2
         },
         {
           "pos": 3,
           "posText": "3",
           "name": "Issa Doumbia",
+          "team": "Venezia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Christian Pulisic",
+          "team": "Milan",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Jesús Rodríguez",
+          "team": "Como",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Marcus Thuram",
+          "team": "Inter",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "John Yeboah",
           "team": "Venezia",
           "points": 2
         }

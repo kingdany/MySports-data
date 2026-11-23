@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2019-20",
-  "generatedAt": "2026-11-20T17:15:32.3853036+00:00",
+  "generatedAt": "2026-11-23T15:37:10.6821373+00:00",
   "events": [
     {
       "id": "coppa-italia-2019-20-554187",
@@ -14005,5 +14005,327 @@
       }
     }
   ],
-  "standings": []
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Gianluca Scamacca",
+          "team": "Ascoli",
+          "points": 4
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Michele Vano",
+          "team": "Carpi",
+          "points": 4
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Rolando Mandragora",
+          "team": "Udinese",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Tommaso Morosini",
+          "team": "Sudtirol",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Marcello Trotta",
+          "team": "Frosinone",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Lorenzo Insigne",
+          "team": "Napoli",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Paulo Dentello Azzi",
+          "team": "Pro Vercelli",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Marco Benassi",
+          "team": "Fiorentina",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Gleison Bremer",
+          "team": "Torino",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Andrea Brighenti",
+          "team": "Monza",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Hakan Çalhanoğlu",
+          "team": "Milan",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Žan Celar",
+          "team": "Cittadella",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Camillo Ciano",
+          "team": "Frosinone",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Claiton",
+          "team": "Cremonese",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Vincenzo Corvino",
+          "team": "Fasano",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Francesco Deli",
+          "team": "Cremonese",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Daniele Donnarumma",
+          "team": "Monopoli",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Felice Evacuo",
+          "team": "Trapani",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Mattia Finotto",
+          "team": "Monza",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Gervinho",
+          "team": "Parma",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Niccolò Giannetti",
+          "team": "Salernitana",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Filippo Guccione",
+          "team": "Mantova",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Simone Iocolano",
+          "team": "Monza",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Gianluca Lapadula",
+          "team": "Lecce",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Kevin Lasagna",
+          "team": "Udinese",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Romelu Lukaku",
+          "team": "Inter",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Francesco Nicastro",
+          "team": "Catanzaro",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Simone Palombi",
+          "team": "Cremonese",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Andrea Pinamonti",
+          "team": "Genoa",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Simone Raffini",
+          "team": "Ravenna",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Fabio Scarsella",
+          "team": "FeralpiSalo",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Andrés Tello",
+          "team": "Benevento",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Mattia Valoti",
+          "team": "SPAL",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Dušan Vlahović",
+          "team": "Fiorentina",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Mattia Aramu",
+          "team": "Venezia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Niccolò Belloni",
+          "team": "Arezzo",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Iacopo Cernigoi",
+          "team": "Sambenedettese",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Domenico Criscito",
+          "team": "Genoa",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Davide Diaw",
+          "team": "Cittadella",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Paulo Dybala",
+          "team": "Juventus",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Pablo Granoche",
+          "team": "Triestina",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Lorenzo Pellegrini",
+          "team": "Roma",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Reginaldo",
+          "team": "Reggina",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Cristiano Ronaldo",
+          "team": "Juventus",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Marco Tumminello",
+          "team": "Pescara",
+          "points": 2
+        }
+      ]
+    }
+  ]
 }

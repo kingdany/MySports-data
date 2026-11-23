@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2020-21",
-  "generatedAt": "2026-11-20T17:15:32.3853036+00:00",
+  "generatedAt": "2026-11-23T15:37:10.6821373+00:00",
   "events": [
     {
       "id": "coppa-italia-2020-21-585657",
@@ -15229,13 +15229,27 @@
         {
           "pos": 1,
           "posText": "1",
-          "name": "Dejan Kulusevski",
-          "team": "Juventus",
+          "name": "Gianluca Scamacca",
+          "team": "Genoa",
+          "points": 4
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Leonardo Mancuso",
+          "team": "Empoli",
           "points": 3
         },
         {
-          "pos": 1,
-          "posText": "1",
+          "pos": 2,
+          "posText": "2",
+          "name": "Dennis Johnsen",
+          "team": "Venezia",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
           "name": "Hirving Lozano",
           "team": "Napoli",
           "points": 3
@@ -15243,64 +15257,204 @@
         {
           "pos": 2,
           "posText": "2",
-          "name": "Matteo Pessina",
-          "team": "Atalanta",
-          "points": 2
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Cristiano Ronaldo",
+          "name": "Dejan Kulusevski",
           "team": "Juventus",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Umberto Eusepi",
+          "team": "Alessandria",
           "points": 2
         },
         {
-          "pos": 2,
-          "posText": "2",
-          "name": "Federico Chiesa",
-          "team": "Juventus",
+          "pos": 3,
+          "posText": "3",
+          "name": "Gianluca Gaetano",
+          "team": "Cremonese",
           "points": 2
         },
         {
-          "pos": 2,
-          "posText": "2",
-          "name": "Romelu Lukaku",
-          "team": "Inter",
+          "pos": 3,
+          "posText": "3",
+          "name": "Mattia Marchi",
+          "team": "Reggiana",
           "points": 2
         },
         {
-          "pos": 2,
-          "posText": "2",
-          "name": "Ruslan Malinovskyi",
-          "team": "Atalanta",
+          "pos": 3,
+          "posText": "3",
+          "name": "Davide Merola",
+          "team": "Empoli",
           "points": 2
         },
         {
-          "pos": 2,
-          "posText": "2",
-          "name": "Álvaro Morata",
-          "team": "Juventus",
+          "pos": 3,
+          "posText": "3",
+          "name": "Samon Rodríguez",
+          "team": "Casarano",
           "points": 2
         },
         {
-          "pos": 2,
-          "posText": "2",
-          "name": "Alexey Miranchuk",
-          "team": "Atalanta",
+          "pos": 3,
+          "posText": "3",
+          "name": "Nicolás Schiavi",
+          "team": "Novara",
           "points": 2
         },
         {
-          "pos": 2,
-          "posText": "2",
+          "pos": 3,
+          "posText": "3",
+          "name": "Giuseppe Sibilli",
+          "team": "Pisa",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Simone Verdi",
+          "team": "Torino",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Nedim Bajrami",
+          "team": "Empoli",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Juan Brunetta",
+          "team": "Parma",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Simone Della Latta",
+          "team": "Padova",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Francesco Galuppini",
+          "team": "Renate",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Yann Karamoh",
+          "team": "Parma",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Emmanuel Latte Lath",
+          "team": "Pro Patria",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Giulio Maggiore",
+          "team": "Spezia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Riccardo Orsolini",
+          "team": "Bologna",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Sean Parker",
+          "team": "Pro Patria",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Claudio Santini",
+          "team": "Padova",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
           "name": "Riccardo Saponara",
           "team": "Spezia",
           "points": 2
         },
         {
-          "pos": 2,
-          "posText": "2",
-          "name": "Nedim Bajrami",
-          "team": "Empoli",
+          "pos": 3,
+          "posText": "3",
+          "name": "Romelu Lukaku",
+          "team": "Inter",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Ruslan Malinovs'kyj",
+          "team": "Atalanta",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Aleksej Mirančuk",
+          "team": "Atalanta",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Álvaro Morata",
+          "team": "Juventus",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Riccardo Sottil",
+          "team": "Cagliari",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Daniele Verde",
+          "team": "Spezia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Federico Chiesa",
+          "team": "Juventus",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Cristiano Ronaldo",
+          "team": "Juventus",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Matteo Pessina",
+          "team": "Atalanta",
           "points": 2
         }
       ]

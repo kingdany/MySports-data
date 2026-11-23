@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2017-18",
-  "generatedAt": "2026-11-20T17:15:32.3853036+00:00",
+  "generatedAt": "2026-11-23T15:37:10.6821373+00:00",
   "events": [
     {
       "id": "coppa-italia-2017-18-490744",
@@ -11750,100 +11750,79 @@
         {
           "pos": 1,
           "posText": "1",
-          "name": "Patrick Cutrone",
-          "team": "AC Milan",
-          "points": 1
+          "name": "Matteo Di Piazza",
+          "team": "Lecce",
+          "points": 4
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Alberto Cerri",
+          "team": "Perugia",
+          "points": 4
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Maxi López",
+          "team": "Udinese",
+          "points": 4
         },
         {
           "pos": 2,
           "posText": "2",
-          "name": "Manuel Locatelli",
-          "team": "AC Milan",
-          "points": 0
+          "name": "Andrea Belotti",
+          "team": "Torino",
+          "points": 3
         },
         {
           "pos": 2,
           "posText": "2",
-          "name": "Roberto Gagliardini",
-          "team": "Inter",
-          "points": 0
+          "name": "Salvatore Burrai",
+          "team": "Pordenone",
+          "points": 3
         },
         {
           "pos": 2,
           "posText": "2",
-          "name": "Milan Skriniar",
-          "team": "Inter",
-          "points": 0
+          "name": "Ferdinando Del Sole",
+          "team": "Pescara",
+          "points": 3
         },
         {
           "pos": 2,
           "posText": "2",
-          "name": "João Mário",
-          "team": "Inter",
-          "points": 0
+          "name": "Umberto Eusepi",
+          "team": "Pisa",
+          "points": 3
         },
         {
           "pos": 2,
           "posText": "2",
-          "name": "Nikola Kalinic",
-          "team": "AC Milan",
-          "points": 0
+          "name": "Andrea Favilli",
+          "team": "Ascoli",
+          "points": 3
         },
         {
           "pos": 2,
           "posText": "2",
-          "name": "Antonio Candreva",
-          "team": "Inter",
-          "points": 0
+          "name": "Dawid Kownacki",
+          "team": "Sampdoria",
+          "points": 3
         },
         {
           "pos": 2,
           "posText": "2",
-          "name": "Lucas Biglia",
-          "team": "AC Milan",
-          "points": 0
+          "name": "Jacopo Murano",
+          "team": "Trapani",
+          "points": 3
         },
         {
           "pos": 2,
           "posText": "2",
-          "name": "Ignazio Abate",
-          "team": "AC Milan",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Davide Calabria",
-          "team": "AC Milan",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Marcelo Brozovic",
-          "team": "Inter",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Hakan Çalhanoglu",
-          "team": "AC Milan",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Éder",
-          "team": "Inter",
-          "points": 0
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Borja Valero",
-          "team": "Inter",
-          "points": 0
+          "name": "Aleksandar Trajkovski",
+          "team": "Palermo",
+          "points": 3
         }
       ]
     }

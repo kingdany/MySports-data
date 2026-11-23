@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2026-27",
-  "generatedAt": "2026-11-23T13:49:31.1119706+00:00",
+  "generatedAt": "2026-11-23T15:37:10.6821373+00:00",
   "events": [
     {
       "id": "coppa-italia-2026-27-401881688",
@@ -8451,13 +8451,6 @@
         {
           "pos": 2,
           "posText": "2",
-          "name": "Francesco Ruocco",
-          "team": "Mantova",
-          "points": 2
-        },
-        {
-          "pos": 2,
-          "posText": "2",
           "name": "Akor Adams",
           "team": "Venezia",
           "points": 2
@@ -8465,22 +8458,22 @@
         {
           "pos": 2,
           "posText": "2",
-          "name": "Giorgi Kvernadze",
-          "team": "Frosinone",
+          "name": "Giuseppe Ambrosino",
+          "team": "Modena",
           "points": 2
         },
         {
           "pos": 2,
           "posText": "2",
-          "name": "Bayo Youssouf",
+          "name": "Vakoun Issouf Bayo",
           "team": "Udinese",
           "points": 2
         },
         {
           "pos": 2,
           "posText": "2",
-          "name": "Gustavo Varela",
-          "team": "Monza",
+          "name": "Giorgi K'vernadze",
+          "team": "Frosinone",
           "points": 2
         },
         {
@@ -8493,303 +8486,30 @@
         {
           "pos": 2,
           "posText": "2",
-          "name": "Giuseppe Ambrosino",
-          "team": "Modena",
+          "name": "Francesco Ruocco",
+          "team": "Mantova",
           "points": 2
         },
         {
-          "pos": 3,
-          "posText": "3",
-          "name": "Dominic Vavassori",
-          "team": "Palermo",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Alessandro Marcandalli",
-          "team": "Genoa",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Cher Ndour",
-          "team": "Fiorentina",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Giovanni Simeone",
-          "team": "Torino",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Tommaso Baldanzi",
-          "team": "Genoa",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Cristian Volpato",
-          "team": "Sassuolo",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Omari Forson",
+          "pos": 2,
+          "posText": "2",
+          "name": "Gustavo Varela",
           "team": "Monza",
-          "points": 1
+          "points": 2
         },
         {
-          "pos": 3,
-          "posText": "3",
-          "name": "Paul Mendy",
-          "team": "Cagliari",
-          "points": 1
+          "pos": 2,
+          "posText": "2",
+          "name": "Vinicius",
+          "team": "Ravenna",
+          "points": 2
         },
         {
-          "pos": 3,
-          "posText": "3",
-          "name": "Abdou Harroui",
-          "team": "Hellas Verona",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Keinan Davis",
-          "team": "Udinese",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Tommaso Berti",
-          "team": "Cremonese",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Matteo Cichella",
-          "team": "Frosinone",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Amin Sarr",
-          "team": "Hellas Verona",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Dennis Johnsen",
-          "team": "Palermo",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Richie Sagrado",
-          "team": "Venezia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Antonio Palumbo",
-          "team": "Palermo",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Johan Vásquez",
-          "team": "Genoa",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Kenny Mixtur",
-          "team": "Sudtirol",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Lorenzo Colombo",
-          "team": "Genoa",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Luca Lipani",
-          "team": "Sassuolo",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Ismael Cajazzo",
-          "team": "Mantova",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Benjamín Domínguez",
-          "team": "Sassuolo",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Gabriel Strefezza",
-          "team": "Palermo",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Samuele Mulattieri",
-          "team": "Hellas Verona",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Alessandro Deiola",
-          "team": "Cagliari",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Simone Lottici Tessadri",
-          "team": "Cremonese",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Andrea Franzoni",
-          "team": "Virtus Entella",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Tommaso Marras",
-          "team": "Pisa",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Adin Licina",
-          "team": "Cremonese",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Edoardo Saporiti",
-          "team": "Empoli",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Andrea Silipo",
-          "team": "Ascoli",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Niklas Pyyhtia",
-          "team": "Sudtirol",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Antonio Raimondo",
-          "team": "Frosinone",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Davide Lamesta",
+          "pos": 2,
+          "posText": "2",
+          "name": "Francesco Salvemini",
           "team": "Benevento",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Wilfried Gnonto",
-          "team": "Fiorentina",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Bernat Guiu",
-          "team": "Virtus Entella",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Luca Ranieri",
-          "team": "Fiorentina",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Moise Kean",
-          "team": "Como",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "John Yeboah",
-          "team": "Venezia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Mattia Compagnon",
-          "team": "Hellas Verona",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Mateo Pellegrino",
-          "team": "Fiorentina",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Pietro Iemmello",
-          "team": "Catanzaro",
-          "points": 1
+          "points": 2
         }
       ]
     }

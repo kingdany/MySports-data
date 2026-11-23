@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2015-16",
-  "generatedAt": "2026-11-20T17:15:32.3853036+00:00",
+  "generatedAt": "2026-11-23T15:37:10.6821373+00:00",
   "events": [
     {
       "id": "coppa-italia-2015-16-431442",
@@ -10169,5 +10169,82 @@
       }
     }
   ],
-  "standings": []
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Giulio Bizzotto",
+          "team": "Cittadella",
+          "points": 5
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Riccardo Bocalon",
+          "team": "Alessandria",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Marcelo Brozović",
+          "team": "Inter",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Roberto Floriano",
+          "team": "Foggia",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Simone Guerra",
+          "team": "FeralpiSalo",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Pablo Granoche",
+          "team": "Modena",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Massimo Loviso",
+          "team": "Alessandria",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Ryder Matos",
+          "team": "Carpi",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Álvaro Morata",
+          "team": "Juventus",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "M'Baye Niang",
+          "team": "Milan",
+          "points": 3
+        }
+      ]
+    }
+  ]
 }

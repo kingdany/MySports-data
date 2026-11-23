@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2018-19",
-  "generatedAt": "2026-11-23T13:40:42.7286808+00:00",
+  "generatedAt": "2026-11-23T15:37:10.6821373+00:00",
   "events": [
     {
       "id": "coppa-italia-2018-19-521524",
@@ -13951,5 +13951,299 @@
       }
     }
   ],
-  "standings": []
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Krzysztof Piątek",
+          "team": "Milan",
+          "points": 8
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Federico Chiesa",
+          "team": "Fiorentina",
+          "points": 6
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Ciro Immobile",
+          "team": "Lazio",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Luis Muriel",
+          "team": "Fiorentina",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Mattia Rossetti",
+          "team": "Catania",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Duván Zapata",
+          "team": "Atalanta",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Luis Alfageme",
+          "team": "Casertana",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Filippo Bandinelli",
+          "team": "Benevento",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Andrea Belotti",
+          "team": "Torino",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Marco Benassi",
+          "team": "Fiorentina",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Riccardo Bocalon",
+          "team": "Salernitana",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Antonio Candreva",
+          "team": "Inter",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Joaquín Correa",
+          "team": "Lazio",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Rocco Costantino",
+          "team": "Sudtirol",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Patrick Cutrone",
+          "team": "Milan",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Alfredo Donnarumma",
+          "team": "Brescia",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Felice Evacuo",
+          "team": "Trapani",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Luca Gelonese",
+          "team": "Sambenedettese",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Simone Icardi",
+          "team": "Virtus Entella",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Roberto Insigne",
+          "team": "Benevento",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Francesco Lodi",
+          "team": "Catania",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Lautaro Martínez",
+          "team": "Inter",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Sergej Milinković-Savić",
+          "team": "Lazio",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Davide Moscardelli",
+          "team": "Pisa",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Riccardo Orsolini",
+          "team": "Bologna",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Mario Pašalić",
+          "team": "Atalanta",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Leonardo Pavoletti",
+          "team": "Cagliari",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Slobodan Rajković",
+          "team": "Palermo",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Stefano Scappini",
+          "team": "Cittadella",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Patrik Schick",
+          "team": "Roma",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Daniele Sciaudone",
+          "team": "Novara",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Giovanni Simeone",
+          "team": "Fiorentina",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Adrian Stoian",
+          "team": "Crotone",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Jari Vandeputte",
+          "team": "Viterbese",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Roberto Zammarini",
+          "team": "Pisa",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Domenico Berardi",
+          "team": "Sassuolo",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Andrea Bracaletti",
+          "team": "Triestina",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Mattia Marchi",
+          "team": "FeralpiSalo",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Nicolás Schiavi",
+          "team": "Novara",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Daniele Vantaggiato",
+          "team": "Ternana",
+          "points": 2
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Mauro Icardi",
+          "team": "Inter",
+          "points": 2
+        }
+      ]
+    }
+  ]
 }
