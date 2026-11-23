@@ -1,7 +1,7 @@
 {
   "competition": "supercoppa-italiana",
   "season": "2023-24",
-  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "generatedAt": "2026-11-23T14:52:26.013392+00:00",
   "events": [
     {
       "id": "supercoppa-italiana-2023-24-693961",
@@ -26,7 +26,16 @@
       },
       "homeScore": 3,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "97GHLw-6S0A",
+          "title": "NAPOLI-FIORENTINA 3-0 | HIGHLIGHTS | SEMIFINALE | EA SPORTS FC Supercup 2023/24",
+          "thumbnailUrl": "https://i.ytimg.com/vi/97GHLw-6S0A/hqdefault.jpg",
+          "publishedAt": "2024-01-18T23:59:09+00:00",
+          "source": "Serie A",
+          "duration": "3:20"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -340,7 +349,16 @@
       },
       "homeScore": 3,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "KMZ9VbWJozA",
+          "title": "INTER-LAZIO 3-0 | HIGHLIGHTS | SEMIFINALE | EA SPORTS FC Supercup 2023/24",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KMZ9VbWJozA/hqdefault.jpg",
+          "publishedAt": "2024-01-19T22:59:08+00:00",
+          "source": "Serie A",
+          "duration": "3:15"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -661,7 +679,16 @@
       },
       "homeScore": 0,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "jfGGwYmk9sM",
+          "title": "NAPOLI-INTER 0-1 | HIGHLIGHTS | FINALE | EA SPORTS FC Supercup 2023/24",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jfGGwYmk9sM/hqdefault.jpg",
+          "publishedAt": "2024-01-22T23:55:24+00:00",
+          "source": "Serie A",
+          "duration": "3:21"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [

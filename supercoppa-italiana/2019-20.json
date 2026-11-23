@@ -1,7 +1,7 @@
 {
   "competition": "supercoppa-italiana",
   "season": "2019-20",
-  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "generatedAt": "2026-11-23T14:52:26.013392+00:00",
   "events": [
     {
       "id": "supercoppa-italiana-2019-20-559402",
@@ -26,7 +26,16 @@
       },
       "homeScore": 1,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "7TJmno_csIA",
+          "title": "Juventus 1-3 Lazio | La Supercoppa va a Roma! | Coca-Cola Supercoppa Italiana 19/20 | Serie A TIM",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7TJmno_csIA/hqdefault.jpg",
+          "publishedAt": "2019-12-23T19:00:01+00:00",
+          "source": "Serie A",
+          "duration": "4:13"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [

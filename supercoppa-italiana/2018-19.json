@@ -1,7 +1,7 @@
 {
   "competition": "supercoppa-italiana",
   "season": "2018-19",
-  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "generatedAt": "2026-11-23T14:52:26.013392+00:00",
   "events": [
     {
       "id": "supercoppa-italiana-2018-19-529145",
@@ -26,7 +26,16 @@
       },
       "homeScore": 1,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "574kwj8L31g",
+          "title": "Juventus 1-0 Milan | Ronaldo inaugura la sua prima coppa con la Juve! | Supercoppa 18/19",
+          "thumbnailUrl": "https://i.ytimg.com/vi/574kwj8L31g/hqdefault.jpg",
+          "publishedAt": "2019-01-16T22:30:02+00:00",
+          "source": "Serie A",
+          "duration": "4:15"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [

@@ -1,7 +1,7 @@
 {
   "competition": "supercoppa-italiana",
   "season": "2025-26",
-  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "generatedAt": "2026-11-23T14:52:26.013392+00:00",
   "events": [
     {
       "id": "supercoppa-italiana-2025-26-758975",
@@ -26,7 +26,16 @@
       },
       "homeScore": 2,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "a3dEIiV32eQ",
+          "title": "NAPOLI-MILAN 2-0 | HIGHLIGHTS | SEMIFINALE | EA SPORTS FC Supercup 2025/26",
+          "thumbnailUrl": "https://i.ytimg.com/vi/a3dEIiV32eQ/hqdefault.jpg",
+          "publishedAt": "2025-12-18T23:40:06+00:00",
+          "source": "Serie A",
+          "duration": "2:20"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -333,7 +342,16 @@
       "awayScore": 1,
       "homePenalties": 3,
       "awayPenalties": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "mUPPXLyVQd0",
+          "title": "BOLOGNA-INTER 4-3 dcr | HIGHLIGHTS | SEMIFINALE | EA SPORTS FC Supercup 2025/26",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mUPPXLyVQd0/hqdefault.jpg",
+          "publishedAt": "2025-12-19T23:30:16+00:00",
+          "source": "Serie A",
+          "duration": "3:10"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -614,7 +632,16 @@
       },
       "homeScore": 2,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "kSEqfsfKRBU",
+          "title": "NAPOLI-BOLOGNA 2-0 | HIGHLIGHTS | FINALE | EA SPORTS FC Supercup 2025/26",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kSEqfsfKRBU/hqdefault.jpg",
+          "publishedAt": "2025-12-22T22:40:06+00:00",
+          "source": "Serie A",
+          "duration": "2:38"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [

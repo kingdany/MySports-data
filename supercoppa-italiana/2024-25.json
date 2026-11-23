@@ -1,7 +1,7 @@
 {
   "competition": "supercoppa-italiana",
   "season": "2024-25",
-  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "generatedAt": "2026-11-23T14:52:26.013392+00:00",
   "events": [
     {
       "id": "supercoppa-italiana-2024-25-722180",
@@ -26,7 +26,16 @@
       },
       "homeScore": 2,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "PCI-cBMRpHk",
+          "title": "INTER-ATALANTA 2-0 | HIGHLIGHTS | SEMIFINALE | EA SPORTS FC Supercup 2025",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PCI-cBMRpHk/hqdefault.jpg",
+          "publishedAt": "2025-01-03T00:59:06+00:00",
+          "source": "Serie A",
+          "duration": "2:28"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -335,7 +344,16 @@
       },
       "homeScore": 1,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "19yD5J7SWh4",
+          "title": "JUVENTUS-MILAN 1-2 | HIGHLIGHTS | SEMIFINALE | EA SPORTS FC Supercup 2025",
+          "thumbnailUrl": "https://i.ytimg.com/vi/19yD5J7SWh4/hqdefault.jpg",
+          "publishedAt": "2025-01-04T00:59:06+00:00",
+          "source": "Serie A",
+          "duration": "2:24"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -647,7 +665,16 @@
       },
       "homeScore": 2,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "VHSsJSl2uGk",
+          "title": "INTER-MILAN 2-3 | HIGHLIGHTS | FINALE | EA SPORTS FC Supercup 2025",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VHSsJSl2uGk/hqdefault.jpg",
+          "publishedAt": "2025-01-07T00:59:06+00:00",
+          "source": "Serie A",
+          "duration": "2:53"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [

@@ -1,7 +1,7 @@
 {
   "competition": "supercoppa-italiana",
   "season": "2022-23",
-  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "generatedAt": "2026-11-23T14:52:26.013392+00:00",
   "events": [
     {
       "id": "supercoppa-italiana-2022-23-645361",
@@ -26,7 +26,16 @@
       },
       "homeScore": 0,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "7bSYiVzyK_M",
+          "title": "Milan-Inter 0-3 | Inter triumph in Riyadh! Goals & Highlights | EA Sports Supercup 2023",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7bSYiVzyK_M/hqdefault.jpg",
+          "publishedAt": "2023-01-18T22:13:18+00:00",
+          "source": "Serie A",
+          "duration": "3:26"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [

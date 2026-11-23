@@ -1,7 +1,7 @@
 {
   "competition": "supercoppa-italiana",
   "season": "2017-18",
-  "generatedAt": "2026-11-23T14:46:11.1827468+00:00",
+  "generatedAt": "2026-11-23T14:52:26.013392+00:00",
   "events": [
     {
       "id": "supercoppa-italiana-2017-18-480519",
@@ -26,7 +26,16 @@
       },
       "homeScore": 2,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "u9lmeVRrlEQ",
+          "title": "Juventus - Lazio - 2-3 - Supercoppa TIM 2017",
+          "thumbnailUrl": "https://i.ytimg.com/vi/u9lmeVRrlEQ/hqdefault.jpg",
+          "publishedAt": "2017-08-15T20:30:00+00:00",
+          "source": "Serie A",
+          "duration": "4:04"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
