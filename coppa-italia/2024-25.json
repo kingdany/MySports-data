@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2024-25",
-  "generatedAt": "2026-11-20T17:17:57.8869778+00:00",
+  "generatedAt": "2026-11-23T13:40:42.7286808+00:00",
   "events": [
     {
       "id": "coppa-italia-2024-25-712589",
@@ -671,7 +671,7 @@
       "title": "Cesena - Padova",
       "session": "match",
       "startsAt": "2024-08-04T18:30:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
       "homeTeam": {
         "id": "espn-3337",
         "name": "Cesena",
@@ -684,6 +684,8 @@
         "shortName": "Padova",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3952.png"
       },
+      "homeScore": 3,
+      "awayScore": 1,
       "videos": []
     },
     {
@@ -694,7 +696,7 @@
       "title": "Avellino - Juve Stabia",
       "session": "match",
       "startsAt": "2024-08-04T18:45:00+00:00",
-      "status": "scheduled",
+      "status": "finished",
       "homeTeam": {
         "id": "espn-4055",
         "name": "US Avellino",
@@ -707,6 +709,8 @@
         "shortName": "Juve Stabia",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3975.png"
       },
+      "homeScore": 3,
+      "awayScore": 1,
       "videos": []
     },
     {
@@ -1992,7 +1996,313 @@
           "source": "Serie A",
           "duration": "2:34"
         }
-      ]
+      ],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 44,
+            "type": "yellow",
+            "side": "away",
+            "player": "Costantino Favasuli",
+            "short": "Favasuli"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Manuel De Luca",
+            "short": "De Luca"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "away",
+            "player": "Giacomo Manzari",
+            "short": "Manzari"
+          },
+          {
+            "minute": 85,
+            "type": "yellow",
+            "side": "home",
+            "player": "Franco Vázquez",
+            "short": "Vázquez"
+          },
+          {
+            "minute": 90,
+            "addedTime": 2,
+            "type": "yellow",
+            "side": "home",
+            "player": "Valentin Antov",
+            "short": "Antov"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Andrea Fulignati",
+              "short": "Fulignati"
+            },
+            {
+              "number": 5,
+              "name": "Luca Ravanelli",
+              "short": "Ravanelli"
+            },
+            {
+              "number": 15,
+              "name": "Matteo Bianchetti",
+              "short": "Bianchetti"
+            },
+            {
+              "number": 26,
+              "name": "Valentin Antov",
+              "short": "Antov"
+            },
+            {
+              "number": 27,
+              "name": "Jari Vandeputte",
+              "short": "Vandeputte"
+            },
+            {
+              "number": 18,
+              "name": "Michele Collocolo",
+              "short": "Collocolo"
+            },
+            {
+              "number": 19,
+              "name": "Michele Castagnetti",
+              "short": "Castagnetti"
+            },
+            {
+              "number": 17,
+              "name": "Leonardo Sernicola",
+              "short": "Sernicola"
+            },
+            {
+              "number": 98,
+              "name": "Luca Zanimacchia",
+              "short": "Zanimacchia"
+            },
+            {
+              "number": 11,
+              "name": "Dennis Johnsen",
+              "short": "Johnsen"
+            },
+            {
+              "number": 74,
+              "name": "Frank Tsadjout",
+              "short": "Tsadjout"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 34,
+              "in": {
+                "number": 20,
+                "name": "Franco Vázquez",
+                "short": "Vázquez"
+              },
+              "out": {
+                "number": 11,
+                "name": "Dennis Johnsen",
+                "short": "Johnsen"
+              }
+            },
+            {
+              "minute": 58,
+              "in": {
+                "number": 4,
+                "name": "Tommaso Barbieri",
+                "short": "Barbieri"
+              },
+              "out": {
+                "number": 98,
+                "name": "Luca Zanimacchia",
+                "short": "Zanimacchia"
+              }
+            },
+            {
+              "minute": 58,
+              "in": {
+                "number": 9,
+                "name": "Manuel De Luca",
+                "short": "De Luca"
+              },
+              "out": {
+                "number": 74,
+                "name": "Frank Tsadjout",
+                "short": "Tsadjout"
+              }
+            },
+            {
+              "minute": 81,
+              "in": {
+                "number": 37,
+                "name": "Zan Majer",
+                "short": "Majer"
+              },
+              "out": {
+                "number": 19,
+                "name": "Michele Castagnetti",
+                "short": "Castagnetti"
+              }
+            },
+            {
+              "minute": 82,
+              "in": {
+                "number": 37,
+                "name": "Zan Majer",
+                "short": "Majer"
+              },
+              "out": {
+                "number": 19,
+                "name": "Michele Castagnetti",
+                "short": "Castagnetti"
+              }
+            },
+            {
+              "minute": 82,
+              "in": {
+                "number": 90,
+                "name": "Federico Bonazzoli",
+                "short": "Bonazzoli"
+              },
+              "out": {
+                "number": 27,
+                "name": "Jari Vandeputte",
+                "short": "Vandeputte"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Boris Radunovic",
+              "short": "Radunovic"
+            },
+            {
+              "number": 23,
+              "name": "Francesco Vicari",
+              "short": "Vicari"
+            },
+            {
+              "number": 55,
+              "name": "Nosa Obaretin",
+              "short": "Obaretin"
+            },
+            {
+              "number": 25,
+              "name": "Raffaele Pucino",
+              "short": "Pucino"
+            },
+            {
+              "number": 8,
+              "name": "Ahmad Benali",
+              "short": "Benali"
+            },
+            {
+              "number": 17,
+              "name": "Raffaele Maiello",
+              "short": "Maiello"
+            },
+            {
+              "number": 20,
+              "name": "Giuseppe Sibilli",
+              "short": "Sibilli"
+            },
+            {
+              "number": 93,
+              "name": "Emile Dorval",
+              "short": "Dorval"
+            },
+            {
+              "number": 27,
+              "name": "Costantino Favasuli",
+              "short": "Favasuli"
+            },
+            {
+              "number": 15,
+              "name": "Kevin Lasagna",
+              "short": "Lasagna"
+            },
+            {
+              "number": 11,
+              "name": "Lorenzo Sgarbi",
+              "short": "Sgarbi"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 7,
+                "name": "Andrea Oliveri",
+                "short": "Oliveri"
+              },
+              "out": {
+                "number": 93,
+                "name": "Emile Dorval",
+                "short": "Dorval"
+              }
+            },
+            {
+              "minute": 61,
+              "in": {
+                "number": 18,
+                "name": "Giacomo Manzari",
+                "short": "Manzari"
+              },
+              "out": {
+                "number": 11,
+                "name": "Lorenzo Sgarbi",
+                "short": "Sgarbi"
+              }
+            },
+            {
+              "minute": 61,
+              "in": {
+                "number": 4,
+                "name": "Mattia Maita",
+                "short": "Maita"
+              },
+              "out": {
+                "number": 17,
+                "name": "Raffaele Maiello",
+                "short": "Maiello"
+              }
+            },
+            {
+              "minute": 72,
+              "in": {
+                "number": 9,
+                "name": "Andrija Novakovich",
+                "short": "Novakovich"
+              },
+              "out": {
+                "number": 15,
+                "name": "Kevin Lasagna",
+                "short": "Lasagna"
+              }
+            },
+            {
+              "minute": 77,
+              "in": {
+                "number": 31,
+                "name": "Giacomo Ricci",
+                "short": "Ricci"
+              },
+              "out": {
+                "number": 27,
+                "name": "Costantino Favasuli",
+                "short": "Favasuli"
+              }
+            }
+          ]
+        }
+      }
     },
     {
       "id": "coppa-italia-2024-25-712597",

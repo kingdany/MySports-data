@@ -1,7 +1,7 @@
 {
   "competition": "coppa-italia",
   "season": "2018-19",
-  "generatedAt": "2026-11-20T17:15:32.3853036+00:00",
+  "generatedAt": "2026-11-23T13:40:42.7286808+00:00",
   "events": [
     {
       "id": "coppa-italia-2018-19-521524",
@@ -1223,7 +1223,7 @@
       "title": "Carpi - Ternana",
       "session": "match",
       "startsAt": "2018-08-04T18:30:00+00:00",
-      "status": "live",
+      "status": "finished",
       "homeTeam": {
         "id": "espn-11126",
         "name": "Carpi",
@@ -1236,6 +1236,8 @@
         "shortName": "Ternana",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3175.png"
       },
+      "homeScore": 0,
+      "awayScore": 2,
       "videos": []
     },
     {
@@ -1246,7 +1248,7 @@
       "title": "Spezia - Sambenedettese",
       "session": "match",
       "startsAt": "2018-08-04T18:30:00+00:00",
-      "status": "live",
+      "status": "finished",
       "homeTeam": {
         "id": "espn-4056",
         "name": "Spezia",
@@ -1259,6 +1261,8 @@
         "shortName": "Sambenedettese",
         "logoUrl": ""
       },
+      "homeScore": 2,
+      "awayScore": 1,
       "videos": []
     },
     {
