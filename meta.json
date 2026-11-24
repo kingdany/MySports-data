@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T14:23:48.9539484+00:00",
+  "generatedAt": "2026-11-24T14:25:35.6970005+00:00",
   "competitions": [
     {
       "id": "f1",
@@ -304,6 +304,17 @@
       "currentSeason": "2025",
       "seasons": [
         "2025"
+      ]
+    },
+    {
+      "id": "coppa-intercontinentale",
+      "sport": "football",
+      "name": "Coppa Intercontinentale",
+      "shortName": "Intercontinentale",
+      "currentSeason": "2025",
+      "seasons": [
+        "2025",
+        "2024"
       ]
     }
   ]
