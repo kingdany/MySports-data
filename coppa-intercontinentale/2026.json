@@ -1,0 +1,688 @@
+{
+  "competition": "coppa-intercontinentale",
+  "season": "2026",
+  "generatedAt": "2026-11-24T14:29:11.8449328+00:00",
+  "events": [
+    {
+      "id": "coppa-intercontinentale-2026-401909659",
+      "competition": "coppa-intercontinentale",
+      "season": "2026",
+      "stage": "round_1",
+      "title": "Al Ahli - Auckland FC",
+      "session": "match",
+      "startsAt": "2026-08-26T18:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-8346",
+        "name": "Al Ahli",
+        "shortName": "Al Ahli",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png"
+      },
+      "awayTeam": {
+        "id": "espn-22344",
+        "name": "Auckland FC",
+        "shortName": "Auckland FC",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/22344.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "yellow",
+            "side": "away",
+            "player": "Hiroki Sakai",
+            "short": "Sakai"
+          },
+          {
+            "minute": 57,
+            "type": "yellow",
+            "side": "away",
+            "player": "Francis de Vries",
+            "short": "de Vries"
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "home",
+            "player": "Waheb Saleh",
+            "short": "Abu Al-Shamat"
+          },
+          {
+            "minute": 81,
+            "type": "yellow",
+            "side": "home",
+            "player": "Merih Demiral",
+            "short": "Demiral"
+          },
+          {
+            "minute": 87,
+            "type": "red",
+            "side": "away",
+            "player": "Sam Cosgrove",
+            "short": "Cosgrove"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 16,
+              "name": "Édouard Mendy",
+              "short": "Mendy"
+            },
+            {
+              "number": 3,
+              "name": "Roger Ibañez",
+              "short": "Ibañez"
+            },
+            {
+              "number": 28,
+              "name": "Merih Demiral",
+              "short": "Demiral"
+            },
+            {
+              "number": 2,
+              "name": "Zakaria Al Hawsawi",
+              "short": "Al Hawsawi"
+            },
+            {
+              "number": 29,
+              "name": "Mohammed Yousef",
+              "short": "Yousef"
+            },
+            {
+              "number": 8,
+              "name": "Eduard Spertsyan",
+              "short": "Spertsyan"
+            },
+            {
+              "number": 6,
+              "name": "Valentin Atangana",
+              "short": "Atangana"
+            },
+            {
+              "number": 30,
+              "name": "Ziyad Al-Johani",
+              "short": "Al-Johani"
+            },
+            {
+              "number": 17,
+              "name": "Ivan Toney",
+              "short": "Toney"
+            },
+            {
+              "number": 13,
+              "name": "Galeno"
+            },
+            {
+              "number": 7,
+              "name": "Francisco Trincão",
+              "short": "Trincão"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 62,
+              "in": {
+                "number": 47,
+                "name": "Waheb Saleh",
+                "short": "Abu Al-Shamat"
+              },
+              "out": {
+                "number": 13,
+                "name": "Galeno"
+              }
+            },
+            {
+              "minute": 62,
+              "in": {
+                "number": 19,
+                "name": "Artem Bondarenko",
+                "short": "Bondarenko"
+              },
+              "out": {
+                "number": 30,
+                "name": "Ziyad Al-Johani",
+                "short": "Al-Johani"
+              }
+            },
+            {
+              "minute": 90,
+              "addedTime": 1,
+              "in": {
+                "number": 5,
+                "name": "Mohammed Sulaiman",
+                "short": "Sulaiman"
+              },
+              "out": {
+                "number": 28,
+                "name": "Merih Demiral",
+                "short": "Demiral"
+              }
+            },
+            {
+              "minute": 90,
+              "addedTime": 1,
+              "in": {
+                "number": 46,
+                "name": "Rayane Hamidou",
+                "short": "Hamidou"
+              },
+              "out": {
+                "number": 2,
+                "name": "Zakaria Al Hawsawi",
+                "short": "Al Hawsawi"
+              }
+            },
+            {
+              "minute": 90,
+              "addedTime": 5,
+              "in": {
+                "number": 9,
+                "name": "Feras Al-Brikan",
+                "short": "Al-Brikan"
+              },
+              "out": {
+                "number": 17,
+                "name": "Ivan Toney",
+                "short": "Toney"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Michael Woud",
+              "short": "Woud"
+            },
+            {
+              "number": 4,
+              "name": "Nando Pijnaker",
+              "short": "Pijnaker"
+            },
+            {
+              "number": 28,
+              "name": "Aaron Calver",
+              "short": "Calver"
+            },
+            {
+              "number": 15,
+              "name": "Francis de Vries",
+              "short": "de Vries"
+            },
+            {
+              "number": 2,
+              "name": "Hiroki Sakai",
+              "short": "Sakai"
+            },
+            {
+              "number": 8,
+              "name": "Felipe Gallegos",
+              "short": "Gallegos"
+            },
+            {
+              "number": 16,
+              "name": "Daniel Normann",
+              "short": "Normann"
+            },
+            {
+              "number": 27,
+              "name": "Logan Rogerson",
+              "short": "Rogerson"
+            },
+            {
+              "number": 77,
+              "name": "Lachlan Brook",
+              "short": "Brook"
+            },
+            {
+              "number": 10,
+              "name": "Lachlan Bayliss",
+              "short": "Bayliss"
+            },
+            {
+              "number": 9,
+              "name": "Sam Cosgrove",
+              "short": "Cosgrove"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 48,
+              "in": {
+                "number": 17,
+                "name": "Callan Elliot",
+                "short": "Elliot"
+              },
+              "out": {
+                "number": 2,
+                "name": "Hiroki Sakai",
+                "short": "Sakai"
+              }
+            },
+            {
+              "minute": 76,
+              "in": {
+                "number": 7,
+                "name": "Cameron Howieson",
+                "short": "Howieson"
+              },
+              "out": {
+                "number": 16,
+                "name": "Daniel Normann",
+                "short": "Normann"
+              }
+            },
+            {
+              "minute": 76,
+              "in": {
+                "number": 57,
+                "name": "Van Fitzharris",
+                "short": "Fitzharris"
+              },
+              "out": {
+                "number": 10,
+                "name": "Lachlan Bayliss",
+                "short": "Bayliss"
+              }
+            },
+            {
+              "minute": 83,
+              "in": {
+                "number": 23,
+                "name": "Ronan Wynne",
+                "short": "Wynne"
+              },
+              "out": {
+                "number": 28,
+                "name": "Aaron Calver",
+                "short": "Calver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "coppa-intercontinentale-2026-401913270",
+      "competition": "coppa-intercontinentale",
+      "season": "2026",
+      "stage": "round_2",
+      "title": "Mamelodi Sundowns - Al Ahli",
+      "session": "match",
+      "startsAt": "2026-09-19T13:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-7084",
+        "name": "Mamelodi Sundowns",
+        "shortName": "Mamelodi Sundowns",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/7084.png"
+      },
+      "awayTeam": {
+        "id": "espn-8346",
+        "name": "Al Ahli",
+        "shortName": "Al Ahli",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 17,
+            "type": "goal",
+            "side": "home",
+            "player": "Nuno Santos",
+            "short": "Santos"
+          },
+          {
+            "minute": 19,
+            "type": "ownGoal",
+            "side": "away",
+            "player": "Ronwen Williams",
+            "short": "Williams"
+          },
+          {
+            "minute": 27,
+            "type": "yellow",
+            "side": "home",
+            "player": "Teboho Mokoena",
+            "short": "Mokoena"
+          },
+          {
+            "minute": 35,
+            "type": "yellow",
+            "side": "away",
+            "player": "Valentin Atangana",
+            "short": "Atangana"
+          },
+          {
+            "minute": 45,
+            "type": "yellow",
+            "side": "away",
+            "player": "Roger Ibañez",
+            "short": "Ibañez"
+          },
+          {
+            "minute": 61,
+            "type": "yellow",
+            "side": "home",
+            "player": "Brayan Léon Muñiz",
+            "short": "Léon Muñiz"
+          },
+          {
+            "minute": 65,
+            "type": "yellow",
+            "side": "away",
+            "player": "Zakaria Al Hawsawi",
+            "short": "Al Hawsawi"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Nuno Santos",
+            "short": "Santos"
+          },
+          {
+            "minute": 81,
+            "type": "yellow",
+            "side": "home",
+            "player": "Nuno Santos",
+            "short": "Santos"
+          },
+          {
+            "minute": 90,
+            "addedTime": 4,
+            "type": "yellow",
+            "side": "away",
+            "player": "Merih Demiral",
+            "short": "Demiral"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 30,
+              "name": "Ronwen Williams",
+              "short": "Williams"
+            },
+            {
+              "number": 3,
+              "name": "Khulumani Ndamane",
+              "short": "Ndamane"
+            },
+            {
+              "number": 20,
+              "name": "Grant Kekana",
+              "short": "Kekana"
+            },
+            {
+              "number": 4,
+              "name": "Teboho Mokoena",
+              "short": "Mokoena"
+            },
+            {
+              "number": 6,
+              "name": "Aubrey Modiba",
+              "short": "Modiba"
+            },
+            {
+              "number": 22,
+              "name": "Thabang Matuludi",
+              "short": "Matuludi"
+            },
+            {
+              "number": 11,
+              "name": "Marcelo Allende",
+              "short": "Allende"
+            },
+            {
+              "number": 10,
+              "name": "Nuno Santos",
+              "short": "Santos"
+            },
+            {
+              "number": 17,
+              "name": "Tashreeq Matthews",
+              "short": "Matthews"
+            },
+            {
+              "number": 27,
+              "name": "Thapelo Morena",
+              "short": "Morena"
+            },
+            {
+              "number": 12,
+              "name": "Brayan Léon Muñiz",
+              "short": "Léon Muñiz"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 59,
+              "in": {
+                "number": 42,
+                "name": "Malibongwe Khoza",
+                "short": "Khoza"
+              },
+              "out": {
+                "number": 20,
+                "name": "Grant Kekana",
+                "short": "Kekana"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 9,
+                "name": "Arthur"
+              },
+              "out": {
+                "number": 17,
+                "name": "Tashreeq Matthews",
+                "short": "Matthews"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 15,
+                "name": "Bathusi Jurry Aubaas",
+                "short": "Aubaas"
+              },
+              "out": {
+                "number": 10,
+                "name": "Nuno Santos",
+                "short": "Santos"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 38,
+                "name": "Siyanda Mthanti",
+                "short": "Mthanti"
+              },
+              "out": {
+                "number": 22,
+                "name": "Thabang Matuludi",
+                "short": "Matuludi"
+              }
+            },
+            {
+              "minute": 90,
+              "addedTime": 2,
+              "in": {
+                "number": 23,
+                "name": "Fawaaz Basadien",
+                "short": "Basadien"
+              },
+              "out": {
+                "number": 6,
+                "name": "Aubrey Modiba",
+                "short": "Modiba"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 16,
+              "name": "Édouard Mendy",
+              "short": "Mendy"
+            },
+            {
+              "number": 3,
+              "name": "Roger Ibañez",
+              "short": "Ibañez"
+            },
+            {
+              "number": 28,
+              "name": "Merih Demiral",
+              "short": "Demiral"
+            },
+            {
+              "number": 2,
+              "name": "Zakaria Al Hawsawi",
+              "short": "Al Hawsawi"
+            },
+            {
+              "number": 15,
+              "name": "Saeed Baattia",
+              "short": "Baattia"
+            },
+            {
+              "number": 8,
+              "name": "Eduard Spertsyan",
+              "short": "Spertsyan"
+            },
+            {
+              "number": 30,
+              "name": "Ziyad Al-Johani",
+              "short": "Al-Johani"
+            },
+            {
+              "number": 6,
+              "name": "Valentin Atangana",
+              "short": "Atangana"
+            },
+            {
+              "number": 17,
+              "name": "Ivan Toney",
+              "short": "Toney"
+            },
+            {
+              "number": 9,
+              "name": "Feras Al-Brikan",
+              "short": "Al-Brikan"
+            },
+            {
+              "number": 7,
+              "name": "Francisco Trincão",
+              "short": "Trincão"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 79,
+              "in": {
+                "number": 20,
+                "name": "Matheus Gonçalves",
+                "short": "Gonçalves"
+              },
+              "out": {
+                "number": 7,
+                "name": "Francisco Trincão",
+                "short": "Trincão"
+              }
+            },
+            {
+              "minute": 79,
+              "in": {
+                "number": 29,
+                "name": "Mohammed Yousef",
+                "short": "Yousef"
+              },
+              "out": {
+                "number": 15,
+                "name": "Saeed Baattia",
+                "short": "Baattia"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 13,
+                "name": "Galeno"
+              },
+              "out": {
+                "number": 2,
+                "name": "Zakaria Al Hawsawi",
+                "short": "Al Hawsawi"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 19,
+                "name": "Artem Bondarenko",
+                "short": "Bondarenko"
+              },
+              "out": {
+                "number": 30,
+                "name": "Ziyad Al-Johani",
+                "short": "Al-Johani"
+              }
+            },
+            {
+              "minute": 90,
+              "addedTime": 3,
+              "in": {
+                "number": 47,
+                "name": "Waheb Saleh",
+                "short": "Abu Al-Shamat"
+              },
+              "out": {
+                "number": 8,
+                "name": "Eduard Spertsyan",
+                "short": "Spertsyan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Nuno Santos",
+          "team": "Mamelodi Sundowns",
+          "points": 2
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Waheb Saleh",
+          "team": "Al Ahli",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}
