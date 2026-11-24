@@ -1,0 +1,505 @@
+{
+  "competition": "wwe",
+  "season": "2026",
+  "generatedAt": "2026-11-24T15:25:48.37438+00:00",
+  "events": [
+    {
+      "id": "wwe-2026-royal-rumble-2026",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2026-01-31T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Riyadh Season Stadium at King Abdullah Financial District",
+      "city": "Riyadh, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Wyatt Sicks (Dexter Lumis and Joe Gacy) defeated The MFTs (Solo Sikoa and Tama Tonga)",
+          "stipulation": "Tag team match",
+          "time": "10:27",
+          "note": "dark"
+        },
+        {
+          "match": "Motor City Machine Guns (Alex Shelley and Chris Sabin) and Shinsuke Nakamura defeated The New Day (Kofi Kingston and Xavier Woods) and Grayson Waller",
+          "stipulation": "Six-man tag team match",
+          "time": "11:15",
+          "note": "dark"
+        },
+        {
+          "match": "Liv Morgan won by last eliminating Tiffany Stratton",
+          "stipulation": "30-woman Royal Rumble match for a world championship match at WrestleMania 42"
+        },
+        {
+          "match": "Gunther defeated AJ Styles by technical submission",
+          "stipulation": "Career Threatening match · Since Styles lost, he was forced to retire from in-ring competition.",
+          "time": "24:15"
+        },
+        {
+          "match": "Drew McIntyre (c) defeated Sami Zayn by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Championship",
+          "time": "16:15"
+        },
+        {
+          "match": "Roman Reigns won by last eliminating Gunther",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 42",
+          "time": "56:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2026-elimination-chamber-2026",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2026-02-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "United Center",
+      "city": "Chicago, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rhea Ripley defeated Tiffany Stratton, Alexa Bliss, Asuka, Kiana James, and Raquel Rodriguez",
+          "stipulation": "Elimination Chamber match for a WWE Women's Championship match at WrestleMania 42",
+          "time": "24:00"
+        },
+        {
+          "match": "AJ Lee defeated Becky Lynch (c) by submission",
+          "stipulation": "Singles match for the WWE Women's Intercontinental Championship",
+          "time": "15:40"
+        },
+        {
+          "match": "CM Punk (c) defeated Finn Bálor by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "20:25"
+        },
+        {
+          "match": "Randy Orton defeated LA Knight, Cody Rhodes, Je'Von Evans, Trick Williams, and Logan Paul (with Austin Theory and Paul Heyman)",
+          "stipulation": "Elimination Chamber match for an Undisputed WWE Championship match at WrestleMania 42",
+          "time": "25:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2026-wrestlemania-42-1",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "WrestleMania 42 – Notte 1",
+      "session": "ple",
+      "startsAt": "2026-04-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allegiant Stadium",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) and LA Knight defeated The Vision (Logan Paul and Austin Theory) and IShowSpeed by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "7:10"
+        },
+        {
+          "match": "Jacob Fatu defeated Drew McIntyre by pinfall",
+          "stipulation": "Unsanctioned match",
+          "time": "14:10"
+        },
+        {
+          "match": "Brie Bella and Paige (with Nikki Bella) defeated The Irresistible Forces (Nia Jax and Lash Legend) (c), Charlotte Flair and Alexa Bliss, and Bayley and Lyra Valkyria by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE Women's Tag Team Championship",
+          "time": "8:35"
+        },
+        {
+          "match": "Becky Lynch defeated AJ Lee (c) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Intercontinental Championship",
+          "time": "8:15"
+        },
+        {
+          "match": "Gunther defeated Seth Rollins by technical submission",
+          "stipulation": "Singles match",
+          "time": "17:50"
+        },
+        {
+          "match": "Liv Morgan defeated Stephanie Vaquer (c) by pinfall",
+          "stipulation": "Singles match for the Women's World Championship",
+          "time": "6:50"
+        },
+        {
+          "match": "Cody Rhodes (c) defeated Randy Orton by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Championship",
+          "time": "22:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2026-wrestlemania-42-2",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "WrestleMania 42 – Notte 2",
+      "session": "ple",
+      "startsAt": "2026-04-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allegiant Stadium",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Oba Femi defeated Brock Lesnar (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:45"
+        },
+        {
+          "match": "Penta (c) defeated Je'Von Evans, Dragon Lee, JD McDonagh, Rusev, and Rey Mysterio by retrieving the championship belt",
+          "stipulation": "Six-pack ladder match for the WWE Intercontinental Championship",
+          "time": "15:10"
+        },
+        {
+          "match": "Trick Williams (with Lil Yachty) defeated Sami Zayn (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "7:05"
+        },
+        {
+          "match": "\"The Demon\" Finn Bálor defeated Dominik Mysterio by pinfall",
+          "stipulation": "Street Fight",
+          "time": "10:25"
+        },
+        {
+          "match": "Rhea Ripley defeated Jade Cargill (c) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "10:10"
+        },
+        {
+          "match": "Roman Reigns defeated CM Punk (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "33:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2026-backlash-2026",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2026-05-09T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Benchmark International Arena",
+      "city": "Tampa, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bron Breakker (with Paul Heyman) defeated Seth Rollins by pinfall",
+          "stipulation": "Singles match",
+          "time": "21:26"
+        },
+        {
+          "match": "Trick Williams (c) (with Lil Yachty) defeated Sami Zayn by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "12:56"
+        },
+        {
+          "match": "Danhausen and Minihausen defeated The Miz and Kit Wilson by pinfall",
+          "stipulation": "Tag team match",
+          "time": "11:38"
+        },
+        {
+          "match": "Iyo Sky defeated Asuka by pinfall",
+          "stipulation": "Singles match",
+          "time": "18:07"
+        },
+        {
+          "match": "Roman Reigns (c) defeated Jacob Fatu by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "17:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2026-clash-in-italy",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "Clash in Italy",
+      "session": "ple",
+      "startsAt": "2026-05-31T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Inalpi Arena",
+      "city": "Turin, Italy",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Cody Rhodes (c) defeated Gunther by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Championship",
+          "time": "11:35"
+        },
+        {
+          "match": "Rhea Ripley (c) defeated Jade Cargill by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "16:57"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Oba Femi by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:21"
+        },
+        {
+          "match": "Sol Ruca defeated Becky Lynch (c) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Intercontinental Championship",
+          "time": "14:02"
+        },
+        {
+          "match": "Roman Reigns (c) defeated Jacob Fatu by pinfall",
+          "stipulation": "Tribal Combat for the World Heavyweight Championship",
+          "time": "27:12"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2026-night-of-champions-2026",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "Night of Champions",
+      "session": "ple",
+      "startsAt": "2026-06-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Kingdom Arena",
+      "city": "Riyadh, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Oba Femi defeated Jey Uso by pinfall",
+          "stipulation": "King of the Ring tournament final · The winner was crowned \"King of the Ring\" and earned a world championship match at SummerSlam.",
+          "time": "7:56"
+        },
+        {
+          "match": "Iyo Sky defeated Liv Morgan by pinfall",
+          "stipulation": "Queen of the Ring tournament final · The winner was crowned \"Queen of the Ring\" and earned a world championship match at SummerSlam.",
+          "time": "14:56"
+        },
+        {
+          "match": "Seth Rollins defeated Bron Breakker by pinfall",
+          "stipulation": "Steel Cage match",
+          "time": "19:04"
+        },
+        {
+          "match": "Trick Williams (c) (with Lil Yachty) defeated Ricky Saints by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "10:43"
+        },
+        {
+          "match": "Tiffany Stratton (c) defeated Jade Cargill by pinfall",
+          "stipulation": "Singles match for the WWE Women's United States Championship",
+          "time": "7:40"
+        },
+        {
+          "match": "Sami Zayn defeated Cody Rhodes (c) and Gunther by pinfall",
+          "stipulation": "Triple threat match for the Undisputed WWE Championship",
+          "time": "18:38"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2026-summerslam-2026-1",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "SummerSlam – Notte 1",
+      "session": "ple",
+      "startsAt": "2026-08-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "U.S. Bank Stadium",
+      "city": "Minneapolis, Minnesota",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Liv Morgan (c) defeated Iyo Sky by pinfall",
+          "stipulation": "Singles match for the Women's World Championship",
+          "time": "13:35"
+        },
+        {
+          "match": "LA Knight, Solo Sikoa, and Royce Keys defeated The Bloodline (Jacob Fatu, Jey Uso, and Jimmy Uso) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "11:00"
+        },
+        {
+          "match": "Gunther defeated Nick Aldis by submission",
+          "stipulation": "Singles match",
+          "time": "11:40"
+        },
+        {
+          "match": "Fatal Influence (Jacy Jayne, Fallon Henley, and Lainey Reid) defeated The Bella Twins (Nikki Bella and Brie Bella) and Paige by pinfall",
+          "stipulation": "Six-woman tag team match",
+          "time": "7:30"
+        },
+        {
+          "match": "CM Punk (c) defeated Cody Rhodes by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Championship",
+          "time": "30:10"
+        },
+        {
+          "match": "Oba Femi defeated Brock Lesnar (with Paul Heyman) by pinfall",
+          "stipulation": "Hell in a Cell match · This was Lesnar's retirement match.",
+          "time": "11:40"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2026-summerslam-2026-2",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "SummerSlam – Notte 2",
+      "session": "ple",
+      "startsAt": "2026-08-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "U.S. Bank Stadium",
+      "city": "Minneapolis, Minnesota",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kevin Owens defeated Finn Bálor, Gunther, and Sami Zayn by pinfall",
+          "stipulation": "Fatal four-way match to determine the #1 contender for the Undisputed WWE Championship",
+          "time": "8:30"
+        },
+        {
+          "match": "Baron Corbin defeated Trick Williams (c) (with Lil Yachty) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:05"
+        },
+        {
+          "match": "Chelsea Green defeated Charlotte Flair, Jade Cargill, Lash Legend, and Tiffany Stratton by retrieving the championship belt",
+          "stipulation": "Five-way ladder match for the interim WWE Women's Championship",
+          "time": "13:05"
+        },
+        {
+          "match": "Danhausen defeated Dominik Mysterio by retrieving the sack of money",
+          "stipulation": "Human Monies on a Pole match",
+          "time": "6:50"
+        },
+        {
+          "match": "Chad Gable defeated Penta (c) by submission",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "11:10"
+        },
+        {
+          "match": "Roman Reigns (c) defeated Seth Rollins by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "33:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2026-money-in-the-bank-2026",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2026-10-10T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Smoothie King Center",
+      "city": "New Orleans, Louisiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Roman Reigns (c) defeated LA Knight by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "26:50"
+        },
+        {
+          "match": "Tiffany Stratton defeated Jacy Jayne, Lash Legend, Lola Vice, Roxanne Perez, and Sol Ruca by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a women's championship match contract",
+          "time": "15:20"
+        },
+        {
+          "match": "Oba Femi defeated Bronson Reed by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:40"
+        },
+        {
+          "match": "Liv Morgan defeated Stephanie Vaquer (c) and Becky Lynch by pinfall",
+          "stipulation": "Triple threat match for the Women's World Championship",
+          "time": "16:55"
+        },
+        {
+          "match": "Penta defeated Bron Breakker, CM Punk, Je'Von Evans, Kevin Owens, and Trick Williams (with Lil Yachty) by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a men's championship match contract",
+          "time": "32:05"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2026-crown-jewel-2026",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "Crown Jewel",
+      "session": "ple",
+      "startsAt": "2026-11-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "ANB Arena",
+      "city": "Riyadh, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Cody Rhodes defeated Randy Orton",
+          "stipulation": "Last Man Standing match",
+          "time": "27:20"
+        },
+        {
+          "match": "Penta and Je'Von Evans defeated The Vision (Bron Breakker and Austin Theory) (c) (with Maxxine Dupri) by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "14:35"
+        },
+        {
+          "match": "Chelsea Green (SmackDown's WWE Women's Champion) defeated Liv Morgan (Raw's Women's World Champion) by pinfall",
+          "stipulation": "Singles match for the 2026 WWE Women's Crown Jewel Championship",
+          "time": "16:15"
+        },
+        {
+          "match": "Tiffany Stratton defeated Chelsea Green (c) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship · This was Stratton's Money in the Bank cash-in match.",
+          "time": "0:03"
+        },
+        {
+          "match": "Roman Reigns (Raw's World Heavyweight Champion) defeated Sami Zayn (SmackDown's Undisputed WWE Champion) by pinfall",
+          "stipulation": "Singles match for the 2026 WWE Crown Jewel Championship",
+          "time": "24:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2026-survivor-series-wargames-2026",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "Survivor Series: WarGames",
+      "session": "ple",
+      "startsAt": "2026-11-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Daikin Park",
+      "city": "Houston, Texas",
+      "status": "scheduled",
+      "videos": []
+    },
+    {
+      "id": "wwe-2026-wrestlepalooza-2026",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "Wrestlepalooza",
+      "session": "ple",
+      "startsAt": "2026-12-12T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "RAC Arena",
+      "city": "Perth, Western Australia, Australia",
+      "status": "scheduled",
+      "videos": []
+    }
+  ],
+  "standings": []
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T14:48:30.3275095+00:00",
+  "generatedAt": "2026-11-24T15:25:48.37438+00:00",
   "events": [
     {
       "id": "champions-league-2026-27-575395",
@@ -1347,6 +1347,19 @@
       "venue": "Circuit Ricardo Tormo",
       "city": "Cheste",
       "country": "Spain",
+      "status": "scheduled",
+      "videos": []
+    },
+    {
+      "id": "wwe-2026-survivor-series-wargames-2026",
+      "competition": "wwe",
+      "season": "2026",
+      "title": "Survivor Series: WarGames",
+      "session": "ple",
+      "startsAt": "2026-11-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Daikin Park",
+      "city": "Houston, Texas",
       "status": "scheduled",
       "videos": []
     },
