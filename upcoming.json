@@ -1,213 +1,6 @@
 {
-  "generatedAt": "2026-11-24T15:25:48.37438+00:00",
+  "generatedAt": "2026-11-24T23:53:02.2158992+00:00",
   "events": [
-    {
-      "id": "champions-league-2026-27-575395",
-      "competition": "champions-league",
-      "season": "2026-27",
-      "round": 5,
-      "title": "Galatasaray - Aston Villa",
-      "session": "match",
-      "startsAt": "2026-11-24T17:45:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "610",
-        "name": "Galatasaray SK",
-        "shortName": "Galatasaray",
-        "logoUrl": "https://crests.football-data.org/610.png"
-      },
-      "awayTeam": {
-        "id": "58",
-        "name": "Aston Villa FC",
-        "shortName": "Aston Villa",
-        "logoUrl": "https://crests.football-data.org/58.png"
-      },
-      "videos": []
-    },
-    {
-      "id": "champions-league-2026-27-575396",
-      "competition": "champions-league",
-      "season": "2026-27",
-      "round": 5,
-      "title": "Bodø/Glimt - LASK",
-      "session": "match",
-      "startsAt": "2026-11-24T17:45:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "5721",
-        "name": "FK Bodø/Glimt",
-        "shortName": "Bodø/Glimt",
-        "logoUrl": "https://crests.football-data.org/5721.png"
-      },
-      "awayTeam": {
-        "id": "2016",
-        "name": "LASK Linz",
-        "shortName": "LASK",
-        "logoUrl": "https://crests.football-data.org/2016.png"
-      },
-      "videos": []
-    },
-    {
-      "id": "champions-league-2026-27-575397",
-      "competition": "champions-league",
-      "season": "2026-27",
-      "round": 5,
-      "title": "Real Madrid - PSV",
-      "session": "match",
-      "startsAt": "2026-11-24T20:00:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "86",
-        "name": "Real Madrid CF",
-        "shortName": "Real Madrid",
-        "logoUrl": "https://crests.football-data.org/86.png"
-      },
-      "awayTeam": {
-        "id": "674",
-        "name": "PSV",
-        "shortName": "PSV",
-        "logoUrl": "https://crests.football-data.org/674.png"
-      },
-      "videos": []
-    },
-    {
-      "id": "champions-league-2026-27-575398",
-      "competition": "champions-league",
-      "season": "2026-27",
-      "round": 5,
-      "title": "Man City - Napoli",
-      "session": "match",
-      "startsAt": "2026-11-24T20:00:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "65",
-        "name": "Manchester City FC",
-        "shortName": "Man City",
-        "logoUrl": "https://crests.football-data.org/65.png"
-      },
-      "awayTeam": {
-        "id": "113",
-        "name": "SSC Napoli",
-        "shortName": "Napoli",
-        "logoUrl": "https://crests.football-data.org/113.png"
-      },
-      "videos": []
-    },
-    {
-      "id": "champions-league-2026-27-575399",
-      "competition": "champions-league",
-      "season": "2026-27",
-      "round": 5,
-      "title": "Arsenal - Dortmund",
-      "session": "match",
-      "startsAt": "2026-11-24T20:00:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "57",
-        "name": "Arsenal FC",
-        "shortName": "Arsenal",
-        "logoUrl": "https://crests.football-data.org/57.png"
-      },
-      "awayTeam": {
-        "id": "4",
-        "name": "Borussia Dortmund",
-        "shortName": "Dortmund",
-        "logoUrl": "https://crests.football-data.org/4.png"
-      },
-      "videos": []
-    },
-    {
-      "id": "champions-league-2026-27-575400",
-      "competition": "champions-league",
-      "season": "2026-27",
-      "round": 5,
-      "title": "Feyenoord - Porto",
-      "session": "match",
-      "startsAt": "2026-11-24T20:00:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "675",
-        "name": "Feyenoord Rotterdam",
-        "shortName": "Feyenoord",
-        "logoUrl": "https://crests.football-data.org/675.png"
-      },
-      "awayTeam": {
-        "id": "503",
-        "name": "FC Porto",
-        "shortName": "Porto",
-        "logoUrl": "https://crests.football-data.org/503.png"
-      },
-      "videos": []
-    },
-    {
-      "id": "champions-league-2026-27-575401",
-      "competition": "champions-league",
-      "season": "2026-27",
-      "round": 5,
-      "title": "Slovan Bratislava - Real Betis",
-      "session": "match",
-      "startsAt": "2026-11-24T20:00:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "7509",
-        "name": "ŠK Slovan Bratislava",
-        "shortName": "Slovan Bratislava",
-        "logoUrl": "https://crests.football-data.org/7509.png"
-      },
-      "awayTeam": {
-        "id": "90",
-        "name": "Real Betis Balompié",
-        "shortName": "Real Betis",
-        "logoUrl": "https://crests.football-data.org/90.png"
-      },
-      "videos": []
-    },
-    {
-      "id": "champions-league-2026-27-575402",
-      "competition": "champions-league",
-      "season": "2026-27",
-      "round": 5,
-      "title": "Lipsia - Lens",
-      "session": "match",
-      "startsAt": "2026-11-24T20:00:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "721",
-        "name": "RB Leipzig",
-        "shortName": "Lipsia",
-        "logoUrl": "https://crests.football-data.org/721.png"
-      },
-      "awayTeam": {
-        "id": "546",
-        "name": "Racing Club de Lens",
-        "shortName": "Lens",
-        "logoUrl": "https://crests.football-data.org/546.png"
-      },
-      "videos": []
-    },
-    {
-      "id": "champions-league-2026-27-575403",
-      "competition": "champions-league",
-      "season": "2026-27",
-      "round": 5,
-      "title": "Como - AEK Atene",
-      "session": "match",
-      "startsAt": "2026-11-24T20:00:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "7397",
-        "name": "Como 1907",
-        "shortName": "Como",
-        "logoUrl": "https://crests.football-data.org/7397.png"
-      },
-      "awayTeam": {
-        "id": "1899",
-        "name": "PAE AEK",
-        "shortName": "AEK Atene",
-        "logoUrl": "https://crests.football-data.org/1899.png"
-      },
-      "videos": []
-    },
     {
       "id": "champions-league-2026-27-575404",
       "competition": "champions-league",
@@ -2020,6 +1813,213 @@
         "name": "Cagliari Calcio",
         "shortName": "Cagliari",
         "logoUrl": "https://crests.football-data.org/104.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575413",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Villarreal - Sabah",
+      "session": "match",
+      "startsAt": "2026-12-08T17:45:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "94",
+        "name": "Villarreal CF",
+        "shortName": "Villarreal",
+        "logoUrl": "https://crests.football-data.org/94.png"
+      },
+      "awayTeam": {
+        "id": "10233",
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "logoUrl": "https://crests.football-data.org/10233.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575414",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Viking - Feyenoord",
+      "session": "match",
+      "startsAt": "2026-12-08T17:45:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "5720",
+        "name": "Viking FK",
+        "shortName": "Viking",
+        "logoUrl": "https://crests.football-data.org/5720.png"
+      },
+      "awayTeam": {
+        "id": "675",
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "logoUrl": "https://crests.football-data.org/675.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575415",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Barcellona - Man City",
+      "session": "match",
+      "startsAt": "2026-12-08T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "81",
+        "name": "FC Barcelona",
+        "shortName": "Barcellona",
+        "logoUrl": "https://crests.football-data.org/81.png"
+      },
+      "awayTeam": {
+        "id": "65",
+        "name": "Manchester City FC",
+        "shortName": "Man City",
+        "logoUrl": "https://crests.football-data.org/65.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575416",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Aston Villa - PSG",
+      "session": "match",
+      "startsAt": "2026-12-08T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "58",
+        "name": "Aston Villa FC",
+        "shortName": "Aston Villa",
+        "logoUrl": "https://crests.football-data.org/58.png"
+      },
+      "awayTeam": {
+        "id": "524",
+        "name": "Paris Saint-Germain FC",
+        "shortName": "PSG",
+        "logoUrl": "https://crests.football-data.org/524.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575417",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Bayern - Slavia Praga",
+      "session": "match",
+      "startsAt": "2026-12-08T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "5",
+        "name": "FC Bayern München",
+        "shortName": "Bayern",
+        "logoUrl": "https://crests.football-data.org/5.png"
+      },
+      "awayTeam": {
+        "id": "930",
+        "name": "SK Slavia Praha",
+        "shortName": "Slavia Praga",
+        "logoUrl": "https://crests.football-data.org/930.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575418",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Napoli - Club Brugge",
+      "session": "match",
+      "startsAt": "2026-12-08T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "113",
+        "name": "SSC Napoli",
+        "shortName": "Napoli",
+        "logoUrl": "https://crests.football-data.org/113.png"
+      },
+      "awayTeam": {
+        "id": "851",
+        "name": "Club Brugge KV",
+        "shortName": "Club Brugge",
+        "logoUrl": "https://crests.football-data.org/851.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575419",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Roma - Sporting",
+      "session": "match",
+      "startsAt": "2026-12-08T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "100",
+        "name": "AS Roma",
+        "shortName": "Roma",
+        "logoUrl": "https://crests.football-data.org/100.png"
+      },
+      "awayTeam": {
+        "id": "498",
+        "name": "Sporting Clube de Portugal",
+        "shortName": "Sporting",
+        "logoUrl": "https://crests.football-data.org/498.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575420",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Manchester United - Lipsia",
+      "session": "match",
+      "startsAt": "2026-12-08T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "66",
+        "name": "Manchester United FC",
+        "shortName": "Manchester United",
+        "logoUrl": "https://crests.football-data.org/66.png"
+      },
+      "awayTeam": {
+        "id": "721",
+        "name": "RB Leipzig",
+        "shortName": "Lipsia",
+        "logoUrl": "https://crests.football-data.org/721.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575421",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "AEK Atene - Galatasaray",
+      "session": "match",
+      "startsAt": "2026-12-08T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "1899",
+        "name": "PAE AEK",
+        "shortName": "AEK Atene",
+        "logoUrl": "https://crests.football-data.org/1899.png"
+      },
+      "awayTeam": {
+        "id": "610",
+        "name": "Galatasaray SK",
+        "shortName": "Galatasaray",
+        "logoUrl": "https://crests.football-data.org/610.png"
       },
       "videos": []
     }
