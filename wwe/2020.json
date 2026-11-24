@@ -1,0 +1,711 @@
+{
+  "competition": "wwe",
+  "season": "2020",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2020-worlds-collide-2020",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "Worlds Collide",
+      "session": "ple",
+      "startsAt": "2020-01-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Toyota Center",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kay Lee Ray defeated Mia Yim by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:15",
+          "note": "pre-show"
+        },
+        {
+          "match": "Finn Bálor defeated Ilja Dragunov by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:00"
+        },
+        {
+          "match": "Jordan Devlin defeated Angel Garza (c), Isaiah \"Swerve\" Scott, and Travis Banks by pinfall",
+          "stipulation": "Fatal four-way match for the NXT Cruiserweight Championship",
+          "time": "12:05"
+        },
+        {
+          "match": "#DIY (Johnny Gargano and Tommaso Ciampa) defeated Moustache Mountain (Trent Seven and Tyler Bate) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "22:55"
+        },
+        {
+          "match": "Rhea Ripley (c) defeated Toni Storm by pinfall",
+          "stipulation": "Singles match for the NXT Women's Championship",
+          "time": "10:15"
+        },
+        {
+          "match": "Imperium (Walter, Fabian Aichner, Marcel Barthel, and Alexander Wolfe) defeated The Undisputed Era (Adam Cole, Kyle O'Reilly, Bobby Fish, and Roderick Strong) by pinfall",
+          "stipulation": "Eight-man tag team match",
+          "time": "29:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2020-royal-rumble-2020",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2020-01-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Minute Maid Park",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Sheamus defeated Shorty G by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "Andrade (c) (with Zelina Vega) defeated Humberto Carrillo by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "14:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Roman Reigns defeated King Corbin by pinfall",
+          "stipulation": "Falls Count Anywhere match",
+          "time": "21:20"
+        },
+        {
+          "match": "Charlotte Flair won by last eliminating Shayna Baszler",
+          "stipulation": "30-woman Royal Rumble match for a world championship match at WrestleMania 36",
+          "time": "54:20"
+        },
+        {
+          "match": "Bayley (c) defeated Lacey Evans by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "9:20"
+        },
+        {
+          "match": "\"The Fiend\" Bray Wyatt (c) defeated Daniel Bryan by pinfall",
+          "stipulation": "Strap match for the WWE Universal Championship",
+          "time": "17:35"
+        },
+        {
+          "match": "Becky Lynch (c) defeated Asuka (with Kairi Sane) by submission",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "16:25"
+        },
+        {
+          "match": "Drew McIntyre won by last eliminating Roman Reigns",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 36"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2020-super-showdown-2020",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "Super ShowDown",
+      "session": "ple",
+      "startsAt": "2020-02-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Mohammed Abdo Arena",
+      "city": "Riyadh, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The O.C. (Luke Gallows and Karl Anderson) defeated The Viking Raiders (Erik and Ivar) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "9:58",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Undertaker won by last eliminating AJ Styles by pinfall",
+          "stipulation": "Gauntlet match for the Tuwaiq Mountain Trophy",
+          "time": "32:27"
+        },
+        {
+          "match": "The Miz and John Morrison defeated The New Day (Big E and Kofi Kingston) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "13:17"
+        },
+        {
+          "match": "Angel Garza defeated Humberto Carrillo by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:13"
+        },
+        {
+          "match": "Seth Rollins and Murphy (c) defeated The Street Profits (Angelo Dawkins and Montez Ford) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "10:35"
+        },
+        {
+          "match": "Mansoor defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:21"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) (c) defeated Ricochet by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "1:35"
+        },
+        {
+          "match": "Roman Reigns defeated King Corbin by pinfall",
+          "stipulation": "Steel Cage match",
+          "time": "12:59"
+        },
+        {
+          "match": "Bayley (c) defeated Naomi by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "11:33"
+        },
+        {
+          "match": "Goldberg defeated \"The Fiend\" Bray Wyatt (c) by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "3:08"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2020-elimination-chamber-2020",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2020-03-08T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Wells Fargo Center",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Viking Raiders (Erik and Ivar) defeated Curt Hawkins and Zack Ryder by pinfall",
+          "stipulation": "Tag team match",
+          "time": "4:50",
+          "note": "pre-show"
+        },
+        {
+          "match": "Daniel Bryan defeated Drew Gulak by technical submission",
+          "stipulation": "Singles match",
+          "time": "14:20"
+        },
+        {
+          "match": "Andrade (c) (with Zelina Vega) defeated Humberto Carrillo by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "12:20"
+        },
+        {
+          "match": "The Miz and John Morrison (c) defeated The New Day (Big E and Kofi Kingston), The Usos (Jey Uso and Jimmy Uso), Heavy Machinery (Otis and Tucker), Lucha House Party (Gran Metalik and Lince Dorado), and Dolph Ziggler and Robert Roode",
+          "stipulation": "Elimination Chamber match for the WWE SmackDown Tag Team Championship",
+          "time": "32:55"
+        },
+        {
+          "match": "Aleister Black defeated AJ Styles (with Luke Gallows and Karl Anderson) by pinfall",
+          "stipulation": "No Disqualification match",
+          "time": "23:15"
+        },
+        {
+          "match": "The Street Profits (Angelo Dawkins and Montez Ford) (c) defeated Seth Rollins and Murphy (with Akam and Rezar) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "18:30"
+        },
+        {
+          "match": "Sami Zayn, Shinsuke Nakamura, and Cesaro defeated Braun Strowman (c) by pinfall",
+          "stipulation": "3-on-1 Handicap match for the WWE Intercontinental Championship · Since Zayn pinned Strowman, he won the title.",
+          "time": "8:30"
+        },
+        {
+          "match": "Shayna Baszler defeated Natalya, Liv Morgan, Asuka, Ruby Riott, and Sarah Logan",
+          "stipulation": "Elimination Chamber match for a WWE Raw Women's Championship match at WrestleMania 36",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2020-money-in-the-bank-2020",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2020-05-10T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "WWE Performance Center · and · WWE Global Headquarters",
+      "city": "Orlando, Florida · and · Stamford, Connecticut",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jeff Hardy defeated Cesaro by pinfall",
+          "stipulation": "Singles match",
+          "time": "13:30",
+          "note": "pre-show"
+        },
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (c) defeated The Forgotten Sons (Steve Cutler and Wesley Blake) (with Jaxson Ryker), John Morrison and The Miz, and Lucha House Party (Gran Metalik and Lince Dorado) by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "12:00"
+        },
+        {
+          "match": "Bobby Lashley defeated R-Truth by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:40"
+        },
+        {
+          "match": "Bayley (c) (with Sasha Banks) defeated Tamina by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "10:30"
+        },
+        {
+          "match": "Braun Strowman (c) defeated Bray Wyatt by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "10:55"
+        },
+        {
+          "match": "Drew McIntyre (c) defeated Seth Rollins by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "19:22"
+        },
+        {
+          "match": "Asuka defeated Carmella, Dana Brooke, Lacey Evans, Nia Jax, and Shayna Baszler by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for the WWE Raw Women's Championship",
+          "time": "22:00"
+        },
+        {
+          "match": "Otis defeated AJ Styles, Aleister Black, Daniel Bryan, King Corbin, and Rey Mysterio by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a world championship match contract",
+          "time": "27:15"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2020-backlash-2020",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2020-06-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "WWE Performance Center",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Apollo Crews (c) defeated Andrade (with Angel Garza and Zelina Vega) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "7:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Bayley and Sasha Banks (c) defeated Alexa Bliss and Nikki Cross and The IIconics (Billie Kay and Peyton Royce) by pinfall",
+          "stipulation": "Triple threat tag team match for the WWE Women's Tag Team Championship",
+          "time": "8:50"
+        },
+        {
+          "match": "Sheamus defeated Jeff Hardy by pinfall",
+          "stipulation": "Singles match",
+          "time": "16:50"
+        },
+        {
+          "match": "Asuka (c) vs. Nia Jax ended in a double countout",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "8:25"
+        },
+        {
+          "match": "Braun Strowman (c) defeated John Morrison and The Miz by pinfall",
+          "stipulation": "1-on-2 Handicap match for the WWE Universal Championship",
+          "time": "7:20"
+        },
+        {
+          "match": "Drew McIntyre (c) defeated Bobby Lashley (with MVP) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "13:15"
+        },
+        {
+          "match": "Randy Orton defeated Edge by pinfall",
+          "stipulation": "Singles match",
+          "time": "44:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2020-the-horror-show-at-extreme-rules",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "The Horror Show at Extreme Rules",
+      "session": "ple",
+      "startsAt": "2020-07-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "WWE Performance Center",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kevin Owens defeated Murphy by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "Cesaro and Shinsuke Nakamura defeated The New Day (Big E and Kofi Kingston) (c) by putting Kingston through a table",
+          "stipulation": "Tables match for the WWE SmackDown Tag Team Championship",
+          "time": "10:25"
+        },
+        {
+          "match": "Bayley (c) (with Sasha Banks) defeated Nikki Cross (with Alexa Bliss) by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "12:20"
+        },
+        {
+          "match": "Seth Rollins defeated Rey Mysterio",
+          "stipulation": "Eye for an Eye match · The match could only be won when one competitor extracted an eye of their opponent.",
+          "time": "18:05"
+        },
+        {
+          "match": "Asuka (c) (with Kairi Sane) vs. Sasha Banks (with Bayley) ended in a no contest",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "20:00"
+        },
+        {
+          "match": "Drew McIntyre (c) defeated Dolph Ziggler by pinfall",
+          "stipulation": "Extreme Rules match for the WWE Championship · The Extreme Rules stipulation only applied to Ziggler; McIntyre had to wrestle under normal singles match rules. · Additionally, had McIntyre been counted out or disqualified, he would have lost the title.",
+          "time": "15:25"
+        },
+        {
+          "match": "Bray Wyatt defeated Braun Strowman",
+          "stipulation": "Wyatt Swamp Fight",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2020-summerslam-2020",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2020-08-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Amway Center",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Apollo Crews (c) defeated MVP by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship · The Hurt Business were not allowed to accompany MVP.",
+          "time": "06:40",
+          "note": "pre-show"
+        },
+        {
+          "match": "Bayley (c) (with Sasha Banks) defeated Asuka by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "11:35"
+        },
+        {
+          "match": "The Street Profits (Angelo Dawkins and Montez Ford) (c) defeated Andrade and Angel Garza (with Zelina Vega) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "07:50"
+        },
+        {
+          "match": "Mandy Rose defeated Sonya Deville by pinfall",
+          "stipulation": "No Disqualification Loser Leaves WWE match",
+          "time": "10:05"
+        },
+        {
+          "match": "Seth Rollins (with Murphy) defeated Dominik Mysterio (with Rey Mysterio) by pinfall",
+          "stipulation": "Street Fight",
+          "time": "22:35"
+        },
+        {
+          "match": "Asuka defeated Sasha Banks (c) (with Bayley) by submission",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "11:25"
+        },
+        {
+          "match": "Drew McIntyre (c) defeated Randy Orton by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "20:35"
+        },
+        {
+          "match": "\"The Fiend\" Bray Wyatt defeated Braun Strowman (c) by pinfall",
+          "stipulation": "Falls Count Anywhere match for the WWE Universal Championship",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2020-payback-2020",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "Payback",
+      "session": "ple",
+      "startsAt": "2020-08-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Amway Center",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Riott Squad (Ruby Riott and Liv Morgan) defeated The IIconics (Billie Kay and Peyton Royce) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "9:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "Bobby Lashley (with MVP and Shelton Benjamin) defeated Apollo Crews (c) by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:00"
+        },
+        {
+          "match": "Big E defeated Sheamus by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:20"
+        },
+        {
+          "match": "Matt Riddle defeated King Corbin by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:55"
+        },
+        {
+          "match": "Shayna Baszler and Nia Jax defeated Bayley and Sasha Banks (c) by submission",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "10:20"
+        },
+        {
+          "match": "Keith Lee defeated Randy Orton by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:40"
+        },
+        {
+          "match": "Rey Mysterio and Dominik Mysterio defeated Seth Rollins and Murphy by pinfall",
+          "stipulation": "Tag team match",
+          "time": "16:00"
+        },
+        {
+          "match": "Roman Reigns (with Paul Heyman) defeated \"The Fiend\" Bray Wyatt (c) and Braun Strowman by pinfall",
+          "stipulation": "Triple Threat match for the WWE Universal Championship",
+          "time": "12:46"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2020-clash-of-champions-2020",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "Clash of Champions",
+      "session": "ple",
+      "startsAt": "2020-09-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Amway Center",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Cesaro and Shinsuke Nakamura (c) defeated Lucha House Party (Kalisto and Lince Dorado) (with Gran Metalik) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "10:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "Sami Zayn defeated Jeff Hardy (c) and AJ Styles by retrieving the championship belts",
+          "stipulation": "Triple threat ladder match for the undisputed WWE Intercontinental Championship · Both championship belts (Hardy's real belt and Zayn's faux belt) had to be retrieved to win.",
+          "time": "26:35"
+        },
+        {
+          "match": "Asuka (c) defeated Zelina Vega by submission",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "7:05"
+        },
+        {
+          "match": "Bobby Lashley (c) (with MVP) defeated Apollo Crews (with Ricochet) by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "8:15"
+        },
+        {
+          "match": "The Street Profits (Montez Ford and Angelo Dawkins) (c) defeated Andrade and Angel Garza by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "8:15"
+        },
+        {
+          "match": "Asuka defeated Bayley (c) by disqualification",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "3:45"
+        },
+        {
+          "match": "Drew McIntyre (c) defeated Randy Orton by trapping him in the ambulance with the doors completely closed",
+          "stipulation": "Ambulance match for the WWE Championship",
+          "time": "21:35"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated Jey Uso by technical knockout",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "22:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2020-hell-in-a-cell-2020",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2020-10-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Amway Center",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "R-Truth (c) defeated Drew Gulak by pinfall",
+          "stipulation": "Singles match for the WWE 24/7 Championship",
+          "time": "5:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated Jey Uso",
+          "stipulation": "Hell in a Cell \"I Quit\" match for the WWE Universal Championship",
+          "time": "29:20"
+        },
+        {
+          "match": "Elias defeated Jeff Hardy by disqualification",
+          "stipulation": "Singles match",
+          "time": "7:50"
+        },
+        {
+          "match": "The Miz (with John Morrison) defeated Otis (with Tucker) by pinfall",
+          "stipulation": "Singles match for Otis's Money in the Bank contract",
+          "time": "7:25"
+        },
+        {
+          "match": "Sasha Banks defeated Bayley (c) by submission",
+          "stipulation": "Hell in a Cell match for the WWE SmackDown Women's Championship",
+          "time": "26:35"
+        },
+        {
+          "match": "Bobby Lashley (c) defeated Slapjack by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "3:50"
+        },
+        {
+          "match": "Randy Orton defeated Drew McIntyre (c) by pinfall",
+          "stipulation": "Hell in a Cell match for the WWE Championship",
+          "time": "30:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2020-survivor-series-2020",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2020-11-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Amway Center",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Miz won by last eliminating Dominik Mysterio",
+          "stipulation": "18-man Dual Brand Battle Royal",
+          "time": "12:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "Team Raw (AJ Styles, Keith Lee, Sheamus, Braun Strowman, and Riddle) (with Omos) defeated Team SmackDown (Kevin Owens, Jey Uso, King Corbin, Seth Rollins, and Otis)",
+          "stipulation": "5-on-5 men's Survivor Series match",
+          "time": "19:25"
+        },
+        {
+          "match": "The Street Profits (Angelo Dawkins and Montez Ford) (SmackDown Tag Team Champions) defeated The New Day (Kofi Kingston and Xavier Woods) (with Big E) (Raw Tag Team Champions) by pinfall",
+          "stipulation": "Champions vs. Champions tag team match",
+          "time": "13:40"
+        },
+        {
+          "match": "Bobby Lashley (Raw's United States Champion) (with MVP, Cedric Alexander, and Shelton Benjamin) defeated Sami Zayn (SmackDown's Intercontinental Champion) by submission",
+          "stipulation": "Champion vs. Champion singles match",
+          "time": "7:50"
+        },
+        {
+          "match": "Sasha Banks (SmackDown Women's Champion) defeated Asuka (Raw Women's Champion) by pinfall",
+          "stipulation": "Champion vs. Champion singles match",
+          "time": "13:05"
+        },
+        {
+          "match": "Team Raw (Nia Jax, Shayna Baszler, Lana, Lacey Evans, and Peyton Royce) defeated Team SmackDown (Bianca Belair, Ruby Riott, Liv Morgan, Bayley, and Natalya)",
+          "stipulation": "5-on-5 women's Survivor Series match",
+          "time": "23:20"
+        },
+        {
+          "match": "Roman Reigns (SmackDown's Universal Champion) (with Paul Heyman) defeated Drew McIntyre (Raw's WWE Champion) by technical submission",
+          "stipulation": "Champion vs. Champion singles match",
+          "time": "24:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2020-tlc-tables-ladders-chairs-2020",
+      "competition": "wwe",
+      "season": "2020",
+      "title": "TLC: Tables, Ladders & Chairs",
+      "session": "ple",
+      "startsAt": "2020-12-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Tropicana Field",
+      "city": "St. Petersburg, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Alpha Academy (Chad Gable, and Otis), Big E, and Daniel Bryan defeated King Corbin, Sami Zayn, Cesaro, and Shinsuke Nakamura by pinfall",
+          "stipulation": "Eight-man tag team match",
+          "time": "8:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "Drew McIntyre (c) defeated AJ Styles (with Omos) and The Miz (with John Morrison) by retrieving the championship belt",
+          "stipulation": "Triple threat Tables, Ladders, and Chairs match for the WWE Championship",
+          "time": "27:05"
+        },
+        {
+          "match": "Sasha Banks (c) defeated Carmella (with Reginald) by submission",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "12:10"
+        },
+        {
+          "match": "The Hurt Business (Cedric Alexander and Shelton Benjamin) (with MVP) defeated The New Day (Kofi Kingston and Xavier Woods) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "10:00"
+        },
+        {
+          "match": "Asuka and Charlotte Flair defeated Nia Jax and Shayna Baszler (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "10:05"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated Kevin Owens by retrieving the championship belt",
+          "stipulation": "Tables, Ladders, and Chairs match for the WWE Universal Championship",
+          "time": "24:45"
+        },
+        {
+          "match": "Randy Orton defeated The Fiend by setting The Fiend on fire",
+          "stipulation": "Firefly Inferno match",
+          "time": "12:00"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

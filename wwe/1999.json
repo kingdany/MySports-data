@@ -1,0 +1,980 @@
+{
+  "competition": "wwe",
+  "season": "1999",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1999-royal-rumble-1999",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "1999-01-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Arrowhead Pond of Anaheim",
+      "city": "Anaheim, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Christian defeated Jeff Hardy",
+          "stipulation": "Singles match",
+          "time": "11:00",
+          "note": "dark"
+        },
+        {
+          "match": "The J.O.B. Squad (Bob Holly and Scorpio) defeated Too Much (Brian Christopher and Scott Taylor)",
+          "stipulation": "Tag team match",
+          "time": "3:52",
+          "note": "pre-show"
+        },
+        {
+          "match": "Mankind defeated Mabel by disqualification",
+          "stipulation": "Singles match",
+          "time": "5:04",
+          "note": "pre-show"
+        },
+        {
+          "match": "Big Boss Man defeated Road Dogg",
+          "stipulation": "Singles match",
+          "time": "11:52"
+        },
+        {
+          "match": "Ken Shamrock (c) defeated Billy Gunn by submission",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "14:23"
+        },
+        {
+          "match": "X-Pac (c) defeated Gangrel",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "5:53"
+        },
+        {
+          "match": "Sable (c) defeated Luna Vachon (with Shane McMahon)",
+          "stipulation": "Strap match for the WWF Women's Championship",
+          "time": "4:43"
+        },
+        {
+          "match": "The Rock defeated Mankind (c) by making Mankind say \"I quit\"",
+          "stipulation": "\"I Quit\" match for the WWF Championship",
+          "time": "21:47"
+        },
+        {
+          "match": "Mr. McMahon won by last eliminating \"Stone Cold\" Steve Austin",
+          "stipulation": "30-man Royal Rumble match for a WWF Championship match at WrestleMania XV",
+          "time": "56:38"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-st-valentine-s-day-massacre-in-your-house",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "St. Valentine's Day Massacre: In Your House",
+      "session": "ple",
+      "startsAt": "1999-02-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Memphis Pyramid",
+      "city": "Memphis, Tennessee",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Too Much (Brian Christopher and Scott Taylor) defeated The Hardy Boyz (Jeff Hardy and Matt Hardy)",
+          "stipulation": "Tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "Viscera (with Mideon) defeated Test (with Big Boss Man) by disqualification",
+          "stipulation": "Singles match",
+          "time": "2:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Billy Gunn (with Triple H and X-Pac) vs. Tiger Ali Singh ended in a no contest",
+          "stipulation": "Singles match",
+          "time": "0:40",
+          "note": "pre-show"
+        },
+        {
+          "match": "Goldust defeated Bluedust by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:04"
+        },
+        {
+          "match": "Bob Holly defeated Al Snow by pinfall",
+          "stipulation": "Hardcore match for the vacant WWF Hardcore Championship",
+          "time": "9:58"
+        },
+        {
+          "match": "Big Boss Man defeated Mideon by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:19"
+        },
+        {
+          "match": "Jeff Jarrett and Owen Hart (c) (with Debra) defeated D'Lo Brown and Mark Henry (with Ivory) by submission",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "9:34"
+        },
+        {
+          "match": "Val Venis (with Ryan Shamrock) defeated Ken Shamrock (c) by pinfall",
+          "stipulation": "Singles match for the WWF Intercontinental Championship · Billy Gunn was the special guest referee.",
+          "time": "15:53"
+        },
+        {
+          "match": "The Corporation (Chyna and Kane) defeated D-Generation X (Triple H and X-Pac) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "14:46"
+        },
+        {
+          "match": "Mankind (c) vs. The Rock ended in a draw",
+          "stipulation": "Last Man Standing match for the WWF Championship",
+          "time": "22:00"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Mr. McMahon by escaping the cage",
+          "stipulation": "Steel Cage match to determine the #1 contender for the WWF Championship at WrestleMania XV",
+          "time": "7:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-wrestlemania-xv",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "WrestleMania XV",
+      "session": "ple",
+      "startsAt": "1999-03-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "First Union Center",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jacqueline (with Terri Runnels) defeated Ivory (with D'Lo Brown) by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:23",
+          "note": "pre-show"
+        },
+        {
+          "match": "D'Lo Brown and Test won when Droz and The Godfather eliminated each other",
+          "stipulation": "Battle Royal to determine #1 contenders to the WWF Tag Team Championship",
+          "time": "4:14",
+          "note": "pre-show"
+        },
+        {
+          "match": "Hardcore Holly defeated Billy Gunn (c) and Al Snow by pinfall",
+          "stipulation": "Triple threat Hardcore match for the WWF Hardcore Championship",
+          "time": "7:06"
+        },
+        {
+          "match": "Owen Hart and Jeff Jarrett (c) (with Debra) defeated D'Lo Brown and Test (with Ivory) by pinfall",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "3:58"
+        },
+        {
+          "match": "Butterbean defeated Bart Gunn by knockout",
+          "stipulation": "Brawl for All match · Vinny Pazienza served as the special guest referee while Kevin Roony, Chuck Wepner, and Gorilla Monsoon served as the judges."
+        },
+        {
+          "match": "Mankind defeated Big Show by disqualification",
+          "stipulation": "Singles match · The winner would be the special guest referee in the main event.",
+          "time": "6:50"
+        },
+        {
+          "match": "Road Dogg (c) defeated Goldust (with The Blue Meanie and Ryan Shamrock), Ken Shamrock, and Val Venis",
+          "stipulation": "Four corners elimination match for the WWF Intercontinental Championship",
+          "time": "9:47"
+        },
+        {
+          "match": "Kane (with Chyna) defeated Triple H by disqualification",
+          "stipulation": "Singles match",
+          "time": "11:33"
+        },
+        {
+          "match": "Sable (c) defeated Tori by pinfall",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "5:06"
+        },
+        {
+          "match": "Shane McMahon (c) (with Test) defeated X-Pac by pinfall",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "8:41"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Big Boss Man by pinfall",
+          "stipulation": "Hell in a Cell match",
+          "time": "9:46"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated The Rock (c) by pinfall",
+          "stipulation": "No Disqualification match for the WWF Championship · The Corporation were banned from ringside. · Mankind was the special guest referee.",
+          "time": "16:52"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-wwf-backlash-1999",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "1999-04-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Providence Civic Center",
+      "city": "Providence, Rhode Island",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Val Venis and Nicole Bass defeated D'Lo Brown and Ivory",
+          "stipulation": "Mixed tag team match",
+          "time": "1:43",
+          "note": "pre-show"
+        },
+        {
+          "match": "Droz and Prince Albert defeated Too Much (Brian Christopher and Scott Taylor)",
+          "stipulation": "Tag team match",
+          "time": "1:09",
+          "note": "pre-show"
+        },
+        {
+          "match": "Kane defeated Big Boss Man (with Test)",
+          "stipulation": "Singles match",
+          "time": "2:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "Viscera defeated Test (with Big Boss Man)",
+          "stipulation": "Singles match",
+          "time": "2:09",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Ministry of Darkness (Bradshaw, Faarooq, and Mideon) defeated The Brood (Gangrel, Edge, and Christian)",
+          "stipulation": "Six-man tag team match",
+          "time": "11:38"
+        },
+        {
+          "match": "Al Snow (with Head) defeated Hardcore Holly (c)",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "15:27"
+        },
+        {
+          "match": "The Godfather (c) defeated Goldust (with The Blue Meanie)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "5:22"
+        },
+        {
+          "match": "The New Age Outlaws (Billy Gunn and Road Dogg) defeated Jeff Jarrett and Owen Hart (with Debra)",
+          "stipulation": "Tag team match to determine #1 contenders to the WWF Tag Team Championship",
+          "time": "10:33"
+        },
+        {
+          "match": "Mankind defeated Big Show",
+          "stipulation": "Boiler Room Brawl",
+          "time": "7:40"
+        },
+        {
+          "match": "Triple H (with Chyna) defeated X-Pac",
+          "stipulation": "Singles match",
+          "time": "19:19"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Ken Shamrock",
+          "stipulation": "Singles match",
+          "time": "18:50"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin (c) defeated The Rock",
+          "stipulation": "No Holds Barred match for the WWF Championship · Shane McMahon was the special guest referee.",
+          "time": "17:07"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-no-mercy-uk",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "1999-05-16T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Manchester Evening News Arena",
+      "city": "Manchester, England",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Tiger Ali Singh defeated Gillberg by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:05"
+        },
+        {
+          "match": "Ministry of Darkness (Bradshaw, Faarooq, and Viscera) defeated The Brood (Gangrel, Edge, and Christian) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "13:49"
+        },
+        {
+          "match": "Steve Blackman defeated Droz by submission",
+          "stipulation": "Singles match",
+          "time": "7:43"
+        },
+        {
+          "match": "Kane defeated Mideon by disqualification",
+          "stipulation": "Singles match",
+          "time": "4:34"
+        },
+        {
+          "match": "Nicole Bass defeated Tori by pinfall",
+          "stipulation": "Singles match",
+          "time": "0:27"
+        },
+        {
+          "match": "Shane McMahon (c) defeated X-Pac by pinfall",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "8:26"
+        },
+        {
+          "match": "Billy Gunn defeated Mankind by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:17"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin (c) defeated Triple H (with Chyna) and The Undertaker (with Paul Bearer) by pinfall",
+          "stipulation": "Anything Goes triple threat match for the WWF Championship",
+          "time": "18:27"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-over-the-edge-1999",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "Over the Edge",
+      "session": "ple",
+      "startsAt": "1999-05-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Kemper Arena",
+      "city": "Kansas City, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Meat (with Jacqueline, Ryan Shamrock, and Terri Runnels) defeated Brian Christopher (with Scott Taylor)",
+          "stipulation": "Singles match",
+          "time": "2:04",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Hardy Boyz (Jeff Hardy and Matt Hardy) (with Michael Hayes) defeated The Blue Meanie and Goldust",
+          "stipulation": "Tag team match",
+          "time": "5:53",
+          "note": "pre-show"
+        },
+        {
+          "match": "Mideon (with Big Boss Man, Bradshaw, Faarooq, and Viscera) vs. Mr. McMahon (with Gerald Brisco and Pat Patterson) ended in a no contest",
+          "stipulation": "Singles match",
+          "time": "2:51",
+          "note": "pre-show"
+        },
+        {
+          "match": "Kane and X-Pac (c) defeated D'Lo Brown and Mark Henry (with Ivory)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "14:45"
+        },
+        {
+          "match": "Al Snow (c) (with Head) defeated Hardcore Holly",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "12:53"
+        },
+        {
+          "match": "Nicole Bass and Val Venis defeated Debra and Jeff Jarrett",
+          "stipulation": "Mixed tag team match",
+          "time": "6:07"
+        },
+        {
+          "match": "Billy Gunn defeated Road Dogg",
+          "stipulation": "Singles match",
+          "time": "11:14"
+        },
+        {
+          "match": "The Union (Big Show, Ken Shamrock, Mankind, and Test) defeated The Corporate Ministry (Big Boss Man, Bradshaw, Faarooq, and Viscera)",
+          "stipulation": "Eight-man tag team elimination match",
+          "time": "14:59"
+        },
+        {
+          "match": "The Rock defeated Triple H (with Chyna) by disqualification",
+          "stipulation": "Singles match",
+          "time": "11:41"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated \"Stone Cold\" Steve Austin (c)",
+          "stipulation": "Singles match for the WWF Championship · Shane McMahon and Vince McMahon were the special guest referees. Additionally, had Austin been disqualified, he would have lost the championship.",
+          "time": "22:58"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-king-of-the-ring-1999",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "King of the Ring",
+      "session": "ple",
+      "startsAt": "1999-06-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Greensboro Coliseum",
+      "city": "Greensboro, North Carolina",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Meat (with Jacqueline and Terri Runnels) defeated Kurt Angle",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The Brood (Christian and Edge) (with Gangrel) vs. The Hardy Boyz (Jeff Hardy and Matt Hardy) (with Michael Hayes) ended in a no contest",
+          "stipulation": "Tag team match to determine #1 contenders to the WWF Tag Team Championship",
+          "time": "1:28",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Corporate Ministry (Mideon and Viscera) defeated Big Boss Man",
+          "stipulation": "2-on-1 Handicap match",
+          "time": "1:47",
+          "note": "pre-show"
+        },
+        {
+          "match": "Prince Albert (with Droz) defeated Val Venis",
+          "stipulation": "Singles match",
+          "time": "1:57",
+          "note": "pre-show"
+        },
+        {
+          "match": "Ken Shamrock defeated Shane McMahon by disqualification",
+          "stipulation": "Singles match",
+          "time": "0:47",
+          "note": "pre-show"
+        },
+        {
+          "match": "X-Pac defeated Hardcore Holly by disqualification",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "3:02"
+        },
+        {
+          "match": "Kane defeated Big Show",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "6:36"
+        },
+        {
+          "match": "Billy Gunn defeated Ken Shamrock by referee stoppage",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "3:37"
+        },
+        {
+          "match": "Road Dogg defeated Chyna (with Triple H)",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "13:21"
+        },
+        {
+          "match": "The Hardy Boyz (Jeff Hardy and Matt Hardy) (with Michael Hayes) defeated The Brood (Christian and Edge) (with Gangrel)",
+          "stipulation": "Tag team match to determine #1 contenders to the WWF Tag Team Championship",
+          "time": "4:49"
+        },
+        {
+          "match": "Billy Gunn defeated Kane",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "5:25"
+        },
+        {
+          "match": "X-Pac defeated Road Dogg",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "3:08"
+        },
+        {
+          "match": "The Undertaker (c) (with Paul Bearer) defeated The Rock",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "19:11"
+        },
+        {
+          "match": "Billy Gunn defeated X-Pac",
+          "stipulation": "King of the Ring final match",
+          "time": "5:33"
+        },
+        {
+          "match": "Vince McMahon and Shane McMahon defeated \"Stone Cold\" Steve Austin",
+          "stipulation": "2-on-1 Handicap ladder match for full control of the World Wrestling Federation",
+          "time": "17:13"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-fully-loaded-1999",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "Fully Loaded",
+      "session": "ple",
+      "startsAt": "1999-07-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Marine Midland Arena",
+      "city": "Buffalo, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Val Venis defeated Joey Abs (with Rodney and Pete Gas)",
+          "stipulation": "Singles match",
+          "time": "3:16",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Godfather defeated Meat (with Jacqueline and Terri Runnels)",
+          "stipulation": "Singles match",
+          "time": "2:06",
+          "note": "pre-show"
+        },
+        {
+          "match": "Christian defeated Viscera",
+          "stipulation": "Singles match",
+          "time": "2:43",
+          "note": "pre-show"
+        },
+        {
+          "match": "Jeff Jarrett (with Debra) defeated Edge (c)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "13:23"
+        },
+        {
+          "match": "The Acolytes (Faarooq and Bradshaw) defeated The Hardy Boyz (Matt Hardy and Jeff Hardy) (c) and Michael Hayes",
+          "stipulation": "3-on-2 Acolyte Rules match for the WWF Tag Team Championship",
+          "time": "9:35"
+        },
+        {
+          "match": "D'Lo Brown defeated Mideon (c)",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "7:12"
+        },
+        {
+          "match": "Big Boss Man defeated Al Snow (c)",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "10:13"
+        },
+        {
+          "match": "Big Show defeated Kane",
+          "stipulation": "Singles match · Hardcore Holly was the special guest referee.",
+          "time": "8:13"
+        },
+        {
+          "match": "Ken Shamrock defeated Steve Blackman",
+          "stipulation": "Iron Circle match",
+          "time": "4:19"
+        },
+        {
+          "match": "Road Dogg and X-Pac defeated Billy Gunn and Chyna",
+          "stipulation": "Tag team match for the rights to D-Generation X",
+          "time": "11:44"
+        },
+        {
+          "match": "Triple H (with Billy Gunn and Chyna) defeated The Rock",
+          "stipulation": "Fully Loaded Strap match to determine the #1 contender to the WWF Championship at SummerSlam",
+          "time": "19:23"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin (c) defeated The Undertaker by making Undertaker bleed first",
+          "stipulation": "First Blood match for the WWF Championship · Since The Undertaker lost, Vince McMahon could no longer appear on WWF television. Had Austin lost, he would have never been able to challenge for the championship again.",
+          "time": "15:58"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-summerslam-1999",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "1999-08-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Target Center",
+      "city": "Minneapolis, Minnesota",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jeff Jarrett (with Debra) defeated D'Lo Brown (c)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship and WWF European Championship",
+          "time": "7:27"
+        },
+        {
+          "match": "The Acolytes (Faarooq and Bradshaw) won by last eliminating The Holly Cousins (Hardcore Holly and Crash Holly)",
+          "stipulation": "Tag team turmoil match to determine #1 contenders to the WWF Tag Team Championship",
+          "time": "16:13"
+        },
+        {
+          "match": "Al Snow defeated Big Boss Man (c)",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "7:27"
+        },
+        {
+          "match": "Ivory (c) defeated Tori",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "4:08"
+        },
+        {
+          "match": "Ken Shamrock defeated Steve Blackman",
+          "stipulation": "Lion's Den Weapons match",
+          "time": "9:06"
+        },
+        {
+          "match": "Test defeated Shane McMahon",
+          "stipulation": "Greenwich Street Fight · 1=Since Shane lost, he was forced to give his blessing to the relationship between Test and Stephanie McMahon. Had Test lost, he and Stephanie would have been forced to break up and never see each other again.",
+          "time": "12:04"
+        },
+        {
+          "match": "The Unholy Alliance (Big Show and The Undertaker) (with Paul Bearer) defeated Kane and X-Pac (c)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "12:01"
+        },
+        {
+          "match": "The Rock defeated Billy Gunn",
+          "stipulation": "Kiss My Ass match",
+          "time": "10:12"
+        },
+        {
+          "match": "Mankind defeated \"Stone Cold\" Steve Austin (c) and Triple H (with Chyna)",
+          "stipulation": "Triple threat match for the WWF Championship · Jesse Ventura was the special guest referee.",
+          "time": "16:23"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-unforgiven-1999",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "Unforgiven",
+      "session": "ple",
+      "startsAt": "1999-09-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Charlotte Coliseum",
+      "city": "Charlotte, North Carolina",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Val Venis defeated Steve Blackman",
+          "stipulation": "Singles match",
+          "time": "6:33"
+        },
+        {
+          "match": "D'Lo Brown defeated Mark Henry (c)",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "9:11"
+        },
+        {
+          "match": "Jeff Jarrett (c) (with Miss Kitty) defeated Chyna by disqualification",
+          "stipulation": "Intergender singles match for the WWF Intercontinental Championship",
+          "time": "11:52"
+        },
+        {
+          "match": "The Acolytes (Bradshaw and Faarooq) defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley)",
+          "stipulation": "Tag team match",
+          "time": "7:28"
+        },
+        {
+          "match": "Ivory (c) defeated Luna Vachon",
+          "stipulation": "Hardcore match for the WWF Women's Championship",
+          "time": "3:37"
+        },
+        {
+          "match": "The New Age Outlaws (Billy Gunn and Road Dogg) (c) defeated Edge and Christian",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "11:09"
+        },
+        {
+          "match": "Al Snow (c) defeated Big Boss Man",
+          "stipulation": "Kennel from Hell match for the WWF Hardcore Championship",
+          "time": "11:42"
+        },
+        {
+          "match": "X-Pac defeated Chris Jericho (with Curtis Hughes) by disqualification",
+          "stipulation": "Singles match",
+          "time": "13:10"
+        },
+        {
+          "match": "Triple H defeated Big Show, The British Bulldog, Kane, Mankind, and The Rock",
+          "stipulation": "Six-pack challenge for the vacant WWF Championship · \"Stone Cold\" Steve Austin was the special outside enforcer.",
+          "time": "20:28"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-rebellion-1999",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "Rebellion",
+      "session": "ple",
+      "startsAt": "1999-10-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "National Indoor Arena",
+      "city": "Birmingham, England",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Christian defeated Crash Holly",
+          "stipulation": "Singles match",
+          "time": "4:39",
+          "note": "dark"
+        },
+        {
+          "match": "Jeff Jarrett (c) (with Miss Kitty) defeated D'Lo Brown",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "6:12"
+        },
+        {
+          "match": "The Godfather defeated Gangrel",
+          "stipulation": "Singles match",
+          "time": "6:19"
+        },
+        {
+          "match": "Val Venis defeated Mark Henry",
+          "stipulation": "Singles match",
+          "time": "3:47"
+        },
+        {
+          "match": "Ivory (c) defeated Jacqueline, Luna Vachon, and Tori",
+          "stipulation": "Four Corners match for the WWF Women's Championship",
+          "time": "6:51"
+        },
+        {
+          "match": "Chris Jericho (with Curtis Hughes) defeated Road Dogg",
+          "stipulation": "Singles match",
+          "time": "11:58"
+        },
+        {
+          "match": "Chyna defeated Jeff Jarrett (with Miss Kitty) by disqualification",
+          "stipulation": "Singles match",
+          "time": "4:28"
+        },
+        {
+          "match": "Kane defeated Big Show",
+          "stipulation": "No Disqualification match",
+          "time": "8:38"
+        },
+        {
+          "match": "The British Bulldog defeated X-Pac",
+          "stipulation": "Singles match",
+          "time": "5:23"
+        },
+        {
+          "match": "Edge and Christian defeated The Acolytes (Bradshaw and Faarooq) and The Hollys (Crash Holly and Hardcore Holly)",
+          "stipulation": "Triangle match",
+          "time": "8:42"
+        },
+        {
+          "match": "Triple H (c) defeated The Rock by escaping the cage",
+          "stipulation": "Steel Cage match for the WWF Championship",
+          "time": "20:33"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-no-mercy-1999",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "1999-10-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Gund Arena",
+      "city": "Cleveland, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Godfather defeated Mideon (with Viscera)",
+          "stipulation": "Singles match",
+          "time": "7:31"
+        },
+        {
+          "match": "The Fabulous Moolah (with Mae Young) defeated Ivory (c)",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "3:01"
+        },
+        {
+          "match": "The Hollys (Hardcore Holly and Crash Holly) defeated The New Age Outlaws (Billy Gunn and Road Dogg) by disqualification",
+          "stipulation": "Tag team match",
+          "time": "10:11"
+        },
+        {
+          "match": "Chyna defeated Jeff Jarrett (c) (with Miss Kitty)",
+          "stipulation": "Intergender Good Housekeeping match for the WWF Intercontinental Championship",
+          "time": "9:57"
+        },
+        {
+          "match": "The Rock defeated The British Bulldog",
+          "stipulation": "Singles match",
+          "time": "6:20"
+        },
+        {
+          "match": "The New Brood (Jeff Hardy and Matt Hardy) (with Gangrel) defeated Edge and Christian by retrieving the bag of money",
+          "stipulation": "Ladder match for the managerial services of Terri Runnels and $100,000",
+          "time": "16:30"
+        },
+        {
+          "match": "Val Venis defeated Mankind",
+          "stipulation": "Singles match",
+          "time": "9:26"
+        },
+        {
+          "match": "X-Pac defeated Bradshaw, Faarooq, and Kane",
+          "stipulation": "Four corners elimination match",
+          "time": "10:08"
+        },
+        {
+          "match": "Triple H (c) defeated \"Stone Cold\" Steve Austin",
+          "stipulation": "No Holds Barred match for the WWF Championship",
+          "time": "21:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-survivor-series-1999",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1999-11-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Joe Louis Arena",
+      "city": "Detroit, Michigan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "D'Lo Brown, The Godfather, and The Headbangers (Mosh and Thrasher) defeated The Acolytes (Bradshaw and Faarooq) and The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "9:36"
+        },
+        {
+          "match": "Kurt Angle defeated Shawn Stasiak",
+          "stipulation": "Singles match",
+          "time": "5:57"
+        },
+        {
+          "match": "Gangrel, Mark Henry, Steve Blackman, and Val Venis defeated The British Bulldog and Mean Street Posse (Joey Abs, Pete Gas, and Rodney)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "9:08"
+        },
+        {
+          "match": "Debra, The Fabulous Moolah, Mae Young, and Tori defeated Ivory, Jacqueline, Luna, and Terri Runnels",
+          "stipulation": "Eight-woman tag team match",
+          "time": "1:52"
+        },
+        {
+          "match": "Kane defeated X-Pac by disqualification",
+          "stipulation": "Singles match",
+          "time": "4:15"
+        },
+        {
+          "match": "Big Show defeated Big Boss Man, Mideon, Prince Albert, and Viscera",
+          "stipulation": "1-on-4 Handicap Survivor Series match",
+          "time": "1:24"
+        },
+        {
+          "match": "Chyna (c) (with Miss Kitty) defeated Chris Jericho",
+          "stipulation": "Intergender match for the WWF Intercontinental Championship",
+          "time": "13:45"
+        },
+        {
+          "match": "The Hollys (Crash Holly and Hardcore Holly) and Too Cool (Grand Master Sexay and Scotty 2 Hotty) defeated Edge and Christian and The Hardy Boyz (Jeff Hardy and Matt Hardy) (with Terri Runnels)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "14:27"
+        },
+        {
+          "match": "New Age Outlaws (Billy Gunn and Road Dogg) (c) defeated Al Snow and Mankind (with Head)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "13:59"
+        },
+        {
+          "match": "Big Show defeated Triple H (c) and The Rock",
+          "stipulation": "Triple threat match for the WWF Championship",
+          "time": "16:16"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1999-armageddon-1999",
+      "competition": "wwe",
+      "season": "1999",
+      "title": "Armageddon",
+      "session": "ple",
+      "startsAt": "1999-12-12T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "National Car Rental Center",
+      "city": "Sunrise, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Al Snow (with Head) defeated Test",
+          "stipulation": "Singles match",
+          "time": "1:27",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Acolytes (Bradshaw and Faarooq) won by last eliminating The Hardy Boyz (Jeff Hardy and Matt Hardy)",
+          "stipulation": "Battle Royal to determine #1 contenders to the WWF Tag Team Championship at the Royal Rumble",
+          "time": "10:57"
+        },
+        {
+          "match": "Kurt Angle defeated Steve Blackman",
+          "stipulation": "Singles match",
+          "time": "6:42"
+        },
+        {
+          "match": "Miss Kitty defeated B.B., Ivory (c), and Jacqueline",
+          "stipulation": "Evening Gown pool match for the WWF Women's Championship · The Fabulous Moolah and Mae Young were the special guest referees.",
+          "time": "2:53"
+        },
+        {
+          "match": "The Hollys (Hardcore and Crash) defeated Rikishi and Viscera",
+          "stipulation": "Tag team match",
+          "time": "4:23"
+        },
+        {
+          "match": "Val Venis defeated The British Bulldog (c) and D'Lo Brown",
+          "stipulation": "Triple threat match for the WWF European Championship",
+          "time": "9:15"
+        },
+        {
+          "match": "Kane (with Tori) defeated X-Pac by pinfall",
+          "stipulation": "Steel Cage match · X-Pac could win the match by pinfall, submission, or escaping the cage, with both feet touching the floor; however, Kane could only win by pinfall or submission.",
+          "time": "9:00"
+        },
+        {
+          "match": "Chris Jericho defeated Chyna (c) (with Miss Kitty)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "10:19"
+        },
+        {
+          "match": "The Rock 'n' Sock Connection (The Rock and Mankind) defeated The New Age Outlaws (Billy Gunn and Road Dogg) (c) by disqualification",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "16:00"
+        },
+        {
+          "match": "Big Show (c) defeated Big Boss Man (with Prince Albert)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "3:00"
+        },
+        {
+          "match": "Triple H defeated Mr. McMahon",
+          "stipulation": "No Holds Barred match · Since Triple H won, he became the number one contender for the WWF Championship. · Had McMahon won, Triple H and Stephanie McMahon would have been forced to annul their marriage.",
+          "time": "29:45"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

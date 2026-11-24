@@ -1,0 +1,700 @@
+{
+  "competition": "wwe",
+  "season": "2013",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2013-royal-rumble-2013",
+      "competition": "wwe",
+      "season": "2013",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2013-01-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "US Airways Center",
+      "city": "Phoenix, Arizona",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Antonio Cesaro (c) defeated The Miz by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "7:37",
+          "note": "pre-show"
+        },
+        {
+          "match": "Alberto Del Rio (c) (with Ricardo Rodriguez) defeated Big Show",
+          "stipulation": "Last Man Standing match for the World Heavyweight Championship",
+          "time": "16:57"
+        },
+        {
+          "match": "Team Hell No (Daniel Bryan and Kane) (c) defeated Team Rhodes Scholars (Cody Rhodes and Damien Sandow) by submission",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "9:25"
+        },
+        {
+          "match": "John Cena won by last eliminating Ryback",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 29",
+          "time": "55:05"
+        },
+        {
+          "match": "The Rock defeated CM Punk (c) (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match for the WWE Championship · Had The Shield interfered, Punk would have been stripped of the title.",
+          "time": "23:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2013-elimination-chamber-2013",
+      "competition": "wwe",
+      "season": "2013",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2013-02-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "New Orleans Arena",
+      "city": "New Orleans, Louisiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Tons of Funk (Brodus Clay and Tensai) defeated Team Rhodes Scholars (Cody Rhodes and Damien Sandow) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "04:07",
+          "note": "pre-show"
+        },
+        {
+          "match": "Alberto Del Rio (c) (with Ricardo Rodriguez) defeated Big Show by submission",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "13:05"
+        },
+        {
+          "match": "Antonio Cesaro (c) defeated The Miz by disqualification",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "08:21"
+        },
+        {
+          "match": "Jack Swagger (with Zeb Colter) defeated Randy Orton, Chris Jericho, Mark Henry, Kane, and Daniel Bryan",
+          "stipulation": "Elimination Chamber match for a World Heavyweight Championship match at WrestleMania 29",
+          "time": "31:18"
+        },
+        {
+          "match": "The Shield (Dean Ambrose, Roman Reigns, and Seth Rollins) defeated John Cena, Ryback, and Sheamus by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "14:49"
+        },
+        {
+          "match": "Dolph Ziggler (with AJ Lee and Big E Langston) defeated Kofi Kingston by pinfall",
+          "stipulation": "Singles match",
+          "time": "03:55"
+        },
+        {
+          "match": "Kaitlyn (c) defeated Tamina Snuka by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "03:15"
+        },
+        {
+          "match": "The Rock (c) defeated CM Punk (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match for the WWE Championship · Had The Rock been counted out or disqualified, he would have lost the title.",
+          "time": "20:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2013-wrestlemania-29",
+      "competition": "wwe",
+      "season": "2013",
+      "title": "WrestleMania 29",
+      "session": "ple",
+      "startsAt": "2013-04-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Miz defeated Wade Barrett (c) by submission",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "4:08",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Shield (Dean Ambrose, Roman Reigns, and Seth Rollins) defeated Big Show, Randy Orton, and Sheamus by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "10:33"
+        },
+        {
+          "match": "Mark Henry defeated Ryback by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:02"
+        },
+        {
+          "match": "Team Hell No (Daniel Bryan and Kane) (c) defeated Big E Langston and Dolph Ziggler (with AJ Lee) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "6:17"
+        },
+        {
+          "match": "Fandango defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:11"
+        },
+        {
+          "match": "Alberto Del Rio (c) (with Ricardo Rodriguez) defeated Jack Swagger (with Zeb Colter) by submission",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "10:30"
+        },
+        {
+          "match": "The Undertaker defeated CM Punk (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match",
+          "time": "22:08"
+        },
+        {
+          "match": "Triple H (with Shawn Michaels) defeated Brock Lesnar (with Paul Heyman) by pinfall",
+          "stipulation": "No Holds Barred match · Had Triple H lost, he would have been forced to retire from in-ring competition.",
+          "time": "23:58"
+        },
+        {
+          "match": "John Cena defeated The Rock (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "23:58"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2013-extreme-rules-2013",
+      "competition": "wwe",
+      "season": "2013",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2013-05-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Scottrade Center",
+      "city": "St. Louis, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Miz defeated Cody Rhodes by submission",
+          "stipulation": "Singles match",
+          "time": "05:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "Chris Jericho defeated Fandango (with Summer Rae) by pinfall",
+          "stipulation": "Singles match",
+          "time": "08:36"
+        },
+        {
+          "match": "Dean Ambrose defeated Kofi Kingston (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "06:48"
+        },
+        {
+          "match": "Sheamus defeated Mark Henry",
+          "stipulation": "Strap match",
+          "time": "07:58"
+        },
+        {
+          "match": "Alberto Del Rio (with Ricardo Rodriguez) defeated Jack Swagger (with Zeb Colter)",
+          "stipulation": "\"I Quit\" match to determine the #1 contender for the World Heavyweight Championship",
+          "time": "11:18"
+        },
+        {
+          "match": "The Shield (Roman Reigns and Seth Rollins) defeated Team Hell No (Daniel Bryan and Kane) (c) by pinfall",
+          "stipulation": "Tornado tag team match for the WWE Tag Team Championship",
+          "time": "07:23"
+        },
+        {
+          "match": "Randy Orton defeated Big Show by pinfall",
+          "stipulation": "Extreme Rules match",
+          "time": "13:01"
+        },
+        {
+          "match": "John Cena (c) vs. Ryback ended in a no contest",
+          "stipulation": "Last Man Standing match for the WWE Championship",
+          "time": "21:30"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Triple H by pinfall",
+          "stipulation": "Steel Cage match",
+          "time": "20:08"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2013-payback-2013",
+      "competition": "wwe",
+      "season": "2013",
+      "title": "Payback",
+      "session": "ple",
+      "startsAt": "2013-06-16T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Sheamus defeated Damien Sandow by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Curtis Axel (with Paul Heyman) defeated Wade Barrett (c) and The Miz by pinfall",
+          "stipulation": "Triple threat match for the WWE Intercontinental Championship",
+          "time": "10:34"
+        },
+        {
+          "match": "AJ Lee (with Big E Langston) defeated Kaitlyn (c) by submission",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "9:52"
+        },
+        {
+          "match": "Dean Ambrose (c) defeated Kane by countout",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:33"
+        },
+        {
+          "match": "Alberto Del Rio (with Ricardo Rodriguez) defeated Dolph Ziggler (c) (with AJ Lee and Big E Langston) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "13:48"
+        },
+        {
+          "match": "CM Punk (with Paul Heyman) defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match",
+          "time": "21:19"
+        },
+        {
+          "match": "The Shield (Roman Reigns and Seth Rollins) (c) defeated Daniel Bryan and Randy Orton by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "12:08"
+        },
+        {
+          "match": "John Cena (c) defeated Ryback 2–1",
+          "stipulation": "Three Stages of Hell match for the WWE Championship * Fall 1: Lumberjack match (won by Ryback) * Fall 2: Tables match (won by Cena) * Fall 3: Ambulance match (won by Cena)",
+          "time": "24:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2013-money-in-the-bank-2013",
+      "competition": "wwe",
+      "season": "2013",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2013-07-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Wells Fargo Center",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Shield (Roman Reigns and Seth Rollins) (c) defeated The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "14:46",
+          "note": "pre-show"
+        },
+        {
+          "match": "Damien Sandow defeated Antonio Cesaro, Cody Rhodes, Dean Ambrose, Fandango (with Summer Rae), Jack Swagger (with Zeb Colter), and Wade Barrett",
+          "stipulation": "Money in the Bank ladder match for a World Heavyweight Championship match contract",
+          "time": "16:24"
+        },
+        {
+          "match": "Curtis Axel (c) (with Paul Heyman) defeated The Miz by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "9:19"
+        },
+        {
+          "match": "AJ Lee (c) (with Big E Langston) defeated Kaitlyn (with Layla) by submission",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "7:01"
+        },
+        {
+          "match": "Ryback defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:19"
+        },
+        {
+          "match": "Alberto Del Rio (c) defeated Dolph Ziggler by disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "14:29"
+        },
+        {
+          "match": "John Cena (c) defeated Mark Henry by submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "14:42"
+        },
+        {
+          "match": "Randy Orton defeated Christian, CM Punk, Daniel Bryan, Rob Van Dam, and Sheamus",
+          "stipulation": "Money in the Bank ladder match for a WWE Championship match contract",
+          "time": "26:38"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2013-summerslam-2013",
+      "competition": "wwe",
+      "season": "2013",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2013-08-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rob Van Dam defeated Dean Ambrose (c) by disqualification",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "13:38",
+          "note": "pre-show"
+        },
+        {
+          "match": "Bray Wyatt (with Luke Harper and Erick Rowan) defeated Kane by pinfall",
+          "stipulation": "Ring of Fire match",
+          "time": "7:49"
+        },
+        {
+          "match": "Cody Rhodes defeated Damien Sandow by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:40"
+        },
+        {
+          "match": "Alberto Del Rio (c) defeated Christian by submission",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "12:30"
+        },
+        {
+          "match": "Natalya (with Cameron and Naomi) defeated Brie Bella (with Nikki Bella and Eva Marie) by submission",
+          "stipulation": "Singles match",
+          "time": "5:19"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated CM Punk by pinfall",
+          "stipulation": "No Disqualification match",
+          "time": "25:16"
+        },
+        {
+          "match": "Dolph Ziggler and Kaitlyn defeated Big E Langston and AJ Lee by pinfall",
+          "stipulation": "Mixed tag team match",
+          "time": "6:45"
+        },
+        {
+          "match": "Daniel Bryan defeated John Cena (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship · Triple H served as the special guest referee.",
+          "time": "26:55"
+        },
+        {
+          "match": "Randy Orton defeated Daniel Bryan (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship with Triple H as special guest referee · This was Orton's Money in the Bank cash-in match.",
+          "time": "0:08"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2013-night-of-champions-2013",
+      "competition": "wwe",
+      "season": "2013",
+      "title": "Night of Champions",
+      "session": "ple",
+      "startsAt": "2013-09-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Joe Louis Arena",
+      "city": "Detroit, Michigan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Prime Time Players (Darren Young and Titus O'Neil) won by last eliminating The Real Americans (Antonio Cesaro and Jack Swagger) (with Zeb Colter)",
+          "stipulation": "Tag team turmoil match to determine the number one contenders to the WWE Tag Team Championship",
+          "time": "11:14",
+          "note": "pre-show"
+        },
+        {
+          "match": "Curtis Axel (c) (with Paul Heyman) defeated Kofi Kingston by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "13:56"
+        },
+        {
+          "match": "AJ Lee (c) defeated Brie Bella, Naomi, and Natalya by submission",
+          "stipulation": "Fatal four-way match for the WWE Divas Championship",
+          "time": "5:40"
+        },
+        {
+          "match": "Rob Van Dam (with Ricardo Rodriguez) defeated Alberto Del Rio (c) by disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "13:07"
+        },
+        {
+          "match": "The Miz defeated Fandango (with Summer Rae) by submission",
+          "stipulation": "Singles match",
+          "time": "7:49"
+        },
+        {
+          "match": "Curtis Axel and Paul Heyman defeated CM Punk by pinfall",
+          "stipulation": "No Disqualification Handicap Elimination match",
+          "time": "15:22"
+        },
+        {
+          "match": "Dean Ambrose (c) defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:37"
+        },
+        {
+          "match": "The Shield (Roman Reigns and Seth Rollins) (c) defeated The Prime Time Players (Darren Young and Titus O'Neil) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "7:30"
+        },
+        {
+          "match": "Daniel Bryan defeated Randy Orton (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "17:38"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2013-battleground-2013",
+      "competition": "wwe",
+      "season": "2013",
+      "title": "Battleground",
+      "session": "ple",
+      "startsAt": "2013-10-06T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "First Niagara Center",
+      "city": "Buffalo, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Dolph Ziggler defeated Damien Sandow by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:08",
+          "note": "pre-show"
+        },
+        {
+          "match": "Alberto Del Rio (c) defeated Rob Van Dam by submission",
+          "stipulation": "Hardcore match for the World Heavyweight Championship",
+          "time": "16:04"
+        },
+        {
+          "match": "The Real Americans (Jack Swagger and Antonio Cesaro) (with Zeb Colter) defeated Santino Marella and The Great Khali (with Hornswoggle) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "7:06"
+        },
+        {
+          "match": "Curtis Axel (c) (with Paul Heyman) defeated R-Truth by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "7:40"
+        },
+        {
+          "match": "AJ Lee (c) (with Tamina Snuka) defeated Brie Bella (with Nikki Bella) by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "6:38"
+        },
+        {
+          "match": "Cody Rhodes and Goldust (with Dusty Rhodes) defeated The Shield (Seth Rollins and Roman Reigns) (with Dean Ambrose) by pinfall",
+          "stipulation": "Tag team match · Since Cody and Goldust won, they were reinstated by WWE. Had The Shield won, Dusty would have lost his job as an NXT trainer and the Rhodes family would have been terminated from WWE.",
+          "time": "13:55"
+        },
+        {
+          "match": "Bray Wyatt (with Luke Harper and Erick Rowan) defeated Kofi Kingston by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:17"
+        },
+        {
+          "match": "CM Punk defeated Ryback (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:47"
+        },
+        {
+          "match": "Daniel Bryan vs. Randy Orton ended in a no contest",
+          "stipulation": "Singles match for the vacant WWE Championship",
+          "time": "25:22"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2013-hell-in-a-cell-2013",
+      "competition": "wwe",
+      "season": "2013",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2013-10-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "American Airlines Arena",
+      "city": "Miami, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Damien Sandow defeated Kofi Kingston by pinfall",
+          "stipulation": "Singles match",
+          "time": "07:01",
+          "note": "pre-show"
+        },
+        {
+          "match": "Cody Rhodes and Goldust (c) defeated The Usos (Jimmy Uso and Jey Uso) and The Shield (Seth Rollins and Roman Reigns) by pinfall",
+          "stipulation": "Triple threat tag team match for the WWE Tag Team Championship",
+          "time": "14:38"
+        },
+        {
+          "match": "Fandango and Summer Rae defeated The Great Khali and Natalya (with Hornswoggle) by pinfall",
+          "stipulation": "Mixed tag team match",
+          "time": "04:50"
+        },
+        {
+          "match": "Big E Langston defeated Dean Ambrose (c) by countout",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "08:43"
+        },
+        {
+          "match": "CM Punk defeated Ryback and Paul Heyman by pinfall",
+          "stipulation": "Handicap Hell in a Cell match",
+          "time": "13:49"
+        },
+        {
+          "match": "Los Matadores (Diego and Fernando) (with El Torito) defeated The Real Americans (Jack Swagger and Antonio Cesaro) (with Zeb Colter) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "05:52"
+        },
+        {
+          "match": "John Cena defeated Alberto Del Rio (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "15:17"
+        },
+        {
+          "match": "AJ Lee (c) (with Tamina Snuka) defeated Brie Bella (with Nikki Bella) by submission",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "05:40"
+        },
+        {
+          "match": "Randy Orton defeated Daniel Bryan by pinfall",
+          "stipulation": "Hell in a Cell match for the vacant WWE Championship with Shawn Michaels as special guest referee",
+          "time": "22:04"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2013-survivor-series-2013",
+      "competition": "wwe",
+      "season": "2013",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2013-11-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "TD Garden",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Miz defeated Kofi Kingston by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:39",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Shield (Dean Ambrose, Roman Reigns, and Seth Rollins) and The Real Americans (Antonio Cesaro and Jack Swagger) (with Zeb Colter) defeated Cody Rhodes, Goldust, Rey Mysterio, and The Usos (Jey Uso and Jimmy Uso)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "23:23"
+        },
+        {
+          "match": "Big E Langston (c) defeated Curtis Axel by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "5:56"
+        },
+        {
+          "match": "Total Divas (Brie Bella, Nikki Bella, Eva Marie, Cameron, Naomi, JoJo, and Natalya) defeated True Divas (AJ Lee, Aksana, Alicia Fox, Kaitlyn, Rosa Mendes, Summer Rae, and Tamina Snuka)",
+          "stipulation": "7-on-7 Survivor Series match",
+          "time": "11:29"
+        },
+        {
+          "match": "Mark Henry defeated Ryback by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:46"
+        },
+        {
+          "match": "John Cena (c) defeated Alberto Del Rio by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "18:49"
+        },
+        {
+          "match": "CM Punk and Daniel Bryan defeated The Wyatt Family (Erick Rowan and Luke Harper) (with Bray Wyatt) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "16:51"
+        },
+        {
+          "match": "Randy Orton (c) defeated Big Show by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "11:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2013-tlc-tables-ladders-chairs-2013",
+      "competition": "wwe",
+      "season": "2013",
+      "title": "TLC: Tables, Ladders & Chairs",
+      "session": "ple",
+      "startsAt": "2013-12-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Toyota Center",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Fandango (with Summer Rae) defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:21",
+          "note": "pre-show"
+        },
+        {
+          "match": "CM Punk defeated The Shield (Dean Ambrose, Seth Rollins, and Roman Reigns) by pinfall",
+          "stipulation": "Handicap match",
+          "time": "13:42"
+        },
+        {
+          "match": "AJ Lee (c) (with Tamina Snuka) defeated Natalya by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "6:35"
+        },
+        {
+          "match": "Big E Langston (c) defeated Damien Sandow by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "6:28"
+        },
+        {
+          "match": "Cody Rhodes and Goldust (c) defeated Big Show and Rey Mysterio, The Real Americans (Jack Swagger and Antonio Cesaro) (with Zeb Colter), and RybAxel (Ryback and Curtis Axel)",
+          "stipulation": "Fatal four-way tag team elimination match for the WWE Tag Team Championship",
+          "time": "21:05"
+        },
+        {
+          "match": "R-Truth (with Xavier Woods) defeated Brodus Clay (with Cameron, Naomi, and Tensai) by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:02"
+        },
+        {
+          "match": "Kofi Kingston defeated The Miz by pinfall",
+          "stipulation": "No Disqualification match",
+          "time": "8:02"
+        },
+        {
+          "match": "The Wyatt Family (Bray Wyatt, Luke Harper, and Erick Rowan) defeated Daniel Bryan by pinfall",
+          "stipulation": "Handicap match",
+          "time": "12:24"
+        },
+        {
+          "match": "Randy Orton (WWE) defeated John Cena (World)",
+          "stipulation": "Tables, Ladders, and Chairs match to unify the WWE Championship and World Heavyweight Championship as the WWE World Heavyweight Championship",
+          "time": "24:36"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

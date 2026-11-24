@@ -1,0 +1,844 @@
+{
+  "competition": "wwe",
+  "season": "2002",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2002-royal-rumble-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2002-01-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Philips Arena",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Spike Dudley and Tazz (c) defeated The Dudley Boyz (Bubba Ray and D-Von) (with Stacy Keibler)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "5:06"
+        },
+        {
+          "match": "William Regal defeated Edge (c)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "9:45"
+        },
+        {
+          "match": "Trish Stratus (c) defeated Jazz",
+          "stipulation": "Singles match for the WWF Women's Championship with Jacqueline as special guest referee",
+          "time": "3:43"
+        },
+        {
+          "match": "Ric Flair defeated Mr. McMahon",
+          "stipulation": "Street Fight",
+          "time": "14:55"
+        },
+        {
+          "match": "Chris Jericho (c) defeated The Rock",
+          "stipulation": "Singles match for the Undisputed WWF Championship",
+          "time": "18:50"
+        },
+        {
+          "match": "Triple H won by last eliminating Kurt Angle",
+          "stipulation": "30-man Royal Rumble match for an Undisputed WWF Championship match at WrestleMania X8"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-no-way-out-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "No Way Out",
+      "session": "ple",
+      "startsAt": "2002-02-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Bradley Center",
+      "city": "Milwaukee, Wisconsin",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Diamond Dallas Page (c) defeated Big Boss Man by disqualification",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "3:19",
+          "note": "pre-show"
+        },
+        {
+          "match": "The APA (Faarooq and Bradshaw) won by last eliminating Billy and Chuck",
+          "stipulation": "Tag team turmoil match to determine the #1 contenders to the WWF Tag Team Championship at WrestleMania X8",
+          "time": "16:38"
+        },
+        {
+          "match": "Rob Van Dam defeated Goldust",
+          "stipulation": "Singles match",
+          "time": "11:00"
+        },
+        {
+          "match": "Tazz and Spike Dudley (c) defeated Booker T and Test by submission",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "7:16"
+        },
+        {
+          "match": "William Regal (c) defeated Edge",
+          "stipulation": "Brass Knuckles on a Pole match for the WWF Intercontinental Championship",
+          "time": "10:27"
+        },
+        {
+          "match": "The Rock defeated The Undertaker",
+          "stipulation": "Singles match",
+          "time": "17:25"
+        },
+        {
+          "match": "Kurt Angle defeated Triple H",
+          "stipulation": "Singles match to determine the #1 contender for the Undisputed WWF Championship at WrestleMania X8 with Stephanie McMahon as special guest referee",
+          "time": "14:39"
+        },
+        {
+          "match": "Chris Jericho (c) defeated \"Stone Cold\" Steve Austin",
+          "stipulation": "Singles match for the Undisputed WWF Championship",
+          "time": "21:33"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-wrestlemania-x8",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "WrestleMania X8",
+      "session": "ple",
+      "startsAt": "2002-03-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "SkyDome",
+      "city": "Toronto, Ontario, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rikishi, Scotty 2 Hotty and Albert defeated Mr. Perfect, Lance Storm and Test",
+          "stipulation": "Six-man tag team match with Jacqueline as special guest referee",
+          "time": "3:06",
+          "note": "pre-show"
+        },
+        {
+          "match": "Rob Van Dam defeated William Regal (c)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "6:22"
+        },
+        {
+          "match": "Diamond Dallas Page (c) defeated Christian",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "6:10"
+        },
+        {
+          "match": "Maven (c) vs. Goldust ended when Spike Dudley pinned Maven",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "3:17"
+        },
+        {
+          "match": "Kurt Angle defeated Kane",
+          "stipulation": "Singles match",
+          "time": "10:45"
+        },
+        {
+          "match": "The Undertaker defeated Ric Flair",
+          "stipulation": "No Disqualification match",
+          "time": "18:47"
+        },
+        {
+          "match": "Edge defeated Booker T",
+          "stipulation": "Singles match",
+          "time": "6:32"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Scott Hall (with Kevin Nash)",
+          "stipulation": "Singles match",
+          "time": "9:51"
+        },
+        {
+          "match": "Billy and Chuck (Billy Gunn and Chuck Palumbo) (c) defeated The APA (Faarooq and Bradshaw), The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) (with Stacy Keibler) and The Hardy Boyz (Matt Hardy and Jeff Hardy)",
+          "stipulation": "Four corners elimination match for the WWF Tag Team Championship",
+          "time": "13:50"
+        },
+        {
+          "match": "The Rock defeated Hollywood Hulk Hogan",
+          "stipulation": "Singles match",
+          "time": "16:24"
+        },
+        {
+          "match": "Jazz (c) defeated Trish Stratus and Lita",
+          "stipulation": "Triple threat match for the WWF Women's Championship",
+          "time": "6:16"
+        },
+        {
+          "match": "Triple H defeated Chris Jericho (c) (with Stephanie McMahon)",
+          "stipulation": "Singles match for the Undisputed WWF Championship",
+          "time": "18:41"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-wwf-backlash-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2002-04-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Kemper Arena",
+      "city": "Kansas City, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Big Show defeated Steven Richards and Justin Credible",
+          "stipulation": "Handicap match",
+          "time": "2:11",
+          "note": "pre-show"
+        },
+        {
+          "match": "Tajiri (with Torrie Wilson) defeated Billy Kidman (c)",
+          "stipulation": "Singles match for the WWF Cruiserweight Championship",
+          "time": "9:08"
+        },
+        {
+          "match": "Scott Hall (with X-Pac) defeated Bradshaw (with Faarooq)",
+          "stipulation": "Singles match",
+          "time": "5:43"
+        },
+        {
+          "match": "Jazz (c) defeated Trish Stratus by submission",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "4:29"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Jeff Hardy (with Lita) by Technical Knockout",
+          "stipulation": "Singles match",
+          "time": "5:32"
+        },
+        {
+          "match": "Kurt Angle defeated Edge",
+          "stipulation": "Singles match",
+          "time": "13:25"
+        },
+        {
+          "match": "Eddie Guerrero defeated Rob Van Dam (c)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "11:43"
+        },
+        {
+          "match": "The Undertaker defeated \"Stone Cold\" Steve Austin",
+          "stipulation": "Singles match to determine the #1 contender for the Undisputed WWF Championship with Ric Flair as special guest referee",
+          "time": "27:03"
+        },
+        {
+          "match": "Billy and Chuck (c) (with Rico) defeated Al Snow and Maven",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "5:58"
+        },
+        {
+          "match": "Hollywood Hulk Hogan defeated Triple H (c)",
+          "stipulation": "Singles match for the Undisputed WWF Championship",
+          "time": "22:04"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-insurrextion-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "Insurrextion",
+      "session": "ple",
+      "startsAt": "2002-05-04T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Wembley Arena",
+      "city": "London, England",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Mr. Perfect defeated Goldust",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Rob Van Dam defeated Eddie Guerrero (c) via disqualification",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "11:24"
+        },
+        {
+          "match": "Trish Stratus and Jacqueline defeated Molly Holly and Jazz",
+          "stipulation": "Tag team match",
+          "time": "7:40"
+        },
+        {
+          "match": "X-Pac defeated Bradshaw",
+          "stipulation": "Singles match",
+          "time": "8:46"
+        },
+        {
+          "match": "Booker T defeated Steven Richards (c)",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "10:48"
+        },
+        {
+          "match": "The Hardy Boyz (Matt Hardy and Jeff Hardy) defeated Brock Lesnar and Shawn Stasiak (with Paul Heyman)",
+          "stipulation": "Tag team match",
+          "time": "6:42"
+        },
+        {
+          "match": "Spike Dudley (c) defeated William Regal",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "4:56"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Big Show",
+          "stipulation": "Singles match · Ric Flair was the special guest referee",
+          "time": "15:00"
+        },
+        {
+          "match": "Triple H defeated The Undertaker",
+          "stipulation": "Singles match",
+          "time": "14:31"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-wwe-judgment-day-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "Judgment Day",
+      "session": "ple",
+      "startsAt": "2002-05-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Gaylord Entertainment Center",
+      "city": "Nashville, Tennessee",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "William Regal (c) defeated D'Lo Brown",
+          "stipulation": "Singles match for the WWE European Championship",
+          "time": "6:22",
+          "note": "pre-show"
+        },
+        {
+          "match": "Eddie Guerrero (c) defeated Rob Van Dam",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "10:57"
+        },
+        {
+          "match": "Trish Stratus (c) (with Bubba Ray Dudley) defeated Stacy Keibler (with Deacon Batista and Reverend D-Von)",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "2:54"
+        },
+        {
+          "match": "Brock Lesnar and Paul Heyman defeated The Hardy Boyz (Jeff Hardy and Matt Hardy)",
+          "stipulation": "Tag team match",
+          "time": "4:47"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Big Show and Ric Flair",
+          "stipulation": "Handicap match",
+          "time": "15:36"
+        },
+        {
+          "match": "Edge defeated Kurt Angle",
+          "stipulation": "Hair vs. Hair match",
+          "time": "15:30"
+        },
+        {
+          "match": "Triple H defeated Chris Jericho",
+          "stipulation": "Hell in a Cell match",
+          "time": "24:06"
+        },
+        {
+          "match": "Rico and Rikishi defeated Billy and Chuck (c)",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "3:50"
+        },
+        {
+          "match": "The Undertaker defeated Hollywood Hulk Hogan (c)",
+          "stipulation": "Singles match for the WWE Undisputed Championship",
+          "time": "11:06"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-king-of-the-ring-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "King of the Ring",
+      "session": "ple",
+      "startsAt": "2002-06-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nationwide Arena",
+      "city": "Columbus, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Hardy Boyz (Jeff Hardy and Matt Hardy) defeated Raven and Steven Richards by pinfall",
+          "stipulation": "Tag team match",
+          "time": "6:02",
+          "note": "pre-show"
+        },
+        {
+          "match": "Rob Van Dam defeated Chris Jericho by pinfall",
+          "stipulation": "King of the Ring semifinal match",
+          "time": "14:31"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Test by pinfall",
+          "stipulation": "King of the Ring semifinal match",
+          "time": "8:12"
+        },
+        {
+          "match": "Jamie Noble (with Nidia) defeated The Hurricane (c) by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "11:58"
+        },
+        {
+          "match": "Ric Flair defeated Eddie Guerrero by pinfall",
+          "stipulation": "Singles match",
+          "time": "17:00"
+        },
+        {
+          "match": "Molly Holly defeated Trish Stratus (c) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "5:40"
+        },
+        {
+          "match": "Kurt Angle defeated Hollywood Hulk Hogan by submission",
+          "stipulation": "Singles match",
+          "time": "12:09"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Rob Van Dam by pinfall",
+          "stipulation": "King of the Ring final match for a WWE Undisputed Championship match at SummerSlam",
+          "time": "5:43"
+        },
+        {
+          "match": "The Undertaker (c) defeated Triple H by pinfall",
+          "stipulation": "Singles match for the WWE Undisputed Championship",
+          "time": "23:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-vengeance-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "Vengeance",
+      "session": "ple",
+      "startsAt": "2002-07-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Joe Louis Arena",
+      "city": "Detroit, Michigan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Goldust defeated Steven Richards",
+          "stipulation": "Singles match",
+          "time": "3:49",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray and Spike) defeated Eddie Guerrero and Chris Benoit",
+          "stipulation": "Elimination Tables match",
+          "time": "15:01"
+        },
+        {
+          "match": "Jamie Noble (c) (with Nidia) defeated Billy Kidman",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "7:27"
+        },
+        {
+          "match": "Jeff Hardy (c) defeated William Regal",
+          "stipulation": "Singles match for the WWE European Championship",
+          "time": "4:16"
+        },
+        {
+          "match": "John Cena defeated Chris Jericho",
+          "stipulation": "Singles match",
+          "time": "6:16"
+        },
+        {
+          "match": "Rob Van Dam (c) defeated Brock Lesnar (with Paul Heyman) by disqualification",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "9:21"
+        },
+        {
+          "match": "Booker T defeated Big Show",
+          "stipulation": "No Disqualification match",
+          "time": "6:12"
+        },
+        {
+          "match": "The Un-Americans (Christian and Lance Storm) defeated Edge and Hollywood Hulk Hogan (c)",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "10:02"
+        },
+        {
+          "match": "The Rock defeated Kurt Angle and The Undertaker (c)",
+          "stipulation": "Triple Threat match for the WWE Undisputed Championship",
+          "time": "19:47"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-summerslam-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2002-08-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nassau Veterans Memorial Coliseum",
+      "city": "Uniondale, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Spike Dudley defeated Steven Richards",
+          "stipulation": "Singles match",
+          "time": "2:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "Kurt Angle defeated Rey Mysterio",
+          "stipulation": "Singles match",
+          "time": "9:19"
+        },
+        {
+          "match": "Ric Flair defeated Chris Jericho",
+          "stipulation": "Singles match",
+          "time": "10:22"
+        },
+        {
+          "match": "Edge defeated Eddie Guerrero",
+          "stipulation": "Singles match",
+          "time": "11:47"
+        },
+        {
+          "match": "The Un-Americans (Christian and Lance Storm) (c) defeated Booker T and Goldust",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "9:37"
+        },
+        {
+          "match": "Rob Van Dam defeated Chris Benoit (c)",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "16:30"
+        },
+        {
+          "match": "The Undertaker defeated Test",
+          "stipulation": "Singles match",
+          "time": "8:18"
+        },
+        {
+          "match": "Shawn Michaels defeated Triple H",
+          "stipulation": "Unsanctioned match",
+          "time": "27:20"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated The Rock (c)",
+          "stipulation": "Singles match for the WWE Undisputed Championship",
+          "time": "15:58"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-unforgiven-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "Unforgiven",
+      "session": "ple",
+      "startsAt": "2002-09-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rey Mysterio defeated Chavo Guerrero",
+          "stipulation": "Singles match",
+          "time": "08:58",
+          "note": "pre-show"
+        },
+        {
+          "match": "Kane, Goldust, Booker T and Bubba Ray Dudley defeated The Un-Americans (Lance Storm, Christian, William Regal and Test)",
+          "stipulation": "Eight-man tag team match",
+          "time": "09:59"
+        },
+        {
+          "match": "Chris Jericho (c) defeated Ric Flair by submission",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "06:16"
+        },
+        {
+          "match": "Eddie Guerrero defeated Edge",
+          "stipulation": "Singles match",
+          "time": "11:55"
+        },
+        {
+          "match": "3-Minute Warning (Rosey and Jamal) (with Rico) defeated Billy and Chuck",
+          "stipulation": "Tag team match",
+          "time": "06:38"
+        },
+        {
+          "match": "Triple H (c) defeated Rob Van Dam",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "18:17"
+        },
+        {
+          "match": "Trish Stratus defeated Molly Holly (c)",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "05:46"
+        },
+        {
+          "match": "Chris Benoit defeated Kurt Angle",
+          "stipulation": "Singles match",
+          "time": "13:55"
+        },
+        {
+          "match": "Brock Lesnar (c) (with Paul Heyman) vs. The Undertaker ended in a double disqualification",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "20:27"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-no-mercy-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "2002-10-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Alltel Arena",
+      "city": "North Little Rock, Arkansas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Hurricane defeated Steven Richards",
+          "stipulation": "Singles match",
+          "time": "3:05",
+          "note": "pre-show"
+        },
+        {
+          "match": "Chris Jericho and Christian (c) defeated Booker T and Goldust",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "8:46"
+        },
+        {
+          "match": "Torrie Wilson defeated Dawn Marie",
+          "stipulation": "Singles match",
+          "time": "4:40"
+        },
+        {
+          "match": "Rob Van Dam defeated Ric Flair",
+          "stipulation": "Singles match",
+          "time": "7:59"
+        },
+        {
+          "match": "Jamie Noble (c) (with Nidia) defeated Tajiri",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "8:15"
+        },
+        {
+          "match": "Triple H (World Heavyweight) defeated Kane (Intercontinental)",
+          "stipulation": "Unification match for the World Heavyweight and WWE Intercontinental Championships",
+          "time": "16:13"
+        },
+        {
+          "match": "Kurt Angle and Chris Benoit defeated Edge and Rey Mysterio",
+          "stipulation": "Tag team match for the inaugural WWE Tag Team Championship",
+          "time": "22:03"
+        },
+        {
+          "match": "Trish Stratus (c) defeated Victoria",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "5:32"
+        },
+        {
+          "match": "Brock Lesnar (c) (with Paul Heyman) defeated The Undertaker",
+          "stipulation": "Hell in a Cell match for the WWE Championship",
+          "time": "27:18"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-rebellion-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "Rebellion",
+      "session": "ple",
+      "startsAt": "2002-10-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Manchester Evening News Arena",
+      "city": "Manchester, England",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bill DeMott defeated Shannon Moore",
+          "stipulation": "Singles match",
+          "time": "8:26",
+          "note": "dark"
+        },
+        {
+          "match": "Booker T defeated Matt Hardy",
+          "stipulation": "Singles match",
+          "time": "12:00"
+        },
+        {
+          "match": "Billy Kidman and Torrie Wilson defeated John Cena and Dawn Marie",
+          "stipulation": "Mixed tag team match",
+          "time": "5:22"
+        },
+        {
+          "match": "Funaki defeated Crash",
+          "stipulation": "Singles match",
+          "time": "5:36"
+        },
+        {
+          "match": "Jamie Noble (c) (with Nidia) defeated Rey Mysterio and Tajiri",
+          "stipulation": "Triple threat elimination match for the WWE Cruiserweight Championship",
+          "time": "12:47"
+        },
+        {
+          "match": "Reverend D-Von and Ron Simmons defeated Chuck Palumbo and The Big Valbowski",
+          "stipulation": "Tag team match",
+          "time": "4:06"
+        },
+        {
+          "match": "Rikishi defeated Albert",
+          "stipulation": "Kiss My Ass match",
+          "time": "7:15"
+        },
+        {
+          "match": "Chris Benoit and Kurt Angle (c) defeated Los Guerreros (Eddie and Chavo)",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "16:35"
+        },
+        {
+          "match": "Brock Lesnar (c) and Paul Heyman defeated Edge",
+          "stipulation": "Handicap match for the WWE Championship",
+          "time": "18:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-survivor-series-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2002-11-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Madison Square Garden",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Un-Americans (Lance Storm and William Regal) defeated Goldust and The Hurricane by pinfall",
+          "stipulation": "Tag team match",
+          "time": "3:01",
+          "note": "pre-show"
+        },
+        {
+          "match": "Jeff Hardy and The Dudley Boyz (Bubba Ray and Spike) defeated 3-Minute Warning (Rosey and Jamal) and Rico",
+          "stipulation": "Elimination Tables match",
+          "time": "13:55"
+        },
+        {
+          "match": "Billy Kidman defeated Jamie Noble (c) (with Nidia) by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "7:28"
+        },
+        {
+          "match": "Victoria defeated Trish Stratus (c) by pinfall",
+          "stipulation": "Hardcore match for the WWE Women's Championship",
+          "time": "7:00"
+        },
+        {
+          "match": "Big Show defeated Brock Lesnar (c) (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "4:18"
+        },
+        {
+          "match": "Los Guerreros (Eddie and Chavo) defeated Edge and Rey Mysterio (c) and Kurt Angle and Chris Benoit",
+          "stipulation": "Triple threat elimination match for the WWE Tag Team Championship",
+          "time": "19:23"
+        },
+        {
+          "match": "Shawn Michaels defeated Triple H (c) (with Ric Flair), Chris Jericho, Kane, Booker T, and Rob Van Dam",
+          "stipulation": "Elimination Chamber match for the World Heavyweight Championship",
+          "time": "39:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2002-armageddon-2002",
+      "competition": "wwe",
+      "season": "2002",
+      "title": "Armageddon",
+      "session": "ple",
+      "startsAt": "2002-12-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Office Depot Center",
+      "city": "Sunrise, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jeff Hardy defeated D'Lo Brown by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:56",
+          "note": "pre-show"
+        },
+        {
+          "match": "Booker T and Goldust defeated Chris Jericho and Christian (c), Lance Storm and William Regal and The Dudley Boyz (Bubba Ray and D-Von)",
+          "stipulation": "Fatal 4-Way Elimination match for the World Tag Team Championship",
+          "time": "16:43"
+        },
+        {
+          "match": "Edge defeated A-Train by disqualification",
+          "stipulation": "Singles match",
+          "time": "7:12"
+        },
+        {
+          "match": "Chris Benoit defeated Eddie Guerrero by submission",
+          "stipulation": "Singles match",
+          "time": "16:47"
+        },
+        {
+          "match": "Batista (with Ric Flair) defeated Kane by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:38"
+        },
+        {
+          "match": "Victoria (c) defeated Trish Stratus and Jacqueline by pinfall",
+          "stipulation": "Triple threat match for the WWE Women's Championship",
+          "time": "4:28"
+        },
+        {
+          "match": "Kurt Angle defeated Big Show (c) (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "12:36"
+        },
+        {
+          "match": "Triple H defeated Shawn Michaels (c) 2–1",
+          "stipulation": "Three Stages of Hell match for the World Heavyweight Championship * Fall 1: Street Fight (won by Triple H) * Fall 2: Steel Cage match (won by Michaels) * Fall 3: Ladder match (won by Triple H)",
+          "time": "38:33"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

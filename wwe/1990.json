@@ -1,0 +1,262 @@
+{
+  "competition": "wwe",
+  "season": "1990",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1990-royal-rumble-1990",
+      "competition": "wwe",
+      "season": "1990",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "1990-01-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Orlando Arena",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Paul Roma defeated The Brooklyn Brawler",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The Bushwhackers (Luke and Butch) defeated The Fabulous Rougeaus (Jacques and Raymond) (with Jimmy Hart)",
+          "stipulation": "Tag team match",
+          "time": "13:35"
+        },
+        {
+          "match": "Brutus Beefcake vs. The Genius ended in a double disqualification",
+          "stipulation": "Singles match",
+          "time": "11:07"
+        },
+        {
+          "match": "Ron Garvin defeated Greg Valentine (with Jimmy Hart)",
+          "stipulation": "Submission match",
+          "time": "16:55"
+        },
+        {
+          "match": "Jim Duggan defeated Big Boss Man (with Slick) by disqualification",
+          "stipulation": "Singles match",
+          "time": "10:22"
+        },
+        {
+          "match": "Hulk Hogan won by last eliminating Mr. Perfect",
+          "stipulation": "30-man Royal Rumble match",
+          "time": "58:46"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1990-wrestlemania-vi",
+      "competition": "wwe",
+      "season": "1990",
+      "title": "WrestleMania VI",
+      "session": "ple",
+      "startsAt": "1990-04-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "SkyDome",
+      "city": "Toronto, Ontario, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Paul Roma defeated Brooklyn Brawler by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Rick Martel defeated Koko B. Ware by submission",
+          "stipulation": "Singles match",
+          "time": "5:31"
+        },
+        {
+          "match": "Demolition (Ax and Smash) defeated the Colossal Connection (André the Giant and Haku) (c) (with Bobby Heenan) by pinfall",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "9:30"
+        },
+        {
+          "match": "Earthquake (with Jimmy Hart) defeated Hercules by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:52"
+        },
+        {
+          "match": "Brutus Beefcake defeated Mr. Perfect (with The Genius) by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:48"
+        },
+        {
+          "match": "Roddy Piper vs. Bad News Brown ended in a double countout",
+          "stipulation": "Singles match",
+          "time": "6:48"
+        },
+        {
+          "match": "The Hart Foundation (Bret Hart and Jim Neidhart) defeated the Bolsheviks (Nikolai Volkoff and Boris Zhukov) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "0:19"
+        },
+        {
+          "match": "The Barbarian (with Bobby Heenan) defeated Tito Santana by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:33"
+        },
+        {
+          "match": "Dusty Rhodes and Sapphire (with Miss Elizabeth) defeated \"Macho King\" Randy Savage and Queen Sherri by pinfall",
+          "stipulation": "Mixed tag team match",
+          "time": "7:52"
+        },
+        {
+          "match": "The Orient Express (Sato and Tanaka) (with Mr. Fuji) defeated the Rockers (Marty Jannetty and Shawn Michaels) by countout",
+          "stipulation": "Tag team match",
+          "time": "7:38"
+        },
+        {
+          "match": "Jim Duggan defeated Dino Bravo (with Jimmy Hart and Earthquake) by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:15"
+        },
+        {
+          "match": "Ted DiBiase (c) (with Virgil) defeated Jake \"the Snake\" Roberts by countout",
+          "stipulation": "Singles match for the Million Dollar Championship",
+          "time": "11:50"
+        },
+        {
+          "match": "Big Boss Man defeated Akeem (with Slick) by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:49"
+        },
+        {
+          "match": "Rick Rude (with Bobby Heenan) defeated Jimmy Snuka by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:59"
+        },
+        {
+          "match": "Ultimate Warrior (Intercontinental) defeated Hulk Hogan (WWF) by pinfall",
+          "stipulation": "Winner Takes All match for the WWF Intercontinental Championship and WWF Championship",
+          "time": "22:51"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1990-summerslam-1990",
+      "competition": "wwe",
+      "season": "1990",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "1990-08-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Spectrum",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Shane Douglas defeated Buddy Rose",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Power and Glory (Paul Roma and Hercules) (with Slick) defeated The Rockers (Shawn Michaels and Marty Jannetty)",
+          "stipulation": "Tag team match",
+          "time": "6:00"
+        },
+        {
+          "match": "The Texas Tornado defeated Mr. Perfect (c) (with Bobby Heenan)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "5:15"
+        },
+        {
+          "match": "Queen Sherri defeated Sapphire by forfeit",
+          "stipulation": "Singles match"
+        },
+        {
+          "match": "The Warlord (with Slick) defeated Tito Santana",
+          "stipulation": "Singles match",
+          "time": "5:28"
+        },
+        {
+          "match": "The Hart Foundation (Bret Hart and Jim Neidhart) defeated Demolition (Smash and Crush) (c) by 2–1",
+          "stipulation": "Tag Team Two-out-of-three falls match for the WWF Tag Team Championship",
+          "time": "14:24"
+        },
+        {
+          "match": "Jake Roberts defeated Bad News Brown by disqualification",
+          "stipulation": "Singles match with Big Boss Man as special guest referee",
+          "time": "4:44"
+        },
+        {
+          "match": "Jim Duggan and Nikolai Volkoff defeated The Orient Express (Sato and Tanaka) (with Mr. Fuji)",
+          "stipulation": "Tag team match",
+          "time": "3:22"
+        },
+        {
+          "match": "Randy Savage (with Queen Sherri) defeated Dusty Rhodes",
+          "stipulation": "Singles match",
+          "time": "2:15"
+        },
+        {
+          "match": "Hulk Hogan (with Big Boss Man) defeated Earthquake (with Jimmy Hart and Dino Bravo) by countout",
+          "stipulation": "Singles match",
+          "time": "13:16"
+        },
+        {
+          "match": "Ultimate Warrior (c) defeated Rick Rude (with Bobby Heenan) by escaping the cage",
+          "stipulation": "Steel Cage match for the WWF Championship",
+          "time": "10:05"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1990-survivor-series-1990",
+      "competition": "wwe",
+      "season": "1990",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1990-11-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Hartford Civic Center",
+      "city": "Hartford, Connecticut",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Shane Douglas defeated Buddy Rose",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The Warriors (Ultimate Warrior, Hawk, Animal, and Texas Tornado) defeated The Perfect Team (Mr. Perfect, Ax, Smash, and Crush) (with Bobby Heenan and Mr. Fuji)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "14:20"
+        },
+        {
+          "match": "The Million Dollar Team (Ted DiBiase, The Undertaker, The Honky Tonk Man, and Greg Valentine) (with Virgil, Brother Love, and Jimmy Hart) defeated The Dream Team (Dusty Rhodes, Koko B. Ware, Bret Hart, and Jim Neidhart)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "13:54"
+        },
+        {
+          "match": "The Visionaries (Rick Martel, The Warlord, Hercules, and Paul Roma) (with Slick) defeated The Vipers (Jake Roberts, Jimmy Snuka, Shawn Michaels, and Marty Jannetty)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "17:42"
+        },
+        {
+          "match": "The Hulkamaniacs (Hulk Hogan, Jim Duggan, Big Boss Man, and Tugboat) defeated The Natural Disasters (Earthquake, Haku, Dino Bravo, and The Barbarian) (with Jimmy Hart and Bobby Heenan)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "14:49"
+        },
+        {
+          "match": "The Alliance (Nikolai Volkoff, Tito Santana, Luke, and Butch) defeated The Mercenaries (Sgt. Slaughter, Boris Zhukov, Sato, and Tanaka) (with General Adnan and Mr. Fuji)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "10:52"
+        },
+        {
+          "match": "Hulk Hogan, Ultimate Warrior, and Tito Santana defeated Ted DiBiase and The Visionaries (Rick Martel, The Warlord, Hercules, and Paul Roma) (with Virgil and Slick)",
+          "stipulation": "5-on-3 Survivor Series match",
+          "time": "9:07"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

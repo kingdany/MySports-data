@@ -1,0 +1,708 @@
+{
+  "competition": "wwe",
+  "season": "2022",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2022-wwe-day-1-2022",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "Day 1",
+      "session": "ple",
+      "startsAt": "2022-01-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "State Farm Arena",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Sheamus and Ridge Holland defeated Cesaro and Ricochet by pinfall",
+          "stipulation": "Tag team match",
+          "time": "9:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated The New Day (Kofi Kingston and King Woods) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "17:05"
+        },
+        {
+          "match": "Drew McIntyre defeated Madcap Moss (with Happy Corbin) by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:45"
+        },
+        {
+          "match": "RK-Bro (Randy Orton and Riddle) (c) (with Migos) defeated The Street Profits (Angelo Dawkins and Montez Ford) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "11:15"
+        },
+        {
+          "match": "Edge defeated The Miz (with Maryse) by pinfall",
+          "stipulation": "Singles match",
+          "time": "20:00"
+        },
+        {
+          "match": "Becky Lynch (c) defeated Liv Morgan by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "17:00"
+        },
+        {
+          "match": "Brock Lesnar defeated Big E (c), Bobby Lashley (with MVP), Kevin Owens, and Seth \"Freakin\" Rollins by pinfall",
+          "stipulation": "Fatal five-way match for the WWE Championship",
+          "time": "8:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-royal-rumble-2022",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2022-01-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "The Dome at America's Center",
+      "city": "St. Louis, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Seth \"Freakin\" Rollins defeated Roman Reigns (c) by disqualification",
+          "stipulation": "Singles match for the WWE Universal Championship · The Usos (Jey Uso and Jimmy Uso) were banned from ringside.",
+          "time": "14:25"
+        },
+        {
+          "match": "Ronda Rousey won by last eliminating Charlotte Flair",
+          "stipulation": "30-woman Royal Rumble match for a world championship match at WrestleMania 38",
+          "time": "59:40"
+        },
+        {
+          "match": "Becky Lynch (c) defeated Doudrop by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "13:00"
+        },
+        {
+          "match": "Bobby Lashley (with MVP) defeated Brock Lesnar (c) (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "10:15"
+        },
+        {
+          "match": "Edge and Beth Phoenix defeated The Miz and Maryse by pinfall",
+          "stipulation": "Mixed tag team match",
+          "time": "12:30"
+        },
+        {
+          "match": "Brock Lesnar won by last eliminating Drew McIntyre",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 38",
+          "time": "51:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-elimination-chamber-2022",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2022-02-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Jeddah Super Dome",
+      "city": "Jeddah, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rey Mysterio (with Dominik Mysterio) defeated The Miz by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:15",
+          "note": "pre-show"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated Goldberg by technical submission",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "6:00"
+        },
+        {
+          "match": "Bianca Belair defeated Alexa Bliss, Doudrop, Liv Morgan, Nikki A.S.H., and Rhea Ripley",
+          "stipulation": "Elimination Chamber match for a WWE Raw Women's Championship match at WrestleMania 38",
+          "time": "15:45"
+        },
+        {
+          "match": "Naomi and Ronda Rousey defeated Charlotte Flair and Sonya Deville by submission",
+          "stipulation": "Tag team match · Ronda Rousey had to wrestle with one arm tied behind her back.",
+          "time": "9:14"
+        },
+        {
+          "match": "Drew McIntyre defeated Madcap Moss (with Happy Corbin) by pinfall",
+          "stipulation": "Falls Count Anywhere match",
+          "time": "9:00"
+        },
+        {
+          "match": "Becky Lynch (c) defeated Lita by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "12:10"
+        },
+        {
+          "match": "Brock Lesnar defeated Bobby Lashley (c), AJ Styles, Austin Theory, Riddle, and Seth \"Freakin\" Rollins",
+          "stipulation": "Elimination Chamber match for the WWE Championship",
+          "time": "14:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-wrestlemania-38-1",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "WrestleMania 38 – Notte 1",
+      "session": "ple",
+      "startsAt": "2022-04-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated Shinsuke Nakamura and Rick Boogs by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "6:55"
+        },
+        {
+          "match": "Drew McIntyre defeated Happy Corbin (with Madcap Moss) by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:35"
+        },
+        {
+          "match": "The Miz and Logan Paul defeated Rey Mysterio and Dominik Mysterio by pinfall",
+          "stipulation": "Tag team match",
+          "time": "11:15"
+        },
+        {
+          "match": "Bianca Belair defeated Becky Lynch (c) by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "19:10"
+        },
+        {
+          "match": "Cody Rhodes defeated Seth \"Freakin\" Rollins by pinfall",
+          "stipulation": "Singles match",
+          "time": "21:40"
+        },
+        {
+          "match": "Charlotte Flair (c) defeated Ronda Rousey by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "18:30"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Kevin Owens by pinfall",
+          "stipulation": "No Holds Barred match",
+          "time": "13:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-wrestlemania-38-2",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "WrestleMania 38 – Notte 2",
+      "session": "ple",
+      "startsAt": "2022-04-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "RK-Bro (Randy Orton and Riddle) (c) defeated The Street Profits (Angelo Dawkins and Montez Ford) and Alpha Academy (Chad Gable and Otis) by pinfall",
+          "stipulation": "Triple threat tag team match for the WWE Raw Tag Team Championship",
+          "time": "11:30"
+        },
+        {
+          "match": "Bobby Lashley defeated Omos by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:35"
+        },
+        {
+          "match": "Johnny Knoxville defeated Sami Zayn by pinfall",
+          "stipulation": "Anything Goes match",
+          "time": "14:25"
+        },
+        {
+          "match": "Sasha Banks and Naomi defeated Carmella and Queen Zelina (c), Liv Morgan and Rhea Ripley, and Natalya and Shayna Baszler by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE Women's Tag Team Championship",
+          "time": "10:50"
+        },
+        {
+          "match": "Edge defeated AJ Styles by pinfall",
+          "stipulation": "Singles match",
+          "time": "24:05"
+        },
+        {
+          "match": "Sheamus and Ridge Holland (with Butch) defeated The New Day (Kofi Kingston and Xavier Woods) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "1:40"
+        },
+        {
+          "match": "Pat McAfee defeated Austin Theory (with Mr. McMahon) by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:40"
+        },
+        {
+          "match": "Mr. McMahon (with Austin Theory) defeated Pat McAfee by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:45"
+        },
+        {
+          "match": "Roman Reigns (Universal) (with Paul Heyman) defeated Brock Lesnar (WWE) by pinfall",
+          "stipulation": "Winner Takes All match for the WWE Championship and WWE Universal Championship",
+          "time": "12:15"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-wrestlemania-backlash-2022",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "WrestleMania Backlash",
+      "session": "ple",
+      "startsAt": "2022-05-08T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Dunkin' Donuts Center",
+      "city": "Providence, Rhode Island",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Cody Rhodes defeated Seth \"Freakin\" Rollins by pinfall",
+          "stipulation": "Singles match",
+          "time": "20:45"
+        },
+        {
+          "match": "Omos (with MVP) defeated Bobby Lashley by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:50"
+        },
+        {
+          "match": "Edge defeated AJ Styles by technical submission",
+          "stipulation": "Singles match · Damian Priest was barred from ringside.",
+          "time": "16:25"
+        },
+        {
+          "match": "Ronda Rousey defeated Charlotte Flair (c) by making Flair say \"I quit\"",
+          "stipulation": "\"I Quit\" match for the WWE SmackDown Women's Championship",
+          "time": "16:35"
+        },
+        {
+          "match": "Madcap Moss defeated Happy Corbin by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:40"
+        },
+        {
+          "match": "The Bloodline (Roman Reigns, Jey Uso, and Jimmy Uso) (with Paul Heyman) defeated Drew McIntyre and RK-Bro (Randy Orton and Riddle) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "22:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-hell-in-a-cell-2022",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2022-06-05T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bianca Belair (c) defeated Asuka and Becky Lynch by pinfall",
+          "stipulation": "Triple threat match for the WWE Raw Women's Championship",
+          "time": "18:55"
+        },
+        {
+          "match": "Bobby Lashley defeated Omos and MVP by submission",
+          "stipulation": "2-on-1 Handicap match",
+          "time": "8:25"
+        },
+        {
+          "match": "Kevin Owens defeated Ezekiel by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:20"
+        },
+        {
+          "match": "The Judgment Day (Edge, Damian Priest, and Rhea Ripley) defeated AJ Styles, Finn Bálor, and Liv Morgan by pinfall",
+          "stipulation": "Six-person mixed tag team match",
+          "time": "16:00"
+        },
+        {
+          "match": "Madcap Moss defeated Happy Corbin by pinfall",
+          "stipulation": "No Holds Barred match",
+          "time": "12:05"
+        },
+        {
+          "match": "Theory (c) defeated Mustafa Ali by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "10:25"
+        },
+        {
+          "match": "Cody Rhodes defeated Seth \"Freakin\" Rollins by pinfall",
+          "stipulation": "Hell in a Cell match",
+          "time": "24:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-money-in-the-bank-2022",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2022-07-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "MGM Grand Garden Arena",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Liv Morgan defeated Alexa Bliss, Asuka, Becky Lynch, Lacey Evans, Raquel Rodriguez, and Shotzi by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a women's championship match contract",
+          "time": "16:35"
+        },
+        {
+          "match": "Bobby Lashley defeated Theory (c) by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "11:05"
+        },
+        {
+          "match": "Bianca Belair (c) defeated Carmella by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "7:10"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated The Street Profits (Angelo Dawkins and Montez Ford) by pinfall",
+          "stipulation": "Tag team match for the Undisputed WWE Tag Team Championship",
+          "time": "23:00"
+        },
+        {
+          "match": "Ronda Rousey (c) defeated Natalya by submission",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "12:30"
+        },
+        {
+          "match": "Liv Morgan defeated Ronda Rousey (c) by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship · This was Morgan's Money in the Bank cash-in match.",
+          "time": "0:35"
+        },
+        {
+          "match": "Theory defeated Drew McIntyre, Madcap Moss, Omos, Riddle, Sami Zayn, Seth \"Freakin\" Rollins, and Sheamus by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a men's championship match contract",
+          "time": "25:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-summerslam-2022",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2022-07-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nissan Stadium",
+      "city": "Nashville, Tennessee",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bianca Belair (c) defeated Becky Lynch by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "15:10"
+        },
+        {
+          "match": "Logan Paul defeated The Miz (with Maryse and Ciampa) by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:15"
+        },
+        {
+          "match": "Bobby Lashley (c) defeated Theory by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "4:45"
+        },
+        {
+          "match": "The Mysterios (Rey Mysterio and Dominik Mysterio) defeated The Judgment Day (Finn Bálor and Damian Priest) (with Rhea Ripley) by pinfall",
+          "stipulation": "No Disqualification tag team match",
+          "time": "11:05"
+        },
+        {
+          "match": "Pat McAfee defeated Happy Corbin by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:40"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated The Street Profits (Angelo Dawkins and Montez Ford) by pinfall",
+          "stipulation": "Tag team match for the Undisputed WWE Tag Team Championship · with Jeff Jarrett as the special guest referee.",
+          "time": "13:25"
+        },
+        {
+          "match": "Liv Morgan (c) defeated Ronda Rousey by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "4:35"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated Brock Lesnar",
+          "stipulation": "Last Man Standing match for the Undisputed WWE Universal Championship",
+          "time": "23:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-clash-at-the-castle-2022",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "Clash at the Castle",
+      "session": "ple",
+      "startsAt": "2022-09-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Principality Stadium",
+      "city": "Cardiff, Wales",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Madcap Moss and The Street Profits (Angelo Dawkins and Montez Ford) defeated Austin Theory and Alpha Academy (Chad Gable and Otis) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "6:29",
+          "note": "pre-show"
+        },
+        {
+          "match": "Damage CTRL (Bayley, Dakota Kai, and Iyo Sky) defeated Bianca Belair, Alexa Bliss, and Asuka by pinfall",
+          "stipulation": "Six-woman tag team match",
+          "time": "18:44"
+        },
+        {
+          "match": "Gunther (c) (with Imperium (Ludwig Kaiser and Giovanni Vinci)) defeated Sheamus (with Ridge Holland and Butch) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "19:33"
+        },
+        {
+          "match": "Liv Morgan (c) defeated Shayna Baszler by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "11:02"
+        },
+        {
+          "match": "Edge and Rey Mysterio (with Dominik Mysterio) defeated The Judgment Day (Finn Bálor and Damian Priest) (with Rhea Ripley) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "12:35"
+        },
+        {
+          "match": "Seth \"Freakin\" Rollins defeated Matt Riddle by pinfall",
+          "stipulation": "Singles match",
+          "time": "17:22"
+        },
+        {
+          "match": "Roman Reigns (c) defeated Drew McIntyre by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Universal Championship",
+          "time": "30:47"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-worlds-collide-2022",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "Worlds Collide",
+      "session": "ple",
+      "startsAt": "2022-09-04T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "WWE Performance Center",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Charlie Dempsey defeated Bodhi Hayward (with Andre Chase and Thea Hail)",
+          "stipulation": "Singles match",
+          "time": "7:50",
+          "note": "dark"
+        },
+        {
+          "match": "Channing \"Stacks\" Lorenzo (with Tony D'Angelo) defeated Ikemen Jiro",
+          "stipulation": "Singles match",
+          "time": "5:15",
+          "note": "dark"
+        },
+        {
+          "match": "Carmelo Hayes (c) (with Trick Williams) defeated Ricochet by pinfall",
+          "stipulation": "Singles match for the NXT North American Championship",
+          "time": "15:57"
+        },
+        {
+          "match": "Pretty Deadly (Elton Prince and Kit Wilson) (with Lash Legend) defeated The Creed Brothers (Brutus Creed and Julius Creed) (NXT) (with Damon Kemp), Brooks Jensen and Josh Briggs (NXT UK) (with Fallon Henley), and Gallus (Mark Coffey and Wolfgang) (with Joe Coffey) by pinfall",
+          "stipulation": "Fatal four-way tag team elimination match to unify the NXT Tag Team Championship and NXT UK Tag Team Championship",
+          "time": "15:34"
+        },
+        {
+          "match": "Mandy Rose (NXT) defeated Meiko Satomura (NXT UK) and Blair Davenport by pinfall",
+          "stipulation": "Triple threat match to unify the NXT Women's Championship and NXT UK Women's Championship",
+          "time": "13:17"
+        },
+        {
+          "match": "Katana Chance and Kayden Carter (c) defeated Doudrop and Nikki A.S.H. by pinfall",
+          "stipulation": "Tag team match for the NXT Women's Tag Team Championship",
+          "time": "10:19"
+        },
+        {
+          "match": "Bron Breakker (NXT) defeated Tyler Bate (NXT UK) by pinfall",
+          "stipulation": "Singles match to unify the NXT Championship and NXT United Kingdom Championship",
+          "time": "17:11"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-extreme-rules-2022",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2022-10-08T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Wells Fargo Center",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Brawling Brutes (Sheamus, Ridge Holland, and Butch) defeated Imperium (Gunther, Ludwig Kaiser, and Giovanni Vinci) by pinfall",
+          "stipulation": "Six-man tag team Good Old Fashioned Donnybrook match",
+          "time": "17:50"
+        },
+        {
+          "match": "Ronda Rousey defeated Liv Morgan (c) by technical submission",
+          "stipulation": "Extreme Rules match for the WWE SmackDown Women's Championship",
+          "time": "12:05"
+        },
+        {
+          "match": "Karrion Kross (with Scarlett) defeated Drew McIntyre by pinfall",
+          "stipulation": "Strap match",
+          "time": "10:20"
+        },
+        {
+          "match": "Bianca Belair (c) defeated Bayley by retrieving the championship belt",
+          "stipulation": "Ladder match for the WWE Raw Women's Championship",
+          "time": "16:40"
+        },
+        {
+          "match": "Finn Bálor defeated Edge by making Edge say \"I quit\"",
+          "stipulation": "\"I Quit\" match",
+          "time": "29:55"
+        },
+        {
+          "match": "Matt Riddle defeated Seth \"Freakin\" Rollins by submission",
+          "stipulation": "Fight Pit match · Daniel Cormier was the special guest referee.",
+          "time": "16:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-crown-jewel-2022",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "Crown Jewel",
+      "session": "ple",
+      "startsAt": "2022-11-05T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Mrsool Park",
+      "city": "Riyadh, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Brock Lesnar defeated Bobby Lashley by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:00"
+        },
+        {
+          "match": "Damage CTRL (Dakota Kai and Iyo Sky) defeated Alexa Bliss and Asuka (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "12:50"
+        },
+        {
+          "match": "Drew McIntyre defeated Karrion Kross (with Scarlett) by escaping the cage",
+          "stipulation": "Steel Cage match",
+          "time": "13:00"
+        },
+        {
+          "match": "The Judgment Day (Finn Bálor, Damian Priest, and Dominik Mysterio) (with Rhea Ripley) defeated The O.C. (AJ Styles, Luke Gallows, and Karl Anderson) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "14:00"
+        },
+        {
+          "match": "Braun Strowman defeated Omos by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:20"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated The Brawling Brutes (Ridge Holland and Butch) by pinfall",
+          "stipulation": "Tag team match for the Undisputed WWE Tag Team Championship",
+          "time": "10:45"
+        },
+        {
+          "match": "Bianca Belair (c) defeated Bayley as Bayley was unable to make it to her feet before the referee's count of 10",
+          "stipulation": "Last Woman Standing match for the WWE Raw Women's Championship",
+          "time": "20:20"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated Logan Paul by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Universal Championship",
+          "time": "24:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2022-survivor-series-wargames-2022",
+      "competition": "wwe",
+      "season": "2022",
+      "title": "Survivor Series: WarGames",
+      "session": "ple",
+      "startsAt": "2022-11-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "TD Garden",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Team Belair (Bianca Belair, Alexa Bliss, Asuka, Mia Yim, and Becky Lynch) defeated Team Damage CTRL (Bayley, Dakota Kai, Iyo Sky, Nikki Cross, and Rhea Ripley) by pinfall",
+          "stipulation": "Women's WarGames match",
+          "time": "39:40"
+        },
+        {
+          "match": "AJ Styles (with Luke Gallows and Karl Anderson) defeated Finn Bálor (with Damian Priest and Dominik Mysterio) by pinfall",
+          "stipulation": "Singles match",
+          "time": "18:25"
+        },
+        {
+          "match": "Ronda Rousey (c) (with Shayna Baszler) defeated Shotzi by submission",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "7:15"
+        },
+        {
+          "match": "Austin Theory defeated Seth \"Freakin\" Rollins (c) and Bobby Lashley by pinfall",
+          "stipulation": "Triple threat match for the WWE United States Championship",
+          "time": "14:50"
+        },
+        {
+          "match": "The Bloodline (Roman Reigns, Jey Uso, Jimmy Uso, Solo Sikoa, and Sami Zayn) (with Paul Heyman) defeated The Brawling Brutes (Sheamus, Ridge Holland, and Butch), Drew McIntyre, and Kevin Owens by pinfall",
+          "stipulation": "Men's WarGames match",
+          "time": "38:30"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

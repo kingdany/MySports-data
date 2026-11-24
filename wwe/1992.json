@@ -1,0 +1,178 @@
+{
+  "competition": "wwe",
+  "season": "1992",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1992-royal-rumble-1992",
+      "competition": "wwe",
+      "season": "1992",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "1992-01-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Knickerbocker Arena",
+      "city": "Albany, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Chris Walker defeated The Brooklyn Brawler by disqualification",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The New Foundation (Jim Neidhart and Owen Hart) defeated The Orient Express (Kato and Pat Tanaka) (with Mr. Fuji)",
+          "stipulation": "Tag team match",
+          "time": "17:19"
+        },
+        {
+          "match": "Roddy Piper defeated The Mountie (c) (with Jimmy Hart) by submission",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "5:21"
+        },
+        {
+          "match": "The Beverly Brothers (Beau and Blake) (with The Genius) defeated The Bushwhackers (Luke and Butch) (with Jamison)",
+          "stipulation": "Tag team match",
+          "time": "14:57"
+        },
+        {
+          "match": "The Natural Disasters (Earthquake and Typhoon) (with Jimmy Hart) defeated The Legion of Doom (Hawk and Animal) (c) by countout",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "9:24"
+        },
+        {
+          "match": "Ric Flair won by last eliminating Sid Justice",
+          "stipulation": "30-man Royal Rumble match for the vacant WWF Championship"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1992-wrestlemania-viii",
+      "competition": "wwe",
+      "season": "1992",
+      "title": "WrestleMania VIII",
+      "session": "ple",
+      "startsAt": "1992-04-05T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Hoosier Dome",
+      "city": "Indianapolis, Indiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Bushwhackers (Bushwhacker Butch and Bushwhacker Luke) defeated the Beverly Brothers (Beau Beverly and Blake Beverly) (with The Genius)",
+          "stipulation": "Tag team match",
+          "time": "10:00",
+          "note": "dark"
+        },
+        {
+          "match": "Shawn Michaels (with Sensational Sherri) defeated Tito Santana",
+          "stipulation": "Singles match",
+          "time": "10:38"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Jake \"The Snake\" Roberts",
+          "stipulation": "Singles match",
+          "time": "6:36"
+        },
+        {
+          "match": "Bret Hart defeated Roddy Piper (c)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "13:51"
+        },
+        {
+          "match": "Big Boss Man, Virgil, Sgt. Slaughter, and Jim Duggan defeated The Mountie, The Nasty Boys (Brian Knobbs and Jerry Sags), and Repo Man (with Jimmy Hart)",
+          "stipulation": "Eight-man tag team match",
+          "time": "6:33"
+        },
+        {
+          "match": "Randy Savage (with Miss Elizabeth) defeated Ric Flair (c) (with Mr. Perfect)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "18:04"
+        },
+        {
+          "match": "Tatanka defeated Rick Martel",
+          "stipulation": "Singles match",
+          "time": "4:33"
+        },
+        {
+          "match": "The Natural Disasters (Earthquake and Typhoon) defeated Money Inc. (Ted DiBiase and Irwin R. Schyster) (c) (with Jimmy Hart) by countout",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "8:38"
+        },
+        {
+          "match": "Owen Hart defeated Skinner",
+          "stipulation": "Singles match",
+          "time": "1:36"
+        },
+        {
+          "match": "Hulk Hogan defeated Sid Justice (with Harvey Wippleman) by disqualification",
+          "stipulation": "Singles match",
+          "time": "12:28"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1992-survivor-series-1992",
+      "competition": "wwe",
+      "season": "1992",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1992-11-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Richfield Coliseum",
+      "city": "Richfield Township, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Crush defeated Repo Man by submission",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The Headshrinkers (Samu and Fatu) (with Afa) defeated High Energy (Owen Hart and Koko B. Ware) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "7:40"
+        },
+        {
+          "match": "Big Boss Man defeated Nailz by pinfall",
+          "stipulation": "Nightstick on a Pole match",
+          "time": "5:44"
+        },
+        {
+          "match": "Tatanka defeated Rick Martel by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:07"
+        },
+        {
+          "match": "Randy Savage and Mr. Perfect defeated Ric Flair and Razor Ramon by disqualification",
+          "stipulation": "Tag team match",
+          "time": "16:38"
+        },
+        {
+          "match": "Yokozuna (with Mr. Fuji) defeated Virgil by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:34"
+        },
+        {
+          "match": "The Natural Disasters (Earthquake and Typhoon) and The Nasty Boys (Jerry Sags and Brian Knobbs) defeated Money Inc. (Ted DiBiase and Irwin R. Schyster) and The Beverly Brothers (Beau and Blake) (with The Genius and Jimmy Hart)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "15:50"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Kamala (with Harvey Wippleman and Kim Chee) by putting Kamala in the coffin with the lid completely shut",
+          "stipulation": "Coffin match",
+          "time": "5:27"
+        },
+        {
+          "match": "Bret Hart (c) defeated Shawn Michaels by submission",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "26:40"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

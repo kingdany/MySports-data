@@ -1,0 +1,740 @@
+{
+  "competition": "wwe",
+  "season": "2011",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2011-royal-rumble-2011",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2011-01-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "TD Garden",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "R-Truth defeated Curt Hawkins",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Edge (c) defeated Dolph Ziggler (with Vickie Guerrero) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship · Had Edge used the Spear, he would have lost the title.",
+          "time": "20:45"
+        },
+        {
+          "match": "The Miz (c) (with Alex Riley) defeated Randy Orton by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "19:50"
+        },
+        {
+          "match": "Eve Torres defeated Natalya (c), Michelle McCool, and Layla by pinfall",
+          "stipulation": "Fatal four-way match for the WWE Divas Championship",
+          "time": "5:05"
+        },
+        {
+          "match": "Alberto Del Rio won by last eliminating Santino Marella",
+          "stipulation": "40-man Royal Rumble match for a world championship match at WrestleMania XXVII"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2011-elimination-chamber-2011",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2011-02-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Oracle Arena",
+      "city": "Oakland, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Daniel Bryan (c) defeated Ted DiBiase by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "5:42",
+          "note": "dark"
+        },
+        {
+          "match": "Alberto Del Rio (with Ricardo Rodriguez) defeated Kofi Kingston by submission",
+          "stipulation": "Singles match",
+          "time": "10:30"
+        },
+        {
+          "match": "Edge (c) defeated Rey Mysterio, Kane, Drew McIntyre, Big Show, and Wade Barrett",
+          "stipulation": "Elimination Chamber match for the World Heavyweight Championship",
+          "time": "31:30"
+        },
+        {
+          "match": "The Corre (Heath Slater and Justin Gabriel) (with Ezekiel Jackson) defeated Santino Marella and Vladimir Kozlov (c) (with Tamina Snuka) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "5:08"
+        },
+        {
+          "match": "The Miz (c) (with Alex Riley) defeated Jerry Lawler by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "12:10"
+        },
+        {
+          "match": "John Cena defeated CM Punk, John Morrison, King Sheamus, Randy Orton, and R-Truth",
+          "stipulation": "Elimination Chamber match for a WWE Championship match at WrestleMania XXVII",
+          "time": "33:12"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2011-wrestlemania-xxvii",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "WrestleMania XXVII",
+      "session": "ple",
+      "startsAt": "2011-04-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Georgia Dome",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Sheamus (c) vs. Daniel Bryan ended in a no contest",
+          "stipulation": "Lumberjack match for the WWE United States Championship",
+          "time": "4:19",
+          "note": "dark"
+        },
+        {
+          "match": "The Great Khali won by last eliminating Sheamus",
+          "stipulation": "23-man Battle Royal",
+          "time": "8:29",
+          "note": "dark"
+        },
+        {
+          "match": "Edge (c) (with Christian) defeated Alberto Del Rio (with Brodus Clay and Ricardo Rodriguez) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "11:06"
+        },
+        {
+          "match": "Cody Rhodes defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:58"
+        },
+        {
+          "match": "Big Show, Kane, Kofi Kingston, and Santino Marella defeated The Corre (Ezekiel Jackson, Heath Slater, Justin Gabriel, and Wade Barrett) by pinfall",
+          "stipulation": "Eight-man tag team match",
+          "time": "1:32"
+        },
+        {
+          "match": "Randy Orton defeated CM Punk by pinfall",
+          "stipulation": "Singles match · The New Nexus were banned from ringside.",
+          "time": "14:45"
+        },
+        {
+          "match": "Michael Cole defeated Jerry Lawler by disqualification",
+          "stipulation": "Singles match · \"Stone Cold\" Steve Austin served as the special guest referee.",
+          "time": "13:48"
+        },
+        {
+          "match": "The Undertaker defeated Triple H by submission",
+          "stipulation": "No Holds Barred match",
+          "time": "29:25"
+        },
+        {
+          "match": "John Morrison, Nicole \"Snooki\" Polizzi, and Trish Stratus defeated Dolph Ziggler and LayCool (Layla and Michelle McCool) (with Vickie Guerrero) by pinfall",
+          "stipulation": "Six-person Mixed tag team match",
+          "time": "3:16"
+        },
+        {
+          "match": "The Miz (c) (with Alex Riley) defeated John Cena by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "15:21"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2011-extreme-rules-2011",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2011-05-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "St. Pete Times Forum",
+      "city": "Tampa, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Sin Cara defeated Tyson Kidd by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Randy Orton defeated CM Punk",
+          "stipulation": "Last Man Standing match · The New Nexus were banned from ringside.",
+          "time": "20:06"
+        },
+        {
+          "match": "Kofi Kingston defeated Sheamus (c)",
+          "stipulation": "Tables match for the WWE United States Championship",
+          "time": "9:09"
+        },
+        {
+          "match": "Michael Cole and Jack Swagger defeated Jerry Lawler and Jim Ross by pinfall",
+          "stipulation": "Country Whipping match",
+          "time": "7:04"
+        },
+        {
+          "match": "Rey Mysterio defeated Cody Rhodes by pinfall",
+          "stipulation": "Falls Count Anywhere match",
+          "time": "11:43"
+        },
+        {
+          "match": "Layla defeated Michelle McCool by pinfall",
+          "stipulation": "No Disqualification, No Countout Loser Leaves WWE match",
+          "time": "5:24"
+        },
+        {
+          "match": "Christian defeated Alberto Del Rio",
+          "stipulation": "Ladder match for the vacant World Heavyweight Championship",
+          "time": "21:05"
+        },
+        {
+          "match": "Big Show and Kane (c) defeated The Corre (Wade Barrett and Ezekiel Jackson) by pinfall",
+          "stipulation": "Lumberjack match for the WWE Tag Team Championship",
+          "time": "4:15"
+        },
+        {
+          "match": "John Cena defeated The Miz (c) and John Morrison by pinfall",
+          "stipulation": "Triple Threat Steel Cage match for the WWE Championship",
+          "time": "19:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2011-over-the-limit-2011",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "Over the Limit",
+      "session": "ple",
+      "startsAt": "2011-05-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "KeyArena",
+      "city": "Seattle, Washington",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Daniel Bryan defeated Drew McIntyre by submission",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "R-Truth defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match",
+          "time": "08:12"
+        },
+        {
+          "match": "Ezekiel Jackson defeated Wade Barrett (c) by disqualification",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "07:27"
+        },
+        {
+          "match": "Sin Cara defeated Chavo Guerrero by pinfall",
+          "stipulation": "Singles match",
+          "time": "07:23"
+        },
+        {
+          "match": "Big Show and Kane (c) defeated The New Nexus (CM Punk and Mason Ryan) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "09:06"
+        },
+        {
+          "match": "Brie Bella (c) (with Nikki Bella) defeated Kelly Kelly by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "04:03"
+        },
+        {
+          "match": "Randy Orton (c) defeated Christian by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "16:52"
+        },
+        {
+          "match": "Jerry Lawler defeated Michael Cole by pinfall",
+          "stipulation": "Kiss my Foot match · Had Lawler lost, he would have had to give his Hall of Fame ring to Cole and personally induct Cole into The Hall of Fame.",
+          "time": "03:01"
+        },
+        {
+          "match": "John Cena (c) defeated The Miz (with Alex Riley)",
+          "stipulation": "\"I Quit\" match for the WWE Championship",
+          "time": "24:56"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2011-wwe-capitol-punishment",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "Capitol Punishment",
+      "session": "ple",
+      "startsAt": "2011-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Verizon Center",
+      "city": "Washington, D.C.",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Santino Marella and Vladimir Kozlov defeated Heath Slater and Justin Gabriel",
+          "stipulation": "Tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "Dolph Ziggler (with Vickie Guerrero) defeated Kofi Kingston (c) by technical submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "11:06"
+        },
+        {
+          "match": "Alex Riley defeated The Miz by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:13"
+        },
+        {
+          "match": "Alberto Del Rio defeated Big Show by pinfall",
+          "stipulation": "Singles match",
+          "time": "04:57"
+        },
+        {
+          "match": "Ezekiel Jackson defeated Wade Barrett (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "06:36"
+        },
+        {
+          "match": "CM Punk defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match · The New Nexus were banned from ringside.",
+          "time": "15:00"
+        },
+        {
+          "match": "Randy Orton (c) defeated Christian by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "14:06"
+        },
+        {
+          "match": "Evan Bourne defeated Jack Swagger by pinfall",
+          "stipulation": "Singles match",
+          "time": "07:12"
+        },
+        {
+          "match": "John Cena (c) defeated R-Truth by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "14:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2011-money-in-the-bank-2011",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2011-07-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Santino Marella and Vladimir Kozlov defeated The New Nexus (David Otunga and Michael McGillicutty)",
+          "stipulation": "Tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "Daniel Bryan defeated Wade Barrett, Cody Rhodes, Heath Slater, Justin Gabriel, Kane, Sin Cara, and Sheamus",
+          "stipulation": "SmackDown Money in the Bank ladder match for a World Heavyweight Championship match contract",
+          "time": "24:27"
+        },
+        {
+          "match": "Kelly Kelly (c) (with Eve Torres) defeated Brie Bella (with Nikki Bella) by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "4:54"
+        },
+        {
+          "match": "Mark Henry defeated Big Show by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:00"
+        },
+        {
+          "match": "Alberto Del Rio defeated Rey Mysterio, Alex Riley, Evan Bourne, Jack Swagger, Kofi Kingston, The Miz, and R-Truth",
+          "stipulation": "Raw Money in the Bank ladder match for a WWE Championship match contract",
+          "time": "15:54"
+        },
+        {
+          "match": "Christian defeated Randy Orton (c) by disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship · Since Orton was disqualified, he lost the title. Had the referee officiated poorly, Orton would also have lost the title.",
+          "time": "12:20"
+        },
+        {
+          "match": "CM Punk defeated John Cena (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship · Since Cena lost the title, he was \"fired\".",
+          "time": "33:44"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2011-summerslam-2011",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2011-08-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Dolph Ziggler (with Vickie Guerrero) defeated Alex Riley by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Kofi Kingston, John Morrison, and Rey Mysterio defeated The Miz, R-Truth, and Alberto Del Rio (with Ricardo Rodriguez) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "9:40"
+        },
+        {
+          "match": "Mark Henry defeated Sheamus by countout",
+          "stipulation": "Singles match",
+          "time": "9:22"
+        },
+        {
+          "match": "Kelly Kelly (c) (with Eve Torres) defeated Beth Phoenix (with Natalya) by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "6:48"
+        },
+        {
+          "match": "Wade Barrett defeated Daniel Bryan by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:48"
+        },
+        {
+          "match": "Randy Orton defeated Christian (c) by pinfall",
+          "stipulation": "No Holds Barred match for the World Heavyweight Championship",
+          "time": "23:43"
+        },
+        {
+          "match": "CM Punk (c) defeated John Cena (c) by pinfall",
+          "stipulation": "Singles match for the undisputed WWE Championship · Triple H served as the special guest referee.",
+          "time": "24:08"
+        },
+        {
+          "match": "Alberto Del Rio defeated CM Punk (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship · This was Del Rio's Money in the Bank cash-in match.",
+          "time": "0:11"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2011-night-of-champions-2011",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "Night of Champions",
+      "session": "ple",
+      "startsAt": "2011-09-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "First Niagara Center",
+      "city": "Buffalo, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Daniel Bryan defeated Heath Slater by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:13",
+          "note": "dark"
+        },
+        {
+          "match": "Air Boom (Evan Bourne and Kofi Kingston) (c) defeated Awesome Truth (The Miz and R-Truth) by disqualification",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "9:51"
+        },
+        {
+          "match": "Cody Rhodes (c) defeated Ted DiBiase by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "9:44"
+        },
+        {
+          "match": "Dolph Ziggler (c) (with Vickie Guerrero) defeated Jack Swagger, Alex Riley, and John Morrison by pinfall",
+          "stipulation": "Fatal 4-Way match for the WWE United States Championship",
+          "time": "8:21"
+        },
+        {
+          "match": "Mark Henry defeated Randy Orton (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "13:07"
+        },
+        {
+          "match": "Kelly Kelly (c) (with Eve Torres) defeated Beth Phoenix (with Natalya) by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "6:30"
+        },
+        {
+          "match": "John Cena defeated Alberto Del Rio (c) (with Ricardo Rodriguez) by submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "17:32"
+        },
+        {
+          "match": "Triple H defeated CM Punk by pinfall",
+          "stipulation": "No Disqualification match",
+          "time": "24:09"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2011-hell-in-a-cell-2011",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2011-10-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "New Orleans Arena",
+      "city": "New Orleans, Louisiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Daniel Bryan defeated JTG by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:47",
+          "note": "dark"
+        },
+        {
+          "match": "Sheamus defeated Christian by pinfall",
+          "stipulation": "Singles match",
+          "time": "13:41"
+        },
+        {
+          "match": "Sin Cara Azul defeated Sin Cara Negro by pinfall",
+          "stipulation": "Singles match",
+          "time": "09:46"
+        },
+        {
+          "match": "Air Boom (Evan Bourne and Kofi Kingston) (c) defeated Dolph Ziggler and Jack Swagger (with Vickie Guerrero) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "11:20"
+        },
+        {
+          "match": "Mark Henry (c) defeated Randy Orton by pinfall",
+          "stipulation": "Hell in a Cell match for the World Heavyweight Championship",
+          "time": "15:59"
+        },
+        {
+          "match": "Cody Rhodes (c) defeated John Morrison by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "07:20"
+        },
+        {
+          "match": "Beth Phoenix (with Natalya) defeated Kelly Kelly (c) (with Eve Torres) by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "08:32"
+        },
+        {
+          "match": "Alberto Del Rio (with Ricardo Rodriguez) defeated John Cena (c) and CM Punk by pinfall",
+          "stipulation": "Triple Threat Hell in a Cell match for the WWE Championship",
+          "time": "24:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2011-vengeance-2011",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "Vengeance",
+      "session": "ple",
+      "startsAt": "2011-10-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "AT&T Center",
+      "city": "San Antonio, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Wade Barrett defeated Daniel Bryan by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:57",
+          "note": "dark"
+        },
+        {
+          "match": "Air Boom (Evan Bourne and Kofi Kingston) (c) defeated Dolph Ziggler and Jack Swagger (with Vickie Guerrero) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "13:23"
+        },
+        {
+          "match": "Dolph Ziggler (c) (with Vickie Guerrero and Jack Swagger) defeated Zack Ryder by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "6:02"
+        },
+        {
+          "match": "Beth Phoenix (c) defeated Eve Torres by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship Kelly Kelly & Natalya were banned from ringside",
+          "time": "7:18"
+        },
+        {
+          "match": "Sheamus defeated Christian by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:38"
+        },
+        {
+          "match": "Awesome Truth (The Miz and R-Truth) defeated Triple H and CM Punk by pinfall",
+          "stipulation": "Tag team match",
+          "time": "15:24"
+        },
+        {
+          "match": "Randy Orton defeated Cody Rhodes by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:14"
+        },
+        {
+          "match": "Mark Henry (c) vs. Big Show ended in a no contest",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "13:00"
+        },
+        {
+          "match": "Alberto Del Rio (c) (with Ricardo Rodriguez) defeated John Cena",
+          "stipulation": "Last Man Standing match for the WWE Championship",
+          "time": "26:58"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2011-survivor-series-2011",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2011-11-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Madison Square Garden",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Santino Marella defeated Jinder Mahal by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:35",
+          "note": "dark"
+        },
+        {
+          "match": "Dolph Ziggler (c) (with Vickie Guerrero) defeated John Morrison by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "10:42"
+        },
+        {
+          "match": "Beth Phoenix (c) defeated Eve Torres by pinfall",
+          "stipulation": "Lumberjill match for the WWE Divas Championship",
+          "time": "04:35"
+        },
+        {
+          "match": "Team Barrett (Wade Barrett, Cody Rhodes, Dolph Ziggler, Hunico, and Jack Swagger) defeated Team Orton (Randy Orton, Kofi Kingston, Mason Ryan, Sheamus, and Sin Cara)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "22:10"
+        },
+        {
+          "match": "Big Show defeated Mark Henry (c) by disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "13:04"
+        },
+        {
+          "match": "CM Punk defeated Alberto Del Rio (c) (with Ricardo Rodriguez) by submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "17:14"
+        },
+        {
+          "match": "John Cena and The Rock defeated The Awesome Truth (The Miz and R-Truth) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "21:33"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2011-tlc-tables-ladders-chairs-2011",
+      "competition": "wwe",
+      "season": "2011",
+      "title": "TLC: Tables, Ladders & Chairs",
+      "session": "ple",
+      "startsAt": "2011-12-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "1st Mariner Arena",
+      "city": "Baltimore, Maryland",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Drew McIntyre defeated Alex Riley by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:37",
+          "note": "dark"
+        },
+        {
+          "match": "Zack Ryder defeated Dolph Ziggler (c) (with Vickie Guerrero) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "10:23"
+        },
+        {
+          "match": "Air Boom (Kofi Kingston and Evan Bourne) (c) defeated Primo and Epico (with Rosa Mendes) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "7:32"
+        },
+        {
+          "match": "Randy Orton defeated Wade Barrett",
+          "stipulation": "Tables match",
+          "time": "10:16"
+        },
+        {
+          "match": "Beth Phoenix (c) defeated Kelly Kelly by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "5:17"
+        },
+        {
+          "match": "Triple H defeated Kevin Nash by pinfall",
+          "stipulation": "Sledgehammer Ladder match",
+          "time": "18:13"
+        },
+        {
+          "match": "Sheamus defeated Jack Swagger (with Vickie Guerrero) by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:57"
+        },
+        {
+          "match": "Big Show defeated Mark Henry (c) by pinfall",
+          "stipulation": "Chairs match for the World Heavyweight Championship",
+          "time": "5:31"
+        },
+        {
+          "match": "Daniel Bryan defeated Big Show (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship · This was Daniel Bryan's Money in the Bank cash-in match.",
+          "time": "0:07"
+        },
+        {
+          "match": "Cody Rhodes (c) defeated Booker T by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "7:18"
+        },
+        {
+          "match": "CM Punk (c) defeated The Miz and Alberto Del Rio (with Ricardo Rodriguez)",
+          "stipulation": "Triple Threat Tables, Ladders, and Chairs match for the WWE Championship",
+          "time": "18:25"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

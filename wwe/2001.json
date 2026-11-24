@@ -1,0 +1,856 @@
+{
+  "competition": "wwe",
+  "season": "2001",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2001-royal-rumble-2001",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2001-01-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "New Orleans Arena",
+      "city": "New Orleans, Louisiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Lo Down (Chaz and D'Lo Brown) (with Tiger Ali Singh) defeated Kaientai (Funaki and Taka Michinoku) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "1:57",
+          "note": "pre-show"
+        },
+        {
+          "match": "Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) defeated Edge & Christian (c) by pinfall",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "9:58"
+        },
+        {
+          "match": "Chris Jericho defeated Chris Benoit (c)",
+          "stipulation": "Ladder match for the WWF Intercontinental Championship",
+          "time": "18:43"
+        },
+        {
+          "match": "Ivory (c) (with Steven Richards) defeated Chyna by pinfall",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "3:27"
+        },
+        {
+          "match": "Kurt Angle (c) (with Trish Stratus) defeated Triple H (with Stephanie McMahon-Helmsley) by pinfall",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "24:18"
+        },
+        {
+          "match": "Stone Cold Steve Austin won by last eliminating Kane",
+          "stipulation": "30-man Royal Rumble match for a WWF Championship match at WrestleMania X-Seven"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-no-way-out-2001",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "No Way Out",
+      "session": "ple",
+      "startsAt": "2001-02-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Thomas & Mack Center",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rikishi defeated Matt Hardy (with Lita) by disqualification",
+          "stipulation": "Singles match",
+          "time": "3:50",
+          "note": "pre-show"
+        },
+        {
+          "match": "Big Show defeated Raven (c)",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "4:20"
+        },
+        {
+          "match": "Chris Jericho (c) defeated Chris Benoit, Eddie Guerrero, and X-Pac",
+          "stipulation": "Fatal 4-Way match for the WWF Intercontinental Championship",
+          "time": "12:17"
+        },
+        {
+          "match": "Stephanie McMahon-Helmsley defeated Trish Stratus",
+          "stipulation": "Singles match",
+          "time": "8:29"
+        },
+        {
+          "match": "Triple H defeated \"Stone Cold\" Steve Austin by 2–1",
+          "stipulation": "Two-out-of-three falls match * Fall 1: Singles match (won by \"Stone Cold\") * Fall 2: Street Fight (won by Triple H) * Fall 3: Steel Cage match (won by Triple H)",
+          "time": "39:26"
+        },
+        {
+          "match": "Steven Richards (with Ivory) defeated Jerry Lawler (with The Kat)",
+          "stipulation": "Singles match · Since Richards won, Kat was forced to join Right to Censor; if Lawler had won, Kat would have been allowed to strip naked.",
+          "time": "5:32"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) (c) defeated The Brothers of Destruction (Kane and The Undertaker) and Edge and Christian",
+          "stipulation": "Triple threat tag team tables match for the WWF Tag Team Championship",
+          "time": "12:04"
+        },
+        {
+          "match": "The Rock defeated Kurt Angle (c)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "16:53"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-wrestlemania-x-seven",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "WrestleMania X-Seven",
+      "session": "ple",
+      "startsAt": "2001-04-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Reliant Astrodome",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "X-Factor (X-Pac and Justin Credible) (with Albert) defeated Steve Blackman and Grand Master Sexay",
+          "stipulation": "Tag team match",
+          "time": "2:46",
+          "note": "pre-show"
+        },
+        {
+          "match": "Chris Jericho (c) defeated William Regal",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "7:40"
+        },
+        {
+          "match": "Tazz and The APA (Bradshaw and Faarooq) (with Jacqueline) defeated Right to Censor (The Goodfather, Val Venis and Bull Buchanan) (with Steven Richards)",
+          "stipulation": "Six-man tag team match",
+          "time": "3:56"
+        },
+        {
+          "match": "Kane defeated Raven (c) and Big Show",
+          "stipulation": "Triple threat Hardcore match for the WWF Hardcore Championship",
+          "time": "9:28"
+        },
+        {
+          "match": "Eddie Guerrero (with Perry Saturn) defeated Test (c)",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "8:32"
+        },
+        {
+          "match": "Kurt Angle defeated Chris Benoit",
+          "stipulation": "Singles match",
+          "time": "14:10"
+        },
+        {
+          "match": "Chyna defeated Ivory (c)",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "2:38"
+        },
+        {
+          "match": "Shane McMahon (with Linda McMahon) defeated Mr. McMahon (with Stephanie McMahon and Trish Stratus)",
+          "stipulation": "Street Fight with Mick Foley as special guest referee",
+          "time": "14:11"
+        },
+        {
+          "match": "Edge and Christian defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) (c) and The Hardy Boyz (Matt Hardy and Jeff Hardy)",
+          "stipulation": "Tables, Ladders, and Chairs match for the WWF Tag Team Championship",
+          "time": "15:50"
+        },
+        {
+          "match": "The Iron Sheik won by last eliminating Hillbilly Jim",
+          "stipulation": "Gimmick Battle Royal",
+          "time": "3:50"
+        },
+        {
+          "match": "The Undertaker defeated Triple H",
+          "stipulation": "Singles match",
+          "time": "18:27"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated The Rock (c)",
+          "stipulation": "No Disqualification match for the WWF Championship",
+          "time": "28:08"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-wwf-backlash-2001",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2001-04-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jerry Lynn defeated Crash Holly (c)",
+          "stipulation": "Singles match for the WWF Light Heavyweight Championship",
+          "time": "3:37",
+          "note": "pre-show"
+        },
+        {
+          "match": "Lita defeated Molly Holly",
+          "stipulation": "Singles match",
+          "time": "2:40",
+          "note": "pre-show"
+        },
+        {
+          "match": "X-Factor (Albert, Justin Credible and X-Pac) defeated The Dudley Boyz (Bubba Ray Dudley, D-Von Dudley and Spike Dudley)",
+          "stipulation": "Six-man tag team match",
+          "time": "8:00"
+        },
+        {
+          "match": "Rhyno (c) defeated Raven",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "8:11"
+        },
+        {
+          "match": "William Regal defeated Chris Jericho",
+          "stipulation": "Duchess of Queensbury Rules match",
+          "time": "12:34"
+        },
+        {
+          "match": "Chris Benoit defeated Kurt Angle 4–3 in sudden death overtime",
+          "stipulation": "30-minute Ultimate Submission match",
+          "time": "31:33"
+        },
+        {
+          "match": "Shane McMahon defeated Big Show",
+          "stipulation": "Last Man Standing match",
+          "time": "11:55"
+        },
+        {
+          "match": "Matt Hardy (c) defeated Christian and Eddie Guerrero",
+          "stipulation": "Triple threat match for the WWF European Championship",
+          "time": "6:37"
+        },
+        {
+          "match": "The Two-Man Power Trip (\"Stone Cold\" Steve Austin, WWF, and Triple H, Intercontinental) (with Stephanie McMahon-Helmsley) defeated The Brothers of Destruction (Kane and The Undertaker) (Tag Team)",
+          "stipulation": "Winners Take All Tag team match for the WWF Championship, WWF Intercontinental Championship, and WWF Tag Team Championship",
+          "time": "25:02"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-insurrextion-2001",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "Insurrextion",
+      "session": "ple",
+      "startsAt": "2001-05-05T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Earls Court Exhibition Centre",
+      "city": "London, England",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Eddie Guerrero defeated Grand Master Sexay",
+          "stipulation": "Singles match",
+          "time": "4:30"
+        },
+        {
+          "match": "The Radicalz (Perry Saturn, Dean Malenko and Terri Runnels) defeated The Hollys (Crash Holly, Hardcore Holly and Molly Holly)",
+          "stipulation": "Six-person mixed tag team match",
+          "time": "5:37"
+        },
+        {
+          "match": "Bradshaw defeated Big Show",
+          "stipulation": "Singles match",
+          "time": "3:20"
+        },
+        {
+          "match": "Edge and Christian defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley), The Hardy Boyz (Matt Hardy and Jeff Hardy) and X-Factor (X-Pac and Justin Credible) (with Albert)",
+          "stipulation": "Four-Way Elimination match",
+          "time": "13:20"
+        },
+        {
+          "match": "Chris Benoit defeated Kurt Angle by 2–0",
+          "stipulation": "Two-out-of-three falls match",
+          "time": "14:23"
+        },
+        {
+          "match": "Chris Jericho defeated William Regal by submission",
+          "stipulation": "Singles match for the Queen's Cup",
+          "time": "14:46"
+        },
+        {
+          "match": "The Undertaker defeated The Two Man Power Trip (\"Stone Cold\" Steve Austin (c) and Triple H) (with Stephanie McMahon-Helmsley)",
+          "stipulation": "Handicap match for the WWF Championship · Undertaker could only win the title by pinning Austin.",
+          "time": "17:12"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-wwf-judgment-day-2001",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "Judgment Day",
+      "session": "ple",
+      "startsAt": "2001-05-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "ARCO Arena",
+      "city": "Sacramento, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Raven defeated Val Venis",
+          "stipulation": "Singles match",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Holly Cousins (Crash Holly and Hardcore Holly) (with Molly Holly) defeated Kaientai (Funaki and Taka Michinoku)",
+          "stipulation": "Tag team match",
+          "note": "pre-show"
+        },
+        {
+          "match": "William Regal defeated Rikishi",
+          "stipulation": "Singles match",
+          "time": "3:56"
+        },
+        {
+          "match": "Kurt Angle defeated Chris Benoit 2–1",
+          "stipulation": "Two-out-of-three falls match for Angle's Olympic Gold Medal",
+          "time": "23:58"
+        },
+        {
+          "match": "Rhyno (c) defeated Big Show and Test",
+          "stipulation": "Triple threat hardcore match for the WWF Hardcore Championship",
+          "time": "9:15"
+        },
+        {
+          "match": "Chyna (c) defeated Lita",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "6:30"
+        },
+        {
+          "match": "Kane defeated Triple H (c) (with Stephanie McMahon-Helmsley)",
+          "stipulation": "Chain match for the WWF Intercontinental Championship",
+          "time": "12:24"
+        },
+        {
+          "match": "Chris Jericho and Chris Benoit won by last eliminating Edge and Christian",
+          "stipulation": "Tag team turmoil match to determine the #1 contenders to the WWF Tag Team Championship",
+          "time": "25:53"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin (c) defeated The Undertaker",
+          "stipulation": "No Holds Barred match for the WWF Championship",
+          "time": "23:06"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-king-of-the-ring-2001",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "King of the Ring",
+      "session": "ple",
+      "startsAt": "2001-06-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Continental Airlines Arena",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Matt Hardy (c) (with Lita) defeated Justin Credible",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "7:03",
+          "note": "pre-show"
+        },
+        {
+          "match": "Kurt Angle defeated Christian",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "8:51"
+        },
+        {
+          "match": "Edge defeated Rhyno",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "10:20"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray and D-Von) (c) defeated Spike Dudley and Kane",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "8:24"
+        },
+        {
+          "match": "Edge defeated Kurt Angle",
+          "stipulation": "King of the Ring final match",
+          "time": "10:20"
+        },
+        {
+          "match": "Jeff Hardy (c) defeated X-Pac",
+          "stipulation": "Singles match for the WWF Light Heavyweight Championship",
+          "time": "7:10"
+        },
+        {
+          "match": "Kurt Angle defeated Shane McMahon",
+          "stipulation": "Street Fight",
+          "time": "25:58"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin (c) defeated Chris Jericho and Chris Benoit",
+          "stipulation": "Triple Threat match for the WWF Championship",
+          "time": "27:52"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-wwf-invasion",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "Invasion",
+      "session": "ple",
+      "startsAt": "2001-07-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Gund Arena",
+      "city": "Cleveland, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Chavo Guerrero (WCW) defeated Scotty 2 Hotty (WWF)",
+          "stipulation": "Singles match",
+          "time": "6:43",
+          "note": "pre-show"
+        },
+        {
+          "match": "Edge and Christian (WWF) defeated Lance Storm and Mike Awesome (ECW)",
+          "stipulation": "Tag team match",
+          "time": "10:10"
+        },
+        {
+          "match": "Earl Hebner (WWF) defeated Nick Patrick (WCW)",
+          "stipulation": "Singles match with Mick Foley as special guest referee",
+          "time": "2:50"
+        },
+        {
+          "match": "The APA (Bradshaw and Faarooq) (WWF) defeated Chuck Palumbo and Sean O'Haire (WCW)",
+          "stipulation": "Tag team match",
+          "time": "6:48"
+        },
+        {
+          "match": "Billy Kidman (WCW) defeated X-Pac (WWF)",
+          "stipulation": "Singles match",
+          "time": "7:07"
+        },
+        {
+          "match": "Raven (ECW) defeated William Regal (WWF)",
+          "stipulation": "Singles match",
+          "time": "6:35"
+        },
+        {
+          "match": "Chris Kanyon, Hugh Morrus and Shawn Stasiak (WCW) defeated Albert, Big Show and Billy Gunn (WWF)",
+          "stipulation": "Six-man tag team match",
+          "time": "4:20"
+        },
+        {
+          "match": "Tajiri (WWF) defeated Tazz (ECW)",
+          "stipulation": "Singles match",
+          "time": "5:30"
+        },
+        {
+          "match": "Rob Van Dam (ECW) defeated Jeff Hardy (c) (WWF)",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "12:40"
+        },
+        {
+          "match": "Trish Stratus and Lita (WWF) defeated Torrie Wilson and Stacy Keibler (WCW)",
+          "stipulation": "Bra and Panties match with Mick Foley as special guest referee",
+          "time": "5:03"
+        },
+        {
+          "match": "Team WCW/ECW (Booker T, The Dudley Boyz, Diamond Dallas Page, and Rhyno) (with Shane McMahon, Stephanie McMahon-Helmsley, and Paul Heyman) (WCW/ECW) defeated Team WWF (Chris Jericho, Kane, Kurt Angle, \"Stone Cold\" Steve Austin and The Undertaker) (with Vince McMahon) (WWF)",
+          "stipulation": "10-man Tag Team match",
+          "time": "29:05"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-summerslam-2001",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2001-08-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Compaq Center",
+      "city": "San Jose, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jacqueline, Lita, and Molly Holly (WWF) defeated Ivory, Stacy Keibler, and Torrie Wilson (Alliance)",
+          "stipulation": "Tag team match",
+          "time": "2:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "Edge (WWF) defeated Lance Storm (c) (Alliance)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "11:16"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) and Test (Alliance) defeated The APA (Bradshaw and Faarooq) and Spike Dudley (with Molly Holly) (WWF)",
+          "stipulation": "Six-man tag team match",
+          "time": "7:18"
+        },
+        {
+          "match": "X-Pac (Cruiserweight) defeated Tajiri (Light Heavyweight)",
+          "stipulation": "Winner Takes All match for the WCW Cruiserweight Championship and WWF Light Heavyweight Championship",
+          "time": "7:33"
+        },
+        {
+          "match": "Chris Jericho (WWF) defeated Rhyno (with Stephanie McMahon-Helmsley) (Alliance) by submission",
+          "stipulation": "Singles match",
+          "time": "12:34"
+        },
+        {
+          "match": "Rob Van Dam (Alliance) defeated Jeff Hardy (c) (WWF)",
+          "stipulation": "Ladder match for the WWF Hardcore Championship",
+          "time": "16:31"
+        },
+        {
+          "match": "The Brothers of Destruction (Kane and The Undertaker) (c - WCW) (with Sara) (WWF) defeated Diamond Dallas Page and Chris Kanyon (c - WWF) (Alliance) by pinfall",
+          "stipulation": "Winners Take All Steel Cage match for the WCW Tag Team Championship and WWF Tag Team Championship",
+          "time": "10:17"
+        },
+        {
+          "match": "Kurt Angle (WWF) defeated \"Stone Cold\" Steve Austin (c) (Alliance) by disqualification",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "22:20"
+        },
+        {
+          "match": "The Rock (WWF) defeated Booker T (c) (with Shane McMahon) (Alliance)",
+          "stipulation": "Singles match for the WCW Championship",
+          "time": "15:18"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-unforgiven-2001",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "Unforgiven",
+      "session": "ple",
+      "startsAt": "2001-09-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Mellon Arena",
+      "city": "Pittsburgh, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Billy Gunn (WWF) defeated Tommy Dreamer (Alliance)",
+          "stipulation": "Singles match",
+          "time": "3:12",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray and D-Von) (c) (Alliance) defeated Big Show and Spike Dudley (WWF), The Hurricane and Lance Storm (Alliance), and The Hardy Boyz (Matt and Jeff) (WWF)",
+          "stipulation": "Four-way elimination match for the WWF Tag Team Championship",
+          "time": "14:22"
+        },
+        {
+          "match": "Perry Saturn (WWF) defeated Raven (with Terri Runnels) (Alliance)",
+          "stipulation": "Singles match",
+          "time": "5:07"
+        },
+        {
+          "match": "Christian (WWF) defeated Edge (c) (WWF)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "11:53"
+        },
+        {
+          "match": "The Brothers of Destruction (The Undertaker and Kane) (c) (WWF) defeated KroniK (Brian Adams and Bryan Clark) (with Steven Richards) (Alliance)",
+          "stipulation": "Tag team match for the WCW Tag Team Championship",
+          "time": "10:21"
+        },
+        {
+          "match": "Rob Van Dam (c) (Alliance) defeated Chris Jericho (WWF)",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "16:33"
+        },
+        {
+          "match": "The Rock (c) (WWF) defeated Booker T and Shane McMahon (Alliance)",
+          "stipulation": "Handicap match for the WCW Championship",
+          "time": "15:24"
+        },
+        {
+          "match": "Rhyno (Alliance) defeated Tajiri (c) (with Torrie Wilson) (WWF)",
+          "stipulation": "Singles match for the WCW United States Championship",
+          "time": "4:50"
+        },
+        {
+          "match": "Kurt Angle (WWF) defeated \"Stone Cold\" Steve Austin (c) (Alliance) by submission",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "23:54"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-no-mercy-2001",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "2001-10-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Savvis Center",
+      "city": "St. Louis, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The APA (Faarooq and Bradshaw) (WWF) defeated Chris Kanyon and Hugh Morrus (Alliance)",
+          "stipulation": "Tag team match",
+          "time": "3:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Billy Kidman (c) (Alliance) defeated Scotty 2 Hotty (WWF)",
+          "stipulation": "Singles match for the WCW Cruiserweight Championship",
+          "time": "2:03",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Hardy Boyz (Matt and Jeff) (c) (with Lita) (WWF) defeated Lance Storm and The Hurricane (with Ivory and Mighty Molly) (Alliance)",
+          "stipulation": "Tag team match for the WCW Tag Team Championship",
+          "time": "7:41"
+        },
+        {
+          "match": "Test (Alliance) defeated Kane (WWF)",
+          "stipulation": "Singles match",
+          "time": "10:05"
+        },
+        {
+          "match": "Torrie Wilson (WWF) defeated Stacy Keibler (Alliance)",
+          "stipulation": "Lingerie match",
+          "time": "3:06"
+        },
+        {
+          "match": "Edge (WWF) defeated Christian (c) (Alliance)",
+          "stipulation": "Ladder match for the WWF Intercontinental Championship",
+          "time": "22:16"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray and D-Von) (c) (Alliance) defeated Big Show and Tajiri (WWF)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "9:19"
+        },
+        {
+          "match": "The Undertaker (WWF) defeated Booker T (Alliance)",
+          "stipulation": "Singles match",
+          "time": "12:13"
+        },
+        {
+          "match": "Chris Jericho (WWF) defeated The Rock (c) (WWF)",
+          "stipulation": "Singles match for the WCW Championship",
+          "time": "23:44"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin (c) (Alliance) defeated Kurt Angle (WWF) and Rob Van Dam (Alliance)",
+          "stipulation": "Triple threat match for the WWF Championship",
+          "time": "15:14"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-rebellion-2001",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "Rebellion",
+      "session": "ple",
+      "startsAt": "2001-11-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Manchester Evening News Arena",
+      "city": "Manchester, England",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Billy and Chuck (WWF) defeated Justin Credible and Lance Storm (Alliance) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "5:00",
+          "note": "dark"
+        },
+        {
+          "match": "Edge (c) (WWF) defeated Christian (Alliance) by escaping the cage",
+          "stipulation": "Steel Cage match for the WWF Intercontinental Championship",
+          "time": "12:49"
+        },
+        {
+          "match": "Scotty 2 Hotty (WWF) defeated The Hurricane (Alliance) by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:55"
+        },
+        {
+          "match": "Big Show (WWF) defeated Diamond Dallas Page (Alliance) by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:15"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) (c) (Alliance) defeated The APA (Faarooq and Bradshaw) (WWF) and The Hardy Boyz (Matt Hardy and Jeff Hardy) (WWF) by pinfall",
+          "stipulation": "Triple threat match for the WCW Tag Team Championship",
+          "time": "12:01"
+        },
+        {
+          "match": "William Regal (Alliance) defeated Tajiri (WWF) by submission",
+          "stipulation": "Singles match",
+          "time": "5:55"
+        },
+        {
+          "match": "Chris Jericho (c) (WWF) defeated Kurt Angle (Alliance) by pinfall",
+          "stipulation": "Singles match for the WCW Championship",
+          "time": "14:53"
+        },
+        {
+          "match": "Lita and Torrie Wilson (WWF) defeated Mighty Molly and Stacy Keibler (Alliance) by pinfall",
+          "stipulation": "Tag team match · Trish Stratus served as the special guest referee.",
+          "time": "4:16"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin (c) (Alliance) defeated The Rock (WWF) by pinfall",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "22:09"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-survivor-series-2001",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2001-11-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Greensboro Coliseum",
+      "city": "Greensboro, North Carolina",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Justin Credible, Lance Storm, and Raven (Alliance) defeated Albert, Scotty 2 Hotty, and Spike Dudley (WWF) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "5:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Christian (c) (Alliance) defeated Al Snow (WWF) by pinfall",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "6:30"
+        },
+        {
+          "match": "William Regal (Alliance) defeated Tajiri (WWF) by pinfall",
+          "stipulation": "Singles match",
+          "time": "2:59"
+        },
+        {
+          "match": "Edge (c - U.S.) (WWF) defeated Test (c - Intercontinental) (Alliance)",
+          "stipulation": "Unification match for the WCW United States Championship and WWF Intercontinental Championship",
+          "time": "11:19"
+        },
+        {
+          "match": "The Dudley Boyz (D-Von Dudley and Bubba Ray Dudley) (c - WCW) (with Stacy Keibler) (Alliance) defeated The Hardy Boyz (Jeff Hardy and Matt Hardy) (c - WWF) (WWF) by pinfall",
+          "stipulation": "Tag team Steel Cage Unification match for the WCW Tag Team Championship and WWF Tag Team Championship",
+          "time": "15:44"
+        },
+        {
+          "match": "Test (Alliance) won by last eliminating Billy Gunn (WWF)",
+          "stipulation": "Immunity Battle Royal",
+          "time": "7:37"
+        },
+        {
+          "match": "Trish Stratus (WWF) defeated Ivory (Alliance), Jazz (Alliance), Jacqueline (WWF), Lita (WWF) and Mighty Molly (Alliance) by pinfall",
+          "stipulation": "Six-Pack Challenge for the vacant WWF Women's Championship",
+          "time": "4:23"
+        },
+        {
+          "match": "Team WWF (The Rock, Chris Jericho, The Undertaker, Kane, and Big Show) defeated The Alliance (\"Stone Cold\" Steve Austin, Kurt Angle, Rob Van Dam, Booker T, and Shane McMahon)",
+          "stipulation": "Winners Take All 5-on-5 Survivor Series match · Since Team WWF won, Vince McMahon and Linda McMahon remained in full control of the World Wrestling Federation. Had The Alliance won, Shane McMahon and Stephanie McMahon would have gained full control of the company.",
+          "time": "44:47"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2001-vengeance-2001",
+      "competition": "wwe",
+      "season": "2001",
+      "title": "Vengeance",
+      "session": "ple",
+      "startsAt": "2001-12-09T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "San Diego Sports Arena",
+      "city": "San Diego, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The APA (Bradshaw and Faarooq) defeated Billy and Chuck",
+          "stipulation": "Tag team match",
+          "time": "3:46",
+          "note": "pre-show"
+        },
+        {
+          "match": "Scotty 2 Hotty and Albert defeated Christian and Test",
+          "stipulation": "Tag team match",
+          "time": "6:19"
+        },
+        {
+          "match": "Edge (c) defeated William Regal",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "9:06"
+        },
+        {
+          "match": "Jeff Hardy defeated Matt Hardy",
+          "stipulation": "Singles match with Lita as special guest referee",
+          "time": "12:30"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray and D-Von) (c) (with Stacy Keibler) defeated Big Show and Kane",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "6:50"
+        },
+        {
+          "match": "The Undertaker defeated Rob Van Dam (c)",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "11:04"
+        },
+        {
+          "match": "Trish Stratus (c) defeated Jacqueline",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "3:34"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin (c) defeated Kurt Angle",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "14:56"
+        },
+        {
+          "match": "Chris Jericho defeated The Rock (c)",
+          "stipulation": "Singles match for the WCW World Heavyweight Championship",
+          "time": "19:06"
+        },
+        {
+          "match": "Chris Jericho (WCW) defeated \"Stone Cold\" Steve Austin (WWF)",
+          "stipulation": "Unification match to unify the WWF Championship and the WCW World Heavyweight Championship as the Undisputed WWF Championship",
+          "time": "12:32"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

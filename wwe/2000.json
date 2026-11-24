@@ -1,0 +1,833 @@
+{
+  "competition": "wwe",
+  "season": "2000",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2000-royal-rumble-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2000-01-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Madison Square Garden",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Tazz defeated Kurt Angle by technical submission",
+          "stipulation": "Singles match",
+          "time": "3:16"
+        },
+        {
+          "match": "The Hardy Boyz (Jeff Hardy and Matt Hardy) defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley)",
+          "stipulation": "Tag team tables match",
+          "time": "10:17"
+        },
+        {
+          "match": "Chris Jericho (c) defeated Chyna (c) and Hardcore Holly by pinfall",
+          "stipulation": "Triple threat match for the Undisputed WWF Intercontinental Championship",
+          "time": "7:30"
+        },
+        {
+          "match": "The New Age Outlaws (Billy Gunn and Road Dogg) (c) defeated The Acolytes (Bradshaw and Faarooq) by pinfall",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "2:35"
+        },
+        {
+          "match": "Triple H (c) defeated Cactus Jack by pinfall",
+          "stipulation": "Street Fight for the WWF Championship",
+          "time": "26:55"
+        },
+        {
+          "match": "The Rock won by last eliminating Big Show",
+          "stipulation": "30-man Royal Rumble match for a WWF Championship match at WrestleMania 2000",
+          "time": "51:48"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-no-way-out-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "No Way Out",
+      "session": "ple",
+      "startsAt": "2000-02-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Hartford Civic Center",
+      "city": "Hartford, Connecticut",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kurt Angle defeated Chris Jericho (c) (with Chyna)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "10:15"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) defeated The New Age Outlaws (Road Dogg and Billy Gunn) (c)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "5:20"
+        },
+        {
+          "match": "Mark Henry (with Mae Young) defeated Viscera",
+          "stipulation": "Singles match",
+          "time": "3:48"
+        },
+        {
+          "match": "Edge and Christian defeated The Hardy Boyz (Jeff Hardy and Matt Hardy) (with Terri Runnels)",
+          "stipulation": "Tag team match to determine #1 contenders to the WWF Tag Team Championship",
+          "time": "16:55"
+        },
+        {
+          "match": "Tazz defeated Big Boss Man (with Prince Albert) by disqualification",
+          "stipulation": "Singles match",
+          "time": "0:47"
+        },
+        {
+          "match": "X-Pac (with Tori) defeated Kane (with Paul Bearer)",
+          "stipulation": "No Holds Barred match",
+          "time": "7:46"
+        },
+        {
+          "match": "Too Cool (Rikishi, Scotty 2 Hotty, and Grand Master Sexay) defeated The Radicalz (Chris Benoit, Dean Malenko, and Perry Saturn) (with Eddie Guerrero)",
+          "stipulation": "Six-man tag team match",
+          "time": "12:38"
+        },
+        {
+          "match": "Big Show defeated The Rock",
+          "stipulation": "Singles match to determine the #1 contender to the WWF Championship at WrestleMania 2000",
+          "time": "8:55"
+        },
+        {
+          "match": "Triple H (c) (with Stephanie McMahon-Helmsley) defeated Cactus Jack",
+          "stipulation": "Hell in a Cell Title vs. Career match for the WWF Championship · Since Cactus Jack lost, he was forced to retire.",
+          "time": "24:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-wrestlemania-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "WrestleMania 2000",
+      "session": "ple",
+      "startsAt": "2000-04-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Arrowhead Pond of Anaheim",
+      "city": "Anaheim, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Big Boss Man and Bull Buchanan defeated The Godfather and D'Lo Brown (with Ice-T and the Ho Train)",
+          "stipulation": "Tag team match",
+          "time": "9:08"
+        },
+        {
+          "match": "Hardcore Holly won by last defeating Crash Holly (c)",
+          "stipulation": "Hardcore battle royal for the WWF Hardcore Championship",
+          "time": "15:00"
+        },
+        {
+          "match": "T & A (Test and Albert) (with Trish Stratus) defeated Head Cheese (Al Snow and Steve Blackman) (with Chester McCheeserton)",
+          "stipulation": "Tag team match",
+          "time": "7:04"
+        },
+        {
+          "match": "Edge and Christian defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) (c) and The Hardy Boyz (Jeff Hardy and Matt Hardy)",
+          "stipulation": "Triangle ladder match for the WWF Tag Team Championship",
+          "time": "23:30"
+        },
+        {
+          "match": "Terri Runnels (with The Fabulous Moolah) defeated The Kat (with Mae Young)",
+          "stipulation": "Catfight · Val Venis was the special guest referee.",
+          "time": "2:24"
+        },
+        {
+          "match": "Chyna and Too Cool (Grand Master Sexay and Scotty 2 Hotty) defeated The Radicalz (Perry Saturn, Dean Malenko, and Eddie Guerrero)",
+          "stipulation": "Six-person intergender tag team match",
+          "time": "9:38"
+        },
+        {
+          "match": "First Fall (Intercontinental): · Chris Benoit defeated Chris Jericho (pinned) and Kurt Angle (c) · Second Fall (European): · Chris Jericho defeated Chris Benoit (pinned) and Kurt Angle (c)",
+          "stipulation": "Two-fall Triple threat match for the WWF Intercontinental Championship and WWF European Championship",
+          "time": "13:48"
+        },
+        {
+          "match": "Kane and Rikishi (with Paul Bearer) defeated D-Generation X (X-Pac and Road Dogg) (with Tori)",
+          "stipulation": "Tag team match",
+          "time": "4:00"
+        },
+        {
+          "match": "Triple H (c) (with Stephanie McMahon-Helmsley) defeated The Rock (with Mr. McMahon), Mick Foley (with Linda McMahon) and Big Show (with Shane McMahon)",
+          "stipulation": "Fatal 4-Way elimination match for the WWF Championship",
+          "time": "38:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-wwf-backlash-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2000-04-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "MCI Center",
+      "city": "Washington, D.C.",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Edge and Christian (c) defeated D-Generation X (Road Dogg and X-Pac) (with Tori)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "8:37"
+        },
+        {
+          "match": "Dean Malenko (c) defeated Scotty 2 Hotty",
+          "stipulation": "Singles match for the WWF Light Heavyweight Championship",
+          "time": "11:47"
+        },
+        {
+          "match": "Bull Buchanan and Big Boss Man defeated The APA (Bradshaw and Faarooq)",
+          "stipulation": "Tag team match",
+          "time": "8:37"
+        },
+        {
+          "match": "Crash Holly (c) defeated Hardcore Holly, Jeff Hardy, Matt Hardy, Perry Saturn, and Tazz",
+          "stipulation": "Six-pack Hardcore match for the WWF Hardcore Championship",
+          "time": "12:18"
+        },
+        {
+          "match": "Big Show defeated Kurt Angle",
+          "stipulation": "Singles match",
+          "time": "2:35"
+        },
+        {
+          "match": "T & A (Test and Albert) (with Trish Stratus) defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley)",
+          "stipulation": "Tag team match",
+          "time": "11:06"
+        },
+        {
+          "match": "Eddie Guerrero (c) (with Chyna) defeated Essa Rios (with Lita)",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "8:38"
+        },
+        {
+          "match": "Chris Benoit (c) defeated Chris Jericho by disqualification",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "15:03"
+        },
+        {
+          "match": "The Rock defeated Triple H (c) (with Mr. McMahon and Stephanie McMahon-Helmsley)",
+          "stipulation": "Singles match for the WWF Championship · Shane McMahon was the special guest referee.",
+          "time": "19:22"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-insurrextion-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "Insurrextion",
+      "session": "ple",
+      "startsAt": "2000-05-06T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Earls Court Exhibition Centre",
+      "city": "London, England",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Too Cool (Scotty 2 Hotty and Grand Master Sexay) defeated The Radicalz (Perry Saturn and Dean Malenko)",
+          "stipulation": "Tag team match",
+          "time": "7:00"
+        },
+        {
+          "match": "Kane (with Paul Bearer) defeated Bull Buchanan",
+          "stipulation": "Singles match",
+          "time": "3:31"
+        },
+        {
+          "match": "Road Dogg (with Tori) defeated Bradshaw",
+          "stipulation": "Singles match",
+          "time": "5:58"
+        },
+        {
+          "match": "The Kat (with Mae Young) defeated Terri Runnels (with The Fabulous Moolah)",
+          "stipulation": "Arm Wrestling match",
+          "time": "0:34"
+        },
+        {
+          "match": "Rikishi and Big Show defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley)",
+          "stipulation": "Tag team match",
+          "time": "7:10"
+        },
+        {
+          "match": "Kurt Angle defeated Chris Benoit",
+          "stipulation": "Singles match",
+          "time": "6:04"
+        },
+        {
+          "match": "The British Bulldog defeated Crash Holly (c)",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "3:37"
+        },
+        {
+          "match": "The Hardy Boyz (Jeff Hardy and Matt Hardy) defeated Edge and Christian (c) by disqualification",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "12:53"
+        },
+        {
+          "match": "Eddie Guerrero (c) (with Chyna) defeated Chris Jericho",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "12:56"
+        },
+        {
+          "match": "The Rock (c) defeated Triple H (with Stephanie McMahon-Helmsley) and Shane McMahon (with Mr. McMahon)",
+          "stipulation": "Triple threat match for the WWF Championship",
+          "time": "15:37"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-wwf-judgment-day-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "Judgment Day",
+      "session": "ple",
+      "startsAt": "2000-05-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Freedom Hall",
+      "city": "Louisville, Kentucky",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Too Cool (Grand Master Sexay, Rikishi, and Scotty 2 Hotty) defeated Team ECK (Edge, Christian, and Kurt Angle) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "9:47"
+        },
+        {
+          "match": "Eddie Guerrero (c) (with Chyna) defeated Dean Malenko and Perry Saturn by pinfall",
+          "stipulation": "Triple threat match for the WWF European Championship",
+          "time": "7:56"
+        },
+        {
+          "match": "Shane McMahon defeated Big Show by pinfall",
+          "stipulation": "Falls Count Anywhere match",
+          "time": "7:11"
+        },
+        {
+          "match": "Chris Benoit (c) defeated Chris Jericho by technical submission",
+          "stipulation": "Submission match for the WWF Intercontinental Championship",
+          "time": "13:22"
+        },
+        {
+          "match": "D-Generation X (Road Dogg and X-Pac) (with Tori) defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley)",
+          "stipulation": "Tag team tables match",
+          "time": "10:55"
+        },
+        {
+          "match": "Triple H (with Shane McMahon, Stephanie McMahon-Helmsley, and Mr. McMahon) defeated The Rock (c) by 6–5",
+          "stipulation": "60-minute Iron Man match for the WWF Championship · Shawn Michaels was the special guest referee."
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-king-of-the-ring-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "King of the Ring",
+      "session": "ple",
+      "startsAt": "2000-06-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "FleetCenter",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rikishi defeated Chris Benoit by disqualification",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "3:25"
+        },
+        {
+          "match": "Val Venis (with Trish Stratus) defeated Eddie Guerrero (with Chyna)",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "8:04"
+        },
+        {
+          "match": "Crash Holly defeated Bull Buchanan",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "4:07"
+        },
+        {
+          "match": "Kurt Angle defeated Chris Jericho",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "9:50"
+        },
+        {
+          "match": "Edge and Christian defeated Too Cool (Grand Master Sexay and Scotty 2 Hotty) (c), The Hardy Boyz (Jeff Hardy and Matt Hardy) (with Lita), and T & A (Test and Albert) (with Trish Stratus)",
+          "stipulation": "Fatal 4-Way Elimination match for the WWF Tag Team Championship",
+          "time": "14:11"
+        },
+        {
+          "match": "Rikishi defeated Val Venis (with Trish Stratus)",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "3:15"
+        },
+        {
+          "match": "Kurt Angle defeated Crash Holly",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "3:58"
+        },
+        {
+          "match": "Pat Patterson (c) vs. Gerald Brisco ended when Crash Holly pinned Patterson",
+          "stipulation": "Hardcore Evening gown match for the WWF Hardcore Championship",
+          "time": "3:07"
+        },
+        {
+          "match": "D-Generation X (Tori, Road Dogg, and X-Pac) defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley)",
+          "stipulation": "2-on-3 Handicap Tables Dumpster match",
+          "time": "9:45"
+        },
+        {
+          "match": "Kurt Angle defeated Rikishi",
+          "stipulation": "King of the Ring final match",
+          "time": "5:56"
+        },
+        {
+          "match": "The Rock and The Brothers of Destruction (Kane and The Undertaker) defeated The McMahon-Helmsley Faction (Triple H (c), Vince McMahon, and Shane McMahon) (with Stephanie McMahon-Helmsley)",
+          "stipulation": "Six-man tag team match for the WWF Championship · If Triple H, Vince, or Shane got pinned or submitted, Triple H would lose the title to whoever scored the pin or submission. The Rock won the championship by pinning Vince.",
+          "time": "17:54"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-fully-loaded-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "Fully Loaded",
+      "session": "ple",
+      "startsAt": "2000-07-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Reunion Arena",
+      "city": "Dallas, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Team Xtreme (Jeff Hardy, Matt Hardy, and Lita) defeated T & A (Test and Albert) and Trish Stratus",
+          "stipulation": "Six-person intergender tag team match",
+          "time": "13:12"
+        },
+        {
+          "match": "Tazz defeated Al Snow (with Head) by submission",
+          "stipulation": "Singles match",
+          "time": "5:20"
+        },
+        {
+          "match": "Perry Saturn (with Terri) defeated Eddie Guerrero (c) (with Chyna)",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "8:10"
+        },
+        {
+          "match": "The APA (Faarooq and Bradshaw) defeated Edge and Christian (c) by disqualification",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "5:29"
+        },
+        {
+          "match": "Val Venis (c) (with Trish Stratus) defeated Rikishi",
+          "stipulation": "Steel Cage match for the WWF Intercontinental Championship",
+          "time": "14:10"
+        },
+        {
+          "match": "The Undertaker defeated Kurt Angle",
+          "stipulation": "Singles match",
+          "time": "7:34"
+        },
+        {
+          "match": "Triple H (with Stephanie McMahon-Helmsley) defeated Chris Jericho",
+          "stipulation": "Last Man Standing match",
+          "time": "23:11"
+        },
+        {
+          "match": "The Rock (c) defeated Chris Benoit (with Shane McMahon)",
+          "stipulation": "Singles match for the WWF Championship · If The Rock was disqualified, he would have lost the title.",
+          "time": "22:09"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-summerslam-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2000-08-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Raleigh Entertainment and Sports Arena",
+      "city": "Raleigh, North Carolina",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Right to Censor (Steven Richards, Bull Buchanan and The Goodfather) defeated Too Cool (Scotty 2 Hotty, Grand Master Sexay and Rikishi)",
+          "stipulation": "Six-man tag team match",
+          "time": "4:57"
+        },
+        {
+          "match": "X-Pac defeated Road Dogg",
+          "stipulation": "Singles match",
+          "time": "4:31"
+        },
+        {
+          "match": "Eddie Guerrero and Chyna defeated Val Venis (c) and Trish Stratus",
+          "stipulation": "Intergender tag team match for the WWF Intercontinental Championship",
+          "time": "7:04"
+        },
+        {
+          "match": "Jerry Lawler defeated Tazz",
+          "stipulation": "Singles match",
+          "time": "4:21"
+        },
+        {
+          "match": "Steve Blackman defeated Shane McMahon (c)",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "10:17"
+        },
+        {
+          "match": "Chris Benoit defeated Chris Jericho 2-1",
+          "stipulation": "Two-out-of-three falls match",
+          "time": "13:01"
+        },
+        {
+          "match": "Edge and Christian (c) defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) and The Hardy Boyz (Matt Hardy and Jeff Hardy)",
+          "stipulation": "Tables, Ladders and Chairs match for the WWF Tag Team Championship",
+          "time": "15:28"
+        },
+        {
+          "match": "The Kat (with Al Snow) defeated Terri (with Perry Saturn)",
+          "stipulation": "Stinkface match",
+          "time": "3:07"
+        },
+        {
+          "match": "The Undertaker vs. Kane ended in a no contest",
+          "stipulation": "Singles match",
+          "time": "7:33"
+        },
+        {
+          "match": "The Rock (c) defeated Triple H and Kurt Angle",
+          "stipulation": "Triple threat match for the WWF Championship",
+          "time": "20:11"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-unforgiven-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "Unforgiven",
+      "session": "ple",
+      "startsAt": "2000-09-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "First Union Center",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Right to Censor (Bull Buchanan, The Goodfather, Steven Richards and Val Venis) defeated The APA (Bradshaw and Faarooq) and The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley)",
+          "stipulation": "Eight-man tag team match",
+          "time": "6:05"
+        },
+        {
+          "match": "Tazz defeated Jerry Lawler by technical submission",
+          "stipulation": "Strap match",
+          "time": "5:07"
+        },
+        {
+          "match": "Steve Blackman (c) won by last defeating Perry Saturn (with Terri)",
+          "stipulation": "10 Minute Open Invitational WWF Hardcore Championship",
+          "time": "10:00"
+        },
+        {
+          "match": "Chris Jericho defeated X-Pac by submission",
+          "stipulation": "Singles match",
+          "time": "9:05"
+        },
+        {
+          "match": "The Hardy Boyz (Jeff Hardy and Matt Hardy) (with Lita) defeated Edge and Christian (c) by escaping the cage",
+          "stipulation": "Steel Cage match for the WWF Tag Team Championship",
+          "time": "14:00"
+        },
+        {
+          "match": "Eddie Guerrero (c) (with Chyna) defeated Rikishi by disqualification",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "6:10"
+        },
+        {
+          "match": "Triple H (with Stephanie McMahon-Helmsley) defeated Kurt Angle",
+          "stipulation": "No Disqualification match with Mick Foley as special guest referee",
+          "time": "17:28"
+        },
+        {
+          "match": "The Rock (c) defeated Chris Benoit, Kane and The Undertaker",
+          "stipulation": "Fatal 4-Way match for the WWF Championship",
+          "time": "16:03"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-no-mercy-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "2000-10-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Pepsi Arena",
+      "city": "Albany, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) won by last eliminating Right to Censor (The Goodfather and Bull Buchanan)",
+          "stipulation": "Dudley Boyz Invitational Tables match",
+          "time": "12:18"
+        },
+        {
+          "match": "Chris Jericho defeated X-Pac",
+          "stipulation": "Steel Cage match",
+          "time": "10:40"
+        },
+        {
+          "match": "Right to Censor (Steven Richards and Val Venis) defeated Chyna and Billy Gunn",
+          "stipulation": "Tag team match",
+          "time": "7:10"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin vs. Rikishi ended in a no contest",
+          "stipulation": "No Holds Barred match",
+          "time": "10:30"
+        },
+        {
+          "match": "William Regal (c) defeated Naked Mideon",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "6:02"
+        },
+        {
+          "match": "Los Conquistadores (Uno and Dos) defeated The Hardy Boyz (Matt Hardy and Jeff Hardy) (c)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "10:58"
+        },
+        {
+          "match": "Triple H defeated Chris Benoit",
+          "stipulation": "Singles match",
+          "time": "18:44"
+        },
+        {
+          "match": "Kurt Angle (with Stephanie McMahon-Helmsley) defeated The Rock (c)",
+          "stipulation": "No Disqualification match for the WWF Championship",
+          "time": "21:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-survivor-series-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2000-11-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Ice Palace",
+      "city": "Tampa, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Val Venis (with Bull Buchanan, Christian, Edge and The Goodfather) defeated Jeff Hardy (with Bubba Ray Dudley, D-Von Dudley, Lita and Matt Hardy)",
+          "stipulation": "Singles match",
+          "time": "8:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "Steve Blackman, Crash Holly and Molly Holly defeated T & A (Albert and Test) and Trish Stratus",
+          "stipulation": "Six-person intergender tag team match",
+          "time": "5:06"
+        },
+        {
+          "match": "The Radicalz (Eddie Guerrero, Chris Benoit, Dean Malenko and Perry Saturn) (with Terri) defeated Billy Gunn, Chyna, K-Kwik and Road Dogg",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "12:41"
+        },
+        {
+          "match": "Kane defeated Chris Jericho",
+          "stipulation": "Singles match",
+          "time": "12:35"
+        },
+        {
+          "match": "William Regal (c) defeated Hardcore Holly by disqualification",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "5:06"
+        },
+        {
+          "match": "The Rock defeated Rikishi",
+          "stipulation": "Singles match",
+          "time": "13:00"
+        },
+        {
+          "match": "Ivory (c) defeated Lita",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "4:55"
+        },
+        {
+          "match": "Kurt Angle (c) defeated The Undertaker",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "16:15"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) and The Hardy Boyz (Jeff Hardy and Matt Hardy) defeated Edge and Christian and Right to Censor (Bull Buchanan and The Goodfather) (with Val Venis)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "10:04"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin vs. Triple H ended in a no contest",
+          "stipulation": "No Disqualification match",
+          "time": "25:09"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-rebellion-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "Rebellion",
+      "session": "ple",
+      "startsAt": "2000-12-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Sheffield Arena",
+      "city": "Sheffield, England",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Val Venis defeated Bradshaw",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) defeated Edge and Christian and T & A (Test and Albert) (with Trish Stratus)",
+          "stipulation": "Elimination tables match",
+          "time": "9:55"
+        },
+        {
+          "match": "Ivory (c) (with Steven Richards) defeated Lita",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "2:57"
+        },
+        {
+          "match": "Steve Blackman (c) defeated Perry Saturn",
+          "stipulation": "Hardcore match for the WWF Hardcore Championship",
+          "time": "6:02"
+        },
+        {
+          "match": "Crash Holly (with Molly Holly) defeated William Regal (c)",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "4:59"
+        },
+        {
+          "match": "Billy Gunn and Chyna defeated Dean Malenko and Eddie Guerrero",
+          "stipulation": "Tag team match",
+          "time": "7:26"
+        },
+        {
+          "match": "Kane defeated Chris Jericho",
+          "stipulation": "Singles match",
+          "time": "8:06"
+        },
+        {
+          "match": "Right to Censor (Bull Buchanan and The Goodfather) (c) (with Val Venis) defeated The Hardy Boyz (Matt Hardy and Jeff Hardy)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "8:08"
+        },
+        {
+          "match": "The Undertaker defeated Chris Benoit",
+          "stipulation": "Singles match",
+          "time": "12:18"
+        },
+        {
+          "match": "Kurt Angle (c) defeated Rikishi, The Rock, and \"Stone Cold\" Steve Austin",
+          "stipulation": "Fatal 4-Way match for the WWF Championship",
+          "time": "8:51"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2000-armageddon-2000",
+      "competition": "wwe",
+      "season": "2000",
+      "title": "Armageddon",
+      "session": "ple",
+      "startsAt": "2000-12-10T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Birmingham–Jefferson Civic Center",
+      "city": "Birmingham, Alabama",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Scotty 2 Hotty (with Grand Master Sexay) defeated D'Lo Brown (with Chaz and Tiger Ali Singh) by pinfall",
+          "stipulation": "Singles match",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Radicalz (Dean Malenko, Eddie Guerrero, and Perry Saturn) (with Terri) defeated Team Xtreme (Jeff Hardy, Matt Hardy, and Lita)",
+          "stipulation": "Intergender elimination tag team match",
+          "time": "8:06"
+        },
+        {
+          "match": "William Regal (c) defeated Hardcore Holly by pinfall",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "5:00"
+        },
+        {
+          "match": "Val Venis (with Ivory) defeated Chyna by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:59"
+        },
+        {
+          "match": "Chris Jericho defeated Kane",
+          "stipulation": "Last Man Standing match",
+          "time": "17:16"
+        },
+        {
+          "match": "Edge and Christian defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley), K-Kwik and Road Dogg, and Right to Censor (Bull Buchanan and The Goodfather) (c) (with Steven Richards) by pinfall",
+          "stipulation": "Fatal four-way match for the WWF Tag Team Championship",
+          "time": "9:42"
+        },
+        {
+          "match": "Chris Benoit defeated Billy Gunn (c) by submission",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "10:03"
+        },
+        {
+          "match": "Ivory (c) defeated Molly Holly and Trish Stratus by pinfall",
+          "stipulation": "Triple threat match for the WWF Women's Championship",
+          "time": "2:12"
+        },
+        {
+          "match": "Kurt Angle (c) defeated The Rock, Rikishi, \"Stone Cold\" Steve Austin, Triple H, and The Undertaker by pinfall",
+          "stipulation": "6-Man Hell in a Cell match for the WWF Championship",
+          "time": "32:12"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

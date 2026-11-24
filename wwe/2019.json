@@ -1,0 +1,1224 @@
+{
+  "competition": "wwe",
+  "season": "2019",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2019-royal-rumble-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2019-01-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Chase Field",
+      "city": "Phoenix, Arizona",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bobby Roode and Chad Gable defeated Scott Dawson and Rezar (with Drake Maverick) by pinfall",
+          "stipulation": "Tag team match · Had Dawson and Rezar won, both The Revival and AOP would have received a Raw Tag Team Championship match.",
+          "time": "6:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "Shinsuke Nakamura defeated Rusev (c) (with Lana) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "10:15",
+          "note": "pre-show"
+        },
+        {
+          "match": "Buddy Murphy (c) defeated Kalisto, Akira Tozawa, and Hideo Itami by pinfall",
+          "stipulation": "Fatal four-way match for the WWE Cruiserweight Championship",
+          "time": "12:05",
+          "note": "pre-show"
+        },
+        {
+          "match": "Asuka (c) defeated Becky Lynch by submission",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "17:10"
+        },
+        {
+          "match": "The Miz and Shane McMahon defeated The Bar (Cesaro and Sheamus) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "13:20"
+        },
+        {
+          "match": "Ronda Rousey (c) defeated Sasha Banks by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "13:55"
+        },
+        {
+          "match": "Becky Lynch won by last eliminating Charlotte Flair",
+          "stipulation": "30-woman Royal Rumble match for a world championship match at WrestleMania 35"
+        },
+        {
+          "match": "Daniel Bryan (c) defeated AJ Styles by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "24:35"
+        },
+        {
+          "match": "Brock Lesnar (c) (with Paul Heyman) defeated Finn Bálor by submission",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "8:40"
+        },
+        {
+          "match": "Seth Rollins won by last eliminating Braun Strowman",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 35",
+          "time": "57:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-elimination-chamber-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2019-02-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Toyota Center",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Buddy Murphy (c) defeated Akira Tozawa by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "13:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Boss 'n' Hug Connection (Bayley and Sasha Banks) defeated Carmella and Naomi, Mandy Rose and Sonya Deville, Nia Jax and Tamina, The IIconics (Billie Kay and Peyton Royce), and The Riott Squad (Liv Morgan and Sarah Logan)",
+          "stipulation": "Elimination Chamber match for the inaugural WWE Women's Tag Team Championship",
+          "time": "33:00"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) defeated The Miz and Shane McMahon (c) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "14:10"
+        },
+        {
+          "match": "Finn Bálor defeated Bobby Lashley (c) and Lio Rush by pinfall",
+          "stipulation": "Handicap match for the WWE Intercontinental Championship",
+          "time": "9:30"
+        },
+        {
+          "match": "Ronda Rousey (c) defeated Ruby Riott by submission",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "1:40"
+        },
+        {
+          "match": "Baron Corbin defeated Braun Strowman by pinfall",
+          "stipulation": "No Disqualification match",
+          "time": "10:50"
+        },
+        {
+          "match": "Daniel Bryan (c) defeated AJ Styles, Jeff Hardy, Randy Orton, Samoa Joe, and Kofi Kingston",
+          "stipulation": "Elimination Chamber match for the WWE Championship",
+          "time": "36:40"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-fastlane-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Fastlane",
+      "session": "ple",
+      "startsAt": "2019-03-10T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Quicken Loans Arena",
+      "city": "Cleveland, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The New Day (Big E and Xavier Woods) defeated Shinsuke Nakamura and Rusev (with Lana) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "13:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated The Miz and Shane McMahon by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "14:10"
+        },
+        {
+          "match": "Asuka (c) defeated Mandy Rose (with Sonya Deville) by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "6:40"
+        },
+        {
+          "match": "The Bar (Cesaro and Sheamus) defeated Kofi Kingston by pinfall",
+          "stipulation": "Handicap match",
+          "time": "5:15"
+        },
+        {
+          "match": "The Revival (Scott Dawson and Dash Wilder) (c) defeated Bobby Roode & Chad Gable and Aleister Black & Ricochet by pinfall",
+          "stipulation": "Triple threat match for the WWE Raw Tag Team Championship",
+          "time": "10:50"
+        },
+        {
+          "match": "Samoa Joe (c) defeated Andrade (with Zelina Vega), R-Truth (with Carmella), and Rey Mysterio by technical submission",
+          "stipulation": "Fatal four-way match for the WWE United States Championship",
+          "time": "10:50"
+        },
+        {
+          "match": "The Boss 'n' Hug Connection (Bayley and Sasha Banks) (c) defeated Nia Jax and Tamina by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "7:05"
+        },
+        {
+          "match": "Daniel Bryan (c) (with Rowan) defeated Kevin Owens and Mustafa Ali by pinfall",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "18:45"
+        },
+        {
+          "match": "Becky Lynch defeated Charlotte Flair by disqualification",
+          "stipulation": "Singles match",
+          "time": "8:45"
+        },
+        {
+          "match": "The Shield (Dean Ambrose, Seth Rollins, and Roman Reigns) defeated Baron Corbin, Bobby Lashley, and Drew McIntyre by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "24:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-wrestlemania-35",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "WrestleMania 35",
+      "session": "ple",
+      "startsAt": "2019-04-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Tony Nese defeated Buddy Murphy (c) by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "10:40",
+          "note": "pre-show"
+        },
+        {
+          "match": "Carmella won by last eliminating Sarah Logan",
+          "stipulation": "17-woman WrestleMania Women's Battle Royal for the WrestleMania Women's Battle Royal Trophy",
+          "time": "10:30",
+          "note": "pre-show"
+        },
+        {
+          "match": "Curt Hawkins and Zack Ryder defeated The Revival (Dash Wilder and Scott Dawson) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "13:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Braun Strowman won by last eliminating Colin Jost",
+          "stipulation": "30-man André the Giant Memorial Battle Royal for the André the Giant Memorial Trophy",
+          "time": "10:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Seth Rollins defeated Brock Lesnar (c) (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "2:30"
+        },
+        {
+          "match": "AJ Styles defeated Randy Orton by pinfall",
+          "stipulation": "Singles match",
+          "time": "16:20"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated Aleister Black and Ricochet, Rusev and Shinsuke Nakamura, and The Bar (Cesaro and Sheamus) by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "10:10"
+        },
+        {
+          "match": "Shane McMahon defeated The Miz by pinfall",
+          "stipulation": "Falls Count Anywhere match",
+          "time": "15:30"
+        },
+        {
+          "match": "The IIconics (Billie Kay and Peyton Royce) defeated The Boss 'n' Hug Connection (Bayley and Sasha Banks) (c), Nia Jax and Tamina, and Beth Phoenix and Natalya by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE Women's Tag Team Championship",
+          "time": "10:45"
+        },
+        {
+          "match": "Kofi Kingston (with Xavier Woods and Big E) defeated Daniel Bryan (c) (with Rowan) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "23:45"
+        },
+        {
+          "match": "Samoa Joe (c) defeated Rey Mysterio by technical submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "0:58"
+        },
+        {
+          "match": "Roman Reigns defeated Drew McIntyre by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:10"
+        },
+        {
+          "match": "Triple H defeated Batista by pinfall",
+          "stipulation": "No Holds Barred match · Had Triple H lost, he would have been forced to retire from in-ring competition.",
+          "time": "24:45"
+        },
+        {
+          "match": "Baron Corbin defeated Kurt Angle by pinfall",
+          "stipulation": "Singles match · This was Kurt Angle's retirement match.",
+          "time": "6:05"
+        },
+        {
+          "match": "\"The Demon\" Finn Bálor defeated Bobby Lashley (c) (with Lio Rush) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "4:05"
+        },
+        {
+          "match": "Becky Lynch defeated Ronda Rousey (c-Raw) and Charlotte Flair (c-SmackDown) by pinfall",
+          "stipulation": "Winner Takes All triple threat match for the WWE Raw Women's Championship and the WWE SmackDown Women's Championship",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-the-shield-s-final-chapter",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "The Shield's Final Chapter",
+      "session": "ple",
+      "startsAt": "2019-04-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "TaxSlayer Center",
+      "city": "Moline, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Zack Ryder and Curt Hawkins (c) defeated The Revival (Scott Dawson and Dash Wilder) and Aleister Black and Ricochet by pinfall",
+          "stipulation": "Triple threat tag team match for the WWE Raw Tag Team Championship",
+          "note": "dark"
+        },
+        {
+          "match": "Tony Nese (c) defeated Buddy Murphy by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "note": "dark"
+        },
+        {
+          "match": "Lucha House Party (Gran Metalik, Kalisto, and Lince Dorado) vs. Jinder Mahal and The Singh Brothers (Sunil Singh and Samir Singh) ended in a no contest",
+          "stipulation": "Six-man tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "Alexa Bliss and Lacey Evans defeated Dana Brooke and Nikki Cross by pinfall",
+          "stipulation": "Tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "Finn Bálor (c) defeated Elias by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "6:35"
+        },
+        {
+          "match": "Bayley and Ember Moon defeated The Riott Squad (Ruby Riott and Sarah Logan) (with Liv Morgan) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "7:15"
+        },
+        {
+          "match": "The Shield (Dean Ambrose, Seth Rollins, and Roman Reigns) defeated Baron Corbin, Bobby Lashley, and Drew McIntyre by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "14:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-money-in-the-bank-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2019-05-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "XL Center",
+      "city": "Hartford, Connecticut",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) defeated Daniel Bryan and Rowan by pinfall",
+          "stipulation": "Tag team match",
+          "time": "11:05",
+          "note": "pre-show"
+        },
+        {
+          "match": "Bayley defeated Carmella, Dana Brooke, Ember Moon, Mandy Rose (with Sonya Deville), Naomi, Natalya, and Nikki Cross",
+          "stipulation": "Money in the Bank ladder match for a women's championship match contract",
+          "time": "13:50"
+        },
+        {
+          "match": "Rey Mysterio defeated Samoa Joe (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "1:40"
+        },
+        {
+          "match": "Shane McMahon defeated The Miz by escaping the cage",
+          "stipulation": "Steel Cage match",
+          "time": "13:00"
+        },
+        {
+          "match": "Tony Nese (c) defeated Ariya Daivari by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "9:25"
+        },
+        {
+          "match": "Becky Lynch (c) defeated Lacey Evans by submission",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "8:40"
+        },
+        {
+          "match": "Charlotte Flair defeated Becky Lynch (c) by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "6:15"
+        },
+        {
+          "match": "Bayley defeated Charlotte Flair (c) by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship · This was Bayley's Money in the Bank cash-in match.",
+          "time": "0:20"
+        },
+        {
+          "match": "Roman Reigns defeated Elias by pinfall",
+          "stipulation": "Singles match",
+          "time": "0:08"
+        },
+        {
+          "match": "Seth Rollins (c) defeated AJ Styles by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "19:45"
+        },
+        {
+          "match": "Kofi Kingston (c) defeated Kevin Owens by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "14:10"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Ali, Andrade, Baron Corbin, Drew McIntyre, Finn Bálor, Randy Orton, and Ricochet",
+          "stipulation": "Money in the Bank ladder match for a world championship match contract",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-super-showdown-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Super ShowDown",
+      "session": "ple",
+      "startsAt": "2019-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "King Abdullah International Stadium",
+      "city": "Jeddah, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) defeated The Revival (Scott Dawson and Dash Wilder) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "7:15",
+          "note": "pre-show"
+        },
+        {
+          "match": "Seth Rollins (c) defeated Baron Corbin by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "11:15"
+        },
+        {
+          "match": "\"The Demon\" Finn Bálor (c) defeated Andrade by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "11:35"
+        },
+        {
+          "match": "Shane McMahon defeated Roman Reigns by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:15"
+        },
+        {
+          "match": "Lars Sullivan defeated Lucha House Party (Gran Metalik, Kalisto, and Lince Dorado) by disqualification",
+          "stipulation": "3-on-1 Handicap match",
+          "time": "5:15"
+        },
+        {
+          "match": "Randy Orton defeated Triple H by pinfall",
+          "stipulation": "Singles match",
+          "time": "25:45"
+        },
+        {
+          "match": "Braun Strowman defeated Bobby Lashley by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:20"
+        },
+        {
+          "match": "Kofi Kingston (c) (with Xavier Woods) defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "10:15"
+        },
+        {
+          "match": "Mansoor won by last eliminating Elias",
+          "stipulation": "51-Man Battle Royal",
+          "time": "17:58"
+        },
+        {
+          "match": "The Undertaker defeated Goldberg by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-wwe-stomping-grounds",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Stomping Grounds",
+      "session": "ple",
+      "startsAt": "2019-06-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Tacoma Dome",
+      "city": "Tacoma, Washington",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Drew Gulak defeated Tony Nese (c) and Akira Tozawa by pinfall",
+          "stipulation": "Triple threat match for the WWE Cruiserweight Championship",
+          "time": "11:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Becky Lynch (c) defeated Lacey Evans by submission",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "11:30"
+        },
+        {
+          "match": "Kevin Owens and Sami Zayn defeated The New Day (Big E and Xavier Woods) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "11:05"
+        },
+        {
+          "match": "Ricochet defeated Samoa Joe (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "12:25"
+        },
+        {
+          "match": "Daniel Bryan and Rowan (c) defeated Heavy Machinery (Otis and Tucker) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "14:25"
+        },
+        {
+          "match": "Bayley (c) defeated Alexa Bliss (with Nikki Cross) by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "10:35"
+        },
+        {
+          "match": "Roman Reigns defeated Drew McIntyre (with Shane McMahon) by pinfall",
+          "stipulation": "Singles match",
+          "time": "17:20"
+        },
+        {
+          "match": "Kofi Kingston (c) defeated Dolph Ziggler by escaping the cage",
+          "stipulation": "Steel Cage match for the WWE Championship",
+          "time": "20:00"
+        },
+        {
+          "match": "Seth Rollins (c) defeated Baron Corbin by pinfall",
+          "stipulation": "No Countout, No Disqualification match for the WWE Universal Championship · Lacey Evans was the special guest referee.",
+          "time": "18:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-evolve-131",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Evolve 131: 10th Anniversary Celebration",
+      "session": "ple",
+      "startsAt": "2019-07-13T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "2300 Arena",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Josh Briggs defeated Anthony Greene (with Brandi Lauren)",
+          "stipulation": "Singles match · The Future Is Now Showcase match",
+          "time": "11:49"
+        },
+        {
+          "match": "Stephen Wolf defeated Curt Stallion, Sean Maluta, and Harlem Bravado",
+          "stipulation": "Fatal four-way match",
+          "time": "9:19"
+        },
+        {
+          "match": "Arturo Ruas defeated Anthony Henry",
+          "stipulation": "Grudge match",
+          "time": "9:45"
+        },
+        {
+          "match": "Brandi Lauren defeated Shotzi Blackheart",
+          "stipulation": "No Disqualification match",
+          "time": "9:49"
+        },
+        {
+          "match": "Babatunde defeated Colby Corino",
+          "stipulation": "Singles match · Special Challenge match",
+          "time": "3:09"
+        },
+        {
+          "match": "A. R. Fox and Leon Ruff (with Ayla and The Skulk) defeated The UnWanted (Eddie Kingston and Joe Gacy) (c)",
+          "stipulation": "Tag team match for the Evolve Tag Team Championship",
+          "time": "5:25"
+        },
+        {
+          "match": "Matt Riddle (with Curt Stallion) defeated Drew Gulak",
+          "stipulation": "Singles match · Catch Point Reunion match",
+          "time": "13:37"
+        },
+        {
+          "match": "Austin Theory (c – Evolve) defeated JD Drake (c – WWN)",
+          "stipulation": "Winner Takes All match for both the WWN Championship and Evolve Championship",
+          "time": "16:22"
+        },
+        {
+          "match": "Adam Cole (c) defeated Akira Tozawa",
+          "stipulation": "Singles match for the NXT Championship",
+          "time": "13:15"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-extreme-rules-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2019-07-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Wells Fargo Center",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Shinsuke Nakamura defeated Finn Bálor (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "7:40",
+          "note": "pre-show"
+        },
+        {
+          "match": "Drew Gulak (c) defeated Tony Nese by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "7:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Undertaker and Roman Reigns defeated Shane McMahon and Drew McIntyre by pinfall",
+          "stipulation": "No Holds Barred Tag team match",
+          "time": "17:00"
+        },
+        {
+          "match": "The Revival (Scott Dawson and Dash Wilder) (c) defeated The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "12:35"
+        },
+        {
+          "match": "Aleister Black defeated Cesaro by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:45"
+        },
+        {
+          "match": "Bayley (c) defeated Nikki Cross and Alexa Bliss by pinfall",
+          "stipulation": "Handicap match for the WWE SmackDown Women's Championship",
+          "time": "10:30"
+        },
+        {
+          "match": "Braun Strowman defeated Bobby Lashley",
+          "stipulation": "Last Man Standing match",
+          "time": "17:30"
+        },
+        {
+          "match": "The New Day (Big E and Xavier Woods) defeated Daniel Bryan and Rowan (c) and Heavy Machinery (Otis and Tucker) by pinfall",
+          "stipulation": "Triple threat tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "14:00"
+        },
+        {
+          "match": "AJ Styles (with Luke Gallows and Karl Anderson) defeated Ricochet (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "16:30"
+        },
+        {
+          "match": "Kevin Owens defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match",
+          "time": "0:17"
+        },
+        {
+          "match": "Kofi Kingston (c) defeated Samoa Joe by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "9:45"
+        },
+        {
+          "match": "Seth Rollins (Universal) and Becky Lynch (Raw Women's) defeated Baron Corbin and Lacey Evans by pinfall",
+          "stipulation": "Last Chance Winners Take All Extreme Rules mixed tag team match for the WWE Universal Championship and WWE Raw Women's Championship · Since Corbin and Evans lost, they could no longer challenge for Rollins and Lynch's respective titles for as long as they were champion.",
+          "time": "19:55"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Seth Rollins (c) by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship · This was Lesnar's Money in the Bank cash-in match.",
+          "time": "0:17"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-smackville",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Smackville",
+      "session": "ple",
+      "startsAt": "2019-07-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Bridgestone Arena",
+      "city": "Nashville, Tennessee",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The New Day (Big E and Xavier Woods) (c) defeated The B-Team (Bo Dallas and Curtis Axel)",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "13:48",
+          "note": "dark"
+        },
+        {
+          "match": "Aleister Black defeated Andrade (with Zelina Vega)",
+          "stipulation": "Singles match",
+          "time": "12:06",
+          "note": "dark"
+        },
+        {
+          "match": "Shinsuke Nakamura (c) defeated Ali",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "8:05"
+        },
+        {
+          "match": "Kevin Owens defeated Elias",
+          "stipulation": "Singles match",
+          "time": "4:10"
+        },
+        {
+          "match": "Kofi Kingston (c) defeated Dolph Ziggler and Samoa Joe",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "12:15"
+        },
+        {
+          "match": "Heavy Machinery (Otis and Tucker) defeated AOP (Akam and Rezar)",
+          "stipulation": "Tag team match",
+          "time": "8:04",
+          "note": "dark"
+        },
+        {
+          "match": "The IIconics (Billie Kay and Peyton Royce) (c) defeated The Kabuki Warriors (Asuka and Kairi Sane)",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "16:24",
+          "note": "dark"
+        },
+        {
+          "match": "Sami Zayn defeated Apollo Crews",
+          "stipulation": "Singles match",
+          "time": "9:15",
+          "note": "dark"
+        },
+        {
+          "match": "Bayley (c) defeated Charlotte Flair and Alexa Bliss",
+          "stipulation": "Triple threat match for the WWE SmackDown Women's Championship",
+          "time": "12:59",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-summerslam-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2019-08-11T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Scotiabank Arena",
+      "city": "Toronto, Ontario, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Drew Gulak (c) defeated Oney Lorcan by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "10:50",
+          "note": "pre-show"
+        },
+        {
+          "match": "Buddy Murphy defeated Apollo Crews by disqualification",
+          "stipulation": "Singles match",
+          "time": "4:50",
+          "note": "pre-show"
+        },
+        {
+          "match": "Alexa Bliss and Nikki Cross (c) defeated The IIconics (Billie Kay and Peyton Royce) by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "7:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "Becky Lynch (c) defeated Natalya by submission",
+          "stipulation": "Submission match for the WWE Raw Women's Championship",
+          "time": "12:35"
+        },
+        {
+          "match": "Goldberg defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:50"
+        },
+        {
+          "match": "AJ Styles (c) (with Luke Gallows and Karl Anderson) defeated Ricochet by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "13:00"
+        },
+        {
+          "match": "Bayley (c) defeated Ember Moon by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "10:00"
+        },
+        {
+          "match": "Kevin Owens defeated Shane McMahon by pinfall",
+          "stipulation": "Singles match · Had Owens lost, he would have quit WWE. · Elias was the special guest enforcer.",
+          "time": "9:20"
+        },
+        {
+          "match": "Charlotte Flair defeated Trish Stratus by submission",
+          "stipulation": "Singles match",
+          "time": "16:45"
+        },
+        {
+          "match": "Kofi Kingston (c) vs. Randy Orton ended in a double countout",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "16:40"
+        },
+        {
+          "match": "\"The Fiend\" Bray Wyatt defeated Finn Bálor by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:25"
+        },
+        {
+          "match": "Seth Rollins defeated Brock Lesnar (c) (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "13:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-clash-of-champions-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Clash of Champions",
+      "session": "ple",
+      "startsAt": "2019-09-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Spectrum Center",
+      "city": "Charlotte, North Carolina",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Drew Gulak (c) defeated Humberto Carrillo and Lince Dorado by pinfall",
+          "stipulation": "Triple threat match for the WWE Cruiserweight Championship",
+          "time": "10:05",
+          "note": "pre-show"
+        },
+        {
+          "match": "AJ Styles (c) defeated Cedric Alexander by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "4:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "Robert Roode and Dolph Ziggler defeated Seth Rollins and Braun Strowman (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "9:40"
+        },
+        {
+          "match": "Bayley (c) defeated Charlotte Flair by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "3:45"
+        },
+        {
+          "match": "The Revival (Dash Wilder and Scott Dawson) defeated The New Day (Big E and Xavier Woods) (c) by submission",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "10:15"
+        },
+        {
+          "match": "Alexa Bliss and Nikki Cross (c) defeated Fire and Desire (Mandy Rose and Sonya Deville) by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "10:35"
+        },
+        {
+          "match": "Shinsuke Nakamura (c) (with Sami Zayn) defeated The Miz by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "9:35"
+        },
+        {
+          "match": "Sasha Banks defeated Becky Lynch (c) by disqualification",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "20:00"
+        },
+        {
+          "match": "Kofi Kingston (c) defeated Randy Orton by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "20:50"
+        },
+        {
+          "match": "Erick Rowan defeated Roman Reigns by pinfall",
+          "stipulation": "No Disqualification match",
+          "time": "17:25"
+        },
+        {
+          "match": "Seth Rollins (c) defeated Braun Strowman by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "11:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-hell-in-a-cell-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2019-10-06T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Golden 1 Center",
+      "city": "Sacramento, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Natalya defeated Lacey Evans by submission",
+          "stipulation": "Singles match",
+          "time": "9:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Becky Lynch (c) defeated Sasha Banks by submission",
+          "stipulation": "Hell in a Cell match for the WWE Raw Women's Championship",
+          "time": "21:50"
+        },
+        {
+          "match": "Daniel Bryan and Roman Reigns defeated Luke Harper and Erick Rowan by pinfall",
+          "stipulation": "Tornado tag team match",
+          "time": "16:45"
+        },
+        {
+          "match": "Randy Orton defeated Ali by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:10"
+        },
+        {
+          "match": "The Kabuki Warriors (Asuka and Kairi Sane) defeated Alexa Bliss and Nikki Cross (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "10:25"
+        },
+        {
+          "match": "Braun Strowman and The Viking Raiders (Erik and Ivar) defeated The O.C. (AJ Styles, Luke Gallows, and Karl Anderson) by disqualification",
+          "stipulation": "Six-man tag team match",
+          "time": "8:15"
+        },
+        {
+          "match": "Chad Gable defeated King Corbin by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:40"
+        },
+        {
+          "match": "Charlotte Flair defeated Bayley (c) by submission",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "10:15"
+        },
+        {
+          "match": "Seth Rollins (c) vs. \"The Fiend\" Bray Wyatt ended due to match stoppage",
+          "stipulation": "Hell in a Cell match for the WWE Universal Championship",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-crown-jewel-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Crown Jewel",
+      "session": "ple",
+      "startsAt": "2019-10-31T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "King Fahd International Stadium",
+      "city": "Riyadh, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Humberto Carrillo won by last eliminating Erick Rowan",
+          "stipulation": "20-man Battle Royal · Winner faced AJ Styles for the WWE United States Championship on the main card.",
+          "time": "12:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Brock Lesnar (c) (with Paul Heyman) defeated Cain Velasquez (with Rey Mysterio) by submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "2:10"
+        },
+        {
+          "match": "The O.C. (Luke Gallows and Karl Anderson) won by last eliminating The Viking Raiders (Erik and Ivar)",
+          "stipulation": "Tag Team Turmoil match for the WWE Tag Team World Cup",
+          "time": "32:05"
+        },
+        {
+          "match": "Mansoor defeated Cesaro by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:45"
+        },
+        {
+          "match": "Tyson Fury defeated Braun Strowman by countout",
+          "stipulation": "Singles match",
+          "time": "8:05"
+        },
+        {
+          "match": "AJ Styles (c) (with Luke Gallows and Karl Anderson) defeated Humberto Carrillo by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "12:35"
+        },
+        {
+          "match": "Natalya defeated Lacey Evans by submission",
+          "stipulation": "Singles match",
+          "time": "7:20"
+        },
+        {
+          "match": "Team Hogan (Roman Reigns, Rusev, Ricochet, Shorty G, and Mustafa Ali) (with Hulk Hogan and Jimmy Hart) defeated Team Flair (Randy Orton, Baron Corbin, Bobby Lashley, Shinsuke Nakamura, and Drew McIntyre) (with Ric Flair) by pinfall",
+          "stipulation": "10-man tag team match",
+          "time": "19:55"
+        },
+        {
+          "match": "\"The Fiend\" Bray Wyatt defeated Seth Rollins (c) by pinfall",
+          "stipulation": "Falls Count Anywhere match for the WWE Universal Championship · Match could not have been stopped for any reason.",
+          "time": "21:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-survivor-series-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2019-11-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Dolph Ziggler and Robert Roode (SmackDown) won by last eliminating The Street Profits (Angelo Dawkins and Montez Ford) (Raw)",
+          "stipulation": "10-team Interbrand Tag Team Battle Royal",
+          "time": "8:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Lio Rush (c) (NXT) defeated Akira Tozawa (Raw) and Kalisto (SmackDown) by pinfall",
+          "stipulation": "Interbrand Triple Threat match for the NXT Cruiserweight Championship",
+          "time": "8:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Viking Raiders (Erik and Ivar) (Raw Tag Team Champions) defeated The New Day (Big E and Kofi Kingston) (SmackDown Tag Team Champions) and The Undisputed Era (Bobby Fish and Kyle O'Reilly) (NXT Tag Team Champions) by pinfall",
+          "stipulation": "Champions Triple Threat Tag team match",
+          "time": "14:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "Team NXT (Rhea Ripley, Bianca Belair, Candice LeRae, Io Shirai, and Toni Storm) defeated Team Raw (Charlotte Flair, Natalya, Asuka, Kairi Sane, and Sarah Logan) and Team SmackDown (Sasha Banks, Carmella, Dana Brooke, Lacey Evans, and Nikki Cross)",
+          "stipulation": "5-on-5-on-5 Survivor Series Triple Threat match",
+          "time": "28:00"
+        },
+        {
+          "match": "Roderick Strong (NXT North American Champion) defeated AJ Styles (Raw's United States Champion) and Shinsuke Nakamura (SmackDown's Intercontinental Champion) (with Sami Zayn) by pinfall",
+          "stipulation": "Champions Triple Threat match",
+          "time": "16:45"
+        },
+        {
+          "match": "Adam Cole (c) defeated Pete Dunne by pinfall",
+          "stipulation": "Singles match for the NXT Championship",
+          "time": "14:10"
+        },
+        {
+          "match": "\"The Fiend\" Bray Wyatt (c) defeated Daniel Bryan by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "10:10"
+        },
+        {
+          "match": "Team SmackDown (Roman Reigns, Braun Strowman, King Corbin, Mustafa Ali, and Shorty G) defeated Team Raw (Seth Rollins, Drew McIntyre, Kevin Owens, Randy Orton, and Ricochet) and Team NXT (Tommaso Ciampa, Damian Priest, Matt Riddle, Keith Lee, and Walter)",
+          "stipulation": "5-on-5-on-5 Survivor Series Triple Threat match",
+          "time": "31:00"
+        },
+        {
+          "match": "Brock Lesnar (c) (with Paul Heyman) defeated Rey Mysterio by pinfall",
+          "stipulation": "No Holds Barred match for the WWE Championship",
+          "time": "7:00"
+        },
+        {
+          "match": "Shayna Baszler (NXT Women's Champion) defeated Becky Lynch (Raw Women's Champion) and Bayley (SmackDown Women's Champion) by submission",
+          "stipulation": "Champions Triple Threat match",
+          "time": "18:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-starrcade-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "Starrcade",
+      "session": "ple",
+      "startsAt": "2019-12-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Infinite Energy Center",
+      "city": "Duluth, Georgia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Seth Rollins defeated Erick Rowan",
+          "stipulation": "Singles match",
+          "time": "12:46",
+          "note": "dark"
+        },
+        {
+          "match": "Shinsuke Nakamura (c) (with Sami Zayn) defeated The Miz",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "15:46",
+          "note": "dark"
+        },
+        {
+          "match": "Street Profits (Angelo Dawkins and Montez Ford) defeated The O.C. (Luke Gallows and Karl Anderson)",
+          "stipulation": "Tag team match",
+          "time": "10:06"
+        },
+        {
+          "match": "The Kabuki Warriors (Asuka and Kairi Sane) (c) defeated Becky Lynch and Charlotte Flair, Bayley and Sasha Banks, and Alexa Bliss and Nikki Cross by submission",
+          "stipulation": "Fatal 4-Way Tag team match for the WWE Women's Tag Team Championship",
+          "time": "13:30"
+        },
+        {
+          "match": "Bobby Lashley (with Lana) defeated Rusev by forfeit",
+          "stipulation": "Last Man Standing match"
+        },
+        {
+          "match": "Bobby Lashley (with Lana) defeated Kevin Owens by disqualification",
+          "stipulation": "Singles match",
+          "time": "14:16"
+        },
+        {
+          "match": "Aleister Black defeated Andrade (with Zelina Vega)",
+          "stipulation": "Singles match",
+          "time": "9:34",
+          "note": "dark"
+        },
+        {
+          "match": "Ricochet defeated Andrade (with Zelina Vega)",
+          "stipulation": "Singles match",
+          "time": "6:33",
+          "note": "dark"
+        },
+        {
+          "match": "Randy Orton defeated AJ Styles",
+          "stipulation": "Singles match",
+          "time": "20:58",
+          "note": "dark"
+        },
+        {
+          "match": "Roman Reigns defeated King Corbin",
+          "stipulation": "Singles match",
+          "time": "11:23",
+          "note": "dark"
+        },
+        {
+          "match": "\"The Fiend\" Bray Wyatt (c) defeated Braun Strowman by escaping the cage",
+          "stipulation": "Steel cage match for the WWE Universal Championship",
+          "time": "10:32",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2019-tlc-tables-ladders-chairs-2019",
+      "competition": "wwe",
+      "season": "2019",
+      "title": "TLC: Tables, Ladders & Chairs",
+      "session": "ple",
+      "startsAt": "2019-12-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Target Center",
+      "city": "Minneapolis, Minnesota",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Humberto Carrillo defeated Andrade (with Zelina Vega) by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (c) defeated The Revival (Scott Dawson and Dash Wilder) by retrieving the championship belts",
+          "stipulation": "Ladder match for the WWE SmackDown Tag Team Championship",
+          "time": "19:20"
+        },
+        {
+          "match": "Aleister Black defeated Buddy Murphy by pinfall",
+          "stipulation": "Singles match",
+          "time": "13:45"
+        },
+        {
+          "match": "The Viking Raiders (Erik and Ivar) (c) vs. The O.C. (Luke Gallows and Karl Anderson) ended in a double countout",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "8:30"
+        },
+        {
+          "match": "King Corbin defeated Roman Reigns by pinfall",
+          "stipulation": "Tables, Ladders, and Chairs match",
+          "time": "22:20"
+        },
+        {
+          "match": "Bray Wyatt defeated The Miz by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:40"
+        },
+        {
+          "match": "Bobby Lashley (with Lana) defeated Rusev by putting him through a table",
+          "stipulation": "Tables match",
+          "time": "13:30"
+        },
+        {
+          "match": "The Kabuki Warriors (Asuka and Kairi Sane) (c) defeated Becky Lynch and Charlotte Flair by retrieving the championship belts",
+          "stipulation": "Tables, Ladders, and Chairs match for the WWE Women's Tag Team Championship",
+          "time": "26:00"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

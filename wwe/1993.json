@@ -1,0 +1,301 @@
+{
+  "competition": "wwe",
+  "season": "1993",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1993-royal-rumble-1993",
+      "competition": "wwe",
+      "season": "1993",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "1993-01-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "ARCO Arena",
+      "city": "Sacramento, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Doink the Clown defeated Jim Powers by submission",
+          "stipulation": "Singles match",
+          "time": "5:57",
+          "note": "dark"
+        },
+        {
+          "match": "The Steiner Brothers (Rick and Scott) defeated The Beverly Brothers (Beau and Blake) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "10:34"
+        },
+        {
+          "match": "Shawn Michaels (c) defeated Marty Jannetty by pinfall",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "14:20"
+        },
+        {
+          "match": "Bam Bam Bigelow defeated Big Boss Man by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:10"
+        },
+        {
+          "match": "Bret Hart (c) defeated Razor Ramon by submission",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "17:52"
+        },
+        {
+          "match": "Yokozuna won by last eliminating Randy Savage",
+          "stipulation": "30-man Royal Rumble match for a WWF Championship match at WrestleMania IX"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1993-wrestlemania-ix",
+      "competition": "wwe",
+      "season": "1993",
+      "title": "WrestleMania IX",
+      "session": "ple",
+      "startsAt": "1993-04-04T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Caesars Palace",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Tito Santana defeated Papa Shango",
+          "stipulation": "Singles match",
+          "time": "8:00",
+          "note": "dark"
+        },
+        {
+          "match": "Tatanka (with Sensational Sherri) defeated Shawn Michaels (c) (with Luna Vachon) by countout",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "18:13"
+        },
+        {
+          "match": "The Steiner Brothers (Rick and Scott) defeated The Headshrinkers (Samu and Fatu) (with Afa)",
+          "stipulation": "Tag team match",
+          "time": "14:22"
+        },
+        {
+          "match": "Doink the Clown defeated Crush",
+          "stipulation": "Singles match",
+          "time": "8:28"
+        },
+        {
+          "match": "Razor Ramon defeated Bob Backlund",
+          "stipulation": "Singles match",
+          "time": "3:45"
+        },
+        {
+          "match": "Money Inc. (Ted DiBiase and Irwin R. Schyster) (c) defeated The Mega-Maniacs (Hulk Hogan and Brutus Beefcake) (with Jimmy Hart) by disqualification",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "18:27"
+        },
+        {
+          "match": "Lex Luger defeated Mr. Perfect",
+          "stipulation": "Singles match",
+          "time": "10:56"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Giant González (with Harvey Wippleman) by disqualification",
+          "stipulation": "Singles match",
+          "time": "7:33"
+        },
+        {
+          "match": "Yokozuna (with Mr. Fuji) defeated Bret Hart (c)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "8:55"
+        },
+        {
+          "match": "Hulk Hogan defeated Yokozuna (c) (with Mr. Fuji)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "0:22"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1993-king-of-the-ring-1993",
+      "competition": "wwe",
+      "season": "1993",
+      "title": "King of the Ring",
+      "session": "ple",
+      "startsAt": "1993-06-13T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nutter Center",
+      "city": "Dayton, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Papa Shango (c) defeated Owen Hart",
+          "stipulation": "Singles match for the USWA Unified World Heavyweight Championship",
+          "note": "dark"
+        },
+        {
+          "match": "Bret Hart defeated Razor Ramon",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "10:25"
+        },
+        {
+          "match": "Mr. Perfect defeated Mr. Hughes (with Harvey Wippleman) by disqualification",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "6:02"
+        },
+        {
+          "match": "Bam Bam Bigelow defeated Jim Duggan",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "4:59"
+        },
+        {
+          "match": "Lex Luger vs. Tatanka ended in a time-limit draw",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "15:00"
+        },
+        {
+          "match": "Bret Hart defeated Mr. Perfect",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "18:56"
+        },
+        {
+          "match": "Yokozuna (with Mr. Fuji) defeated Hulk Hogan (c) (with Jimmy Hart)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "13:08"
+        },
+        {
+          "match": "The Steiner Brothers (Rick and Scott) and The Smoking Gunns (Billy and Bart) defeated Money Inc. (Ted DiBiase and Irwin R. Schyster) and The Headshrinkers (Samu and Fatu) (with Afa)",
+          "stipulation": "Eight-man tag team match",
+          "time": "6:49"
+        },
+        {
+          "match": "Shawn Michaels (c) (with Diesel) defeated Crush",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "11:14"
+        },
+        {
+          "match": "Bret Hart defeated Bam Bam Bigelow",
+          "stipulation": "King of the Ring final match",
+          "time": "18:11"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1993-summerslam-1993",
+      "competition": "wwe",
+      "season": "1993",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "1993-08-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "The Palace of Auburn Hills",
+      "city": "Auburn Hills, Michigan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Owen Hart defeated Barry Horowitz",
+          "stipulation": "Singles match",
+          "time": "8:32",
+          "note": "dark"
+        },
+        {
+          "match": "Razor Ramon defeated Ted DiBiase",
+          "stipulation": "Singles match",
+          "time": "7:32"
+        },
+        {
+          "match": "The Steiner Brothers (Rick and Scott) (c) defeated The Heavenly Bodies (Jimmy Del Ray and Tom Prichard) (with Jim Cornette)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "9:28"
+        },
+        {
+          "match": "Shawn Michaels (c) (with Diesel) defeated Mr. Perfect by countout",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "11:20"
+        },
+        {
+          "match": "Irwin R. Schyster defeated The 1-2-3 Kid",
+          "stipulation": "Singles match",
+          "time": "5:44"
+        },
+        {
+          "match": "Bret Hart defeated Doink the Clown (with Jerry Lawler) by disqualification",
+          "stipulation": "Singles match",
+          "time": "9:05"
+        },
+        {
+          "match": "Jerry Lawler defeated Bret Hart by disqualification",
+          "stipulation": "Singles match",
+          "time": "6:32"
+        },
+        {
+          "match": "Ludvig Borga defeated Marty Jannetty by submission",
+          "stipulation": "Singles match",
+          "time": "5:15"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Giant Gonzalez (with Harvey Wippleman)",
+          "stipulation": "Rest in Peace match",
+          "time": "8:04"
+        },
+        {
+          "match": "Tatanka and The Smoking Gunns (Billy and Bart) defeated Bam Bam Bigelow and The Headshrinkers (Samu and Fatu) (with Luna Vachon and Afa)",
+          "stipulation": "Six-man tag team match",
+          "time": "11:15"
+        },
+        {
+          "match": "Lex Luger defeated Yokozuna (c) (with Mr. Fuji and Jim Cornette) by countout",
+          "stipulation": "Singles match for the WWF Championship · Luger had to wear protective padding over his forearm, · and this was billed as Luger's only WWF Championship match while Yokozuna was champion.",
+          "time": "17:58"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1993-survivor-series-1993",
+      "competition": "wwe",
+      "season": "1993",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1993-11-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Boston Garden",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Billy Gunn defeated The Brooklyn Brawler",
+          "stipulation": "Singles match",
+          "time": "7:46",
+          "note": "dark"
+        },
+        {
+          "match": "Team Razor (The 1–2–3 Kid, Marty Jannetty, Randy Savage, and Razor Ramon) defeated Team I.R.S. (Adam Bomb, Diesel, Irwin R. Schyster, and Rick Martel) (with Harvey Wippleman)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "26:58"
+        },
+        {
+          "match": "The Hart Family (Bret Hart, Bruce Hart, Keith Hart, and Owen Hart) (with Stu Hart) defeated Shawn Michaels and His Knights (Shawn Michaels, The Black Knight, The Blue Knight, and The Red Knight)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "30:57"
+        },
+        {
+          "match": "The Heavenly Bodies (Jimmy Del Ray and Tom Prichard) (with Jim Cornette) defeated The Rock 'n' Roll Express (Ricky Morton and Robert Gibson) (c)",
+          "stipulation": "Tag team match for the SMW Tag Team Championship",
+          "time": "13:41"
+        },
+        {
+          "match": "The Four Doinks (Luke, Butch, Mabel, and Mo) (with Oscar) defeated Bam Bam Bigelow, Bastion Booger, and The Headshrinkers (Fatu and Samu) (with Afa and Luna Vachon)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "10:58"
+        },
+        {
+          "match": "The All-Americans (Lex Luger, Rick Steiner, Scott Steiner, and The Undertaker) (with Paul Bearer) defeated The Foreign Fanatics (Crush, Quebecer Jacques, Ludvig Borga, and Yokozuna) (with Jim Cornette, Johnny Polo, and Mr. Fuji)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "27:59"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

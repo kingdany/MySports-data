@@ -1,0 +1,882 @@
+{
+  "competition": "wwe",
+  "season": "2007",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2007-new-year-s-revolution-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "New Year's Revolution",
+      "session": "ple",
+      "startsAt": "2007-01-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Kemper Arena",
+      "city": "Kansas City, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Vladimir Kozlov defeated Eugene",
+          "stipulation": "Singles match",
+          "time": "1:37",
+          "note": "dark"
+        },
+        {
+          "match": "Jeff Hardy (c) defeated Johnny Nitro (with Melina)",
+          "stipulation": "Steel Cage match for the WWE Intercontinental Championship",
+          "time": "14:50"
+        },
+        {
+          "match": "Cryme Tyme (JTG and Shad Gaspard) won by last eliminating Lance Cade and Trevor Murdoch",
+          "stipulation": "Tag team turmoil match to determine #1 contenders to the World Tag Team Championship",
+          "time": "19:03"
+        },
+        {
+          "match": "Kenny Dykstra defeated Ric Flair",
+          "stipulation": "Singles match",
+          "time": "10:02"
+        },
+        {
+          "match": "Mickie James (c) defeated Victoria",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "6:50"
+        },
+        {
+          "match": "Rated-RKO (Edge and Randy Orton) (c) vs. D-Generation X (Triple H and Shawn Michaels) ended in a no contest",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "23:20"
+        },
+        {
+          "match": "Chris Masters defeated Carlito (with Torrie Wilson)",
+          "stipulation": "Singles match",
+          "time": "5:55"
+        },
+        {
+          "match": "John Cena (c) defeated Umaga (with Armando Alejandro Estrada)",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "17:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-royal-rumble-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2007-01-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "AT&T Center",
+      "city": "San Antonio, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "JTG (with Shad Gaspard) defeated Lance Cade (with Trevor Murdoch) by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The Hardys (Matt Hardy and Jeff Hardy) defeated MNM (Joey Mercury and Johnny Nitro) (with Melina) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "15:27"
+        },
+        {
+          "match": "Bobby Lashley (c) defeated Test by countout",
+          "stipulation": "Singles match for the ECW World Championship",
+          "time": "7:18"
+        },
+        {
+          "match": "Batista (c) defeated Mr. Kennedy by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "10:29"
+        },
+        {
+          "match": "John Cena (c) defeated Umaga (with Armando Alejandro Estrada)",
+          "stipulation": "Last Man Standing match for the WWE Championship",
+          "time": "23:12"
+        },
+        {
+          "match": "The Undertaker won by last eliminating Shawn Michaels",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 23",
+          "time": "56:18"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-no-way-out-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "No Way Out",
+      "session": "ple",
+      "startsAt": "2007-02-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rob Van Dam defeated Shelton Benjamin by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:02",
+          "note": "dark"
+        },
+        {
+          "match": "Chris Benoit and The Hardys (Matt Hardy and Jeff Hardy) defeated Montel Vontavious Porter and MNM (Joey Mercury and Johnny Nitro) (with Melina) by submission",
+          "stipulation": "Six-man tag team match",
+          "time": "14:19"
+        },
+        {
+          "match": "Chavo Guerrero defeated Scotty 2 Hotty, Daivari, Gregory Helms (c), Funaki, Shannon Moore, Jimmy Wang Yang and Jamie Noble",
+          "stipulation": "Cruiserweight Open for the WWE Cruiserweight Championship",
+          "time": "14:11"
+        },
+        {
+          "match": "Finlay and Little Bastard defeated The Boogeyman and Little Boogeyman by pinfall",
+          "stipulation": "Mixed tag team match",
+          "time": "6:44"
+        },
+        {
+          "match": "Kane defeated King Booker (with Queen Sharmell) by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:38"
+        },
+        {
+          "match": "Paul London and Brian Kendrick (c) defeated Deuce 'n Domino (with Cherry) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "8:07"
+        },
+        {
+          "match": "Mr. Kennedy defeated Bobby Lashley (c) by Disqualification",
+          "stipulation": "Singles match for the ECW World Championship",
+          "time": "15:27"
+        },
+        {
+          "match": "Ashley defeated Jillian Hall, Kelly Kelly, Layla and Brooke Adams",
+          "stipulation": "Diva Talent Invitational",
+          "time": "9:40"
+        },
+        {
+          "match": "John Cena and Shawn Michaels (Raw) defeated Batista and The Undertaker (SmackDown!) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "22:09"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-wrestlemania-23",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "WrestleMania 23",
+      "session": "ple",
+      "startsAt": "2007-04-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Ford Field",
+      "city": "Detroit, Michigan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Ric Flair and Carlito defeated Gregory Helms and Chavo Guerrero by pinfall",
+          "stipulation": "Lumberjack match",
+          "time": "6:12",
+          "note": "dark"
+        },
+        {
+          "match": "Mr. Kennedy defeated CM Punk, Randy Orton, Finlay, Matt Hardy, King Booker (with Queen Sharmell), Jeff Hardy, and Edge",
+          "stipulation": "Money in the Bank ladder match",
+          "time": "19:10"
+        },
+        {
+          "match": "The Great Khali defeated Kane by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:30"
+        },
+        {
+          "match": "Chris Benoit (c) defeated Montel Vontavious Porter by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:15"
+        },
+        {
+          "match": "The Undertaker defeated Batista (c) by pinfall",
+          "stipulation": "Title vs. Streak match for the World Heavyweight Championship",
+          "time": "15:46"
+        },
+        {
+          "match": "The ECW Originals (Rob Van Dam, Tommy Dreamer, Sabu, and The Sandman) defeated The New Breed (Elijah Burke, Marcus Cor Von, Matt Striker, and Kevin Thorn) (with Ariel) by pinfall",
+          "stipulation": "Eight-man tag team match",
+          "time": "7:27"
+        },
+        {
+          "match": "Bobby Lashley (with Donald Trump) defeated Umaga (with Mr. McMahon and Armando Alejandro Estrada) by pinfall",
+          "stipulation": "\"Battle of the Billionaires\" Hair vs. Hair match with \"Stone Cold\" Steve Austin as the special guest referee",
+          "time": "13:00"
+        },
+        {
+          "match": "Melina (c) defeated Ashley by pinfall",
+          "stipulation": "Lumberjill match for the WWE Women's Championship",
+          "time": "3:40"
+        },
+        {
+          "match": "John Cena (c) defeated Shawn Michaels by submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "28:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-backlash-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2007-04-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Philips Arena",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Carlito defeated Johnny Nitro by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The Hardys (Jeff Hardy and Matt Hardy) (c) defeated Lance Cade and Trevor Murdoch by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "14:18"
+        },
+        {
+          "match": "Melina (c) defeated Mickie James by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "09:02"
+        },
+        {
+          "match": "Chris Benoit (c) defeated Montel Vontavious Porter by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "13:10"
+        },
+        {
+          "match": "Mr. McMahon, Shane McMahon, and Umaga defeated Bobby Lashley (c) by pinfall",
+          "stipulation": "Handicap match for the ECW World Championship",
+          "time": "15:45"
+        },
+        {
+          "match": "The Undertaker (c) vs. Batista ended in a draw",
+          "stipulation": "Last Man Standing match for the World Heavyweight Championship",
+          "time": "21:23"
+        },
+        {
+          "match": "John Cena (c) defeated Edge, Randy Orton and Shawn Michaels by pinfall",
+          "stipulation": "Fatal four-way match for the WWE Championship",
+          "time": "21:21"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-wwe-judgment-day-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "Judgment Day",
+      "session": "ple",
+      "startsAt": "2007-05-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Scottrade Center",
+      "city": "St. Louis, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kane defeated William Regal (with Dave Taylor) by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Ric Flair defeated Carlito by submission",
+          "stipulation": "Singles match",
+          "time": "15:34"
+        },
+        {
+          "match": "Bobby Lashley defeated Mr. McMahon (c), Shane McMahon, and Umaga by pinfall",
+          "stipulation": "Handicap match for the ECW World Championship",
+          "time": "1:15"
+        },
+        {
+          "match": "CM Punk defeated Elijah Burke by pinfall",
+          "stipulation": "Singles match",
+          "time": "16:50"
+        },
+        {
+          "match": "Randy Orton defeated Shawn Michaels by technical knockout",
+          "stipulation": "Singles match",
+          "time": "4:32"
+        },
+        {
+          "match": "The Hardys (Matt Hardy and Jeff Hardy) (c) defeated Lance Cade and Trevor Murdoch",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "15:02"
+        },
+        {
+          "match": "Edge (c) defeated Batista by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "10:38"
+        },
+        {
+          "match": "Montel Vontavious Porter defeated Chris Benoit (c) 2–0",
+          "stipulation": "Two out of three falls match for the WWE United States Championship",
+          "time": "12:46"
+        },
+        {
+          "match": "John Cena (c) defeated The Great Khali by submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "8:15"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-one-night-stand-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "One Night Stand",
+      "session": "ple",
+      "startsAt": "2007-06-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Jacksonville Veterans Memorial Arena",
+      "city": "Jacksonville, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Santino Marella defeated Chris Masters by pinfall",
+          "stipulation": "Singles match",
+          "time": "04:13",
+          "note": "dark"
+        },
+        {
+          "match": "Rob Van Dam defeated Randy Orton",
+          "stipulation": "Stretcher match",
+          "time": "14:31"
+        },
+        {
+          "match": "CM Punk and The ECW Originals (The Sandman and Tommy Dreamer) defeated The New Breed (Elijah Burke, Matt Striker, and Marcus Cor Von)",
+          "stipulation": "Six-man tag team tables match",
+          "time": "07:18"
+        },
+        {
+          "match": "The Hardys (Jeff Hardy and Matt Hardy) (c) defeated The World's Greatest Tag Team (Charlie Haas and Shelton Benjamin)",
+          "stipulation": "Ladder match for the World Tag Team Championship",
+          "time": "17:25"
+        },
+        {
+          "match": "Mark Henry defeated Kane by technical submission",
+          "stipulation": "Lumberjack match",
+          "time": "09:07"
+        },
+        {
+          "match": "Bobby Lashley defeated Mr. McMahon (c) (with Shane McMahon and Umaga) by pinfall",
+          "stipulation": "Street Fight for the ECW World Championship",
+          "time": "12:23"
+        },
+        {
+          "match": "Candice Michelle defeated Melina by submission",
+          "stipulation": "Pudding match",
+          "time": "02:55"
+        },
+        {
+          "match": "Edge (c) defeated Batista by escaping the cage",
+          "stipulation": "Steel Cage match for the World Heavyweight Championship",
+          "time": "15:39"
+        },
+        {
+          "match": "John Cena (c) defeated The Great Khali by pinfall",
+          "stipulation": "Falls Count Anywhere match for the WWE Championship",
+          "time": "10:30"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-vengeance-night-of-champions",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "Vengeance: Night of Champions",
+      "session": "ple",
+      "startsAt": "2007-06-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Toyota Center",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Super Crazy defeated Carlito by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Lance Cade and Trevor Murdoch (c) defeated The Hardys (Matt Hardy and Jeff Hardy) by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "8:55"
+        },
+        {
+          "match": "Chavo Guerrero (c) defeated Jimmy Wang Yang by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "9:16"
+        },
+        {
+          "match": "Johnny Nitro defeated CM Punk by pinfall",
+          "stipulation": "Singles match for the vacant ECW World Championship",
+          "time": "8:00"
+        },
+        {
+          "match": "Santino Marella (c) defeated Umaga by disqualification",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "2:34"
+        },
+        {
+          "match": "Montel Vontavious Porter (c) defeated Ric Flair by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "8:43"
+        },
+        {
+          "match": "Deuce 'n Domino (c) (with Cherry) defeated Jimmy Snuka and Sgt. Slaughter by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "6:34"
+        },
+        {
+          "match": "Edge (c) defeated Batista by countout",
+          "stipulation": "Last Chance match for the World Heavyweight Championship",
+          "time": "16:50"
+        },
+        {
+          "match": "Candice Michelle defeated Melina (c)",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "04:07"
+        },
+        {
+          "match": "John Cena (c) defeated Bobby Lashley, King Booker (with Queen Sharmell), Mick Foley, and Randy Orton by pinfall",
+          "stipulation": "Five-Pack Challenge for the WWE Championship",
+          "time": "10:08"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-the-great-american-bash-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "The Great American Bash",
+      "session": "ple",
+      "startsAt": "2007-07-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "HP Pavilion",
+      "city": "San Jose, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Chuck Palumbo defeated Chris Masters",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Montel Vontavious Porter (c) defeated Matt Hardy",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "12:55"
+        },
+        {
+          "match": "Hornswoggle defeated Chavo Guerrero (c), Jimmy Wang Yang, Shannon Moore, Funaki and Jamie Noble",
+          "stipulation": "Cruiserweight Open for the WWE Cruiserweight Championship",
+          "time": "6:59"
+        },
+        {
+          "match": "Carlito defeated The Sandman by pinfall",
+          "stipulation": "Singapore Cane on a Pole match",
+          "time": "5:31"
+        },
+        {
+          "match": "Candice Michelle (c) defeated Melina",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "6:22"
+        },
+        {
+          "match": "Umaga (c) defeated Jeff Hardy",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "11:20"
+        },
+        {
+          "match": "John Morrison (c) defeated CM Punk",
+          "stipulation": "Singles match for the ECW World Championship",
+          "time": "7:50"
+        },
+        {
+          "match": "Randy Orton defeated Dusty Rhodes",
+          "stipulation": "Texas Bullrope match",
+          "time": "5:40"
+        },
+        {
+          "match": "The Great Khali (c) defeated Batista and Kane",
+          "stipulation": "Triple threat match for the World Heavyweight Championship",
+          "time": "10:04"
+        },
+        {
+          "match": "John Cena (c) defeated Bobby Lashley",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "14:52"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-summerslam-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2007-08-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Continental Airlines Arena",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Lance Cade and Trevor Murdoch defeated Brian Kendrick and Paul London by pinfall",
+          "stipulation": "Tag team match",
+          "time": "7:27",
+          "note": "dark"
+        },
+        {
+          "match": "Kane defeated Finlay by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:54"
+        },
+        {
+          "match": "Umaga (c) defeated Carlito and Mr. Kennedy by pinfall",
+          "stipulation": "Triple threat match for the WWE Intercontinental Championship",
+          "time": "7:35"
+        },
+        {
+          "match": "Rey Mysterio defeated Chavo Guerrero by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:06"
+        },
+        {
+          "match": "Beth Phoenix won by last eliminating Michelle McCool",
+          "stipulation": "Battle Royal to determine the #1 contender to the WWE Women's Championship",
+          "time": "7:09"
+        },
+        {
+          "match": "John Morrison (c) defeated CM Punk by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "7:09"
+        },
+        {
+          "match": "Triple H defeated King Booker (with Queen Sharmell) by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:58"
+        },
+        {
+          "match": "Batista defeated The Great Khali (c) (with Ranjin Singh) by disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "6:51"
+        },
+        {
+          "match": "John Cena (c) defeated Randy Orton by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "21:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-unforgiven-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "Unforgiven",
+      "session": "ple",
+      "startsAt": "2007-09-16T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "FedExForum",
+      "city": "Memphis, Tennessee",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kane defeated Kenny Dykstra by pinfall",
+          "stipulation": "Singles match",
+          "time": "0:27",
+          "note": "dark"
+        },
+        {
+          "match": "CM Punk (c) defeated Elijah Burke by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "11:52"
+        },
+        {
+          "match": "Matt Hardy and Montel Vontavious Porter (c) defeated Deuce 'n Domino (with Cherry) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "9:19"
+        },
+        {
+          "match": "Triple H defeated Carlito by pinfall",
+          "stipulation": "No Disqualification match",
+          "time": "10:40"
+        },
+        {
+          "match": "Candice Michelle (c) defeated Beth Phoenix by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "7:17"
+        },
+        {
+          "match": "Batista defeated The Great Khali (c) (with Ranjin Singh) and Rey Mysterio by pinfall",
+          "stipulation": "Triple threat match for the World Heavyweight Championship",
+          "time": "8:01"
+        },
+        {
+          "match": "Lance Cade and Trevor Murdoch (c) defeated Paul London and Brian Kendrick by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "11:48"
+        },
+        {
+          "match": "Randy Orton defeated John Cena (c) by disqualification",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "7:22"
+        },
+        {
+          "match": "The Undertaker defeated Mark Henry by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-no-mercy-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "2007-10-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Hardcore Holly defeated Cody Rhodes",
+          "stipulation": "Singles match",
+          "time": "5:00",
+          "note": "dark"
+        },
+        {
+          "match": "Triple H defeated Randy Orton (c)",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "11:15"
+        },
+        {
+          "match": "Mr. Kennedy, Lance Cade and Trevor Murdoch defeated Jeff Hardy, Brian Kendrick and Paul London",
+          "stipulation": "Six-man tag team match",
+          "time": "8:05"
+        },
+        {
+          "match": "CM Punk (c) defeated Big Daddy V (with Matt Striker) by disqualification",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "1:37"
+        },
+        {
+          "match": "Triple H (c) defeated Umaga",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "6:45"
+        },
+        {
+          "match": "Finlay vs. Rey Mysterio ended in a no contest",
+          "stipulation": "Singles match",
+          "time": "9:00"
+        },
+        {
+          "match": "Beth Phoenix defeated Candice Michelle (c)",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "4:32"
+        },
+        {
+          "match": "Batista (c) defeated The Great Khali (with Ranjin Singh)",
+          "stipulation": "Punjabi Prison match for the World Heavyweight Championship",
+          "time": "14:47"
+        },
+        {
+          "match": "Randy Orton defeated Triple H (c)",
+          "stipulation": "Last Man Standing match for the WWE Championship",
+          "time": "22:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-cyber-sunday-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "Cyber Sunday",
+      "session": "ple",
+      "startsAt": "2007-10-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Verizon Center",
+      "city": "Washington, D.C.",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jesse and Festus defeated Deuce 'n Domino (with Cherry)",
+          "stipulation": "Tag team match",
+          "time": "12:33",
+          "note": "dark"
+        },
+        {
+          "match": "Rey Mysterio defeated Finlay",
+          "stipulation": "Stretcher match",
+          "time": "09:41"
+        },
+        {
+          "match": "CM Punk (c) defeated The Miz",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "08:48"
+        },
+        {
+          "match": "Mr. Kennedy defeated Jeff Hardy",
+          "stipulation": "Singles match",
+          "time": "09:05"
+        },
+        {
+          "match": "Kane defeated Montel Vontavious Porter (c) by countout",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "06:38"
+        },
+        {
+          "match": "Shawn Michaels defeated Randy Orton (c) by disqualification",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "15:53"
+        },
+        {
+          "match": "Triple H defeated Umaga",
+          "stipulation": "Street Fight",
+          "time": "17:21"
+        },
+        {
+          "match": "Batista (c) defeated The Undertaker",
+          "stipulation": "Singles match for the World Heavyweight Championship with \"Stone Cold\" Steve Austin as special guest referee",
+          "time": "17:22"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-survivor-series-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2007-11-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "American Airlines Arena",
+      "city": "Miami, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "CM Punk (c) defeated John Morrison and The Miz by pinfall",
+          "stipulation": "Triple threat match for the ECW Championship",
+          "time": "7:56"
+        },
+        {
+          "match": "Kelly Kelly, Maria, Michelle McCool, Mickie James and Torrie Wilson defeated Beth Phoenix, Jillian Hall, Layla, Melina and Victoria",
+          "stipulation": "10-Diva tag team match",
+          "time": "4:42"
+        },
+        {
+          "match": "Lance Cade and Trevor Murdoch (c) defeated Cody Rhodes and Hardcore Holly by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "7:18"
+        },
+        {
+          "match": "Team Triple H (Triple H, Jeff Hardy, Kane and Rey Mysterio) defeated Team Umaga (Umaga, Big Daddy V, Finlay, Mr. Kennedy and MVP) (with Matt Striker)",
+          "stipulation": "Handicap 4-on-5 Survivor Series match",
+          "time": "22:08"
+        },
+        {
+          "match": "The Great Khali (with Ranjin Singh) defeated Hornswoggle (with Mr. McMahon and Shane McMahon) by disqualification",
+          "stipulation": "Singles match",
+          "time": "3:16"
+        },
+        {
+          "match": "Randy Orton (c) defeated Shawn Michaels by pinfall",
+          "stipulation": "Singles match for the WWE Championship · If Michaels had used Sweet Chin Music, he would have been disqualified and would not get another title match while Orton was champion. If Orton had been disqualified, he would have lost the title to Michaels.",
+          "time": "17:48"
+        },
+        {
+          "match": "Batista (c) defeated The Undertaker by pinfall",
+          "stipulation": "Hell in a Cell match for the World Heavyweight Championship",
+          "time": "21:24"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2007-armageddon-2007",
+      "competition": "wwe",
+      "season": "2007",
+      "title": "Armageddon",
+      "session": "ple",
+      "startsAt": "2007-12-16T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Mellon Arena",
+      "city": "Pittsburgh, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jesse and Festus defeated John Morrison and The Miz by pinfall",
+          "stipulation": "Tag team match",
+          "time": "10:30",
+          "note": "dark"
+        },
+        {
+          "match": "Rey Mysterio defeated MVP (c) by countout",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "11:29"
+        },
+        {
+          "match": "Big Daddy V and Mark Henry (with Matt Striker) defeated CM Punk and Kane by pinfall",
+          "stipulation": "Tag team match",
+          "time": "10:33"
+        },
+        {
+          "match": "Shawn Michaels defeated Mr. Kennedy by pinfall",
+          "stipulation": "Singles match",
+          "time": "15:16"
+        },
+        {
+          "match": "Jeff Hardy defeated Triple H by pinfall",
+          "stipulation": "Singles match to determine the #1 contender to the WWE Championship at Royal Rumble",
+          "time": "15:23"
+        },
+        {
+          "match": "Finlay (with Hornswoggle) defeated The Great Khali (with Ranjin Singh) by pinfall",
+          "stipulation": "Singles match",
+          "time": "06:02"
+        },
+        {
+          "match": "Chris Jericho defeated Randy Orton (c) by disqualification",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "15:05"
+        },
+        {
+          "match": "Beth Phoenix (c) defeated Mickie James by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "04:45"
+        },
+        {
+          "match": "Edge defeated Batista (c) and The Undertaker by pinfall",
+          "stipulation": "Triple threat match for the World Heavyweight Championship",
+          "time": "13:00"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

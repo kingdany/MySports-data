@@ -1,0 +1,789 @@
+{
+  "competition": "wwe",
+  "season": "2003",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2003-royal-rumble-2003",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2003-01-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "FleetCenter",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Spike Dudley defeated Steven Richards (with Victoria)",
+          "stipulation": "Singles match",
+          "time": "3:36",
+          "note": "pre-show"
+        },
+        {
+          "match": "Brock Lesnar defeated Big Show (with Paul Heyman)",
+          "stipulation": "Singles match for entry in the Royal Rumble match",
+          "time": "6:28"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) defeated Lance Storm and William Regal (c)",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "7:22"
+        },
+        {
+          "match": "Torrie Wilson defeated Dawn Marie Wilson",
+          "stipulation": "Singles match",
+          "time": "3:35"
+        },
+        {
+          "match": "Scott Steiner defeated Triple H (c) (with Ric Flair) by disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "17:03"
+        },
+        {
+          "match": "Kurt Angle (c) defeated Chris Benoit by submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "19:57"
+        },
+        {
+          "match": "Brock Lesnar won by last eliminating The Undertaker",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania XIX",
+          "time": "53:47"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2003-no-way-out-2003",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "No Way Out",
+      "session": "ple",
+      "startsAt": "2003-02-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Bell Centre",
+      "city": "Montreal, Quebec, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Mark Henry defeated John Cena",
+          "stipulation": "Singles match",
+          "time": "5:43",
+          "note": "dark"
+        },
+        {
+          "match": "Rey Mysterio defeated Jamie Noble (with Nidia)",
+          "stipulation": "Singles match",
+          "time": "4:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "Chris Jericho defeated Jeff Hardy by submission",
+          "stipulation": "Singles match",
+          "time": "12:59"
+        },
+        {
+          "match": "William Regal and Lance Storm (c) defeated Kane and Rob Van Dam",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "9:20"
+        },
+        {
+          "match": "Matt Hardy (with Shannon Moore) defeated Billy Kidman (c)",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "9:31"
+        },
+        {
+          "match": "The Undertaker defeated Big Show (with Paul Heyman) by technical submission",
+          "stipulation": "Singles match",
+          "time": "14:08"
+        },
+        {
+          "match": "Brock Lesnar and Chris Benoit defeated Team Angle (Kurt Angle, Charlie Haas and Shelton Benjamin) (with Paul Heyman) by submission",
+          "stipulation": "Handicap match",
+          "time": "13:19"
+        },
+        {
+          "match": "Triple H (c) (with Ric Flair) defeated Scott Steiner",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "13:01"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Eric Bischoff",
+          "stipulation": "Singles match",
+          "time": "4:26"
+        },
+        {
+          "match": "The Rock defeated Hulk Hogan",
+          "stipulation": "Singles match",
+          "time": "12:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2003-wrestlemania-xix",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "WrestleMania XIX",
+      "session": "ple",
+      "startsAt": "2003-03-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Safeco Field",
+      "city": "Seattle, Washington",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Chief Morley and Lance Storm (c) (with The Dudley Boyz) defeated Kane and Rob Van Dam by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "7:02",
+          "note": "pre-show"
+        },
+        {
+          "match": "Matt Hardy (c) (with Shannon Moore) defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "5:37"
+        },
+        {
+          "match": "The Undertaker defeated Big Show and A-Train by pinfall",
+          "stipulation": "Handicap match",
+          "time": "9:42"
+        },
+        {
+          "match": "Trish Stratus defeated Victoria (c) (with Steven Richards) and Jazz by pinfall",
+          "stipulation": "Triple threat match for the WWE Women's Championship",
+          "time": "7:17"
+        },
+        {
+          "match": "Team Angle (Shelton Benjamin and Charlie Haas) (c) defeated Rhyno and Chris Benoit and Los Guerreros (Eddie and Chavo) by pinfall",
+          "stipulation": "Triple threat tag team match for the WWE Tag Team Championship",
+          "time": "8:48"
+        },
+        {
+          "match": "Shawn Michaels defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match",
+          "time": "22:35"
+        },
+        {
+          "match": "Triple H (c) (with Ric Flair) defeated Booker T by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "18:45"
+        },
+        {
+          "match": "Hulk Hogan defeated Mr. McMahon by pinfall",
+          "stipulation": "Street Fight · Had Hogan lost, he would have had to retire from in-ring competition.",
+          "time": "20:47"
+        },
+        {
+          "match": "The Rock defeated \"Stone Cold\" Steve Austin by pinfall",
+          "stipulation": "Singles match",
+          "time": "17:55"
+        },
+        {
+          "match": "Brock Lesnar defeated Kurt Angle (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship · Had Angle been counted out, disqualified, or had anyone interfered on his behalf, he would have also lost the title.",
+          "time": "21:08"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2003-backlash-2003",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2003-04-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Worcester Centrum",
+      "city": "Worcester, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Scott Steiner defeated Rico",
+          "stipulation": "Singles match",
+          "time": "2:27",
+          "note": "pre-show"
+        },
+        {
+          "match": "Team Angle (Charlie Haas and Shelton Benjamin) (c) defeated Los Guerreros (Chavo Guerrero and Eddie Guerrero)",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "15:03"
+        },
+        {
+          "match": "Sean O'Haire (with Roddy Piper) defeated Rikishi",
+          "stipulation": "Singles match",
+          "time": "4:52"
+        },
+        {
+          "match": "Kane and Rob Van Dam (c) defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley)",
+          "stipulation": "Tag team match for the World Tag Team Championship · with Chief Morley as the special guest referee",
+          "time": "13:01"
+        },
+        {
+          "match": "Jazz (with Theodore Long) defeated Trish Stratus (c)",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "5:50"
+        },
+        {
+          "match": "Big Show defeated Rey Mysterio",
+          "stipulation": "Singles match",
+          "time": "3:47"
+        },
+        {
+          "match": "Brock Lesnar (c) defeated John Cena",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "15:04"
+        },
+        {
+          "match": "Chris Jericho, Ric Flair and Triple H defeated Booker T, Kevin Nash and Shawn Michaels",
+          "stipulation": "Six-man tag team match",
+          "time": "17:51"
+        },
+        {
+          "match": "Goldberg defeated The Rock",
+          "stipulation": "Singles match",
+          "time": "14:03"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2003-wwe-judgment-day-2003",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "Judgment Day",
+      "session": "ple",
+      "startsAt": "2003-05-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Charlotte Coliseum",
+      "city": "Charlotte, North Carolina",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Hurricane defeated Steven Richards",
+          "stipulation": "Singles match",
+          "time": "2:58",
+          "note": "pre-show"
+        },
+        {
+          "match": "John Cena and The F.B.I. (Chuck Palumbo and Johnny Stamboli) (with Nunzio) defeated Chris Benoit, Rhyno and Spanky",
+          "stipulation": "Six-man tag team match",
+          "time": "3:55"
+        },
+        {
+          "match": "La Résistance (Sylvain Grenier and René Duprée) defeated Scott Steiner and Test (with Stacy Keibler)",
+          "stipulation": "Tag team match",
+          "time": "6:20"
+        },
+        {
+          "match": "Eddie Guerrero and Tajiri defeated Team Angle (Charlie Haas and Shelton Benjamin) (c)",
+          "stipulation": "Ladder match for the WWE Tag Team Championship",
+          "time": "14:10"
+        },
+        {
+          "match": "Christian won by last eliminating Booker T",
+          "stipulation": "Battle Royal for the vacant WWE Intercontinental Championship",
+          "time": "11:45"
+        },
+        {
+          "match": "Torrie Wilson defeated Sable",
+          "stipulation": "Bikini Challenge"
+        },
+        {
+          "match": "Mr. America (with Zach Gowen) defeated Roddy Piper (with Sean O'Haire)",
+          "stipulation": "Singles match",
+          "time": "4:54"
+        },
+        {
+          "match": "Kevin Nash (with Shawn Michaels) defeated Triple H (c) (with Ric Flair) by disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "7:22"
+        },
+        {
+          "match": "Jazz (c) (with Theodore Long) defeated Jacqueline, Trish Stratus and Victoria (with Steven Richards)",
+          "stipulation": "Fatal 4-Way match for the WWE Women's Championship",
+          "time": "4:47"
+        },
+        {
+          "match": "Brock Lesnar (c) defeated Big Show",
+          "stipulation": "Stretcher match for the WWE Championship",
+          "time": "15:27"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2003-insurrextion-2003",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "Insurrextion",
+      "session": "ple",
+      "startsAt": "2003-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Telewest Arena",
+      "city": "Newcastle upon Tyne, England",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Maven defeated Christian Eckstein",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The Hurricane defeated Lance Storm",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Jazz (c) (with Theodore Long) defeated Trish Stratus",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "9:49"
+        },
+        {
+          "match": "Christian (c) defeated Booker T",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "15:12"
+        },
+        {
+          "match": "Kane and Rob Van Dam (c) defeated La Résistance (René Duprée and Sylvain Grenier)",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "9:03"
+        },
+        {
+          "match": "Goldust defeated Rico",
+          "stipulation": "Singles match",
+          "time": "9:53"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray Dudley, D-Von Dudley and Spike Dudley) defeated Christopher Nowinski, Rodney Mack and Theodore Long",
+          "stipulation": "Six-man tag team match",
+          "time": "9:15"
+        },
+        {
+          "match": "Scott Steiner defeated Test",
+          "stipulation": "Singles match with Val Venis as special guest referee",
+          "time": "6:49"
+        },
+        {
+          "match": "Triple H (c) (with Ric Flair) defeated Kevin Nash (with Shawn Michaels)",
+          "stipulation": "Street Fight for the World Heavyweight Championship",
+          "time": "14:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2003-wwe-bad-blood-2003",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "Bad Blood",
+      "session": "ple",
+      "startsAt": "2003-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Compaq Center",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Ivory defeated Molly Holly by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:18",
+          "note": "pre-show"
+        },
+        {
+          "match": "Christopher Nowinski and Rodney Mack (with Theodore Long) defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "7:07"
+        },
+        {
+          "match": "Scott Steiner defeated Test by pinfall",
+          "stipulation": "Singles match for the managerial services of Stacy Keibler",
+          "time": "6:23"
+        },
+        {
+          "match": "Booker T defeated Christian (c) by disqualification",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "7:53"
+        },
+        {
+          "match": "La Résistance (René Duprée and Sylvain Grenier) defeated Kane and Rob Van Dam (c) by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "5:47"
+        },
+        {
+          "match": "Goldberg defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:00"
+        },
+        {
+          "match": "Ric Flair defeated Shawn Michaels by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:18"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Eric Bischoff 2–1",
+          "stipulation": "Redneck Triathlon"
+        },
+        {
+          "match": "Triple H (c) defeated Kevin Nash by pinfall",
+          "stipulation": "Hell in a Cell match for the World Heavyweight Championship · Mick Foley served as the special guest referee.",
+          "time": "21:01"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2003-vengeance-2003",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "Vengeance",
+      "session": "ple",
+      "startsAt": "2003-07-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Pepsi Center",
+      "city": "Denver, Colorado",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Último Dragón defeated Chris Kanyon",
+          "stipulation": "Singles match",
+          "time": "4:04",
+          "note": "pre-show"
+        },
+        {
+          "match": "Eddie Guerrero defeated Chris Benoit",
+          "stipulation": "Singles match for the vacant WWE United States Championship",
+          "time": "21:54"
+        },
+        {
+          "match": "Jamie Noble (with Nidia) defeated Billy Gunn (with Torrie Wilson)",
+          "stipulation": "Singles match",
+          "time": "4:59"
+        },
+        {
+          "match": "Bradshaw won by last eliminating Brother Love",
+          "stipulation": "The APA Invitational Bar Room Brawl",
+          "time": "4:31"
+        },
+        {
+          "match": "The World's Greatest Tag Team (Charlie Haas and Shelton Benjamin) (c) defeated Billy Kidman and Rey Mysterio",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "15:01"
+        },
+        {
+          "match": "Sable defeated Stephanie McMahon",
+          "stipulation": "No Countout match",
+          "time": "6:25"
+        },
+        {
+          "match": "The Undertaker defeated John Cena",
+          "stipulation": "Singles match",
+          "time": "16:06"
+        },
+        {
+          "match": "Mr. McMahon defeated Zach Gowen",
+          "stipulation": "Singles match",
+          "time": "14:22"
+        },
+        {
+          "match": "Kurt Angle defeated Brock Lesnar (c) and Big Show",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "17:38"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2003-summerslam-2003",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2003-08-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "America West Arena",
+      "city": "Phoenix, Arizona",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rey Mysterio (c) defeated Shannon Moore",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "2:03",
+          "note": "pre-show"
+        },
+        {
+          "match": "La Résistance (René Duprée and Sylvain Grenier) (c) (with Rob Conway) defeated The Dudley Boyz (Bubba Ray and D-Von) (with Spike Dudley)",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "7:51"
+        },
+        {
+          "match": "The Undertaker defeated A-Train (with Sable)",
+          "stipulation": "Singles match",
+          "time": "9:20"
+        },
+        {
+          "match": "Shane McMahon defeated Eric Bischoff",
+          "stipulation": "Falls Count Anywhere match (Started Originally as a standard one on one match)",
+          "time": "10:36"
+        },
+        {
+          "match": "Eddie Guerrero (c) defeated Chris Benoit, Rhyno, and Tajiri",
+          "stipulation": "Fatal 4-Way match for the WWE United States Championship",
+          "time": "10:50"
+        },
+        {
+          "match": "Kurt Angle (c) defeated Brock Lesnar by submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "20:47"
+        },
+        {
+          "match": "Kane defeated Rob Van Dam",
+          "stipulation": "No Holds Barred match",
+          "time": "12:45"
+        },
+        {
+          "match": "Triple H (c) (with Ric Flair) defeated Goldberg, Chris Jericho, Shawn Michaels, Randy Orton, and Kevin Nash",
+          "stipulation": "Elimination Chamber match for the World Heavyweight Championship",
+          "time": "19:15"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2003-unforgiven-2003",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "Unforgiven",
+      "session": "ple",
+      "startsAt": "2003-09-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Giant Center",
+      "city": "Hershey, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Maven defeated Steven Richards (with Victoria)",
+          "stipulation": "Singles match",
+          "time": "5:13",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray and D-Von) defeated Rob Conway and La Résistance (Sylvain Grenier and René Duprée) (c)",
+          "stipulation": "Handicap Tables match for the World Tag Team Championship",
+          "time": "10:17"
+        },
+        {
+          "match": "Test (with Stacy Keibler) defeated Scott Steiner",
+          "stipulation": "Singles match · Since Test won, he received the services of both Keibler and Steiner. Had Steiner won, he would receive Keibler's services.",
+          "time": "6:56"
+        },
+        {
+          "match": "Randy Orton (with Ric Flair) defeated Shawn Michaels",
+          "stipulation": "Singles match",
+          "time": "18:47"
+        },
+        {
+          "match": "Trish Stratus and Lita defeated Molly Holly and Gail Kim",
+          "stipulation": "Tag team match",
+          "time": "6:34"
+        },
+        {
+          "match": "Kane defeated Shane McMahon",
+          "stipulation": "Last Man Standing match",
+          "time": "20:00"
+        },
+        {
+          "match": "Christian (c) defeated Chris Jericho and Rob Van Dam",
+          "stipulation": "Triple threat match for the WWE Intercontinental Championship",
+          "time": "19:03"
+        },
+        {
+          "match": "Al Snow and Jonathan Coachman defeated Jerry Lawler and Jim Ross",
+          "stipulation": "Tag team match for the right to be the commentators for Raw",
+          "time": "8:16"
+        },
+        {
+          "match": "Goldberg defeated Triple H (c)",
+          "stipulation": "Title vs. Career match for the World Heavyweight Championship · Had Triple H been disqualified or counted out, he would have lost the title.",
+          "time": "14:57"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2003-no-mercy-2003",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "2003-10-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "1st Mariner Arena",
+      "city": "Baltimore, Maryland",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Billy Kidman defeated Shannon Moore",
+          "stipulation": "Singles match",
+          "time": "5:12",
+          "note": "pre-show"
+        },
+        {
+          "match": "Tajiri (c) defeated Rey Mysterio",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "11:40"
+        },
+        {
+          "match": "Chris Benoit defeated A-Train",
+          "stipulation": "Singles match",
+          "time": "12:21"
+        },
+        {
+          "match": "Zach Gowen defeated Matt Hardy",
+          "stipulation": "Singles match",
+          "time": "5:33"
+        },
+        {
+          "match": "The Basham Brothers (Doug and Danny) defeated The APA (Faarooq and Bradshaw)",
+          "stipulation": "Tag team match",
+          "time": "8:55"
+        },
+        {
+          "match": "Mr. McMahon (with Sable) defeated Stephanie McMahon (with Linda McMahon) by technical knockout",
+          "stipulation": "\"I Quit\" Loser Gets Fired match",
+          "time": "9:24"
+        },
+        {
+          "match": "Kurt Angle defeated John Cena",
+          "stipulation": "Singles match",
+          "time": "18:28"
+        },
+        {
+          "match": "Big Show defeated Eddie Guerrero (c)",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "11:27"
+        },
+        {
+          "match": "Brock Lesnar (c) defeated The Undertaker",
+          "stipulation": "Biker Chain match for the WWE Championship",
+          "time": "24:14"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2003-survivor-series-2003",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2003-11-16T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "American Airlines Center",
+      "city": "Dallas, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Tajiri (c) (with Akio and Sakoda) defeated Jamie Noble",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "4:13",
+          "note": "pre-show"
+        },
+        {
+          "match": "Team Angle (Kurt Angle, Chris Benoit, John Cena, Hardcore Holly, and Bradshaw) defeated Team Lesnar (Brock Lesnar, Big Show, Matt Morgan, Nathan Jones, and A-Train)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "13:17"
+        },
+        {
+          "match": "Molly Holly (c) defeated Lita",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "6:48"
+        },
+        {
+          "match": "Kane defeated Shane McMahon",
+          "stipulation": "Ambulance match",
+          "time": "13:34"
+        },
+        {
+          "match": "The Basham Brothers (Doug and Danny) (c) (with Shaniqua) defeated Los Guerreros (Eddie and Chavo)",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "7:31"
+        },
+        {
+          "match": "Team Bischoff (Chris Jericho, Christian, Randy Orton, Scott Steiner, and Mark Henry) (with Eric Bischoff, Stacy Keibler, and Theodore Long) defeated Team Austin (Shawn Michaels, Rob Van Dam, Booker T, Bubba Ray Dudley, and D-Von Dudley) (with \"Stone Cold\" Steve Austin)",
+          "stipulation": "5-on-5 Survivor Series match · Since Team Austin lost, Austin was forced to step down as Raw Co-General Manager. Had Team Austin won, Austin's \"no physicality\" restriction would have been null and void.",
+          "time": "27:27"
+        },
+        {
+          "match": "Mr. McMahon defeated The Undertaker",
+          "stipulation": "Buried Alive match",
+          "time": "11:49"
+        },
+        {
+          "match": "Goldberg (c) defeated Triple H (with Ric Flair)",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "11:44"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2003-armageddon-2003",
+      "competition": "wwe",
+      "season": "2003",
+      "title": "Armageddon",
+      "session": "ple",
+      "startsAt": "2003-12-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "TD Waterhouse Center",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rico (with Miss Jackie) defeated Jon Heidenreich",
+          "stipulation": "Singles match",
+          "time": "1:28",
+          "note": "pre-show"
+        },
+        {
+          "match": "Booker T defeated Mark Henry (with Theodore Long)",
+          "stipulation": "Singles match",
+          "time": "9:20"
+        },
+        {
+          "match": "Randy Orton (with Ric Flair) defeated Rob Van Dam (c)",
+          "stipulation": "Singles match for the WWE Intercontinental Championship with Mick Foley as special guest referee",
+          "time": "17:59"
+        },
+        {
+          "match": "Chris Jericho and Christian defeated Trish Stratus and Lita",
+          "stipulation": "Tag team match",
+          "time": "6:37"
+        },
+        {
+          "match": "Shawn Michaels defeated Batista (with Ric Flair)",
+          "stipulation": "Singles match",
+          "time": "12:28"
+        },
+        {
+          "match": "Evolution (Ric Flair and Batista) won by last eliminating The Dudley Boyz (Bubba Ray and D-Von) (c)",
+          "stipulation": "Tag Team Turmoil match for the World Tag Team Championship",
+          "time": "20:48"
+        },
+        {
+          "match": "Molly Holly (c) defeated Ivory",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "4:23"
+        },
+        {
+          "match": "Triple H defeated Goldberg (c) and Kane",
+          "stipulation": "Triple Threat match for the World Heavyweight Championship",
+          "time": "19:28"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

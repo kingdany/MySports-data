@@ -1,0 +1,842 @@
+{
+  "competition": "wwe",
+  "season": "2005",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2005-new-year-s-revolution-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "New Year's Revolution",
+      "session": "ple",
+      "startsAt": "2005-01-09T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Coliseo de Puerto Rico",
+      "city": "San Juan, Puerto Rico",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Hurricane and Rosey defeated La Résistance (Sylvain Grenier and Robért Conway)",
+          "stipulation": "Tag team match",
+          "time": "5:13",
+          "note": "dark"
+        },
+        {
+          "match": "Eugene and William Regal (c) defeated Christian and Tyson Tomko",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "12:20"
+        },
+        {
+          "match": "Trish Stratus defeated Lita (c)",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "3:46"
+        },
+        {
+          "match": "Shelton Benjamin (c) defeated Maven",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "6:07"
+        },
+        {
+          "match": "Shelton Benjamin (c) defeated Maven",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "0:05"
+        },
+        {
+          "match": "Muhammad Hassan (with Daivari) defeated Jerry Lawler (with Jim Ross)",
+          "stipulation": "Singles match",
+          "time": "10:51"
+        },
+        {
+          "match": "Kane defeated Gene Snitsky",
+          "stipulation": "Singles match",
+          "time": "11:37"
+        },
+        {
+          "match": "Triple H (with Ric Flair) defeated Randy Orton, Batista, Chris Jericho, Chris Benoit, and Edge",
+          "stipulation": "Elimination Chamber match for the vacant World Heavyweight Championship with Shawn Michaels as special guest referee",
+          "time": "34:56"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-royal-rumble-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2005-01-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Save Mart Center",
+      "city": "Fresno, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Maven defeated Rhyno",
+          "stipulation": "Singles match",
+          "time": "7:01",
+          "note": "pre-show"
+        },
+        {
+          "match": "Edge defeated Shawn Michaels",
+          "stipulation": "Singles match",
+          "time": "18:32"
+        },
+        {
+          "match": "The Undertaker defeated Heidenreich",
+          "stipulation": "Casket match",
+          "time": "13:19"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield (c) defeated Big Show and Kurt Angle",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "12:04"
+        },
+        {
+          "match": "Triple H (c) defeated Randy Orton",
+          "stipulation": "Singles match for the World Heavyweight Championship Evolution Banned from Ringside",
+          "time": "21:28"
+        },
+        {
+          "match": "Batista won by last eliminating John Cena",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 21",
+          "time": "51:27"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-no-way-out-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "No Way Out",
+      "session": "ple",
+      "startsAt": "2005-02-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Mellon Arena",
+      "city": "Pittsburgh, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Charlie Haas and Hardcore Holly defeated Kenzo Suzuki and René Duprée (with Hiroko)",
+          "stipulation": "Tag team match",
+          "time": "7:36",
+          "note": "pre-show"
+        },
+        {
+          "match": "Eddie Guerrero and Rey Mysterio defeated The Basham Brothers (Danny Basham and Doug Basham) (c)",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "14:51"
+        },
+        {
+          "match": "Booker T defeated Heidenreich by disqualification",
+          "stipulation": "Singles match",
+          "time": "6:48"
+        },
+        {
+          "match": "Chavo Guerrero defeated Funaki (c), Akio, Paul London, Shannon Moore and Spike Dudley",
+          "stipulation": "Cruiserweight Open for the WWE Cruiserweight Championship",
+          "time": "9:47"
+        },
+        {
+          "match": "The Undertaker defeated Luther Reigns",
+          "stipulation": "Singles match",
+          "time": "11:44"
+        },
+        {
+          "match": "John Cena defeated Kurt Angle",
+          "stipulation": "Tournament final match to determine the #1 contender for the WWE Championship at WrestleMania 21",
+          "time": "19:21"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield (c) defeated Big Show by escaping the cage",
+          "stipulation": "Barbed Wire Steel Cage match for the WWE Championship",
+          "time": "15:11"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-wrestlemania-21",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "WrestleMania 21",
+      "session": "ple",
+      "startsAt": "2005-04-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Booker T won by last eliminating Chris Masters",
+          "stipulation": "30-man Interpromotional battle royal",
+          "time": "11:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Rey Mysterio defeated Eddie Guerrero by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:23"
+        },
+        {
+          "match": "Edge defeated Chris Jericho, Shelton Benjamin, Chris Benoit, Christian (with Tyson Tomko), and Kane",
+          "stipulation": "Money in the Bank ladder match",
+          "time": "15:17"
+        },
+        {
+          "match": "The Undertaker defeated Randy Orton by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:06"
+        },
+        {
+          "match": "Trish Stratus (c) defeated Christy Hemme (with Lita) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "4:41"
+        },
+        {
+          "match": "Kurt Angle defeated Shawn Michaels by submission",
+          "stipulation": "Singles match",
+          "time": "27:26"
+        },
+        {
+          "match": "Akebono defeated Big Show by throwing him out of the ring",
+          "stipulation": "Sumo match",
+          "time": "1:02"
+        },
+        {
+          "match": "John Cena defeated John \"Bradshaw\" Layfield (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "11:26"
+        },
+        {
+          "match": "Batista defeated Triple H (c) (with Ric Flair) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "21:34"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-backlash-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2005-05-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Verizon Wireless Arena",
+      "city": "Manchester, New Hampshire",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Tyson Tomko defeated Val Venis by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:40",
+          "note": "pre-show"
+        },
+        {
+          "match": "Shelton Benjamin (c) defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "14:31"
+        },
+        {
+          "match": "Rosey and The Hurricane won by last eliminating La Résistance (Robért Conway and Sylvain Grenier) by pinfall",
+          "stipulation": "Tag team turmoil match for the World Tag Team Championship",
+          "time": "13:43"
+        },
+        {
+          "match": "Edge defeated Chris Benoit",
+          "stipulation": "Last Man Standing match",
+          "time": "18:47"
+        },
+        {
+          "match": "Kane (with Lita) defeated Viscera (with Trish Stratus) by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:09"
+        },
+        {
+          "match": "Hulk Hogan and Shawn Michaels defeated Daivari and Muhammad Hassan by pinfall",
+          "stipulation": "Tag team match",
+          "time": "15:05"
+        },
+        {
+          "match": "Batista (c) defeated Triple H (with Ric Flair) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "16:23"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-wwe-judgment-day-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "Judgment Day",
+      "session": "ple",
+      "startsAt": "2005-05-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Target Center",
+      "city": "Minneapolis, Minnesota",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Nunzio defeated Akio by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:29",
+          "note": "pre-show"
+        },
+        {
+          "match": "MNM (Joey Mercury and Johnny Nitro) (c) (with Melina) defeated Charlie Haas and Hardcore Holly by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "8:06"
+        },
+        {
+          "match": "Carlito (with Matt Morgan) defeated Big Show by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:41"
+        },
+        {
+          "match": "Paul London (c) defeated Chavo Guerrero by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "10:41"
+        },
+        {
+          "match": "Booker T defeated Kurt Angle by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:10"
+        },
+        {
+          "match": "Orlando Jordan (c) defeated Heidenreich by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "4:54"
+        },
+        {
+          "match": "Rey Mysterio defeated Eddie Guerrero by disqualification",
+          "stipulation": "Singles match",
+          "time": "18:04"
+        },
+        {
+          "match": "John Cena (c) defeated John \"Bradshaw\" Layfield",
+          "stipulation": "\"I Quit\" match for the WWE Championship",
+          "time": "22:46"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-ecw-one-night-stand-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "ECW One Night Stand",
+      "session": "ple",
+      "startsAt": "2005-06-12T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Hammerstein Ballroom",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Lance Storm (with Dawn Marie) defeated Chris Jericho",
+          "stipulation": "Singles match",
+          "time": "07:23"
+        },
+        {
+          "match": "Super Crazy defeated Yoshihiro Tajiri (with The Sinister Minister and Mikey Whipwreck) and Little Guido (with Big Guido, Tracy Smothers, J.T. Smith, and Tony Mamaluke)",
+          "stipulation": "Three-Way Dance",
+          "time": "06:14"
+        },
+        {
+          "match": "Rey Mysterio defeated Psicosis",
+          "stipulation": "Singles match",
+          "time": "06:23"
+        },
+        {
+          "match": "Sabu (with Rob Van Dam and Bill Alfonso) defeated Rhyno",
+          "stipulation": "Singles match",
+          "time": "06:31"
+        },
+        {
+          "match": "Chris Benoit defeated Eddie Guerrero",
+          "stipulation": "Singles match",
+          "time": "10:36"
+        },
+        {
+          "match": "Mike Awesome defeated Masato Tanaka",
+          "stipulation": "Singles match",
+          "time": "09:52"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray and D-Von) defeated Tommy Dreamer and The Sandman",
+          "stipulation": "Tag team match",
+          "time": "10:13"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-vengeance-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "Vengeance",
+      "session": "ple",
+      "startsAt": "2005-06-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Thomas & Mack Center",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Hurricane and Rosey (c) (with Super Stacy) defeated The Heart Throbs (Antonio and Romeo) by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "5:06",
+          "note": "pre-show"
+        },
+        {
+          "match": "Carlito (c) defeated Shelton Benjamin by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "12:50"
+        },
+        {
+          "match": "Victoria defeated Christy Hemme by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:06"
+        },
+        {
+          "match": "Kane defeated Edge (with Lita) by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:12"
+        },
+        {
+          "match": "Shawn Michaels defeated Kurt Angle by pinfall",
+          "stipulation": "Singles match",
+          "time": "26:12"
+        },
+        {
+          "match": "John Cena (c) defeated Chris Jericho and Christian by pinfall",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "15:18"
+        },
+        {
+          "match": "Batista (c) defeated Triple H by pinfall",
+          "stipulation": "Hell in a Cell match for the World Heavyweight Championship",
+          "time": "26:54"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-the-great-american-bash-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "The Great American Bash",
+      "session": "ple",
+      "startsAt": "2005-07-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "HSBC Arena",
+      "city": "Buffalo, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Paul London (c) defeated Nunzio by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "2:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Legion of Doom (Animal and Heidenreich) defeated MNM (Joey Mercury and Johnny Nitro) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "6:46"
+        },
+        {
+          "match": "Booker T defeated Christian by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:38"
+        },
+        {
+          "match": "Orlando Jordan (c) defeated Chris Benoit by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "14:24"
+        },
+        {
+          "match": "The Undertaker defeated Muhammad Hassan by pinfall",
+          "stipulation": "Singles match to determine the #1 contender for the World Heavyweight Championship",
+          "time": "8:05"
+        },
+        {
+          "match": "The Mexicools (Super Crazy, Juventud and Psicosis) defeated The bWo (Stevie Richards, The Blue Meanie and Nova) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "4:53"
+        },
+        {
+          "match": "Rey Mysterio defeated Eddie Guerrero by pinfall",
+          "stipulation": "Singles match · Since Mysterio won, Eddie could not reveal the secret about Mysterio's son, Dominik, which Eddie would have done if he won.",
+          "time": "15:39"
+        },
+        {
+          "match": "Melina defeated Torrie Wilson",
+          "stipulation": "Bra and Panties match with Candice Michelle as special guest referee",
+          "time": "3:52"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield defeated Batista (c) by disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "19:48"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-summerslam-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2005-08-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "MCI Center",
+      "city": "Washington, D.C.",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Chris Masters defeated The Hurricane (with Rosey and Super Stacy)",
+          "stipulation": "Singles match",
+          "time": "1:56",
+          "note": "pre-show"
+        },
+        {
+          "match": "Chris Benoit defeated Orlando Jordan (c)",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "0:25"
+        },
+        {
+          "match": "Edge (with Lita) defeated Matt Hardy by technical knockout",
+          "stipulation": "Singles match",
+          "time": "4:50"
+        },
+        {
+          "match": "Rey Mysterio defeated Eddie Guerrero",
+          "stipulation": "Ladder match for custody of Dominik",
+          "time": "20:19"
+        },
+        {
+          "match": "Kurt Angle defeated Eugene (with Christy Hemme)",
+          "stipulation": "Singles match for Kurt Angle's Olympic medal",
+          "time": "4:33"
+        },
+        {
+          "match": "Randy Orton defeated The Undertaker",
+          "stipulation": "Singles match",
+          "time": "17:17"
+        },
+        {
+          "match": "John Cena (c) defeated Chris Jericho",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "14:49"
+        },
+        {
+          "match": "Batista (c) defeated John \"Bradshaw\" Layfield",
+          "stipulation": "No Holds Barred match for the World Heavyweight Championship",
+          "time": "9:07"
+        },
+        {
+          "match": "Hulk Hogan defeated Shawn Michaels",
+          "stipulation": "Singles match",
+          "time": "21:26"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-unforgiven-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "Unforgiven",
+      "session": "ple",
+      "startsAt": "2005-09-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Ford Center",
+      "city": "Oklahoma City, Oklahoma",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rob Conway defeated Tajiri by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:44",
+          "note": "pre-show"
+        },
+        {
+          "match": "Ric Flair defeated Carlito (c) by submission",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "11:46"
+        },
+        {
+          "match": "Ashley and Trish Stratus defeated The Ladies in Pink (Torrie Wilson and Victoria) (with Candice Michelle) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "7:05"
+        },
+        {
+          "match": "Big Show defeated Snitsky by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:08"
+        },
+        {
+          "match": "Shelton Benjamin defeated Kerwin White by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:03"
+        },
+        {
+          "match": "Matt Hardy defeated Edge (with Lita) by pinfall",
+          "stipulation": "Steel Cage match",
+          "time": "21:33"
+        },
+        {
+          "match": "Lance Cade and Trevor Murdoch defeated The Hurricane and Rosey (c) by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "7:40"
+        },
+        {
+          "match": "Shawn Michaels defeated Chris Masters by pinfall",
+          "stipulation": "Singles match",
+          "time": "16:44"
+        },
+        {
+          "match": "Kurt Angle defeated John Cena (c) by disqualification",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "17:15"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-no-mercy-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "2005-10-09T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Toyota Center",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Paul Burchill and William Regal defeated Brian Kendrick and Paul London by pinfall",
+          "stipulation": "Tag team match",
+          "time": "3:58",
+          "note": "pre-show"
+        },
+        {
+          "match": "Christy Hemme and The Legion of Doom (Animal and Heidenreich) defeated MNM (Joey Mercury, Johnny Nitro and Melina) by pinfall",
+          "stipulation": "Six-person mixed tag team match",
+          "time": "6:25"
+        },
+        {
+          "match": "Bobby Lashley defeated Simon Dean by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:55"
+        },
+        {
+          "match": "Chris Benoit (c) defeated Booker T (with Sharmell), Christian, and Orlando Jordan by pinfall",
+          "stipulation": "Fatal four-way match for the WWE United States Championship",
+          "time": "10:22"
+        },
+        {
+          "match": "Mr. Kennedy defeated Hardcore Holly by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:49"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield (with Jillian Hall) defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match",
+          "time": "13:24"
+        },
+        {
+          "match": "Randy Orton and Bob Orton defeated The Undertaker",
+          "stipulation": "Handicap Casket match",
+          "time": "19:16"
+        },
+        {
+          "match": "Juventud (with Psicosis and Super Crazy) defeated Nunzio (c) (with Vito) by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "6:49"
+        },
+        {
+          "match": "Batista (c) defeated Eddie Guerrero by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "18:40"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-taboo-tuesday-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "Taboo Tuesday",
+      "session": "ple",
+      "startsAt": "2005-11-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "iPayOne Center",
+      "city": "San Diego, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kerwin White and Matt Striker (with Nick Nemeth) defeated Shelton Benjamin and Val Venis",
+          "stipulation": "Tag team match",
+          "time": "02:38",
+          "note": "pre-show"
+        },
+        {
+          "match": "Rey Mysterio and Matt Hardy defeated Snitsky and Chris Masters",
+          "stipulation": "Tag team match",
+          "time": "13:44"
+        },
+        {
+          "match": "Eugene and Jimmy Snuka defeated Rob Conway and Tyson Tomko",
+          "stipulation": "Tag team match",
+          "time": "06:13"
+        },
+        {
+          "match": "Mankind defeated Carlito",
+          "stipulation": "Singles match",
+          "time": "07:22"
+        },
+        {
+          "match": "Big Show and Kane defeated Lance Cade and Trevor Murdoch (c)",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "07:59"
+        },
+        {
+          "match": "Batista defeated Jonathan Coachman (with Goldust and Vader)",
+          "stipulation": "Street Fight",
+          "time": "04:12"
+        },
+        {
+          "match": "Trish Stratus (c) won by last eliminating Victoria",
+          "stipulation": "Fulfill Your Fantasy Battle Royal for the WWE Women's Championship",
+          "time": "05:28"
+        },
+        {
+          "match": "Ric Flair (c) defeated Triple H",
+          "stipulation": "Steel Cage match for the WWE Intercontinental Championship",
+          "time": "23:46"
+        },
+        {
+          "match": "John Cena (c) defeated Kurt Angle and Shawn Michaels",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "16:42"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-survivor-series-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2005-11-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Joe Louis Arena",
+      "city": "Detroit, Michigan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Juventud (with Psicosis and Super Crazy) defeated Simon Dean by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:10",
+          "note": "pre-show"
+        },
+        {
+          "match": "Booker T (with Sharmell) defeated Chris Benoit by pinfall",
+          "stipulation": "Singles match for the vacant WWE United States Championship · First in the best of seven series.",
+          "time": "14:39"
+        },
+        {
+          "match": "Trish Stratus (c) (with Mickie James) defeated Melina (with Joey Mercury and Johnny Nitro) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "6:30"
+        },
+        {
+          "match": "Triple H defeated Ric Flair",
+          "stipulation": "Last Man Standing match",
+          "time": "26:59"
+        },
+        {
+          "match": "John Cena (c) defeated Kurt Angle by pinfall",
+          "stipulation": "Singles match for the WWE Championship · Daivari served as the special guest referee.",
+          "time": "13:56"
+        },
+        {
+          "match": "Theodore Long (with Palmer Canon) defeated Eric Bischoff by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:23"
+        },
+        {
+          "match": "Team SmackDown! (Batista, Bobby Lashley, John \"Bradshaw\" Layfield, Randy Orton, and Rey Mysterio) defeated Team Raw (Big Show, Carlito, Chris Masters, Kane, and Shawn Michaels)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "24:01"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2005-armageddon-2005",
+      "competition": "wwe",
+      "season": "2005",
+      "title": "Armageddon",
+      "session": "ple",
+      "startsAt": "2005-12-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Dunkin' Donuts Center",
+      "city": "Providence, Rhode Island",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jamie Noble defeated Funaki",
+          "stipulation": "Singles match",
+          "time": "3:30",
+          "note": "pre-show"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield (with Jillian Hall) defeated Matt Hardy",
+          "stipulation": "Singles match",
+          "time": "6:44"
+        },
+        {
+          "match": "MNM (Joey Mercury and Johnny Nitro) (with Melina) defeated The Mexicools (Super Crazy and Psicosis)",
+          "stipulation": "Tag team match",
+          "time": "8:56"
+        },
+        {
+          "match": "Chris Benoit defeated Booker T (with Sharmell) by submission",
+          "stipulation": "Singles match for the vacant WWE United States Championship · Fourth in the best of seven series",
+          "time": "20:11"
+        },
+        {
+          "match": "Bobby Lashley defeated William Regal and Paul Burchill",
+          "stipulation": "Handicap match",
+          "time": "3:38"
+        },
+        {
+          "match": "Kid Kash defeated Juventud (c)",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "9:25"
+        },
+        {
+          "match": "Big Show and Kane defeated Rey Mysterio and Batista",
+          "stipulation": "Tag team match",
+          "time": "8:38"
+        },
+        {
+          "match": "The Undertaker defeated Randy Orton (with Bob Orton) by pinfall",
+          "stipulation": "Hell in a Cell match",
+          "time": "31:31"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

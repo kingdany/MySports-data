@@ -1,0 +1,118 @@
+{
+  "competition": "wwe",
+  "season": "1987",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1987-wrestlemania-iii",
+      "competition": "wwe",
+      "season": "1987",
+      "title": "WrestleMania III",
+      "session": "ple",
+      "startsAt": "1987-03-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Pontiac Silverdome",
+      "city": "Pontiac, Michigan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Can-Am Connection (Rick Martel and Tom Zenk) defeated Bob Orton and The Magnificent Muraco (with Mr. Fuji) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "5:37"
+        },
+        {
+          "match": "Billy Jack Haynes vs. Hercules (with Bobby Heenan) ended in a double countout",
+          "stipulation": "Singles match",
+          "time": "7:44"
+        },
+        {
+          "match": "Hillbilly Jim, Haiti Kid, and Little Beaver defeated King Kong Bundy, Little Tokyo, and Lord Littlebrook by disqualification",
+          "stipulation": "Six-man tag team match",
+          "time": "3:25"
+        },
+        {
+          "match": "Harley Race (with Bobby Heenan and The Fabulous Moolah) defeated Junkyard Dog by pinfall",
+          "stipulation": "Loser Must Bow match",
+          "time": "4:22"
+        },
+        {
+          "match": "The Dream Team (Greg Valentine and Brutus Beefcake) (with Johnny Valiant and Dino Bravo) defeated The Rougeau Brothers (Jacques Rougeau and Raymond Rougeau) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "4:03"
+        },
+        {
+          "match": "Roddy Piper defeated Adrian Adonis (with Jimmy Hart) by submission",
+          "stipulation": "Hair vs. Hair match",
+          "time": "6:33"
+        },
+        {
+          "match": "Danny Davis and The Hart Foundation (Bret Hart and Jim Neidhart) (with Jimmy Hart) defeated Tito Santana and The British Bulldogs (Davey Boy Smith and Dynamite Kid) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "8:52"
+        },
+        {
+          "match": "Butch Reed (with Slick) defeated Koko B. Ware by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:39"
+        },
+        {
+          "match": "Ricky Steamboat (with George Steele) defeated Randy Savage (c) (with Miss Elizabeth) by pinfall",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "14:35"
+        },
+        {
+          "match": "The Honky Tonk Man (with Jimmy Hart) defeated Jake Roberts (with Alice Cooper) by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:04"
+        },
+        {
+          "match": "The Iron Sheik and Nikolai Volkoff (with Slick) defeated The Killer Bees (B. Brian Blair and Jim Brunzell) by disqualification",
+          "stipulation": "Tag team match",
+          "time": "5:44"
+        },
+        {
+          "match": "Hulk Hogan (c) defeated André the Giant (with Bobby Heenan) by pinfall",
+          "stipulation": "Singles match for the WWF World Heavyweight Championship",
+          "time": "12:01"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1987-survivor-series-1987",
+      "competition": "wwe",
+      "season": "1987",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1987-11-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Richfield Coliseum",
+      "city": "Richfield Township, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Brutus Beefcake, Jake Roberts, Jim Duggan, Randy Savage, and Ricky Steamboat (with Miss Elizabeth) defeated Dangerous Danny Davis, Harley Race, Hercules, The Honky Tonk Man, and Ron Bass (with Bobby Heenan and Jimmy Hart)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "23:38"
+        },
+        {
+          "match": "The Fabulous Moolah, The Jumping Bomb Angels (Itsuki Yamazaki and Noriyo Tateno), Rockin' Robin, and Velvet McIntyre defeated Dawn Marie, Donna Christanello, The Glamour Girls (Leilani Kai and Judy Martin), and Sensational Sherri (with Jimmy Hart)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "20:17"
+        },
+        {
+          "match": "The British Bulldogs (Davey Boy Smith and Dynamite Kid), The Killer Bees (B. Brian Blair and Jim Brunzell), The Rougeau Brothers (Jacques Rougeau and Raymond Rougeau), Strike Force (Rick Martel and Tito Santana), and The Young Stallions (Jim Powers and Paul Roma) defeated The Bolsheviks (Boris Zhukov and Nikolai Volkoff), Demolition (Ax and Smash), The Dream Team (Dino Bravo and Greg Valentine), The Hart Foundation (Bret Hart and Jim Neidhart), and The Islanders (Haku and Tama) (with Bobby Heenan, Mr. Fuji, Jimmy Hart, Johnny Valiant and Slick)",
+          "stipulation": "10-on-10 Survivor Series tag team match",
+          "time": "37:14"
+        },
+        {
+          "match": "André the Giant, Butch Reed, King Kong Bundy, One Man Gang, and Rick Rude (with Bobby Heenan and Slick) defeated Bam Bam Bigelow, Don Muraco, Hulk Hogan, Ken Patera, and Paul Orndorff (with Oliver Humperdink)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "24:07"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

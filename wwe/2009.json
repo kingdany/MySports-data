@@ -1,0 +1,786 @@
+{
+  "competition": "wwe",
+  "season": "2009",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2009-royal-rumble-2009",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2009-01-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Joe Louis Arena",
+      "city": "Detroit, Michigan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jimmy Wang Yang defeated Paul Burchill by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Jack Swagger (c) defeated Matt Hardy by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "10:27"
+        },
+        {
+          "match": "Melina defeated Beth Phoenix (c) (with Santino Marella) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "5:56"
+        },
+        {
+          "match": "John Cena (c) defeated John \"Bradshaw\" Layfield (with Shawn Michaels) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "15:29"
+        },
+        {
+          "match": "Edge (with Chavo Guerrero) defeated Jeff Hardy (c) by pinfall",
+          "stipulation": "No Disqualification match for the WWE Championship",
+          "time": "19:23"
+        },
+        {
+          "match": "Randy Orton won by last eliminating Triple H",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 25",
+          "time": "59:37"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-no-way-out-2009",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "No Way Out",
+      "session": "ple",
+      "startsAt": "2009-02-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "KeyArena",
+      "city": "Seattle, Washington",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Melina (c) defeated Beth Phoenix by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "note": "dark"
+        },
+        {
+          "match": "Triple H defeated The Undertaker, Jeff Hardy, Big Show, Vladimir Kozlov, and Edge (c)",
+          "stipulation": "Elimination Chamber match for the WWE Championship",
+          "time": "35:55"
+        },
+        {
+          "match": "Randy Orton defeated Shane McMahon by pinfall",
+          "stipulation": "No Holds Barred match",
+          "time": "18:16"
+        },
+        {
+          "match": "Jack Swagger (c) defeated Finlay (with Hornswoggle) by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "7:53"
+        },
+        {
+          "match": "Shawn Michaels defeated John \"Bradshaw\" Layfield by pinfall",
+          "stipulation": "All or Nothing singles match. · Since Michaels won, he was released from his employment contract with JBL. · Had JBL won, Michaels would have had to be a permanent employee of JBL.",
+          "time": "13:17"
+        },
+        {
+          "match": "Edge defeated Rey Mysterio, Chris Jericho, John Cena (c), Mike Knox, and Kane",
+          "stipulation": "Elimination Chamber match for the World Heavyweight Championship",
+          "time": "29:46"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-wrestlemania-25",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "WrestleMania 25",
+      "session": "ple",
+      "startsAt": "2009-04-05T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Reliant Stadium",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Colóns (Carlito and Primo) (WWE) defeated John Morrison and The Miz (World) by pinfall",
+          "stipulation": "Lumberjack match to unify the WWE Tag Team Championship and World Tag Team Championship as the Unified WWE Tag Team Championship",
+          "time": "8:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "CM Punk defeated Christian, Finlay (with Hornswoggle), Kane, Kofi Kingston, Mark Henry (with Tony Atlas), Montel Vontavious Porter and Shelton Benjamin",
+          "stipulation": "Money in the Bank ladder match",
+          "time": "14:32"
+        },
+        {
+          "match": "Santina Marella won by last eliminating Beth Phoenix",
+          "stipulation": "\"Miss WrestleMania\" Battle Royal with Mae Young as special guest timekeeper",
+          "time": "7:25"
+        },
+        {
+          "match": "Chris Jericho defeated Jimmy Snuka, Ricky Steamboat, and Roddy Piper (with Ric Flair) by pinfall",
+          "stipulation": "Handicap Elimination match"
+        },
+        {
+          "match": "Matt Hardy defeated Jeff Hardy by pinfall",
+          "stipulation": "Extreme Rules match",
+          "time": "13:38"
+        },
+        {
+          "match": "Rey Mysterio defeated John \"Bradshaw\" Layfield (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "0:21"
+        },
+        {
+          "match": "The Undertaker defeated Shawn Michaels by pinfall",
+          "stipulation": "Singles match",
+          "time": "30:44"
+        },
+        {
+          "match": "John Cena defeated Big Show and Edge (c) (with Vickie Guerrero and Chavo Guerrero) by pinfall",
+          "stipulation": "Triple threat match for the World Heavyweight Championship",
+          "time": "14:33"
+        },
+        {
+          "match": "Triple H (c) defeated Randy Orton by pinfall",
+          "stipulation": "Singles match for the WWE Championship · Had Triple H been counted out or disqualified, he would have lost the title.",
+          "time": "24:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-backlash-2009",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2009-04-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Dunkin' Donuts Center",
+      "city": "Providence, Rhode Island",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kofi Kingston defeated Dolph Ziggler",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Christian defeated Jack Swagger (c) by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "10:55"
+        },
+        {
+          "match": "Chris Jericho defeated Ricky Steamboat by submission",
+          "stipulation": "Singles match",
+          "time": "12:32"
+        },
+        {
+          "match": "Kane defeated CM Punk by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:25"
+        },
+        {
+          "match": "Jeff Hardy defeated Matt Hardy",
+          "stipulation": "\"I Quit\" match",
+          "time": "19:01"
+        },
+        {
+          "match": "Santina Marella (c) defeated Beth Phoenix (with Rosa Mendes) by pinfall",
+          "stipulation": "Singles match for the title of \"Miss WrestleMania\"",
+          "time": "0:03"
+        },
+        {
+          "match": "The Legacy (Cody Rhodes, Randy Orton and Ted DiBiase) defeated Batista, Shane McMahon and Triple H (c) by pinfall",
+          "stipulation": "Six-man tag team match for the WWE Championship · If Triple H or any member of his team had gotten disqualified, counted out, pinned, or submitted, Orton would win the title. Orton pinned Triple H to win the title.",
+          "time": "22:50"
+        },
+        {
+          "match": "Edge defeated John Cena (c)",
+          "stipulation": "Last Chance Last Man Standing match for the World Heavyweight Championship",
+          "time": "28:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-wwe-judgment-day-2009",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "Judgment Day",
+      "session": "ple",
+      "startsAt": "2009-05-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Mickie James defeated Beth Phoenix (with Rosa Mendes) by pinfall",
+          "stipulation": "Singles match",
+          "time": "06:13",
+          "note": "dark"
+        },
+        {
+          "match": "Umaga defeated CM Punk by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:52"
+        },
+        {
+          "match": "Christian (c) defeated Jack Swagger by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "09:33"
+        },
+        {
+          "match": "John Morrison defeated Shelton Benjamin (with Charlie Haas) by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:10"
+        },
+        {
+          "match": "Rey Mysterio (c) defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "12:39"
+        },
+        {
+          "match": "Batista defeated Randy Orton (c) by disqualification",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "14:44"
+        },
+        {
+          "match": "John Cena defeated Big Show by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:57"
+        },
+        {
+          "match": "Edge (c) defeated Jeff Hardy by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "19:56"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-extreme-rules-2009",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2009-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "New Orleans Arena",
+      "city": "New Orleans, Louisiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kelly Kelly and Mickie James defeated Beth Phoenix and Rosa Mendes by pinfall",
+          "stipulation": "Tag team match",
+          "time": "15:24",
+          "note": "dark"
+        },
+        {
+          "match": "Kofi Kingston (c) defeated MVP, William Regal, and Matt Hardy by pinfall",
+          "stipulation": "Fatal four-way match for the WWE United States Championship",
+          "time": "6:42"
+        },
+        {
+          "match": "Chris Jericho defeated Rey Mysterio (c) by pinfall",
+          "stipulation": "No Holds Barred match for the WWE Intercontinental Championship",
+          "time": "14:43"
+        },
+        {
+          "match": "CM Punk defeated Umaga",
+          "stipulation": "Samoan Strap match",
+          "time": "8:59"
+        },
+        {
+          "match": "Tommy Dreamer defeated Jack Swagger and Christian (c) by pinfall",
+          "stipulation": "Triple threat hardcore match for the ECW Championship · Had Dreamer failed to win the title, he would have no longer wrestled for ECW.",
+          "time": "9:38"
+        },
+        {
+          "match": "Santina Marella defeated Chavo Guerrero and Vickie Guerrero (c) by pinfall",
+          "stipulation": "Handicap Hog Pen match for the title of \"Miss WrestleMania\"",
+          "time": "2:43"
+        },
+        {
+          "match": "Batista defeated Randy Orton (c) by pinfall",
+          "stipulation": "Steel Cage match for the WWE Championship",
+          "time": "7:03"
+        },
+        {
+          "match": "John Cena defeated Big Show",
+          "stipulation": "Submission match",
+          "time": "19:06"
+        },
+        {
+          "match": "Jeff Hardy defeated Edge (c)",
+          "stipulation": "Ladder match for the World Heavyweight Championship",
+          "time": "20:07"
+        },
+        {
+          "match": "CM Punk defeated Jeff Hardy (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship · This was CM Punk's Money in the Bank cash-in match.",
+          "time": "1:02"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-wwe-the-bash",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "The Bash",
+      "session": "ple",
+      "startsAt": "2009-06-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "ARCO Arena",
+      "city": "Sacramento, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "R-Truth defeated Shelton Benjamin by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:18",
+          "note": "dark"
+        },
+        {
+          "match": "Tommy Dreamer (c) defeated Christian, Finlay, Jack Swagger, and Mark Henry",
+          "stipulation": "Championship Scramble for the ECW Championship",
+          "time": "14:46"
+        },
+        {
+          "match": "Rey Mysterio defeated Chris Jericho (c) by pinfall",
+          "stipulation": "Title vs. Mask match for the WWE Intercontinental Championship",
+          "time": "15:42"
+        },
+        {
+          "match": "Dolph Ziggler defeated The Great Khali by pinfall",
+          "stipulation": "No Disqualification match",
+          "time": "4:59"
+        },
+        {
+          "match": "Edge and Chris Jericho defeated The Colóns (Carlito and Primo) (c) and The Legacy (Cody Rhodes and Ted DiBiase) by pinfall",
+          "stipulation": "Triple threat match for the Unified WWE Tag Team Championship",
+          "time": "9:37"
+        },
+        {
+          "match": "Michelle McCool (with Alicia Fox) defeated Melina (c) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "6:34"
+        },
+        {
+          "match": "Jeff Hardy defeated CM Punk (c) by disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "15:01"
+        },
+        {
+          "match": "John Cena defeated The Miz by Submission",
+          "stipulation": "Singles match",
+          "time": "5:39"
+        },
+        {
+          "match": "Randy Orton (c) defeated Triple H 2-1",
+          "stipulation": "Three Stages of Hell match for the WWE Championship * Fall 1: Singles match (won by Orton) · * Fall 2: Falls Count Anywhere match (won by Triple H) * Fall 3: Stretcher match (won by Orton)",
+          "time": "21:23"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-night-of-champions-2009",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "Night of Champions",
+      "session": "ple",
+      "startsAt": "2009-07-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Wachovia Center",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Cryme Tyme (Shad Gaspard and JTG) defeated The Hart Dynasty (Tyson Kidd and David Hart Smith)",
+          "stipulation": "Tag team match",
+          "time": "5:13",
+          "note": "dark"
+        },
+        {
+          "match": "Jeri-Show (Chris Jericho and Big Show) (c) defeated The Legacy (Cody Rhodes and Ted DiBiase)",
+          "stipulation": "Tag team match for the Unified WWE Tag Team Championship",
+          "time": "9:32"
+        },
+        {
+          "match": "Christian defeated Tommy Dreamer (c)",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "8:28"
+        },
+        {
+          "match": "Kofi Kingston (c) defeated Montel Vontavious Porter, The Miz, Carlito, Primo, and Jack Swagger",
+          "stipulation": "Six-Pack Challenge for the WWE United States Championship",
+          "time": "8:35"
+        },
+        {
+          "match": "Michelle McCool (c) defeated Melina",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "6:12"
+        },
+        {
+          "match": "Randy Orton (c) defeated Triple H and John Cena",
+          "stipulation": "Triple Threat match for the WWE Championship",
+          "time": "22:19"
+        },
+        {
+          "match": "Mickie James defeated Maryse (c)",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "8:36"
+        },
+        {
+          "match": "Rey Mysterio (c) defeated Dolph Ziggler (with Maria)",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "14:20"
+        },
+        {
+          "match": "Jeff Hardy defeated CM Punk (c)",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "14:56"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-summerslam-2009",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2009-08-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Beth Phoenix won by last eliminating Kelly Kelly and Eve Torres by pinfall",
+          "stipulation": "15-Diva battle royal with Chavo Guerrero as special guest referee",
+          "time": "6:32",
+          "note": "dark"
+        },
+        {
+          "match": "Rey Mysterio (c) defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "12:25"
+        },
+        {
+          "match": "Montel Vontavious Porter defeated Jack Swagger by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:24"
+        },
+        {
+          "match": "Jeri-Show (Chris Jericho and Big Show) (c) defeated Cryme Tyme (JTG and Shad Gaspard) by pinfall",
+          "stipulation": "Tag team match for the Unified WWE Tag Team Championship",
+          "time": "9:42"
+        },
+        {
+          "match": "Kane defeated The Great Khali (with Ranjin Singh) by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:59"
+        },
+        {
+          "match": "D-Generation X (Triple H and Shawn Michaels) defeated The Legacy (Cody Rhodes and Ted DiBiase) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "20:01"
+        },
+        {
+          "match": "Christian (c) defeated William Regal (with Ezekiel Jackson and Vladimir Kozlov) by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "0:08"
+        },
+        {
+          "match": "Randy Orton (c) defeated John Cena by pinfall",
+          "stipulation": "Singles match for the WWE Championship · Had Orton been counted out or disqualified for the second time, he would have lost the title.",
+          "time": "20:45"
+        },
+        {
+          "match": "CM Punk defeated Jeff Hardy (c)",
+          "stipulation": "Tables, Ladders, and Chairs match for the World Heavyweight Championship",
+          "time": "21:33"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-wwe-breaking-point",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "Breaking Point",
+      "session": "ple",
+      "startsAt": "2009-09-13T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Bell Centre",
+      "city": "Montreal, Quebec, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Evan Bourne defeated Chavo Guerrero by pinfall",
+          "stipulation": "Singles match",
+          "time": "05:00",
+          "note": "dark"
+        },
+        {
+          "match": "Jeri-Show (Chris Jericho and Big Show) (c) defeated The World's Strongest Tag Team (Montel Vontavious Porter and Mark Henry) by pinfall",
+          "stipulation": "Tag team match for the Unified WWE Tag Team Championship",
+          "time": "12:13"
+        },
+        {
+          "match": "Kofi Kingston (c) defeated The Miz by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "11:56"
+        },
+        {
+          "match": "The Legacy (Cody Rhodes and Ted DiBiase) defeated D-Generation X (Triple H and Shawn Michaels)",
+          "stipulation": "Submissions Count Anywhere match",
+          "time": "21:44"
+        },
+        {
+          "match": "Kane defeated The Great Khali (with Ranjin Singh) by pinfall",
+          "stipulation": "Singapore Cane match",
+          "time": "05:50"
+        },
+        {
+          "match": "Christian (c) defeated William Regal by pinfall",
+          "stipulation": "Singles match for the ECW Championship · Ezekiel Jackson and Vladimir Kozlov were banned from ringside. If they had refused to leave immediately, then Regal would have lost the match by forfeit.",
+          "time": "10:15"
+        },
+        {
+          "match": "John Cena defeated Randy Orton (c)",
+          "stipulation": "\"I Quit\" match for the WWE Championship · Had anyone interfered in the match on Orton's behalf, Orton would have been stripped of the title immediately.",
+          "time": "19:46"
+        },
+        {
+          "match": "CM Punk (c) defeated The Undertaker",
+          "stipulation": "Submission match for the World Heavyweight Championship",
+          "time": "08:52"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-hell-in-a-cell-2009",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2009-10-04T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Prudential Center",
+      "city": "Newark, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Matt Hardy defeated Mike Knox by pinfall",
+          "stipulation": "Singles match",
+          "time": "06:00",
+          "note": "dark"
+        },
+        {
+          "match": "The Undertaker defeated CM Punk (c) by pinfall",
+          "stipulation": "Hell in a Cell match for the World Heavyweight Championship",
+          "time": "10:24"
+        },
+        {
+          "match": "John Morrison (c) defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "15:41"
+        },
+        {
+          "match": "Mickie James (c) defeated Alicia Fox by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "05:20"
+        },
+        {
+          "match": "Jeri-Show (Chris Jericho and Big Show) (c) defeated Batista and Rey Mysterio by pinfall",
+          "stipulation": "Tag team match for the Unified WWE Tag Team Championship",
+          "time": "13:41"
+        },
+        {
+          "match": "Randy Orton defeated John Cena (c) by pinfall",
+          "stipulation": "Hell in a Cell match for the WWE Championship",
+          "time": "21:24"
+        },
+        {
+          "match": "Drew McIntyre defeated R-Truth by pinfall",
+          "stipulation": "Singles match",
+          "time": "04:38"
+        },
+        {
+          "match": "Kofi Kingston (c) defeated The Miz and Jack Swagger by pinfall",
+          "stipulation": "Triple threat match for the WWE United States Championship",
+          "time": "07:53"
+        },
+        {
+          "match": "D-Generation X (Triple H and Shawn Michaels) defeated The Legacy (Cody Rhodes and Ted DiBiase) by pinfall",
+          "stipulation": "Hell in a Cell match",
+          "time": "18:02"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-bragging-rights-2009",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "Bragging Rights",
+      "session": "ple",
+      "startsAt": "2009-10-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Mellon Arena",
+      "city": "Pittsburgh, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Christian (c) defeated Paul Burchill by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "7:33",
+          "note": "dark"
+        },
+        {
+          "match": "The Miz (Raw) defeated John Morrison (SmackDown) by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:53"
+        },
+        {
+          "match": "Beth Phoenix, Michelle McCool, and Natalya (SmackDown) defeated Gail Kim, Kelly Kelly, and Melina (Raw) by pinfall",
+          "stipulation": "Six-Diva tag team match",
+          "time": "6:13"
+        },
+        {
+          "match": "The Undertaker (c) defeated Batista, CM Punk, and Rey Mysterio by pinfall",
+          "stipulation": "Fatal four-way match for the World Heavyweight Championship",
+          "time": "9:59"
+        },
+        {
+          "match": "Team SmackDown (Chris Jericho, David Hart Smith, Finlay, Kane, Matt Hardy, R-Truth, and Tyson Kidd) defeated Team Raw (Big Show, Cody Rhodes, Jack Swagger, Kofi Kingston, Mark Henry, Shawn Michaels, and Triple H) by pinfall",
+          "stipulation": "14-man Tag Team match for the Bragging Rights Trophy",
+          "time": "15:33"
+        },
+        {
+          "match": "John Cena defeated Randy Orton (c) 6–5",
+          "stipulation": "60-minute Anything Goes Iron man match for the WWE Championship · Had Cena lost, he would have been forced to leave the Raw brand and join SmackDown or ECW."
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-survivor-series-2009",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2009-11-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Verizon Center",
+      "city": "Washington, D.C.",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Santino Marella defeated Chavo Guerrero by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Team Miz (Dolph Ziggler, Drew McIntyre, Jack Swagger, The Miz, and Sheamus) defeated Team Morrison (Evan Bourne, Finlay, John Morrison, Matt Hardy, and Shelton Benjamin)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "20:52"
+        },
+        {
+          "match": "Batista defeated Rey Mysterio by technical knockout",
+          "stipulation": "Singles match",
+          "time": "06:50"
+        },
+        {
+          "match": "Team Kingston (Christian, Kofi Kingston, Mark Henry, Montel Vontavious Porter, and R-Truth) defeated Team Orton (CM Punk, Cody Rhodes, Randy Orton, Ted DiBiase, and William Regal)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "20:47"
+        },
+        {
+          "match": "The Undertaker (c) defeated Big Show and Chris Jericho by submission",
+          "stipulation": "Triple threat match for the World Heavyweight Championship",
+          "time": "13:37"
+        },
+        {
+          "match": "Team Mickie (Eve Torres, Gail Kim, Kelly Kelly, Melina, and Mickie James) defeated Team Michelle (Alicia Fox, Beth Phoenix, Jillian Hall, Layla, and Michelle McCool)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "10:38"
+        },
+        {
+          "match": "John Cena (c) defeated Triple H and Shawn Michaels by pinfall",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "21:19"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2009-tlc-tables-ladders-chairs-2009",
+      "competition": "wwe",
+      "season": "2009",
+      "title": "TLC: Tables, Ladders & Chairs",
+      "session": "ple",
+      "startsAt": "2009-12-13T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "AT&T Center",
+      "city": "San Antonio, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "R-Truth defeated CM Punk (with Luke Gallows)",
+          "stipulation": "Singles match",
+          "time": "8:12",
+          "note": "dark"
+        },
+        {
+          "match": "Christian (c) defeated Shelton Benjamin",
+          "stipulation": "Ladder match for the ECW Championship",
+          "time": "18:04"
+        },
+        {
+          "match": "Drew McIntyre defeated John Morrison (c)",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "10:19"
+        },
+        {
+          "match": "Michelle McCool (c) (with Layla) defeated Mickie James",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "7:31"
+        },
+        {
+          "match": "Sheamus defeated John Cena (c)",
+          "stipulation": "Tables match for the WWE Championship",
+          "time": "16:20"
+        },
+        {
+          "match": "The Undertaker (c) defeated Batista",
+          "stipulation": "Chairs match for the World Heavyweight Championship",
+          "time": "13:14"
+        },
+        {
+          "match": "Randy Orton defeated Kofi Kingston",
+          "stipulation": "Singles match",
+          "time": "13:11"
+        },
+        {
+          "match": "D-Generation X (Shawn Michaels and Triple H) defeated Jeri-Show (Chris Jericho and Big Show) (c)",
+          "stipulation": "Tables, Ladders, and Chairs match for the Unified WWE Tag Team Championship",
+          "time": "22:50"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

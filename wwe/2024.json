@@ -1,0 +1,563 @@
+{
+  "competition": "wwe",
+  "season": "2024",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2024-royal-rumble-2024",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2024-01-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Tropicana Field",
+      "city": "St. Petersburg, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bayley won by last eliminating Liv Morgan",
+          "stipulation": "30-woman Royal Rumble match for a world championship match at WrestleMania XL"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated AJ Styles, LA Knight, and Randy Orton by pinfall",
+          "stipulation": "Fatal four-way match for the Undisputed WWE Universal Championship",
+          "time": "19:30"
+        },
+        {
+          "match": "Logan Paul (c) defeated Kevin Owens by disqualification",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "14:00"
+        },
+        {
+          "match": "Cody Rhodes won by last eliminating CM Punk",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania XL"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2024-elimination-chamber-2024",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2024-02-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Optus Stadium",
+      "city": "Burswood, Western Australia, Australia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Kabuki Warriors (Asuka and Kairi Sane) (c) defeated Candice LeRae and Indi Hartwell by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "8:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "Becky Lynch defeated Bianca Belair, Liv Morgan, Naomi, Raquel Rodriguez, and Tiffany Stratton",
+          "stipulation": "Elimination Chamber match for a Women's World Championship match at WrestleMania XL",
+          "time": "32:15"
+        },
+        {
+          "match": "The Judgment Day (Finn Bálor and Damian Priest) (c) (with \"Dirty\" Dominik Mysterio) defeated New Catch Republic (Pete Dunne and Tyler Bate) by pinfall",
+          "stipulation": "Tag team match for the Undisputed WWE Tag Team Championship",
+          "time": "17:25"
+        },
+        {
+          "match": "Drew McIntyre defeated Bobby Lashley, Kevin Owens, LA Knight, Logan Paul, and Randy Orton",
+          "stipulation": "Elimination Chamber match for a World Heavyweight Championship match at WrestleMania XL",
+          "time": "36:55"
+        },
+        {
+          "match": "Rhea Ripley (c) defeated Nia Jax by pinfall",
+          "stipulation": "Singles match for the Women's World Championship",
+          "time": "14:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2024-wrestlemania-xl-1",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "WrestleMania XL – Notte 1",
+      "session": "ple",
+      "startsAt": "2024-04-06T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rhea Ripley (c) defeated Becky Lynch by pinfall",
+          "stipulation": "Singles match for the Women's World Championship",
+          "time": "17:05"
+        },
+        {
+          "match": "A-Town Down Under (Austin Theory and Grayson Waller) and Awesome Truth (The Miz and R-Truth) defeated The Judgment Day (Finn Bálor and Damian Priest) (c), #DIY (Johnny Gargano and Tommaso Ciampa), The New Day (Kofi Kingston and Xavier Woods), and New Catch Republic (Pete Dunne and Tyler Bate) by retrieving the SmackDown Tag Team Championship belts and Raw Tag Team Championship belts, respectively",
+          "stipulation": "Six-Pack Tag Team Ladder match for the Undisputed WWE Tag Team Championship · Both sets of titles had to be retrieved for the match to end.",
+          "time": "17:25"
+        },
+        {
+          "match": "Rey Mysterio and Andrade (with Carlito, Cruz Del Toro, Joaquin Wilde, and Zelina Vega) defeated Santos Escobar and \"Dirty\" Dominik Mysterio (with Angel, Berto, and Elektra Lopez) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "11:05"
+        },
+        {
+          "match": "Jey Uso defeated Jimmy Uso by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:05"
+        },
+        {
+          "match": "Jade Cargill, Bianca Belair, and Naomi defeated Damage CTRL (Dakota Kai, Asuka, and Kairi Sane) by pinfall",
+          "stipulation": "Six-woman tag team match",
+          "time": "8:05"
+        },
+        {
+          "match": "Sami Zayn defeated Gunther (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "15:30"
+        },
+        {
+          "match": "The Bloodline (The Rock and Roman Reigns) (with Paul Heyman) defeated Cody Rhodes and Seth \"Freakin\" Rollins by pinfall",
+          "stipulation": "Tag team match · Since Rock and Reigns won, the Undisputed WWE Universal Championship match on Night 2 was held under Bloodline Rules. · Had Rhodes and Rollins won, all members of The Bloodline would have been barred from ringside during the championship match.",
+          "time": "44:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2024-wrestlemania-xl-2",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "WrestleMania XL – Notte 2",
+      "session": "ple",
+      "startsAt": "2024-04-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Drew McIntyre defeated Seth \"Freakin\" Rollins (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "10:30"
+        },
+        {
+          "match": "Damian Priest defeated Drew McIntyre (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship · This was Priest's Money in the Bank cash-in match.",
+          "time": "0:09"
+        },
+        {
+          "match": "The Pride (Bobby Lashley, Angelo Dawkins, and Montez Ford) (with B-Fab) defeated The Final Testament (Karrion Kross, Akam, and Rezar) (with Scarlett and Paul Ellering) by pinfall",
+          "stipulation": "Philadelphia Street Fight · Bubba Ray Dudley was the special guest referee.",
+          "time": "8:35"
+        },
+        {
+          "match": "LA Knight defeated AJ Styles by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:25"
+        },
+        {
+          "match": "Logan Paul (c) (with IShowSpeed) defeated Kevin Owens and Randy Orton by pinfall",
+          "stipulation": "Triple threat match for the WWE United States Championship",
+          "time": "17:40"
+        },
+        {
+          "match": "Bayley defeated Iyo Sky (c) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "14:20"
+        },
+        {
+          "match": "Cody Rhodes defeated Roman Reigns (c) (with Paul Heyman) by pinfall",
+          "stipulation": "Bloodline Rules match for the Undisputed WWE Universal Championship",
+          "time": "33:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2024-backlash-2024",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2024-05-04T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "LDLC Arena",
+      "city": "Décines-Charpieu, France",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Bloodline (Solo Sikoa and Tama Tonga) (with Paul Heyman) defeated Kevin Owens and Randy Orton by pinfall",
+          "stipulation": "Tag team Street Fight",
+          "time": "19:25"
+        },
+        {
+          "match": "Bayley (c) defeated Naomi and Tiffany Stratton by pinfall",
+          "stipulation": "Triple threat match for the WWE Women's Championship",
+          "time": "13:10"
+        },
+        {
+          "match": "Damian Priest (c) defeated Jey Uso by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "15:45"
+        },
+        {
+          "match": "Bianca Belair and Jade Cargill defeated The Kabuki Warriors (Asuka and Kairi Sane) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "17:25"
+        },
+        {
+          "match": "Cody Rhodes (c) defeated AJ Styles by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Championship",
+          "time": "27:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2024-king-and-queen-of-the-ring-2024",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "King and Queen of the Ring",
+      "session": "ple",
+      "startsAt": "2024-05-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Jeddah Super Dome",
+      "city": "Jeddah, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bianca Belair and Jade Cargill (c) defeated Candice LeRae and Indi Hartwell by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "8:05",
+          "note": "pre-show"
+        },
+        {
+          "match": "Liv Morgan defeated Becky Lynch (c) by pinfall",
+          "stipulation": "Singles match for the Women's World Championship",
+          "time": "16:25"
+        },
+        {
+          "match": "Sami Zayn (c) defeated Chad Gable (with Otis) and Bronson Reed by pinfall",
+          "stipulation": "Triple threat match for the WWE Intercontinental Championship",
+          "time": "13:40"
+        },
+        {
+          "match": "Nia Jax (SmackDown) defeated Lyra Valkyria (Raw) by pinfall",
+          "stipulation": "Queen of the Ring tournament final · Since Jax won, she was crowned \"Queen of the Ring\" and earned a match for her brand's WWE Women's Championship at SummerSlam.",
+          "time": "9:40"
+        },
+        {
+          "match": "Gunther (Raw) defeated Randy Orton (SmackDown) by pinfall",
+          "stipulation": "King of the Ring tournament final · Since Gunther won, he was crowned \"King of the Ring\" and earned a match for his brand's World Heavyweight Championship at SummerSlam.",
+          "time": "21:50"
+        },
+        {
+          "match": "Cody Rhodes (c) defeated Logan Paul by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Championship",
+          "time": "24:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2024-clash-at-the-castle-2024",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "Clash at the Castle",
+      "session": "ple",
+      "startsAt": "2024-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "OVO Hydro",
+      "city": "Glasgow, Scotland",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Cody Rhodes (c) defeated AJ Styles by making Styles say \"I quit\"",
+          "stipulation": "\"I Quit\" match for the Undisputed WWE Championship",
+          "time": "27:45"
+        },
+        {
+          "match": "The Unholy Union (Alba Fyre and Isla Dawn) defeated Bianca Belair and Jade Cargill (c) and Shayna Baszler and Zoey Stark by pinfall",
+          "stipulation": "Triple threat tag team match for the WWE Women's Tag Team Championship",
+          "time": "12:10"
+        },
+        {
+          "match": "Sami Zayn (c) defeated Chad Gable (with Otis and Maxxine Dupri) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "22:15"
+        },
+        {
+          "match": "Bayley (c) defeated Piper Niven (with Chelsea Green) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "13:30"
+        },
+        {
+          "match": "Damian Priest (c) defeated Drew McIntyre by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship · The Judgment Day (\"Dirty\" Dominik Mysterio, Finn Bálor, and JD McDonagh) were barred from ringside.",
+          "time": "20:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2024-money-in-the-bank-2024",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2024-07-06T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Scotiabank Arena",
+      "city": "Toronto, Ontario, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Drew McIntyre defeated Andrade, Carmelo Hayes, Chad Gable, Jey Uso, and LA Knight by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a men's championship match contract",
+          "time": "16:30"
+        },
+        {
+          "match": "Sami Zayn (c) defeated Bron Breakker by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "13:15"
+        },
+        {
+          "match": "Damian Priest (c) defeated Seth \"Freakin\" Rollins and Drew McIntyre by pinfall",
+          "stipulation": "Triple threat match for the World Heavyweight Championship · This was McIntyre's Money in the Bank cash-in match. · Originally, the stipulation was that if Rollins lost, he could never challenge for the title again for as long as Priest was champion; however, Priest and Rollins agreed to retroactively lift this stipulation on the July 8 episode of Raw. · Had Priest lost, he would have had to leave The Judgment Day.",
+          "time": "14:40"
+        },
+        {
+          "match": "Tiffany Stratton defeated Chelsea Green, Iyo Sky, Lyra Valkyria, Naomi, and Zoey Stark by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a women's championship match contract",
+          "time": "16:50"
+        },
+        {
+          "match": "The Bloodline (Solo Sikoa, Jacob Fatu, and Tama Tonga) (with Tonga Loa) defeated Cody Rhodes, Kevin Owens, and Randy Orton by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "24:40"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2024-summerslam-2024",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2024-08-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Cleveland Browns Stadium",
+      "city": "Cleveland, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Liv Morgan (c) defeated Rhea Ripley (with \"Dirty\" Dominik Mysterio) by pinfall",
+          "stipulation": "Singles match for the Women's World Championship",
+          "time": "15:55"
+        },
+        {
+          "match": "Bron Breakker defeated Sami Zayn (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "5:40"
+        },
+        {
+          "match": "LA Knight defeated Logan Paul (c) (with Machine Gun Kelly) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "12:00"
+        },
+        {
+          "match": "Nia Jax defeated Bayley (c) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "12:30"
+        },
+        {
+          "match": "Drew McIntyre defeated CM Punk by pinfall",
+          "stipulation": "Singles match · Seth \"Freakin\" Rollins was the special guest referee.",
+          "time": "17:00"
+        },
+        {
+          "match": "Gunther defeated Damian Priest (c) by technical submission",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "16:40"
+        },
+        {
+          "match": "Cody Rhodes (c) defeated Solo Sikoa by pinfall",
+          "stipulation": "Bloodline Rules match for the Undisputed WWE Championship",
+          "time": "29:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2024-bash-in-berlin",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "Bash in Berlin",
+      "session": "ple",
+      "startsAt": "2024-08-31T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Uber Arena",
+      "city": "Berlin, Germany",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Cody Rhodes (c) defeated Kevin Owens by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Championship",
+          "time": "23:16"
+        },
+        {
+          "match": "Bianca Belair and Jade Cargill defeated The Unholy Union (Alba Fyre and Isla Dawn) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "12:02"
+        },
+        {
+          "match": "CM Punk defeated Drew McIntyre by touching all four corners uninterrupted",
+          "stipulation": "Strap match",
+          "time": "19:15"
+        },
+        {
+          "match": "Damian Priest and Rhea Ripley defeated The Judgment Day (\"Dirty\" Dominik Mysterio and Liv Morgan) by pinfall",
+          "stipulation": "Mixed tag team match",
+          "time": "14:20"
+        },
+        {
+          "match": "Gunther (c) defeated Randy Orton by technical submission",
+          "stipulation": "Singles match for the World Heavyweight Championship · Had Orton won the championship, he would have been transferred to Raw and Gunther would have been transferred to SmackDown.",
+          "time": "34:28"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2024-bad-blood-2024",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "Bad Blood",
+      "session": "ple",
+      "startsAt": "2024-10-05T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "State Farm Arena",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "CM Punk defeated Drew McIntyre by pinfall",
+          "stipulation": "Hell in a Cell match",
+          "time": "31:25"
+        },
+        {
+          "match": "Nia Jax (c) defeated Bayley by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "14:10"
+        },
+        {
+          "match": "Damian Priest defeated Finn Bálor by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:45"
+        },
+        {
+          "match": "Rhea Ripley defeated Liv Morgan (c) (with \"Dirty\" Dominik Mysterio) by disqualification",
+          "stipulation": "Singles match for the Women's World Championship · Mysterio was suspended above the ringside area in a shark cage.",
+          "time": "14:00"
+        },
+        {
+          "match": "Cody Rhodes and Roman Reigns defeated The Bloodline (Solo Sikoa and Jacob Fatu) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "25:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2024-crown-jewel-2024",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "Crown Jewel",
+      "session": "ple",
+      "startsAt": "2024-11-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Mohammed Abdo Arena",
+      "city": "Riyadh, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Bloodline (Solo Sikoa, Jacob Fatu, and Tama Tonga) (with Tonga Loa) defeated Roman Reigns and The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "16:35"
+        },
+        {
+          "match": "Bianca Belair and Jade Cargill (c) defeated Damage CTRL (Kairi Sane and Iyo Sky), Meta-Four (Lash Legend and Jakara Jackson), and Chelsea Green and Piper Niven by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE Women's Tag Team Championship",
+          "time": "12:00"
+        },
+        {
+          "match": "Seth \"Freakin\" Rollins defeated Bronson Reed by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:20"
+        },
+        {
+          "match": "Liv Morgan (Raw's Women's World Champion) defeated Nia Jax (SmackDown's WWE Women's Champion) by pinfall",
+          "stipulation": "Singles match for the inaugural 2024 WWE Women's Crown Jewel Championship",
+          "time": "8:15"
+        },
+        {
+          "match": "LA Knight (c) defeated Andrade and Carmelo Hayes by pinfall",
+          "stipulation": "Triple threat match for the WWE United States Championship",
+          "time": "9:10"
+        },
+        {
+          "match": "Cody Rhodes (SmackDown's Undisputed WWE Champion) defeated Gunther (Raw's World Heavyweight Champion) by pinfall",
+          "stipulation": "Singles match for the inaugural 2024 WWE Crown Jewel Championship",
+          "time": "23:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2024-survivor-series-wargames-2024",
+      "competition": "wwe",
+      "season": "2024",
+      "title": "Survivor Series: WarGames",
+      "session": "ple",
+      "startsAt": "2024-11-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Rogers Arena",
+      "city": "Vancouver, British Columbia, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rhea Ripley, Bianca Belair, Naomi, Iyo Sky, and Bayley defeated The Judgment Day (Liv Morgan and Raquel Rodriguez), Nia Jax, Tiffany Stratton, and Candice LeRae by pinfall",
+          "stipulation": "Women's WarGames match",
+          "time": "38:15"
+        },
+        {
+          "match": "Shinsuke Nakamura defeated LA Knight (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:45"
+        },
+        {
+          "match": "Bron Breakker (c) defeated Sheamus and Ludwig Kaiser by pinfall",
+          "stipulation": "Triple threat match for the WWE Intercontinental Championship",
+          "time": "14:25"
+        },
+        {
+          "match": "Gunther (c) defeated Damian Priest by technical submission",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "19:20"
+        },
+        {
+          "match": "The OG Bloodline (Roman Reigns, The Usos (Jey Uso and Jimmy Uso) and Sami Zayn), and CM Punk (with Paul Heyman) defeated The New Bloodline (Solo Sikoa, Jacob Fatu, Tama Tonga, and Tonga Loa) and Bronson Reed by pinfall",
+          "stipulation": "Men's WarGames match",
+          "time": "41:55"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

@@ -1,0 +1,203 @@
+{
+  "competition": "wwe",
+  "season": "1988",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1988-wrestlemania-iv",
+      "competition": "wwe",
+      "season": "1988",
+      "title": "WrestleMania IV",
+      "session": "ple",
+      "startsAt": "1988-03-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Atlantic City Convention Hall",
+      "city": "Atlantic City, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bad News Brown won by last eliminating Bret Hart",
+          "stipulation": "Battle Royal",
+          "time": "9:44"
+        },
+        {
+          "match": "Ted DiBiase (with Virgil and André the Giant) defeated Jim Duggan",
+          "stipulation": "First round tournament match",
+          "time": "5:02"
+        },
+        {
+          "match": "Don Muraco (with \"Superstar\" Billy Graham) defeated Dino Bravo (with Frenchy Martin) by disqualification",
+          "stipulation": "First round tournament match",
+          "time": "4:53"
+        },
+        {
+          "match": "Greg Valentine (with Jimmy Hart) defeated Ricky Steamboat",
+          "stipulation": "First round tournament match",
+          "time": "9:12"
+        },
+        {
+          "match": "Randy Savage (with Miss Elizabeth) defeated Butch Reed (with Slick)",
+          "stipulation": "First round tournament match",
+          "time": "5:07"
+        },
+        {
+          "match": "One Man Gang (with Slick) defeated Bam Bam Bigelow (with Oliver Humperdink) by countout",
+          "stipulation": "First round tournament match",
+          "time": "2:56"
+        },
+        {
+          "match": "Jake Roberts vs. Rick Rude (with Bobby Heenan) ended in a time-limit draw",
+          "stipulation": "First round tournament match",
+          "time": "15:00"
+        },
+        {
+          "match": "Ultimate Warrior defeated Hercules (with Bobby Heenan)",
+          "stipulation": "Singles match",
+          "time": "4:29"
+        },
+        {
+          "match": "Hulk Hogan vs. André the Giant (with Ted DiBiase and Virgil) ended in a double disqualification",
+          "stipulation": "Quarter-final tournament match",
+          "time": "5:52"
+        },
+        {
+          "match": "Ted DiBiase defeated Don Muraco (with \"Superstar\" Billy Graham)",
+          "stipulation": "Quarter-final tournament match",
+          "time": "5:44"
+        },
+        {
+          "match": "Randy Savage (with Miss Elizabeth) defeated Greg Valentine (with Jimmy Hart)",
+          "stipulation": "Quarter-final tournament match",
+          "time": "6:06"
+        },
+        {
+          "match": "Brutus Beefcake defeated The Honky Tonk Man (c) (with Jimmy Hart and Peggy Sue) by disqualification",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "6:30"
+        },
+        {
+          "match": "The Islanders (Haku and Tama) and Bobby Heenan defeated The British Bulldogs (Davey Boy Smith and Dynamite Kid) and Koko B. Ware",
+          "stipulation": "Six-man tag team match",
+          "time": "7:30"
+        },
+        {
+          "match": "Randy Savage (with Miss Elizabeth) defeated One Man Gang (with Slick) by disqualification",
+          "stipulation": "Semi-final tournament match",
+          "time": "4:05"
+        },
+        {
+          "match": "Demolition (Ax and Smash) (with Mr. Fuji) defeated Strike Force (Tito Santana and Rick Martel) (c)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "12:33"
+        },
+        {
+          "match": "Randy Savage (with Miss Elizabeth and Hulk Hogan) defeated Ted DiBiase (with André the Giant)",
+          "stipulation": "Tournament final for the vacant WWF World Heavyweight Championship",
+          "time": "9:27"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1988-summerslam-1988",
+      "competition": "wwe",
+      "season": "1988",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "1988-08-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Madison Square Garden",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The British Bulldogs (Davey Boy Smith and Dynamite Kid) vs. The Fabulous Rougeaus (Jacques and Raymond) ended in a time limit draw",
+          "stipulation": "Tag team match",
+          "time": "20:00"
+        },
+        {
+          "match": "Bad News Brown defeated Ken Patera",
+          "stipulation": "Singles match",
+          "time": "06:33"
+        },
+        {
+          "match": "Rick Rude (with Bobby Heenan) defeated Junkyard Dog by disqualification",
+          "stipulation": "Singles match",
+          "time": "06:18"
+        },
+        {
+          "match": "The Powers of Pain (The Warlord and The Barbarian) (with The Baron) defeated The Bolsheviks (Nikolai Volkoff and Boris Zhukov) (with Slick)",
+          "stipulation": "Tag team match",
+          "time": "05:27"
+        },
+        {
+          "match": "Ultimate Warrior defeated The Honky Tonk Man (c) (with Jimmy Hart)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "00:31"
+        },
+        {
+          "match": "Dino Bravo (with Frenchy Martin) defeated Don Muraco",
+          "stipulation": "Singles match",
+          "time": "05:28"
+        },
+        {
+          "match": "Demolition (Ax and Smash) (c) (with Mr. Fuji and Jimmy Hart) defeated The Hart Foundation (Bret Hart and Jim Neidhart)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "10:49"
+        },
+        {
+          "match": "Big Boss Man (with Slick) defeated Koko B. Ware",
+          "stipulation": "Singles match",
+          "time": "05:57"
+        },
+        {
+          "match": "Jake Roberts defeated Hercules",
+          "stipulation": "Singles match",
+          "time": "10:06"
+        },
+        {
+          "match": "The Mega Powers (Hulk Hogan and Randy Savage) (with Miss Elizabeth) defeated The Mega Bucks (Ted DiBiase and André the Giant) (with Virgil and Bobby Heenan)",
+          "stipulation": "Tag team match with Jesse Ventura as special guest referee",
+          "time": "14:43"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1988-survivor-series-1988",
+      "competition": "wwe",
+      "season": "1988",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1988-11-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Richfield Coliseum",
+      "city": "Richfield Township, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Ultimate Warrior, Brutus Beefcake, Sam Houston, The Blue Blazer, and Jim Brunzell defeated The Honky Tonk Man, Ron Bass, Danny Davis, Greg Valentine, and Bad News Brown (with Jimmy Hart)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "17:50"
+        },
+        {
+          "match": "The Powers of Pain (The Warlord and The Barbarian), The Rockers (Shawn Michaels and Marty Jannetty), The British Bulldogs (Davey Boy Smith and Dynamite Kid), The Hart Foundation (Bret Hart and Jim Neidhart), and The Young Stallions (Paul Roma and Jim Powers) defeated Demolition (Ax and Smash), The Brain Busters (Arn Anderson and Tully Blanchard), The Bolsheviks (Nikolai Volkoff and Boris Zhukov), The Fabulous Rougeaus (Jacques and Raymond), and The Conquistadors (Uno and Dos) (with Mr. Fuji, Bobby Heenan, Slick and Jimmy Hart)",
+          "stipulation": "10-on-10 Survivor Series tag team match",
+          "time": "42:12"
+        },
+        {
+          "match": "André the Giant, Rick Rude, Dino Bravo, Mr. Perfect, and Harley Race (Bobby Heenan and Frenchy Martin) defeated Jim Duggan, Jake Roberts, Scott Casey, Ken Patera, and Tito Santana",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "30:03"
+        },
+        {
+          "match": "The Mega Powers (Hulk Hogan and Randy Savage), Hercules, Koko B. Ware, and Hillbilly Jim (with Miss Elizabeth) defeated The Twin Towers (Akeem and The Big Boss Man), Ted DiBiase, King Haku, and The Red Rooster (with Slick, Virgil and Bobby Heenan)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "29:10"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

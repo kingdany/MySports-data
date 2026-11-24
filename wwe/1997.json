@@ -1,0 +1,690 @@
+{
+  "competition": "wwe",
+  "season": "1997",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1997-royal-rumble-1997",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "1997-01-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Alamodome",
+      "city": "San Antonio, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Perro Aguayo Jr. and Venum defeated Maniaco and Mosco de la Merced by pinfall",
+          "stipulation": "Tag team match",
+          "time": "10:00",
+          "note": "dark"
+        },
+        {
+          "match": "Blue Demon Jr., Octagón and Tinieblas Jr. defeated Abismo Negro, Heavy Metal, and Histeria by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "14:00",
+          "note": "dark"
+        },
+        {
+          "match": "Mascarita Sagrada Jr. and La Parkita defeated Mini Mankind and Mini Vader by pinfall",
+          "stipulation": "Tag team match",
+          "time": "4:29",
+          "note": "pre-show"
+        },
+        {
+          "match": "Hunter Hearst Helmsley (c) (with Mr. Hughes) defeated Goldust (with Marlena) by pinfall",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "16:50"
+        },
+        {
+          "match": "Ahmed Johnson defeated Faarooq (with the Nation of Domination) by disqualification",
+          "stipulation": "Singles match",
+          "time": "8:48"
+        },
+        {
+          "match": "Vader (with Paul Bearer) defeated The Undertaker by pinfall",
+          "stipulation": "Singles match",
+          "time": "13:19"
+        },
+        {
+          "match": "Canek, Héctor Garza, and Perro Aguayo defeated Heavy Metal, Fuerza Guerrera, and Jerry Estrada by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "10:56"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin won by last eliminating Bret Hart",
+          "stipulation": "30-man Royal Rumble match for a WWF Championship match at WrestleMania 13",
+          "time": "50:30"
+        },
+        {
+          "match": "Shawn Michaels (with José Lothario) defeated Sycho Sid (c) by pinfall",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "13:49"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1997-in-your-house-13-final-four",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "In Your House: Final Four",
+      "session": "ple",
+      "startsAt": "1997-02-16T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "UTC Arena",
+      "city": "Chattanooga, Tennessee",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) defeated The Headbangers (Mosh and Thrasher)",
+          "stipulation": "Tag team match",
+          "time": "11:24",
+          "note": "dark"
+        },
+        {
+          "match": "Marc Mero (with Sable) defeated Leif Cassidy",
+          "stipulation": "Singles match",
+          "time": "9:31"
+        },
+        {
+          "match": "The Nation of Domination (Crush, Faarooq and Savio Vega) (with J. C. Ice, Wolfie D, D'Lo Brown, and Clarence Mason) defeated Bart Gunn, Flash Funk, and Goldust (with Marlena)",
+          "stipulation": "Six-man tag team match",
+          "time": "6:43"
+        },
+        {
+          "match": "Rocky Maivia (c) defeated Hunter Hearst Helmsley",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "12:30"
+        },
+        {
+          "match": "Doug Furnas and Phil LaFon defeated Owen Hart and The British Bulldog (c) (with Clarence Mason) by disqualification",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "10:30"
+        },
+        {
+          "match": "Bret Hart defeated \"Stone Cold\" Steve Austin, Vader (with Paul Bearer), and The Undertaker",
+          "stipulation": "Four corners elimination match for the vacant WWF Championship",
+          "time": "24:06"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1997-wrestlemania-13",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "WrestleMania 13",
+      "session": "ple",
+      "startsAt": "1997-03-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Rosemont Horizon",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Billy Gunn defeated Flash Funk (with Funkette Tracy and Funkette Nadine) via pinfall",
+          "stipulation": "Singles match",
+          "time": "7:05",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Headbangers (Mosh and Thrasher) defeated Doug Furnas and Phil LaFon, The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) (with Hillbilly Jim), and The New Blackjacks (Blackjack Bradshaw and Blackjack Windham) via pinfall",
+          "stipulation": "Four-Way Elimination match to determine #1 contenders for the WWF Tag Team Championship",
+          "time": "10:39"
+        },
+        {
+          "match": "Rocky Maivia (c) defeated The Sultan (with Bob Backlund and The Iron Sheik) via pinfall",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "9:47"
+        },
+        {
+          "match": "Hunter Hearst Helmsley (with Chyna) defeated Goldust (with Marlena) via pinfall",
+          "stipulation": "Singles match",
+          "time": "14:29"
+        },
+        {
+          "match": "Owen Hart and The British Bulldog (c) vs. Mankind and Vader (with Paul Bearer) ended in a double countout",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "16:08"
+        },
+        {
+          "match": "Bret Hart defeated \"Stone Cold\" Steve Austin via technical submission",
+          "stipulation": "No Disqualification Submission match with Ken Shamrock as special guest referee",
+          "time": "22:05"
+        },
+        {
+          "match": "Ahmed Johnson and The Legion of Doom (Hawk and Animal) defeated The Nation of Domination (Faarooq, Crush, and Savio Vega) (with Clarence Mason, D'Lo Brown, J. C. Ice, and Wolfie D) via pinfall",
+          "stipulation": "Chicago Street Fight",
+          "time": "10:46"
+        },
+        {
+          "match": "The Undertaker defeated Sycho Sid (c) via pinfall",
+          "stipulation": "No Disqualification match for the WWF Championship",
+          "time": "21:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1997-in-your-house-14-revenge-of-the-taker",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "In Your House: Revenge of the Taker",
+      "session": "ple",
+      "startsAt": "1997-04-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Blue Cross Arena",
+      "city": "Rochester, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Sultan (with Bob Backlund and The Iron Sheik) defeated Flash Funk (with the Funkettes) by pinfall",
+          "stipulation": "Singles match",
+          "time": "2:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Legion of Doom (Hawk and Animal) defeated Owen Hart and The British Bulldog (c) by disqualification",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "12:16"
+        },
+        {
+          "match": "Savio Vega (with Clarence Mason, Crush, D'Lo Brown, Faarooq, J. C. Ice, and Wolfie D) defeated Rocky Maivia (c) by countout",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "8:33"
+        },
+        {
+          "match": "Jesse James defeated Rockabilly (with The Honky Tonk Man) by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:46"
+        },
+        {
+          "match": "The Undertaker (c) defeated Mankind (with Paul Bearer) by pinfall",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "17:26"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Bret Hart by disqualification",
+          "stipulation": "Singles match to determine the #1 contender to the WWF Championship",
+          "time": "21:09"
+        },
+        {
+          "match": "Doug Furnas and Phil LaFon defeated The Godwinns (Henry O. Godwinn and Phineas I. Godwinn)",
+          "stipulation": "Tag team match",
+          "time": "12:30",
+          "note": "dark"
+        },
+        {
+          "match": "Hunter Hearst Helmsley defeated Goldust",
+          "stipulation": "Singles match",
+          "time": "20:43",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1997-in-your-house-15-a-cold-day-in-hell",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "In Your House: Cold Day in Hell",
+      "session": "ple",
+      "startsAt": "1997-05-11T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Richmond Coliseum",
+      "city": "Richmond, Virginia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rockabilly (with The Honky Tonk Man) defeated Jesse James",
+          "stipulation": "Singles match",
+          "time": "3:36",
+          "note": "pre-show"
+        },
+        {
+          "match": "Hunter Hearst Helmsley (with Chyna) defeated Flash Funk",
+          "stipulation": "Singles match",
+          "time": "10:05"
+        },
+        {
+          "match": "Mankind defeated Rocky Maivia",
+          "stipulation": "Singles match",
+          "time": "8:46"
+        },
+        {
+          "match": "The Nation of Domination (Faarooq, Savio Vega and Crush) defeated Ahmed Johnson",
+          "stipulation": "Gauntlet match",
+          "time": "13:25"
+        },
+        {
+          "match": "Ken Shamrock defeated Vader",
+          "stipulation": "No Holds Barred match",
+          "time": "13:21"
+        },
+        {
+          "match": "The Undertaker (c) defeated \"Stone Cold\" Steve Austin",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "20:07"
+        },
+        {
+          "match": "The Legion of Doom (Hawk and Animal) defeated Owen Hart and The British Bulldog (c) by disqualification",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "5:00",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1997-king-of-the-ring-1997",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "King of the Ring",
+      "session": "ple",
+      "startsAt": "1997-06-08T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Providence Civic Center",
+      "city": "Providence, Rhode Island",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Headbangers (Mosh and Thrasher) defeated Bart Gunn and Jesse James",
+          "stipulation": "Tag team match",
+          "time": "6:10",
+          "note": "pre-show"
+        },
+        {
+          "match": "Hunter Hearst Helmsley (with Chyna) defeated Ahmed Johnson",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "7:42"
+        },
+        {
+          "match": "Mankind defeated Jerry Lawler by submission",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "10:24"
+        },
+        {
+          "match": "Goldust (with Marlena) defeated Crush (with D'Lo Brown and Clarence Mason)",
+          "stipulation": "Singles match",
+          "time": "9:56"
+        },
+        {
+          "match": "The Hart Foundation (Owen Hart, Jim Neidhart, and The British Bulldog) defeated Sycho Sid and The Legion of Doom (Hawk and Animal)",
+          "stipulation": "Six-man tag team match",
+          "time": "13:37"
+        },
+        {
+          "match": "Hunter Hearst Helmsley (with Chyna) defeated Mankind",
+          "stipulation": "King of the Ring final match",
+          "time": "19:26"
+        },
+        {
+          "match": "Shawn Michaels vs. \"Stone Cold\" Steve Austin ended in a double disqualification",
+          "stipulation": "Singles match",
+          "time": "22:29"
+        },
+        {
+          "match": "The Undertaker (c) (with Paul Bearer) defeated Faarooq (with Savio Vega, D'Lo Brown, Crush, and Clarence Mason)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "13:44"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1997-in-your-house-16-canadian-stampede",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "In Your House: Canadian Stampede",
+      "session": "ple",
+      "startsAt": "1997-07-06T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Canadian Airlines Saddledome",
+      "city": "Calgary, Alberta, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) defeated The New Blackjacks (Blackjack Bradshaw and Blackjack Windham)",
+          "stipulation": "Tag team match",
+          "time": "5:32",
+          "note": "pre-show"
+        },
+        {
+          "match": "Hunter Hearst Helmsley (with Chyna) vs. Mankind ended in a double countout",
+          "stipulation": "Singles match",
+          "time": "13:14"
+        },
+        {
+          "match": "The Great Sasuke defeated Taka Michinoku",
+          "stipulation": "Singles match",
+          "time": "10:00"
+        },
+        {
+          "match": "The Undertaker (c) defeated Vader (with Paul Bearer)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "12:39"
+        },
+        {
+          "match": "The Hart Foundation (Bret Hart, Jim Neidhart, Owen Hart, British Bulldog, and Brian Pillman) defeated \"Stone Cold\" Steve Austin, Ken Shamrock, Goldust, and The Legion of Doom (Hawk and Animal)",
+          "stipulation": "10-man tag team match",
+          "time": "24:31"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1997-summerslam-1997",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "1997-08-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Continental Airlines Arena",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Mankind defeated Hunter Hearst Helmsley (with Chyna)",
+          "stipulation": "Steel Cage match",
+          "time": "16:26"
+        },
+        {
+          "match": "Goldust (with Marlena) defeated Brian Pillman",
+          "stipulation": "Singles match · Since Pillman lost, he had to wear a dress.",
+          "time": "7:17"
+        },
+        {
+          "match": "The Legion of Doom (Hawk and Animal) defeated The Godwinns (Henry O. Godwinn and Phineas I. Godwinn)",
+          "stipulation": "Tag team match",
+          "time": "9:15"
+        },
+        {
+          "match": "The British Bulldog (c) defeated Ken Shamrock by disqualification",
+          "stipulation": "Singles match for the WWF European Championship · Had Bulldog lost the title, he would have had to eat a can of dog food.",
+          "time": "7:26"
+        },
+        {
+          "match": "Los Boricuas (Savio Vega, Miguel Pérez Jr., José Estrada Jr., and Jesús Castillo) defeated The Disciples of Apocalypse (Crush, Chainz, 8-Ball, and Skull)",
+          "stipulation": "Eight-man tag team match",
+          "time": "9:08"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Owen Hart (c)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship · Had Austin lost, he would have had to kiss Hart's buttocks.",
+          "time": "16:14"
+        },
+        {
+          "match": "Bret Hart defeated The Undertaker (c)",
+          "stipulation": "Singles match for the WWF Championship · Shawn Michaels was the special guest referee. Had Hart lost, he would have never been able to wrestle in the United States again. Additionally, had Michaels shown any bias towards either competitor, he too would have never been able to wrestle in the United States again.",
+          "time": "28:08"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1997-ground-zero-in-your-house",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "Ground Zero: In Your House",
+      "session": "ple",
+      "startsAt": "1997-09-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Louisville Gardens",
+      "city": "Louisville, Kentucky",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Brian Pillman defeated Goldust (with Marlena)",
+          "stipulation": "Singles match · As Goldust lost, Marlena had to become Pillman's personal assistant for 30 days. If Pillman had lost, he would have had to leave the WWF.",
+          "time": "11:06"
+        },
+        {
+          "match": "Brian Christopher defeated Scott Putski by countout",
+          "stipulation": "Singles match",
+          "time": "4:45"
+        },
+        {
+          "match": "Savio Vega defeated Faarooq and Crush",
+          "stipulation": "Triple threat match",
+          "time": "11:37"
+        },
+        {
+          "match": "Max Mini defeated El Torito",
+          "stipulation": "Singles match",
+          "time": "9:21"
+        },
+        {
+          "match": "The Headbangers (Mosh and Thrasher) defeated The Godwinns (Henry O. Godwinn and Phineas I. Godwinn), The Legion of Doom (Hawk and Animal), and Owen Hart and The British Bulldog",
+          "stipulation": "Fatal 4-Way Elimination match for the vacant WWF Tag Team Championship",
+          "time": "17:19"
+        },
+        {
+          "match": "Bret Hart (c) defeated The Patriot",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "19:19"
+        },
+        {
+          "match": "Shawn Michaels vs. The Undertaker ended in a no contest",
+          "stipulation": "Singles match",
+          "time": "16:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1997-wwf-one-night-only",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "One Night Only",
+      "session": "ple",
+      "startsAt": "1997-09-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "NEC Arena",
+      "city": "Birmingham, England",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Hunter Hearst Helmsley (with Chyna) defeated Dude Love",
+          "stipulation": "Singles match",
+          "time": "12:51"
+        },
+        {
+          "match": "Tiger Ali Singh (with Tiger Jeet Singh) defeated Leif Cassidy",
+          "stipulation": "Singles match",
+          "time": "4:06"
+        },
+        {
+          "match": "The Headbangers (Mosh and Thrasher) (c) defeated Los Boricuas (Miguel Pérez Jr. and Savio Vega)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "13:34"
+        },
+        {
+          "match": "The Patriot defeated Flash Funk",
+          "stipulation": "Singles match",
+          "time": "8:47"
+        },
+        {
+          "match": "The Legion of Doom (Animal and Hawk) defeated The Godwinns (Henry O. Godwinn and Phineas I. Godwinn)",
+          "stipulation": "Tag team match",
+          "time": "10:42"
+        },
+        {
+          "match": "Vader defeated Owen Hart",
+          "stipulation": "Singles match",
+          "time": "12:14"
+        },
+        {
+          "match": "Bret Hart (c) defeated The Undertaker by disqualification",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "28:34"
+        },
+        {
+          "match": "Shawn Michaels (with Chyna, Hunter Hearst Helmsley, and Rick Rude) defeated The British Bulldog (c) (with Diana Hart-Smith) by technical submission",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "22:53"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1997-badd-blood-in-your-house",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "Badd Blood: In Your House",
+      "session": "ple",
+      "startsAt": "1997-10-05T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Kiel Center",
+      "city": "St. Louis, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Nation of Domination (D'Lo Brown, Kama Mustafa, and Rocky Maivia) defeated The Legion of Doom (Animal and Hawk) by pinfall",
+          "stipulation": "3-on-2 Handicap match",
+          "time": "12:20"
+        },
+        {
+          "match": "Max Mini and Nova defeated Mosaic and Tarantula by pinfall",
+          "stipulation": "Tag team match",
+          "time": "6:43"
+        },
+        {
+          "match": "The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) (with Uncle Cletus) defeated The Headbangers (Mosh and Thrasher) (c) by pinfall",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "12:18"
+        },
+        {
+          "match": "Owen Hart defeated Faarooq by pinfall",
+          "stipulation": "Singles match for the vacant WWF Intercontinental Championship",
+          "time": "7:16"
+        },
+        {
+          "match": "Disciples of Apocalypse (8-Ball, Chainz, Crush, and Skull) defeated Los Boricuas (Jesús Castillo Jr., José Estrada Jr., Miguel Pérez Jr., and Savio Vega) by pinfall",
+          "stipulation": "Eight-man tag team match",
+          "time": "9:11"
+        },
+        {
+          "match": "Bret Hart and The British Bulldog defeated The Patriot and Vader",
+          "stipulation": "Flag match",
+          "time": "23:13"
+        },
+        {
+          "match": "Shawn Michaels defeated The Undertaker by pinfall",
+          "stipulation": "Hell in a Cell match to determine the #1 contender to the WWF Championship at Survivor Series",
+          "time": "30:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1997-survivor-series-1997",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1997-11-09T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Molson Centre",
+      "city": "Montreal, Quebec, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The New Age Outlaws (Road Dogg and Billy Gunn) and The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) defeated The Headbangers (Mosh and Thrasher) and The New Blackjacks (Blackjack Windham and Blackjack Bradshaw)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "15:25"
+        },
+        {
+          "match": "The Truth Commission (The Jackyl, The Interrogator, Sniper, and Recon) defeated The Disciples of Apocalypse (Crush, Chainz, 8-Ball, and Skull)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "9:59"
+        },
+        {
+          "match": "Team Canada (The British Bulldog, Jim Neidhart, Doug Furnas, and Phil Lafon) defeated Team USA (Vader, Goldust, Marc Mero, and Steve Blackman) (with Sable)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "17:05"
+        },
+        {
+          "match": "Kane (with Paul Bearer) defeated Mankind",
+          "stipulation": "Singles match",
+          "time": "9:27"
+        },
+        {
+          "match": "Ken Shamrock, Ahmed Johnson, and The Legion of Doom (Hawk and Animal) defeated The Nation of Domination (\"The Rock\" Rocky Maivia, Faarooq, Kama Mustafa, and D'Lo Brown)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "20:28"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Owen Hart (c) (with The British Bulldog, Jim Neidhart, Doug Furnas, and Phil Lafon)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "4:03"
+        },
+        {
+          "match": "Shawn Michaels defeated Bret Hart (c) by submission",
+          "stipulation": "Singles match for the WWF Championship · This was the Montreal Screwjob.",
+          "time": "19:58"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1997-d-generation-x-in-your-house",
+      "competition": "wwe",
+      "season": "1997",
+      "title": "D-Generation X: In Your House",
+      "session": "ple",
+      "startsAt": "1997-12-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Springfield Civic Center",
+      "city": "Springfield, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Taka Michinoku defeated Brian Christopher",
+          "stipulation": "Singles match for the inaugural WWF Light Heavyweight Championship",
+          "time": "12:02"
+        },
+        {
+          "match": "Los Boricuas (Miguel Pérez Jr., Jesús Castillo Jr., and José Estrada Jr.) (with Savio Vega) defeated The Disciples of Apocalypse (Chainz, 8-Ball, and Skull)",
+          "stipulation": "Six-man tag team match",
+          "time": "7:58"
+        },
+        {
+          "match": "Butterbean defeated Marc Mero (with Sable) by disqualification",
+          "stipulation": "Toughman match",
+          "time": "10:20"
+        },
+        {
+          "match": "The New Age Outlaws (Road Dogg and Billy Gunn) (c) defeated The Legion of Doom (Hawk and Animal) by disqualification",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "10:32"
+        },
+        {
+          "match": "Triple H (with Chyna) defeated Sgt. Slaughter",
+          "stipulation": "Boot Camp match",
+          "time": "17:39"
+        },
+        {
+          "match": "Jeff Jarrett defeated The Undertaker by disqualification",
+          "stipulation": "Singles match",
+          "time": "6:54"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin (c) defeated \"The Rock\" Rocky Maivia (with Faarooq, D'Lo Brown, and Kama Mustafa)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "5:28"
+        },
+        {
+          "match": "Ken Shamrock defeated Shawn Michaels (c) (with Triple H and Chyna) by disqualification",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "18:27"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

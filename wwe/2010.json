@@ -1,0 +1,790 @@
+{
+  "competition": "wwe",
+  "season": "2010",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2010-royal-rumble-2010",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2010-01-31T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Philips Arena",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Bella Twins (Brie Bella and Nikki Bella), Eve Torres, Gail Kim, and Kelly Kelly defeated Alicia Fox, Jillian Hall, Katie Lea Burchill, Maryse, and Natalya by pinfall",
+          "stipulation": "10-Diva tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "Christian (c) defeated Ezekiel Jackson (with William Regal) by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "11:49"
+        },
+        {
+          "match": "The Miz (c) defeated Montel Vontavious Porter by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "7:30"
+        },
+        {
+          "match": "Sheamus (c) defeated Randy Orton by disqualification",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "11:24"
+        },
+        {
+          "match": "Mickie James defeated Michelle McCool (c) (with Layla) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "0:20"
+        },
+        {
+          "match": "The Undertaker (c) defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "11:09"
+        },
+        {
+          "match": "Edge won by last eliminating John Cena",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania XXVI",
+          "time": "49:24"
+        },
+        {
+          "match": "Kane defeated Zack Ryder",
+          "stipulation": "Qualifying match",
+          "time": "03:47"
+        },
+        {
+          "match": "Ezekiel Jackson defeated Vladimir Kozlov",
+          "stipulation": "Qualifying match",
+          "time": "01:35"
+        },
+        {
+          "match": "Yoshi Tatsu defeated Jack Swagger",
+          "stipulation": "Qualifying match",
+          "time": "14:46"
+        },
+        {
+          "match": "Vance Archer defeated Goldust",
+          "stipulation": "Qualifying match",
+          "time": "02:51"
+        },
+        {
+          "match": "Matt Hardy defeated Finlay",
+          "stipulation": "Qualifying match",
+          "time": "05:14"
+        },
+        {
+          "match": "Evan Bourne defeated Mike Knox",
+          "stipulation": "Qualifying match",
+          "time": "03:43"
+        },
+        {
+          "match": "Shelton Benjamin defeated Chavo Guerrero",
+          "stipulation": "Qualifying match",
+          "time": "04:46"
+        },
+        {
+          "match": "CM Punk defeated Mark Henry",
+          "stipulation": "Qualifying match",
+          "time": "10:37"
+        },
+        {
+          "match": "Ezekiel Jackson defeated Kane, Yoshi Tatsu, Vance Archer, Matt Hardy, Evan Bourne, Shelton Benjamin and CM Punk",
+          "stipulation": "8-man battle royal to determine the #1 contender for the ECW Championship at the Royal Rumble.",
+          "time": "13:53"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2010-elimination-chamber-2010",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2010-02-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Scottrade Center",
+      "city": "St. Louis, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Christian defeated Ezekiel Jackson by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:26",
+          "note": "dark"
+        },
+        {
+          "match": "John Cena defeated Triple H, Sheamus (c), Kofi Kingston, Ted DiBiase Jr., and Randy Orton",
+          "stipulation": "Raw's Elimination Chamber match for the WWE Championship",
+          "time": "30:30"
+        },
+        {
+          "match": "Batista defeated John Cena (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "0:32"
+        },
+        {
+          "match": "Drew McIntyre (c) defeated Kane by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "10:06"
+        },
+        {
+          "match": "LayCool (Layla and Michelle McCool) defeated Gail Kim and Maryse by pinfall",
+          "stipulation": "Tag team match",
+          "time": "3:35"
+        },
+        {
+          "match": "The Miz (c) (with Big Show) defeated Montel Vontavious Porter (with Mark Henry) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "13:02"
+        },
+        {
+          "match": "Chris Jericho defeated The Undertaker (c), John Morrison, Rey Mysterio, CM Punk (with Luke Gallows and Serena), and R-Truth",
+          "stipulation": "SmackDown's Elimination Chamber match for the World Heavyweight Championship",
+          "time": "41:49"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2010-wrestlemania-xxvi",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "WrestleMania XXVI",
+      "session": "ple",
+      "startsAt": "2010-03-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "University of Phoenix Stadium",
+      "city": "Glendale, Arizona",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Yoshi Tatsu won by last eliminating Zack Ryder",
+          "stipulation": "26-man battle royal",
+          "time": "8:31",
+          "note": "pre-show"
+        },
+        {
+          "match": "ShoMiz (Big Show and The Miz) (c) defeated John Morrison and R-Truth by pinfall",
+          "stipulation": "Tag team match for the Unified WWE Tag Team Championship",
+          "time": "3:20"
+        },
+        {
+          "match": "Randy Orton defeated Cody Rhodes and Ted DiBiase Jr. by pinfall",
+          "stipulation": "Triple threat match",
+          "time": "9:01"
+        },
+        {
+          "match": "Jack Swagger defeated Christian, Dolph Ziggler, Drew McIntyre, Evan Bourne, Kane, Kofi Kingston, Matt Hardy, Montel Vontavious Porter, and Shelton Benjamin",
+          "stipulation": "Money in the Bank ladder match",
+          "time": "13:40"
+        },
+        {
+          "match": "Triple H defeated Sheamus by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:06"
+        },
+        {
+          "match": "Rey Mysterio defeated CM Punk (with Luke Gallows and Serena)",
+          "stipulation": "Singles match · Had Mysterio lost, he would have had to join the Straight Edge Society",
+          "time": "6:30"
+        },
+        {
+          "match": "Bret Hart defeated Mr. McMahon by submission",
+          "stipulation": "No Holds Barred Lumberjack match with Bruce Hart as special guest referee",
+          "time": "11:09"
+        },
+        {
+          "match": "Chris Jericho (c) defeated Edge by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "15:45"
+        },
+        {
+          "match": "Alicia Fox, LayCool (Layla and Michelle McCool), Maryse, and Vickie Guerrero defeated Beth Phoenix, Eve Torres, Gail Kim, Kelly Kelly, and Mickie James by pinfall",
+          "stipulation": "10-Diva tag team match",
+          "time": "3:26"
+        },
+        {
+          "match": "John Cena defeated Batista (c) by submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "13:30"
+        },
+        {
+          "match": "The Undertaker defeated Shawn Michaels by pinfall",
+          "stipulation": "No Disqualification Streak vs. Career match",
+          "time": "24:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2010-extreme-rules-2010",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2010-04-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "1st Mariner Arena",
+      "city": "Baltimore, Maryland",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kofi Kingston defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The Hart Dynasty (Tyson Kidd and David Hart Smith) (with Natalya and Bret Hart) won by last eliminating ShoMiz (The Miz and Big Show)",
+          "stipulation": "Gauntlet match",
+          "time": "5:18"
+        },
+        {
+          "match": "CM Punk (with Luke Gallows and Serena) defeated Rey Mysterio by pinfall",
+          "stipulation": "Hair match · Had CM Punk lost, he would have had his hair shaved.",
+          "time": "15:57"
+        },
+        {
+          "match": "JTG defeated Shad Gaspard",
+          "stipulation": "Strap match",
+          "time": "4:41"
+        },
+        {
+          "match": "Jack Swagger (c) defeated Randy Orton by pinfall",
+          "stipulation": "Extreme Rules match for the World Heavyweight Championship",
+          "time": "13:59"
+        },
+        {
+          "match": "Sheamus defeated Triple H by pinfall",
+          "stipulation": "Street Fight",
+          "time": "15:46"
+        },
+        {
+          "match": "Beth Phoenix defeated Michelle McCool (c) (with Vickie Guerrero and Layla) by pinfall",
+          "stipulation": "Extreme Makeover match for the WWE Women's Championship",
+          "time": "6:32"
+        },
+        {
+          "match": "Edge defeated Chris Jericho by pinfall",
+          "stipulation": "Steel Cage match",
+          "time": "19:59"
+        },
+        {
+          "match": "John Cena (c) defeated Batista",
+          "stipulation": "Last Man Standing match for the WWE Championship",
+          "time": "24:34"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2010-over-the-limit-2010",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "Over the Limit",
+      "session": "ple",
+      "startsAt": "2010-05-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Joe Louis Arena",
+      "city": "Detroit, Michigan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Montel Vontavious Porter defeated Chavo Guerrero by pinfall",
+          "stipulation": "Singles match",
+          "time": "04:20",
+          "note": "dark"
+        },
+        {
+          "match": "Kofi Kingston defeated Drew McIntyre (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "06:24"
+        },
+        {
+          "match": "R-Truth defeated Ted DiBiase (with Virgil) by pinfall",
+          "stipulation": "Singles match",
+          "time": "07:46"
+        },
+        {
+          "match": "Rey Mysterio defeated CM Punk by pinfall",
+          "stipulation": "Straight Edge Society pledge vs. Hair match · The Straight Edge Society were banned from ringside.",
+          "time": "13:49"
+        },
+        {
+          "match": "The Hart Dynasty (David Hart Smith and Tyson Kidd) (c) (with Natalya) defeated Chris Jericho and The Miz by pinfall",
+          "stipulation": "Tag team match for the Unified WWE Tag Team Championship",
+          "time": "10:44"
+        },
+        {
+          "match": "Edge vs. Randy Orton ended in a double countout",
+          "stipulation": "Singles match",
+          "time": "12:58"
+        },
+        {
+          "match": "The Big Show defeated Jack Swagger (c) by disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "05:05"
+        },
+        {
+          "match": "Eve Torres (c) defeated Maryse by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "05:03"
+        },
+        {
+          "match": "John Cena (c) defeated Batista",
+          "stipulation": "\"I Quit\" match for the WWE Championship",
+          "time": "20:33"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2010-wwe-fatal-4-way",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "Fatal 4-Way",
+      "session": "ple",
+      "startsAt": "2010-06-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nassau Veterans Memorial Coliseum",
+      "city": "Uniondale, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Zack Ryder defeated Montel Vontavious Porter by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:38",
+          "note": "dark"
+        },
+        {
+          "match": "Kofi Kingston (c) defeated Drew McIntyre by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "16:29"
+        },
+        {
+          "match": "Alicia Fox defeated Eve Torres (c), Gail Kim, and Maryse by pinfall",
+          "stipulation": "Fatal four-way match for the WWE Divas Championship",
+          "time": "05:42"
+        },
+        {
+          "match": "Evan Bourne defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:04"
+        },
+        {
+          "match": "Rey Mysterio defeated Jack Swagger (c), Big Show, and CM Punk by pinfall",
+          "stipulation": "Fatal four-way match for the World Heavyweight Championship",
+          "time": "10:28"
+        },
+        {
+          "match": "The Miz (c) defeated R-Truth by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "13:23"
+        },
+        {
+          "match": "The Hart Dynasty (David Hart Smith, Natalya, and Tyson Kidd) defeated The Usos (Jey Uso and Jimmy Uso) and Tamina by pinfall",
+          "stipulation": "Six-person mixed tag team match",
+          "time": "09:29"
+        },
+        {
+          "match": "Sheamus defeated John Cena (c), Edge, and Randy Orton by pinfall",
+          "stipulation": "Fatal four-way match for the WWE Championship",
+          "time": "17:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2010-money-in-the-bank-2010",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2010-07-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Sprint Center",
+      "city": "Kansas City, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Santino Marella defeated William Regal by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:36",
+          "note": "dark"
+        },
+        {
+          "match": "Kane defeated Big Show, Christian, Cody Rhodes, Dolph Ziggler, Drew McIntyre, Kofi Kingston, and Matt Hardy by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a World Heavyweight Championship match contract",
+          "time": "26:18"
+        },
+        {
+          "match": "Alicia Fox (c) defeated Eve Torres by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "5:52"
+        },
+        {
+          "match": "The Hart Dynasty (David Hart Smith and Tyson Kidd) (with Natalya) (c) defeated The Usos (Jey Uso and Jimmy Uso) (with Tamina) by submission",
+          "stipulation": "Tag team match for the Unified WWE Tag Team Championship",
+          "time": "5:53"
+        },
+        {
+          "match": "Rey Mysterio (c) defeated Jack Swagger by pinfall",
+          "stipulation": "Singles match for the World Championship",
+          "time": "10:43"
+        },
+        {
+          "match": "Kane defeated Rey Mysterio (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship · This was Kane's Money in the Bank cash-in match.",
+          "time": "0:54"
+        },
+        {
+          "match": "Layla (c) (with Michelle McCool) defeated Kelly Kelly (with Tiffany) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "3:56"
+        },
+        {
+          "match": "The Miz defeated Chris Jericho, Edge, Evan Bourne, John Morrison, Mark Henry, Randy Orton, and Ted DiBiase by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a WWE Championship match contract",
+          "time": "20:26"
+        },
+        {
+          "match": "Sheamus (c) defeated John Cena by escaping the cage",
+          "stipulation": "Steel Cage match for the WWE Championship",
+          "time": "23:19"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2010-summerslam-2010",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2010-08-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Evan Bourne defeated Zack Ryder by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Dolph Ziggler (c) (with Vickie Guerrero) vs. Kofi Kingston ended in a no contest",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "07:05"
+        },
+        {
+          "match": "Melina defeated Alicia Fox (c) by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "05:20"
+        },
+        {
+          "match": "Big Show defeated The Straight Edge Society (CM Punk, Joey Mercury, and Luke Gallows) (with Serena) by pinfall",
+          "stipulation": "Handicap match",
+          "time": "06:45"
+        },
+        {
+          "match": "Randy Orton defeated Sheamus (c) by disqualification",
+          "stipulation": "Last Chance match for the WWE Championship · If anyone interfered in the match they would have been suspended indefinitely.",
+          "time": "18:55"
+        },
+        {
+          "match": "Kane (c) defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "13:31"
+        },
+        {
+          "match": "Team WWE (John Cena, John Morrison, R-Truth, Bret Hart, Edge, Chris Jericho, and Daniel Bryan) defeated The Nexus (Wade Barrett, David Otunga, Justin Gabriel, Heath Slater, Darren Young, Skip Sheffield, and Michael Tarver)",
+          "stipulation": "7-on-7 Elimination tag team match",
+          "time": "35:19"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2010-night-of-champions-2010",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "Night of Champions",
+      "session": "ple",
+      "startsAt": "2010-09-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "John Morrison defeated Ted DiBiase by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Dolph Ziggler (c) (with Kaitlyn and Vickie Guerrero) defeated Kofi Kingston by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship · Had Ziggler been counted out or disqualified, he would have lost the title.",
+          "time": "12:42"
+        },
+        {
+          "match": "Big Show defeated CM Punk by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:43"
+        },
+        {
+          "match": "Daniel Bryan defeated The Miz (c) (with Alex Riley) by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "12:29"
+        },
+        {
+          "match": "Michelle McCool (Co-Women's Champion) defeated Melina (Divas Champion) by pinfall",
+          "stipulation": "Lumberjill match to unify the WWE Women's Championship and the WWE Divas Championship",
+          "time": "6:34"
+        },
+        {
+          "match": "Kane (c) defeated The Undertaker by pinfall",
+          "stipulation": "No Holds Barred match for the World Heavyweight Championship",
+          "time": "18:29"
+        },
+        {
+          "match": "\"Dashing\" Cody Rhodes and Drew McIntyre won by last eliminating Evan Bourne and Mark Henry",
+          "stipulation": "Tag Team Turmoil match for the WWE Tag Team Championship",
+          "time": "11:42"
+        },
+        {
+          "match": "Randy Orton defeated Sheamus (c), Wade Barrett, John Cena, Edge, and Chris Jericho",
+          "stipulation": "Six-Pack Elimination Challenge for the WWE Championship Since Jericho did not win the title he would leave WWE.",
+          "time": "21:28"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2010-hell-in-a-cell-2010",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2010-10-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "American Airlines Center",
+      "city": "Dallas, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Goldust, Kofi Kingston, and R-Truth defeated Cody Rhodes, Drew McIntyre, and Dolph Ziggler by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "14:26",
+          "note": "dark"
+        },
+        {
+          "match": "Daniel Bryan (c) defeated The Miz and John Morrison",
+          "stipulation": "Submissions Count Anywhere match for the WWE United States Championship",
+          "time": "14:32"
+        },
+        {
+          "match": "Randy Orton (c) defeated Sheamus by pinfall",
+          "stipulation": "Hell in a Cell match for the WWE Championship",
+          "time": "22:51"
+        },
+        {
+          "match": "Edge defeated Jack Swagger by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:31"
+        },
+        {
+          "match": "Wade Barrett defeated John Cena by pinfall",
+          "stipulation": "Singles match · Since Barrett won, Cena was forced to join The Nexus. · Had Cena won, The Nexus would have been forced to disband. · Had The Nexus interfered in the match, Barrett would lose the match.",
+          "time": "17:47"
+        },
+        {
+          "match": "Natalya defeated Michelle McCool (c) (with Layla) by disqualification",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "05:00"
+        },
+        {
+          "match": "Kane (c) defeated The Undertaker (with Paul Bearer) by pinfall",
+          "stipulation": "Hell in a Cell match for the World Heavyweight Championship",
+          "time": "21:38"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2010-bragging-rights-2010",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "Bragging Rights",
+      "session": "ple",
+      "startsAt": "2010-10-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Target Center",
+      "city": "Minneapolis, Minnesota",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Montel Vontavious Porter defeated Chavo Guerrero by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Daniel Bryan defeated Dolph Ziggler (with Vickie Guerrero) by submission",
+          "stipulation": "Interpromotional singles match",
+          "time": "16:14"
+        },
+        {
+          "match": "The Nexus (David Otunga and John Cena) defeated \"Dashing\" Cody Rhodes and Drew McIntyre (c) by submission",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "06:29"
+        },
+        {
+          "match": "Ted DiBiase (with Maryse) defeated Goldust (with Aksana) by pinfall",
+          "stipulation": "Singles match",
+          "time": "07:29"
+        },
+        {
+          "match": "Layla (c) (with Michelle McCool) defeated Natalya by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "05:23"
+        },
+        {
+          "match": "Kane (c) (with Paul Bearer) defeated The Undertaker by burying him alive",
+          "stipulation": "Buried Alive match for the World Heavyweight Championship",
+          "time": "16:59"
+        },
+        {
+          "match": "Team SmackDown (Alberto Del Rio, Big Show, Edge, Jack Swagger, Kofi Kingston, Rey Mysterio, and Tyler Reks) (with Hornswoggle) defeated Team Raw (CM Punk, Ezekiel Jackson, John Morrison, The Miz, R-Truth, Santino Marella, and Sheamus) (with Alex Riley) by pinfall",
+          "stipulation": "14-man elimination tag team match for the Bragging Rights Trophy",
+          "time": "27:40"
+        },
+        {
+          "match": "Wade Barrett (with John Cena) defeated Randy Orton (c) by disqualification",
+          "stipulation": "Singles match for the WWE Championship · Had Barrett lost, Cena would have been fired.",
+          "time": "14:34"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2010-survivor-series-2010",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2010-11-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "American Airlines Arena",
+      "city": "Miami, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "R-Truth (with Eve Torres) defeated Zack Ryder by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Daniel Bryan (c) defeated Ted DiBiase Jr. (with Maryse) by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:58"
+        },
+        {
+          "match": "John Morrison defeated Sheamus by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:11"
+        },
+        {
+          "match": "Dolph Ziggler (c) (with Vickie Guerrero) defeated Kaval by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "9:32"
+        },
+        {
+          "match": "Team Mysterio (Rey Mysterio, Big Show, Chris Masters, Kofi Kingston, and Montel Vontavious Porter) defeated Team Del Rio (Alberto Del Rio, Cody Rhodes, Drew McIntyre, Jack Swagger, and Tyler Reks)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "18:12"
+        },
+        {
+          "match": "Natalya defeated LayCool (Michelle McCool (c) and Layla) by submission",
+          "stipulation": "Handicap match for the WWE Divas Championship",
+          "time": "3:38"
+        },
+        {
+          "match": "Kane (c) vs. Edge ended in a draw",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "12:50"
+        },
+        {
+          "match": "The Nexus (Heath Slater and Justin Gabriel) (c) (with David Otunga, Husky Harris, and Michael McGillicutty) defeated Santino Marella and Vladimir Kozlov by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "5:11"
+        },
+        {
+          "match": "Randy Orton (c) defeated Wade Barrett by pinfall",
+          "stipulation": "Pinfall or Submission only Singles match for the WWE Championship · John Cena was the special guest referee and The Nexus were banned from ringside. · Since Orton won, Cena was fired. Had Barrett won, Cena would have been free from The Nexus.",
+          "time": "15:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2010-tlc-tables-ladders-chairs-2010",
+      "competition": "wwe",
+      "season": "2010",
+      "title": "TLC: Tables, Ladders & Chairs",
+      "session": "ple",
+      "startsAt": "2010-12-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Toyota Center",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Daniel Bryan (c) defeated Ted DiBiase (with Maryse) by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "05:18",
+          "note": "dark"
+        },
+        {
+          "match": "Dolph Ziggler (c) defeated Kofi Kingston and Jack Swagger",
+          "stipulation": "Triple Threat Ladder match for the WWE Intercontinental Championship",
+          "time": "08:56"
+        },
+        {
+          "match": "Beth Phoenix and Natalya defeated LayCool (Layla and Michelle McCool)",
+          "stipulation": "Tables match",
+          "time": "09:20"
+        },
+        {
+          "match": "Santino Marella and Vladimir Kozlov (c) defeated The Nexus (Heath Slater and Justin Gabriel) (with Husky Harris and Michael McGillicutty) by disqualification",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "06:28"
+        },
+        {
+          "match": "John Morrison defeated King Sheamus",
+          "stipulation": "Ladder match to determine the #1 contender to the WWE Championship",
+          "time": "19:08"
+        },
+        {
+          "match": "The Miz (c) (with Alex Riley) defeated Randy Orton",
+          "stipulation": "Tables match for the WWE Championship",
+          "time": "13:40"
+        },
+        {
+          "match": "Edge defeated Kane (c), Rey Mysterio, and Alberto Del Rio (with Ricardo Rodriguez)",
+          "stipulation": "Fatal 4-Way Tables, Ladders, and Chairs match for the World Heavyweight Championship",
+          "time": "22:45"
+        },
+        {
+          "match": "John Cena defeated Wade Barrett by pinfall",
+          "stipulation": "Chairs match",
+          "time": "19:11"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

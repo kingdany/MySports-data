@@ -1,0 +1,346 @@
+{
+  "competition": "wwe",
+  "season": "1991",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1991-royal-rumble-1991",
+      "competition": "wwe",
+      "season": "1991",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "1991-01-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Miami Arena",
+      "city": "Miami, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jerry Sags defeated Sam Houston",
+          "stipulation": "Singles match",
+          "time": "5:25",
+          "note": "dark"
+        },
+        {
+          "match": "The Rockers (Shawn Michaels and Marty Jannetty) defeated The Orient Express (Kato and Tanaka) (with Mr. Fuji)",
+          "stipulation": "Tag team match",
+          "time": "19:15"
+        },
+        {
+          "match": "Big Boss Man defeated The Barbarian (with Bobby Heenan)",
+          "stipulation": "Singles match",
+          "time": "14:15"
+        },
+        {
+          "match": "Sgt. Slaughter (with General Adnan) defeated Ultimate Warrior (c)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "12:47"
+        },
+        {
+          "match": "The Mountie (with Jimmy Hart) defeated Koko B. Ware",
+          "stipulation": "Singles match",
+          "time": "9:12"
+        },
+        {
+          "match": "Ted DiBiase and Virgil defeated Dusty Rhodes and Dustin Rhodes",
+          "stipulation": "Tag team match",
+          "time": "9:57"
+        },
+        {
+          "match": "Hulk Hogan won by last eliminating Earthquake",
+          "stipulation": "30-man Royal Rumble match"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1991-wrestlemania-vii",
+      "competition": "wwe",
+      "season": "1991",
+      "title": "WrestleMania VII",
+      "session": "ple",
+      "startsAt": "1991-03-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Los Angeles Memorial Sports Arena",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Koko B. Ware defeated The Brooklyn Brawler by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:08",
+          "note": "dark"
+        },
+        {
+          "match": "The Rockers (Shawn Michaels and Marty Jannetty) defeated The Barbarian and Haku (with Bobby Heenan) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "10:33"
+        },
+        {
+          "match": "The Texas Tornado defeated Dino Bravo (with Jimmy Hart) by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:11"
+        },
+        {
+          "match": "The British Bulldog defeated The Warlord (with Slick) by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:15"
+        },
+        {
+          "match": "The Nasty Boys (Jerry Sags and Brian Knobbs) (with Jimmy Hart) defeated The Hart Foundation (Bret Hart and Jim Neidhart) (c) by pinfall",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "12:10"
+        },
+        {
+          "match": "Jake Roberts defeated Rick Martel by pinfall",
+          "stipulation": "Blindfold match",
+          "time": "8:34"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Jimmy Snuka by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:20"
+        },
+        {
+          "match": "Ultimate Warrior defeated Randy Savage (with Queen Sherri) by pinfall",
+          "stipulation": "Career ending match · Because Savage lost, he was forced to retire. · Had Warrior lost, he would have been forced to retire.",
+          "time": "20:47"
+        },
+        {
+          "match": "Genichiro Tenryu and Kōji Kitao defeated Demolition (Smash and Crush) (with Mr. Fuji) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "4:44"
+        },
+        {
+          "match": "Big Boss Man (with André the Giant) defeated Mr. Perfect (c) (with Bobby Heenan) by disqualification",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "10:46"
+        },
+        {
+          "match": "Earthquake (with Jimmy Hart) defeated Greg Valentine by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:14"
+        },
+        {
+          "match": "The Legion of Doom (Hawk and Animal) defeated Power and Glory (Paul Roma and Hercules) (with Slick) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "0:59"
+        },
+        {
+          "match": "Virgil (with Roddy Piper) defeated Ted DiBiase by countout",
+          "stipulation": "Singles match",
+          "time": "7:41"
+        },
+        {
+          "match": "The Mountie (with Jimmy Hart) defeated Tito Santana by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:21"
+        },
+        {
+          "match": "Hulk Hogan defeated Sgt. Slaughter (c) (with General Adnan) by pinfall",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "20:26"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1991-summerslam-1991",
+      "competition": "wwe",
+      "season": "1991",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "1991-08-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Madison Square Garden",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Koko B. Ware defeated Kato",
+          "stipulation": "Singles match",
+          "time": "6:03",
+          "note": "dark"
+        },
+        {
+          "match": "The Dragon, The British Bulldog, and The Texas Tornado defeated The Warlord and Power and Glory (Paul Roma and Hercules) (with Slick)",
+          "stipulation": "Six-man tag team match",
+          "time": "10:43"
+        },
+        {
+          "match": "Bret Hart defeated Mr. Perfect (c) (with The Coach) by submission",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "18:03"
+        },
+        {
+          "match": "The Natural Disasters (Earthquake and Typhoon) (with Jimmy Hart) defeated The Bushwhackers (Luke and Butch) (with André the Giant)",
+          "stipulation": "Tag team match",
+          "time": "6:27"
+        },
+        {
+          "match": "Virgil defeated Ted DiBiase (c) (with Sensational Sherri) via Pinfall",
+          "stipulation": "Singles match for the Million Dollar Championship",
+          "time": "13:11"
+        },
+        {
+          "match": "Big Boss Man defeated The Mountie (with Jimmy Hart)",
+          "stipulation": "Jailhouse match",
+          "time": "9:38"
+        },
+        {
+          "match": "The Legion of Doom (Hawk and Animal) defeated The Nasty Boys (Brian Knobbs and Jerry Sags) (c) (with Jimmy Hart)",
+          "stipulation": "Street Fight for the WWF Tag Team Championship",
+          "time": "7:45"
+        },
+        {
+          "match": "Irwin R. Schyster defeated Greg Valentine",
+          "stipulation": "Singles match",
+          "time": "7:07"
+        },
+        {
+          "match": "Hulk Hogan and Ultimate Warrior defeated the Triangle of Terror (Sgt. Slaughter, General Adnan, and Col. Mustafa)",
+          "stipulation": "2-on-3 Handicap match · Sid Justice was the special guest referee.",
+          "time": "12:40"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1991-survivor-series-1991",
+      "competition": "wwe",
+      "season": "1991",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1991-11-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Joe Louis Arena",
+      "city": "Detroit, Michigan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Chris Chavis defeated Kato",
+          "stipulation": "Singles match",
+          "time": "7:44",
+          "note": "dark"
+        },
+        {
+          "match": "Ric Flair, The Mountie, Ted DiBiase, and The Warlord (with Mr. Perfect, Jimmy Hart, Sensational Sherri, and Harvey Wippleman) defeated Roddy Piper, Bret Hart, Virgil, and The British Bulldog",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "22:48"
+        },
+        {
+          "match": "Sgt. Slaughter, Jim Duggan, The Texas Tornado, and El Matador defeated Col. Mustafa, The Berzerker, Skinner, and Hercules (with General Adnan and Mr. Fuji)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "14:19"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Hulk Hogan (c)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "12:45"
+        },
+        {
+          "match": "The Nasty Boys (Brian Knobbs and Jerry Sags) and The Beverly Brothers (Beau and Blake) (with Jimmy Hart and The Genius) defeated The Rockers (Shawn Michaels and Marty Jannetty) and The Bushwhackers (Luke and Butch)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "23:06"
+        },
+        {
+          "match": "Big Boss Man and The Legion of Doom (Hawk and Animal) defeated Irwin R. Schyster and The Natural Disasters (Earthquake and Typhoon) (with Jimmy Hart)",
+          "stipulation": "3-on-3 Survivor Series match",
+          "time": "15:21"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1991-this-tuesday-in-texas",
+      "competition": "wwe",
+      "season": "1991",
+      "title": "This Tuesday in Texas",
+      "session": "ple",
+      "startsAt": "1991-12-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Freeman Coliseum",
+      "city": "San Antonio, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Harris Brothers (Ron and Don) defeated Brian Costello and Brian Donahue",
+          "stipulation": "Tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "Sir Charles defeated Dale Wolfe",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Chris Walker defeated Brian Lee",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Chris Chavis defeated J. W. Storm",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Greg Valentine defeated The Brooklyn Brawler",
+          "stipulation": "Singles match",
+          "time": "2:06",
+          "note": "dark"
+        },
+        {
+          "match": "The Nasty Boys (Brian Knobbs and Jerry Sags) defeated The Bushwhackers (Luke and Butch)",
+          "stipulation": "Tag team match",
+          "time": "9:43",
+          "note": "dark"
+        },
+        {
+          "match": "The Legion of Doom (Hawk and Animal) (c) defeated The Rockers (Shawn Michaels and Marty Jannetty)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "12:58",
+          "note": "dark"
+        },
+        {
+          "match": "The Legion of Doom (Hawk and Animal) (c) defeated The Natural Disasters (Earthquake and Typhoon)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "10:26",
+          "note": "dark"
+        },
+        {
+          "match": "Ric Flair defeated Roddy Piper",
+          "stipulation": "Singles match",
+          "time": "14:30",
+          "note": "dark"
+        },
+        {
+          "match": "Bret Hart (c) defeated Skinner by submission",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "13:46"
+        },
+        {
+          "match": "Randy Savage (with Miss Elizabeth) defeated Jake Roberts",
+          "stipulation": "Singles match",
+          "time": "6:25"
+        },
+        {
+          "match": "The British Bulldog defeated The Warlord (with Harvey Wippleman)",
+          "stipulation": "Singles match",
+          "time": "12:45"
+        },
+        {
+          "match": "Repo Man and Ted DiBiase (with Sensational Sherri) defeated El Matador and Virgil",
+          "stipulation": "Tag team match",
+          "time": "11:28"
+        },
+        {
+          "match": "Hulk Hogan defeated The Undertaker (c) (with Paul Bearer)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "13:09"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

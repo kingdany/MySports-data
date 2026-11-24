@@ -1,0 +1,653 @@
+{
+  "competition": "wwe",
+  "season": "2021",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2021-royal-rumble-2021",
+      "competition": "wwe",
+      "season": "2021",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2021-01-31T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Tropicana Field",
+      "city": "St. Petersburg, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Nia Jax and Shayna Baszler defeated Asuka and Charlotte Flair (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "10:30",
+          "note": "pre-show"
+        },
+        {
+          "match": "Drew McIntyre (c) defeated Goldberg by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "2:33"
+        },
+        {
+          "match": "Sasha Banks (c) defeated Carmella (with Reginald) by submission",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "10:25"
+        },
+        {
+          "match": "Bianca Belair won by last eliminating Rhea Ripley",
+          "stipulation": "30-woman Royal Rumble match for a world championship match at WrestleMania 37",
+          "time": "58:50"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated Kevin Owens as Owens was unable to make it to his feet before the referee's count of 10",
+          "stipulation": "Last Man Standing match for the WWE Universal Championship",
+          "time": "24:55"
+        },
+        {
+          "match": "Edge won by last eliminating Randy Orton",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 37",
+          "time": "58:30"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2021-elimination-chamber-2021",
+      "competition": "wwe",
+      "season": "2021",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2021-02-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Tropicana Field",
+      "city": "St. Petersburg, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "John Morrison defeated Elias, Mustafa Ali (with Mace, T-Bar, and Slapjack), and Ricochet by pinfall",
+          "stipulation": "Fatal four-way match to qualify for the triple threat match for the WWE United States Championship on the main card",
+          "time": "7:10",
+          "note": "pre-show"
+        },
+        {
+          "match": "Daniel Bryan defeated Cesaro, Jey Uso, Kevin Owens, King Corbin, and Sami Zayn",
+          "stipulation": "Elimination Chamber match for an immediate WWE Universal Championship match",
+          "time": "34:20"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated Daniel Bryan by technical submission",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "1:35"
+        },
+        {
+          "match": "Riddle defeated Bobby Lashley (c) (with MVP) and John Morrison by pinfall",
+          "stipulation": "Triple threat match for the WWE United States Championship",
+          "time": "8:40"
+        },
+        {
+          "match": "Nia Jax and Shayna Baszler (c) defeated Bianca Belair and Sasha Banks by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "9:35"
+        },
+        {
+          "match": "Drew McIntyre (c) defeated AJ Styles (with Omos), Jeff Hardy, Kofi Kingston, Randy Orton, and Sheamus",
+          "stipulation": "Elimination Chamber match for the WWE Championship",
+          "time": "31:10"
+        },
+        {
+          "match": "The Miz defeated Drew McIntyre (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship · This was Miz's Money in the Bank cash-in match.",
+          "time": "0:30"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2021-fastlane-2021",
+      "competition": "wwe",
+      "season": "2021",
+      "title": "Fastlane",
+      "session": "ple",
+      "startsAt": "2021-03-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Tropicana Field",
+      "city": "St. Petersburg, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Riddle (c) defeated Mustafa Ali (with Mace, Reckoning, Slapjack, and T-Bar) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:16",
+          "note": "pre-show"
+        },
+        {
+          "match": "Nia Jax and Shayna Baszler (c) (with Reginald) defeated Bianca Belair and Sasha Banks by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "9:45"
+        },
+        {
+          "match": "Big E (c) defeated Apollo Crews by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "5:45"
+        },
+        {
+          "match": "Braun Strowman defeated Elias (with Jaxson Ryker) by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:50"
+        },
+        {
+          "match": "Seth Rollins defeated Shinsuke Nakamura by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:55"
+        },
+        {
+          "match": "Drew McIntyre defeated Sheamus by pinfall",
+          "stipulation": "No Holds Barred match",
+          "time": "19:40"
+        },
+        {
+          "match": "Alexa Bliss defeated Randy Orton by pinfall",
+          "stipulation": "Intergender match",
+          "time": "4:45"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated Daniel Bryan by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship · Edge was the special guest enforcer.",
+          "time": "30:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2021-wrestlemania-37-1",
+      "competition": "wwe",
+      "season": "2021",
+      "title": "WrestleMania 37 – Notte 1",
+      "session": "ple",
+      "startsAt": "2021-04-10T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Raymond James Stadium",
+      "city": "Tampa, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bobby Lashley (c) (with MVP) defeated Drew McIntyre by technical submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "18:20"
+        },
+        {
+          "match": "Natalya and Tamina won by last eliminating The Riott Squad (Liv Morgan and Ruby Riott)",
+          "stipulation": "Tag Team Turmoil match · Winners received a WWE Women's Tag Team Championship match on Night 2.",
+          "time": "14:15"
+        },
+        {
+          "match": "Cesaro defeated Seth Rollins by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:35"
+        },
+        {
+          "match": "AJ Styles and Omos defeated The New Day (Kofi Kingston and Xavier Woods) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "9:45"
+        },
+        {
+          "match": "Braun Strowman defeated Shane McMahon by pinfall",
+          "stipulation": "Steel Cage match",
+          "time": "11:25"
+        },
+        {
+          "match": "Bad Bunny and Damian Priest defeated The Miz and John Morrison by pinfall",
+          "stipulation": "Tag team match",
+          "time": "15:02"
+        },
+        {
+          "match": "Bianca Belair defeated Sasha Banks (c) by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "17:15"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2021-wrestlemania-37-2",
+      "competition": "wwe",
+      "season": "2021",
+      "title": "WrestleMania 37 – Notte 2",
+      "session": "ple",
+      "startsAt": "2021-04-11T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Raymond James Stadium",
+      "city": "Tampa, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Randy Orton defeated The Fiend (with Alexa Bliss) by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:50"
+        },
+        {
+          "match": "Nia Jax and Shayna Baszler (c) defeated Natalya and Tamina by technical submission",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "14:20"
+        },
+        {
+          "match": "Kevin Owens defeated Sami Zayn (with Logan Paul) by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:20"
+        },
+        {
+          "match": "Sheamus defeated Riddle (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "10:51"
+        },
+        {
+          "match": "Apollo Crews defeated Big E (c) by pinfall",
+          "stipulation": "Nigerian Drum Fight for the WWE Intercontinental Championship",
+          "time": "6:50"
+        },
+        {
+          "match": "Rhea Ripley defeated Asuka (c) by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "13:30"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman and Jey Uso) defeated Edge and Daniel Bryan by pinfall",
+          "stipulation": "Triple threat match for the WWE Universal Championship",
+          "time": "22:40"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2021-wrestlemania-backlash-2021",
+      "competition": "wwe",
+      "season": "2021",
+      "title": "WrestleMania Backlash",
+      "session": "ple",
+      "startsAt": "2021-05-16T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Yuengling Center",
+      "city": "Tampa, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Sheamus defeated Ricochet by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:10",
+          "note": "pre-show"
+        },
+        {
+          "match": "Rhea Ripley (c) defeated Asuka and Charlotte Flair by pinfall",
+          "stipulation": "Triple threat match for the WWE Raw Women's Championship",
+          "time": "15:22"
+        },
+        {
+          "match": "Dominik Mysterio and Rey Mysterio defeated Dolph Ziggler and Robert Roode (c) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "17:00"
+        },
+        {
+          "match": "Damian Priest defeated The Miz (with John Morrison) by pinfall",
+          "stipulation": "Zombie Lumberjack match",
+          "time": "6:55"
+        },
+        {
+          "match": "Bianca Belair (c) defeated Bayley by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "15:59"
+        },
+        {
+          "match": "Bobby Lashley (c) (with MVP) defeated Braun Strowman and Drew McIntyre by pinfall",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "14:12"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated Cesaro by technical submission",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "27:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2021-hell-in-a-cell-2021",
+      "competition": "wwe",
+      "season": "2021",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2021-06-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Yuengling Center",
+      "city": "Tampa, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Natalya (with Tamina) defeated Mandy Rose (with Dana Brooke) by submission",
+          "stipulation": "Singles match",
+          "time": "9:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "Bianca Belair (c) defeated Bayley by pinfall",
+          "stipulation": "Hell in a Cell match for the WWE SmackDown Women's Championship",
+          "time": "19:45"
+        },
+        {
+          "match": "Seth Rollins defeated Cesaro by pinfall",
+          "stipulation": "Singles match",
+          "time": "16:15"
+        },
+        {
+          "match": "Alexa Bliss defeated Shayna Baszler (with Nia Jax and Reginald) by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:00"
+        },
+        {
+          "match": "Sami Zayn defeated Kevin Owens by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:40"
+        },
+        {
+          "match": "Charlotte Flair defeated Rhea Ripley (c) by disqualification",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "14:10"
+        },
+        {
+          "match": "Bobby Lashley (c) (with MVP) defeated Drew McIntyre by pinfall",
+          "stipulation": "Last Chance Hell in a Cell match for the WWE Championship",
+          "time": "25:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2021-money-in-the-bank-2021",
+      "competition": "wwe",
+      "season": "2021",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2021-07-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Dickies Arena",
+      "city": "Fort Worth, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) defeated The Mysterios (Rey Mysterio and Dominik Mysterio) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "11:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Nikki A.S.H. defeated Alexa Bliss, Asuka, Liv Morgan, Naomi, Natalya, Tamina, and Zelina Vega by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a women's championship match contract",
+          "time": "15:45"
+        },
+        {
+          "match": "AJ Styles and Omos (c) defeated The Viking Raiders (Erik and Ivar) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "12:55"
+        },
+        {
+          "match": "Bobby Lashley (c) (with MVP) defeated Kofi Kingston by technical submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "7:35"
+        },
+        {
+          "match": "Charlotte Flair defeated Rhea Ripley (c) by submission",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "16:50"
+        },
+        {
+          "match": "Big E defeated Drew McIntyre, John Morrison, Kevin Owens, King Nakamura, Ricochet, Riddle, and Seth Rollins by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a world championship match contract",
+          "time": "17:40"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated Edge by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "33:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2021-summerslam-2021",
+      "competition": "wwe",
+      "season": "2021",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2021-08-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allegiant Stadium",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Big E defeated Baron Corbin by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "RK-Bro (Randy Orton and Riddle) defeated AJ Styles and Omos (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "7:05"
+        },
+        {
+          "match": "Alexa Bliss defeated Eva Marie (with Doudrop) by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:50"
+        },
+        {
+          "match": "Damian Priest defeated Sheamus (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "13:50"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated The Mysterios (Rey Mysterio and Dominik Mysterio) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "10:50"
+        },
+        {
+          "match": "Becky Lynch defeated Bianca Belair (c) by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "0:26"
+        },
+        {
+          "match": "Drew McIntyre defeated Jinder Mahal by pinfall",
+          "stipulation": "Singles match · Veer and Shanky were barred from ringside.",
+          "time": "4:40"
+        },
+        {
+          "match": "Charlotte Flair defeated Nikki A.S.H. (c) and Rhea Ripley by submission",
+          "stipulation": "Triple threat match for the WWE Raw Women's Championship",
+          "time": "13:05"
+        },
+        {
+          "match": "Edge defeated Seth Rollins by submission",
+          "stipulation": "Singles match",
+          "time": "21:15"
+        },
+        {
+          "match": "Bobby Lashley (c) (with MVP) defeated Goldberg by referee stoppage",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "7:10"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated John Cena by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "22:59"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2021-extreme-rules-2021",
+      "competition": "wwe",
+      "season": "2021",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2021-09-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nationwide Arena",
+      "city": "Columbus, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Liv Morgan defeated Carmella by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:52",
+          "note": "pre-show"
+        },
+        {
+          "match": "The New Day (Big E, Kofi Kingston, and Xavier Woods) defeated Bobby Lashley, AJ Styles, and Omos by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "18:15"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated The Street Profits (Angelo Dawkins and Montez Ford) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "13:45"
+        },
+        {
+          "match": "Charlotte Flair (c) defeated Alexa Bliss by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "11:25"
+        },
+        {
+          "match": "Damian Priest (c) defeated Jeff Hardy and Sheamus by pinfall",
+          "stipulation": "Triple threat match for the WWE United States Championship",
+          "time": "13:25"
+        },
+        {
+          "match": "Becky Lynch (c) vs. Bianca Belair ended in a no contest",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "17:25"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated \"The Demon\" Finn Bálor by pinfall",
+          "stipulation": "Extreme Rules match for the WWE Universal Championship",
+          "time": "19:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2021-crown-jewel-2021",
+      "competition": "wwe",
+      "season": "2021",
+      "title": "Crown Jewel",
+      "session": "ple",
+      "startsAt": "2021-10-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Mohammed Abdo Arena",
+      "city": "Riyadh, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) defeated The Hurt Business (Cedric Alexander and Shelton Benjamin) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "10:40",
+          "note": "pre-show"
+        },
+        {
+          "match": "Edge defeated Seth Rollins by pinfall",
+          "stipulation": "Hell in a Cell match",
+          "time": "27:40"
+        },
+        {
+          "match": "Mansoor defeated Mustafa Ali by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:00"
+        },
+        {
+          "match": "RK-Bro (Randy Orton and Matt Riddle) (c) defeated AJ Styles and Omos by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "8:40"
+        },
+        {
+          "match": "Zelina Vega defeated Doudrop by pinfall",
+          "stipulation": "Queen's Crown tournament final",
+          "time": "5:50"
+        },
+        {
+          "match": "Goldberg defeated Bobby Lashley by pinfall",
+          "stipulation": "No Holds Barred Falls Count Anywhere match",
+          "time": "11:25"
+        },
+        {
+          "match": "Xavier Woods defeated Finn Bálor by pinfall",
+          "stipulation": "King of the Ring tournament final",
+          "time": "9:40"
+        },
+        {
+          "match": "Big E (c) defeated Drew McIntyre by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "13:25"
+        },
+        {
+          "match": "Becky Lynch (c) defeated Bianca Belair and Sasha Banks by pinfall",
+          "stipulation": "Triple threat match for the WWE SmackDown Women's Championship",
+          "time": "19:25"
+        },
+        {
+          "match": "Roman Reigns (c) (with Paul Heyman) defeated Brock Lesnar by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "12:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2021-survivor-series-2021",
+      "competition": "wwe",
+      "season": "2021",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2021-11-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Barclays Center",
+      "city": "Brooklyn, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Shinsuke Nakamura (SmackDown's Intercontinental Champion) (with Rick Boogs) defeated Damian Priest (Raw's United States Champion) by disqualification",
+          "stipulation": "Champion vs. Champion singles match",
+          "time": "9:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Becky Lynch (Raw Women's Champion) defeated Charlotte Flair (SmackDown Women's Champion) by pinfall",
+          "stipulation": "Champion vs. Champion singles match",
+          "time": "18:15"
+        },
+        {
+          "match": "Team Raw (Seth Rollins, Finn Bálor, Kevin Owens, Austin Theory, and Bobby Lashley) (with MVP) defeated Team SmackDown (Drew McIntyre, Jeff Hardy, King Woods, Happy Corbin, and Sheamus) (with Madcap Moss)",
+          "stipulation": "5-on-5 men's Survivor Series match",
+          "time": "30:00"
+        },
+        {
+          "match": "Omos won by last eliminating Ricochet",
+          "stipulation": "The Rock 25th Anniversary Battle Royal · 25-man Dual Brand Battle Royal",
+          "time": "10:45"
+        },
+        {
+          "match": "RK-Bro (Randy Orton and Riddle) (Raw Tag Team Champions) defeated The Usos (Jey Uso and Jimmy Uso) (SmackDown Tag Team Champions) by pinfall",
+          "stipulation": "Champions vs. Champions tag team match",
+          "time": "14:50"
+        },
+        {
+          "match": "Team Raw (Bianca Belair, Rhea Ripley, Liv Morgan, Carmella, and Queen Zelina) defeated Team SmackDown (Sasha Banks, Shayna Baszler, Shotzi, Natalya, and Toni Storm)",
+          "stipulation": "5-on-5 women's Survivor Series match",
+          "time": "23:45"
+        },
+        {
+          "match": "Roman Reigns (SmackDown's Universal Champion) (with Paul Heyman) defeated Big E (Raw's WWE Champion) by pinfall",
+          "stipulation": "Champion vs. Champion singles match",
+          "time": "21:55"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

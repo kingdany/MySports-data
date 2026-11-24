@@ -1,0 +1,1025 @@
+{
+  "competition": "wwe",
+  "season": "2016",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2016-royal-rumble-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2016-01-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Amway Center",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jack Swagger and Mark Henry defeated The Ascension (Konnor and Viktor), Damien Sandow and Darren Young, and The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) by pinfall",
+          "stipulation": "Fatal four-way tag team match to qualify for the Royal Rumble match",
+          "time": "8:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "Dean Ambrose (c) defeated Kevin Owens",
+          "stipulation": "Last Man Standing match for the WWE Intercontinental Championship",
+          "time": "20:22"
+        },
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (c) (with Xavier Woods) defeated The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "10:52"
+        },
+        {
+          "match": "Kalisto defeated Alberto Del Rio (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "11:31"
+        },
+        {
+          "match": "Charlotte (c) (with Ric Flair) defeated Becky Lynch by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "11:40"
+        },
+        {
+          "match": "Triple H won by last eliminating Dean Ambrose",
+          "stipulation": "30-man Royal Rumble match for the WWE World Heavyweight Championship"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-fastlane-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Fastlane",
+      "session": "ple",
+      "startsAt": "2016-02-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Quicken Loans Arena",
+      "city": "Cleveland, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kalisto (c) defeated Alberto Del Rio 2–1",
+          "stipulation": "Two out of three falls match for the WWE United States Championship",
+          "time": "15:02",
+          "note": "pre-show"
+        },
+        {
+          "match": "Becky Lynch and Sasha Banks defeated Team B.A.D. (Naomi and Tamina) by submission",
+          "stipulation": "Tag team match",
+          "time": "09:50"
+        },
+        {
+          "match": "Kevin Owens (c) defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "15:10"
+        },
+        {
+          "match": "Big Show, Kane, and Ryback defeated The Wyatt Family (Braun Strowman, Erick Rowan and Luke Harper) (with Bray Wyatt) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "10:37"
+        },
+        {
+          "match": "Charlotte (c) (with Ric Flair) defeated Brie Bella by submission",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "12:30"
+        },
+        {
+          "match": "AJ Styles defeated Chris Jericho by submission",
+          "stipulation": "Singles match",
+          "time": "16:25"
+        },
+        {
+          "match": "Curtis Axel (with Adam Rose, Bo Dallas, and Heath Slater) defeated R-Truth by pinfall",
+          "stipulation": "Singles match",
+          "time": "02:23"
+        },
+        {
+          "match": "Roman Reigns defeated Dean Ambrose and Brock Lesnar (with Paul Heyman) by pinfall",
+          "stipulation": "Triple threat match to determine the #1 contender for the WWE World Heavyweight Championship at WrestleMania 32",
+          "time": "16:49"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-roadblock-march-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Roadblock",
+      "session": "ple",
+      "startsAt": "2016-03-12T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Ricoh Coliseum",
+      "city": "Toronto, Ontario, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Mark Henry defeated Randy Sharp",
+          "stipulation": "Singles match",
+          "time": "3:35",
+          "note": "dark"
+        },
+        {
+          "match": "Goldust (with R-Truth) defeated Viktor (with Konnor)",
+          "stipulation": "Singles match",
+          "time": "6:44",
+          "note": "dark"
+        },
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (c) (with Xavier Woods) defeated The League of Nations (King Barrett and Sheamus) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "9:49"
+        },
+        {
+          "match": "Chris Jericho defeated Jack Swagger by submission",
+          "stipulation": "Singles match",
+          "time": "7:54"
+        },
+        {
+          "match": "The Revival (Dash Wilder and Scott Dawson) (c) defeated Enzo and Cass (with Carmella) by pinfall",
+          "stipulation": "Tag team match for the NXT Tag Team Championship",
+          "time": "10:17"
+        },
+        {
+          "match": "Charlotte (c) (with Ric Flair) defeated Natalya by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "13:37"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated The Wyatt Family (Bray Wyatt and Luke Harper) by pinfall",
+          "stipulation": "2-on-1 handicap match",
+          "time": "4:03"
+        },
+        {
+          "match": "Sami Zayn defeated Stardust",
+          "stipulation": "Singles match",
+          "time": "12:33"
+        },
+        {
+          "match": "Triple H (c) defeated Dean Ambrose by pinfall",
+          "stipulation": "Singles match for the WWE World Heavyweight Championship",
+          "time": "24:43"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-wrestlemania-32",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "WrestleMania 32",
+      "session": "ple",
+      "startsAt": "2016-04-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kalisto (c) defeated Ryback by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "8:58",
+          "note": "pre-show"
+        },
+        {
+          "match": "Team Total Divas (Alicia Fox, Brie Bella, Eva Marie, Natalya, and Paige) defeated Team B.A.D. and Blonde (Emma, Lana, Naomi, Summer Rae, and Tamina) by submission",
+          "stipulation": "10-woman tag team match",
+          "time": "11:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "5:18",
+          "note": "pre-show"
+        },
+        {
+          "match": "Zack Ryder defeated Kevin Owens (c), Dolph Ziggler, The Miz, Sami Zayn, Sin Cara, and Stardust",
+          "stipulation": "Ladder match for the WWE Intercontinental Championship",
+          "time": "15:23"
+        },
+        {
+          "match": "Chris Jericho defeated AJ Styles by pinfall",
+          "stipulation": "Singles match",
+          "time": "17:10"
+        },
+        {
+          "match": "The League of Nations (Alberto Del Rio, Rusev, and Sheamus) (with King Barrett) defeated The New Day (Big E, Kofi Kingston, and Xavier Woods) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "10:03"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Dean Ambrose by pinfall",
+          "stipulation": "No Holds Barred Street Fight",
+          "time": "13:06"
+        },
+        {
+          "match": "Charlotte (with Ric Flair) defeated Becky Lynch and Sasha Banks by submission",
+          "stipulation": "Triple threat match for the inaugural WWE Women's Championship",
+          "time": "16:03"
+        },
+        {
+          "match": "The Undertaker defeated Shane McMahon by pinfall",
+          "stipulation": "Hell in a Cell match · Since Shane lost, Vince McMahon gained control of a secret lockbox that was in Shane's possession. · Had Shane won, he would have gained control of Raw and Undertaker would no longer compete at WrestleMania.",
+          "time": "30:05"
+        },
+        {
+          "match": "Baron Corbin won by last eliminating Kane",
+          "stipulation": "20-man battle royal for the André the Giant Memorial Trophy",
+          "time": "9:41"
+        },
+        {
+          "match": "The Rock defeated Erick Rowan (with Braun Strowman and Bray Wyatt) by pinfall",
+          "stipulation": "Singles match",
+          "time": "0:06"
+        },
+        {
+          "match": "Roman Reigns defeated Triple H (c) (with Stephanie McMahon) by pinfall",
+          "stipulation": "Singles match for the WWE World Heavyweight Championship",
+          "time": "27:11"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-payback-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Payback",
+      "session": "ple",
+      "startsAt": "2016-05-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Dolph Ziggler defeated Baron Corbin by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:43",
+          "note": "pre-show"
+        },
+        {
+          "match": "Kalisto (c) defeated Ryback by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "8:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Vaudevillains (Aiden English and Simon Gotch) defeated Enzo and Cass by technical knockout",
+          "stipulation": "Tag team match to determine #1 contenders for the WWE Tag Team Championship",
+          "time": "3:58"
+        },
+        {
+          "match": "Kevin Owens defeated Sami Zayn by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:30"
+        },
+        {
+          "match": "The Miz (c) (with Maryse) defeated Cesaro by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "11:20"
+        },
+        {
+          "match": "Dean Ambrose defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match",
+          "time": "18:28"
+        },
+        {
+          "match": "Charlotte (c) (with Ric Flair) defeated Natalya (with Bret Hart) by submission",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "13:04"
+        },
+        {
+          "match": "Roman Reigns (c) defeated AJ Styles by pinfall",
+          "stipulation": "No Disqualification match for the WWE World Heavyweight Championship",
+          "time": "26:03"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-extreme-rules-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2016-05-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Prudential Center",
+      "city": "Newark, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Baron Corbin defeated Dolph Ziggler by pinfall",
+          "stipulation": "No Disqualification match",
+          "time": "7:07",
+          "note": "pre-show"
+        },
+        {
+          "match": "Gallows and Anderson defeated The Usos (Jey Uso and Jimmy Uso)",
+          "stipulation": "Tornado tag team match",
+          "time": "8:37"
+        },
+        {
+          "match": "Rusev (with Lana) defeated Kalisto (c) by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:31"
+        },
+        {
+          "match": "The New Day (Big E and Xavier Woods) (c) (with Kofi Kingston) defeated The Vaudevillains (Aiden English and Simon Gotch) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "6:20"
+        },
+        {
+          "match": "The Miz (c) (with Maryse) defeated Cesaro, Kevin Owens, and Sami Zayn by pinfall",
+          "stipulation": "Fatal four-way match for the WWE Intercontinental Championship",
+          "time": "19:32"
+        },
+        {
+          "match": "Dean Ambrose defeated Chris Jericho by pinfall",
+          "stipulation": "Asylum match",
+          "time": "26:41"
+        },
+        {
+          "match": "Charlotte (c) defeated Natalya",
+          "stipulation": "Submission match for the WWE Women's Championship · Ric Flair was banned from ringside and had he disregarded his ban, Charlotte would have lost her title.",
+          "time": "9:30"
+        },
+        {
+          "match": "Roman Reigns (c) defeated AJ Styles by pinfall",
+          "stipulation": "Extreme Rules match for the WWE World Heavyweight Championship",
+          "time": "22:13"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-money-in-the-bank-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2016-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "T-Mobile Arena",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Golden Truth (Goldust and R-Truth) defeated Breezango (Fandango and Tyler Breeze) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "05:06",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Lucha Dragons (Kalisto and Sin Cara) defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "08:48",
+          "note": "pre-show"
+        },
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (c) (with Xavier Woods) defeated Enzo and Cass, Gallows and Anderson and The Vaudevillains (Aiden English and Simon Gotch) by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE Tag Team Championship",
+          "time": "11:43"
+        },
+        {
+          "match": "Baron Corbin defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:25"
+        },
+        {
+          "match": "Charlotte and Dana Brooke defeated Becky Lynch and Natalya by pinfall",
+          "stipulation": "Tag team match",
+          "time": "07:00"
+        },
+        {
+          "match": "Apollo Crews defeated Sheamus by pinfall",
+          "stipulation": "Singles match",
+          "time": "08:36"
+        },
+        {
+          "match": "AJ Styles defeated John Cena by pinfall",
+          "stipulation": "Singles match",
+          "time": "24:10"
+        },
+        {
+          "match": "Dean Ambrose defeated Alberto Del Rio, Cesaro, Chris Jericho, Kevin Owens, and Sami Zayn",
+          "stipulation": "Money in the Bank ladder match for a WWE World Heavyweight Championship match contract",
+          "time": "21:38"
+        },
+        {
+          "match": "Rusev (c) (with Lana) defeated Titus O'Neil by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "08:30"
+        },
+        {
+          "match": "Seth Rollins defeated Roman Reigns (c) by pinfall",
+          "stipulation": "Singles match for the WWE World Heavyweight Championship",
+          "time": "26:00"
+        },
+        {
+          "match": "Dean Ambrose defeated Seth Rollins (c) by pinfall",
+          "stipulation": "Singles match for the WWE World Heavyweight Championship · This was Ambrose's Money in the Bank cash-in match.",
+          "time": "00:09"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-battleground-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Battleground",
+      "session": "ple",
+      "startsAt": "2016-07-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Verizon Center",
+      "city": "Washington, D.C.",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Breezango (Fandango and Tyler Breeze) defeated The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "5:26",
+          "note": "pre-show"
+        },
+        {
+          "match": "Sasha Banks and Bayley defeated Charlotte and Dana Brooke by submission",
+          "stipulation": "Tag team match",
+          "time": "7:25"
+        },
+        {
+          "match": "The Wyatt Family (Bray Wyatt, Erick Rowan, and Braun Strowman) defeated The New Day (Big E, Kofi Kingston, and Xavier Woods) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "8:47"
+        },
+        {
+          "match": "Rusev (c) (with Lana) defeated Zack Ryder by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "7:01"
+        },
+        {
+          "match": "Sami Zayn defeated Kevin Owens by pinfall",
+          "stipulation": "Singles match",
+          "time": "18:22"
+        },
+        {
+          "match": "Natalya defeated Becky Lynch by submission",
+          "stipulation": "Singles match",
+          "time": "9:04"
+        },
+        {
+          "match": "The Miz (c) (with Maryse) vs. Darren Young (with Bob Backlund) ended in a double disqualification",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "8:41"
+        },
+        {
+          "match": "Big Cass, Enzo Amore, and John Cena defeated The Club (AJ Styles, Luke Gallows, and Karl Anderson) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "14:30"
+        },
+        {
+          "match": "Dean Ambrose (c) defeated Roman Reigns and Seth Rollins by pinfall",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "18:03"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-summerslam-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2016-08-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Barclays Center",
+      "city": "Brooklyn, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso), American Alpha (Chad Gable and Jason Jordan), and The Hype Bros (Mojo Rawley and Zack Ryder) defeated Breezango (Fandango and Tyler Breeze), The Ascension (Konnor and Viktor), and The Vaudevillains (Aiden English and Simon Gotch) by pinfall",
+          "stipulation": "12-man tag team match",
+          "time": "14:32",
+          "note": "pre-show"
+        },
+        {
+          "match": "Sami Zayn and Neville defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "7:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "Sheamus defeated Cesaro by pinfall",
+          "stipulation": "Singles match · First in the best of seven series",
+          "time": "14:10",
+          "note": "pre-show"
+        },
+        {
+          "match": "Chris Jericho and Kevin Owens defeated Enzo Amore and Big Cass by pinfall",
+          "stipulation": "Tag team match",
+          "time": "12:09"
+        },
+        {
+          "match": "Charlotte defeated Sasha Banks (c) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "13:53"
+        },
+        {
+          "match": "The Miz (c) (with Maryse) defeated Apollo Crews by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "5:38"
+        },
+        {
+          "match": "AJ Styles defeated John Cena by pinfall",
+          "stipulation": "Singles match",
+          "time": "23:14"
+        },
+        {
+          "match": "Luke Gallows and Karl Anderson defeated The New Day (Kofi Kingston and Xavier Woods) (c) (with Jon Stewart) by disqualification",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "9:11"
+        },
+        {
+          "match": "Dean Ambrose (c) defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match for the WWE World Championship",
+          "time": "15:17"
+        },
+        {
+          "match": "Nikki Bella, Natalya, and Alexa Bliss defeated Becky Lynch, Naomi, and Carmella by pinfall",
+          "stipulation": "Six-woman tag team match",
+          "time": "11:04"
+        },
+        {
+          "match": "Finn Bálor defeated Seth Rollins by pinfall",
+          "stipulation": "Singles match for the inaugural WWE Universal Championship",
+          "time": "19:24"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Randy Orton by technical knockout",
+          "stipulation": "Singles match",
+          "time": "11:51"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-backlash-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2016-09-11T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Richmond Coliseum",
+      "city": "Richmond, Virginia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Baron Corbin defeated Apollo Crews by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "Becky Lynch defeated Alexa Bliss, Carmella, Naomi, Natalya, and Nikki Bella",
+          "stipulation": "Six-pack elimination challenge for the inaugural WWE SmackDown Women's Championship",
+          "time": "14:40"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) defeated The Hype Bros (Mojo Rawley and Zack Ryder) by submission",
+          "stipulation": "Second chance tag team challenge · The winning team qualified for the tag team tournament final match for the inaugural WWE SmackDown Tag Team Championship later that night.",
+          "time": "10:11"
+        },
+        {
+          "match": "The Miz (c) (with Maryse) defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "18:22"
+        },
+        {
+          "match": "Bray Wyatt defeated Randy Orton by forfeit",
+          "stipulation": "Singles match",
+          "time": "00:25"
+        },
+        {
+          "match": "Kane defeated Bray Wyatt by pinfall",
+          "stipulation": "No Holds Barred match",
+          "time": "10:55"
+        },
+        {
+          "match": "Heath Slater and Rhyno defeated The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Tag team tournament final match for the inaugural WWE SmackDown Tag Team Championship",
+          "time": "10:02"
+        },
+        {
+          "match": "AJ Styles defeated Dean Ambrose (c) by pinfall",
+          "stipulation": "Singles match for the WWE World Championship",
+          "time": "25:01"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-cruiserweight-classic-finale",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Cruiserweight Classic Finale",
+      "session": "ple",
+      "startsAt": "2016-09-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Full Sail University",
+      "city": "Winter Park, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Zack Sabre Jr. defeated Flash Morgan Webster",
+          "stipulation": "Cruiserweight Classic British Qualifying Match"
+        },
+        {
+          "match": "Jack Gallagher defeated Pete Dunne",
+          "stipulation": "Cruiserweight Classic British Qualifying Match"
+        },
+        {
+          "match": "Noam Dar defeated Josh Bodom",
+          "stipulation": "Cruiserweight Classic British Qualifying Match"
+        },
+        {
+          "match": "T. J. Perkins (with Stokely Hathaway) defeated Fred Yehi",
+          "stipulation": "Cruiserweight Classic US Qualifying Match"
+        },
+        {
+          "match": "Drew Gulak defeated Tracy Williams",
+          "stipulation": "Cruiserweight Classic US Qualifying Match"
+        },
+        {
+          "match": "Lince Dorado defeated Romeo Quevedo",
+          "stipulation": "Cruiserweight Classic US Qualifying Match"
+        },
+        {
+          "match": "Tony Nese defeated Drew Gulak, Johnny Gargano, Lince Dorado and T. J. Perkins (with Stokely Hathaway)",
+          "stipulation": "WWE Cruiserweight Classic Flashpoint Elimination Match · Since Nese won, he qualified for the Cruiserweight Classic"
+        },
+        {
+          "match": "The Bollywood Boyz (Gurv and Harv Sihra) defeated Ariya Daivari and Sean Maluta",
+          "stipulation": "Tag team match",
+          "time": "05:15",
+          "note": "dark"
+        },
+        {
+          "match": "Gran Metalik defeated Zack Sabre Jr.",
+          "stipulation": "Cruiserweight Classic tournament semi-final match",
+          "time": "13:13"
+        },
+        {
+          "match": "T. J. Perkins defeated Kota Ibushi by submission",
+          "stipulation": "Cruiserweight Classic tournament semi-final match",
+          "time": "14:52"
+        },
+        {
+          "match": "#DIY (Johnny Gargano and Tommaso Ciampa) defeated Cedric Alexander and Noam Dar",
+          "stipulation": "Tag team match",
+          "time": "09:49"
+        },
+        {
+          "match": "T. J. Perkins defeated Gran Metalik by submission",
+          "stipulation": "Cruiserweight Classic tournament final match for the inaugural WWE Cruiserweight Championship",
+          "time": "17:47"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-clash-of-champions-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Clash of Champions",
+      "session": "ple",
+      "startsAt": "2016-09-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Bankers Life Fieldhouse",
+      "city": "Indianapolis, Indiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Nia Jax defeated Alicia Fox by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (c) (with Xavier Woods) defeated Luke Gallows and Karl Anderson by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "6:45"
+        },
+        {
+          "match": "T. J. Perkins (c) defeated The Brian Kendrick by submission",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "10:31"
+        },
+        {
+          "match": "Cesaro vs. Sheamus ended in a no-contest",
+          "stipulation": "Singles match · Final match in the best of seven series · Series tied 3–3",
+          "time": "16:36"
+        },
+        {
+          "match": "Chris Jericho defeated Sami Zayn by pinfall",
+          "stipulation": "Singles match",
+          "time": "15:22"
+        },
+        {
+          "match": "Charlotte (c) (with Dana Brooke) defeated Sasha Banks and Bayley by pinfall",
+          "stipulation": "Triple threat match for the WWE Raw Women's Championship",
+          "time": "15:28"
+        },
+        {
+          "match": "Roman Reigns defeated Rusev (c) (with Lana) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "17:07"
+        },
+        {
+          "match": "Kevin Owens (c) defeated Seth Rollins by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "25:07"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-no-mercy-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "2016-10-09T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Golden 1 Center",
+      "city": "Sacramento, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Hype Bros (Mojo Rawley and Zack Ryder) and American Alpha (Chad Gable and Jason Jordan) defeated The Ascension (Konnor and Viktor) and The Vaudevillains (Aiden English and Simon Gotch) by pinfall",
+          "stipulation": "Eight-man tag team match",
+          "time": "9:10",
+          "note": "pre-show"
+        },
+        {
+          "match": "AJ Styles (c) defeated Dean Ambrose and John Cena by pinfall",
+          "stipulation": "Triple threat match for the WWE World Championship",
+          "time": "21:15"
+        },
+        {
+          "match": "Nikki Bella defeated Carmella by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:05"
+        },
+        {
+          "match": "Heath Slater and Rhyno (c) defeated The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "10:17"
+        },
+        {
+          "match": "Baron Corbin defeated Jack Swagger by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:30"
+        },
+        {
+          "match": "Dolph Ziggler defeated The Miz (c) (with Maryse) by pinfall",
+          "stipulation": "Title vs. Career match for the WWE Intercontinental Championship · Had Ziggler lost, he would have been forced to retire from in-ring competition.",
+          "time": "19:42"
+        },
+        {
+          "match": "Naomi defeated Alexa Bliss by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:25"
+        },
+        {
+          "match": "Bray Wyatt defeated Randy Orton by pinfall",
+          "stipulation": "Singles match",
+          "time": "15:40"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-hell-in-a-cell-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2016-10-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "TD Garden",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Cedric Alexander, Lince Dorado, and Sin Cara defeated Tony Nese, Drew Gulak, and Ariya Daivari by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "9:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "Roman Reigns (c) defeated Rusev (with Lana) by pinfall",
+          "stipulation": "Hell in a Cell match for the WWE United States Championship",
+          "time": "24:35"
+        },
+        {
+          "match": "Bayley defeated Dana Brooke by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:30"
+        },
+        {
+          "match": "Luke Gallows and Karl Anderson defeated Enzo Amore and Big Cass by pinfall",
+          "stipulation": "Tag team match",
+          "time": "6:45"
+        },
+        {
+          "match": "Kevin Owens (c) (with Chris Jericho) defeated Seth Rollins by pinfall",
+          "stipulation": "Hell in a Cell match for the WWE Universal Championship",
+          "time": "23:15"
+        },
+        {
+          "match": "The Brian Kendrick defeated T. J. Perkins (c) by submission",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "10:35"
+        },
+        {
+          "match": "Cesaro and Sheamus defeated The New Day (Big E and Xavier Woods) (c) (with Kofi Kingston) by disqualification",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "11:15"
+        },
+        {
+          "match": "Charlotte defeated Sasha Banks (c) by pinfall",
+          "stipulation": "Hell in a Cell match for the WWE Raw Women's Championship",
+          "time": "22:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-survivor-series-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2016-11-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Air Canada Centre",
+      "city": "Toronto, Ontario, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "T. J. Perkins, Rich Swann, and Noam Dar defeated Tony Nese, Drew Gulak, and Ariya Daivari by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "11:50",
+          "note": "pre-show"
+        },
+        {
+          "match": "Kane defeated Luke Harper by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:10",
+          "note": "pre-show"
+        },
+        {
+          "match": "Team Raw (Charlotte Flair, Bayley, Nia Jax, Alicia Fox, and Sasha Banks) (with Dana Brooke) defeated Team SmackDown (Becky Lynch, Alexa Bliss, Carmella, Naomi, and Natalya)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "17:30"
+        },
+        {
+          "match": "The Miz (c) (with Maryse) defeated Sami Zayn by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "14:05"
+        },
+        {
+          "match": "Team Raw (Cesaro and Sheamus, Enzo Amore and Big Cass, Luke Gallows and Karl Anderson, The New Day (Big E and Kofi Kingston), and The Shining Stars (Epico and Primo)) (with Xavier Woods) defeated Team SmackDown (American Alpha (Chad Gable and Jason Jordan), Breezango (Fandango and Tyler Breeze), Heath Slater and Rhyno, The Hype Bros (Mojo Rawley and Zack Ryder), and The Usos (Jey Uso and Jimmy Uso))",
+          "stipulation": "10-on-10 Survivor Series tag team match",
+          "time": "18:55"
+        },
+        {
+          "match": "The Brian Kendrick (c) defeated Kalisto by disqualification",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship · Had Kalisto won the title, the entire cruiserweight division would have transferred to SmackDown.",
+          "time": "12:25"
+        },
+        {
+          "match": "Team SmackDown (AJ Styles, Bray Wyatt, Dean Ambrose, Randy Orton, and Shane McMahon) (with James Ellsworth) defeated Team Raw (Braun Strowman, Chris Jericho, Kevin Owens, Roman Reigns, and Seth Rollins)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "52:55"
+        },
+        {
+          "match": "Goldberg defeated Brock Lesnar (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:26"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-tlc-tables-ladders-chairs-2016",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "TLC: Tables, Ladders & Chairs",
+      "session": "ple",
+      "startsAt": "2016-12-04T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "American Airlines Center",
+      "city": "Dallas, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Apollo Crews, American Alpha (Chad Gable and Jason Jordan), and The Hype Bros (Mojo Rawley and Zack Ryder) defeated Curt Hawkins, The Vaudevillains (Aiden English and Simon Gotch), and The Ascension (Konnor and Viktor) by pinfall",
+          "stipulation": "Ten-man tag team match",
+          "time": "11:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Wyatt Family (Bray Wyatt and Randy Orton) (with Luke Harper) defeated Heath Slater and Rhyno (c) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "5:55"
+        },
+        {
+          "match": "Nikki Bella defeated Carmella by pinfall",
+          "stipulation": "No Disqualification match",
+          "time": "8:00"
+        },
+        {
+          "match": "The Miz (c) (with Maryse) defeated Dolph Ziggler",
+          "stipulation": "Ladder match for the WWE Intercontinental Championship",
+          "time": "25:00"
+        },
+        {
+          "match": "Baron Corbin defeated Kalisto by pinfall",
+          "stipulation": "Chairs match",
+          "time": "13:00"
+        },
+        {
+          "match": "Alexa Bliss defeated Becky Lynch (c)",
+          "stipulation": "Tables match for the WWE SmackDown Women's Championship",
+          "time": "15:10"
+        },
+        {
+          "match": "AJ Styles (c) defeated Dean Ambrose",
+          "stipulation": "Tables, Ladders, and Chairs match for the WWE World Championship",
+          "time": "30:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2016-roadblock-end-of-the-line",
+      "competition": "wwe",
+      "season": "2016",
+      "title": "Roadblock: End of the Line",
+      "session": "ple",
+      "startsAt": "2016-12-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "PPG Paints Arena",
+      "city": "Pittsburgh, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rusev (with Lana) defeated Big Cass (with Enzo Amore) by countout",
+          "stipulation": "Singles match",
+          "time": "4:30",
+          "note": "pre-show"
+        },
+        {
+          "match": "Cesaro and Sheamus defeated The New Day (Big E and Kofi Kingston) (c) (with Xavier Woods) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "10:10"
+        },
+        {
+          "match": "Sami Zayn defeated Braun Strowman by surviving the time limit",
+          "stipulation": "Singles match with a 10-minute time limit",
+          "time": "10:00"
+        },
+        {
+          "match": "Seth Rollins defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match",
+          "time": "17:05"
+        },
+        {
+          "match": "Rich Swann (c) defeated The Brian Kendrick and T. J. Perkins by pinfall",
+          "stipulation": "Triple threat match for the WWE Cruiserweight Championship",
+          "time": "6:00"
+        },
+        {
+          "match": "Charlotte Flair defeated Sasha Banks (c) in sudden death overtime (3–2)",
+          "stipulation": "30-minute Iron Woman match for the WWE Raw Women's Championship",
+          "time": "34:45"
+        },
+        {
+          "match": "Kevin Owens (c) defeated Roman Reigns by disqualification",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "23:20"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

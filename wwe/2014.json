@@ -1,0 +1,689 @@
+{
+  "competition": "wwe",
+  "season": "2014",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2014-royal-rumble-2014",
+      "competition": "wwe",
+      "season": "2014",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2014-01-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Consol Energy Center",
+      "city": "Pittsburgh, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "New Age Outlaws (Billy Gunn and Road Dogg) defeated Cody Rhodes and Goldust (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "6:58",
+          "note": "pre-show"
+        },
+        {
+          "match": "Bray Wyatt (with Luke Harper and Erick Rowan) defeated Daniel Bryan by pinfall",
+          "stipulation": "Singles match",
+          "time": "21:35"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Big Show by pinfall",
+          "stipulation": "Singles match",
+          "time": "2:02"
+        },
+        {
+          "match": "Randy Orton (c) defeated John Cena by pinfall",
+          "stipulation": "Singles match for the WWE World Heavyweight Championship",
+          "time": "20:54"
+        },
+        {
+          "match": "Batista won by last eliminating Roman Reigns",
+          "stipulation": "30-man Royal Rumble match for a WWE World Heavyweight Championship match at WrestleMania XXX",
+          "time": "55:08"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2014-elimination-chamber-2014",
+      "competition": "wwe",
+      "season": "2014",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2014-02-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Target Center",
+      "city": "Minneapolis, Minnesota",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Cody Rhodes and Goldust defeated RybAxel (Ryback and Curtis Axel) (with Larry Hennig) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "10:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Big E (c) defeated Jack Swagger (with Zeb Colter) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "11:50"
+        },
+        {
+          "match": "The New Age Outlaws (Road Dogg and Billy Gunn) (c) defeated The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "8:34"
+        },
+        {
+          "match": "Titus O'Neil defeated Darren Young by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:17"
+        },
+        {
+          "match": "The Wyatt Family (Bray Wyatt, Luke Harper, and Erick Rowan) defeated The Shield (Dean Ambrose, Seth Rollins, and Roman Reigns) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "22:42"
+        },
+        {
+          "match": "Cameron defeated AJ Lee (c) (with Tamina Snuka) by disqualification",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "4:30"
+        },
+        {
+          "match": "Batista defeated Alberto Del Rio by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:11"
+        },
+        {
+          "match": "Randy Orton (c) defeated Daniel Bryan, John Cena, Cesaro (with Zeb Colter), Christian, and Sheamus",
+          "stipulation": "Elimination Chamber match for the WWE World Heavyweight Championship",
+          "time": "37:30"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2014-wrestlemania-xxx",
+      "competition": "wwe",
+      "season": "2014",
+      "title": "WrestleMania XXX",
+      "session": "ple",
+      "startsAt": "2014-04-06T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Mercedes-Benz Superdome",
+      "city": "New Orleans, Louisiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated Los Matadores (Diego and Fernando) (with El Torito), The Real Americans (Cesaro and Jack Swagger) (with Zeb Colter) and RybAxel (Curtis Axel and Ryback) by pinfall",
+          "stipulation": "Fatal four-way tag team elimination match for the WWE Tag Team Championship",
+          "time": "16:13",
+          "note": "pre-show"
+        },
+        {
+          "match": "Daniel Bryan defeated Triple H (with Stephanie McMahon) by pinfall",
+          "stipulation": "Singles match · The winner was added to the WWE World Heavyweight Championship match in the main event.",
+          "time": "25:58"
+        },
+        {
+          "match": "The Shield (Dean Ambrose, Roman Reigns, and Seth Rollins) defeated Kane and The New Age Outlaws (Billy Gunn and Road Dogg) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "2:56"
+        },
+        {
+          "match": "Cesaro won by last eliminating Big Show",
+          "stipulation": "31-man André the Giant Memorial Battle Royal for the André the Giant Memorial Trophy",
+          "time": "13:25"
+        },
+        {
+          "match": "John Cena defeated Bray Wyatt (with Erick Rowan and Luke Harper) by pinfall",
+          "stipulation": "Singles match",
+          "time": "22:25"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated The Undertaker by pinfall",
+          "stipulation": "Singles match",
+          "time": "25:12"
+        },
+        {
+          "match": "AJ Lee (c) defeated Aksana, Alicia Fox, Brie Bella, Cameron, Emma, Eva Marie, Layla, Naomi, Natalya, Nikki Bella, Rosa Mendes, Summer Rae, and Tamina Snuka by submission",
+          "stipulation": "Vickie Guerrero Invitational match for the WWE Divas Championship",
+          "time": "6:48"
+        },
+        {
+          "match": "Daniel Bryan defeated Batista and Randy Orton (c) by submission",
+          "stipulation": "Triple threat match for the WWE World Heavyweight Championship",
+          "time": "23:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2014-extreme-rules-2014",
+      "competition": "wwe",
+      "season": "2014",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2014-05-04T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Izod Center",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "El Torito (with Diego and Fernando) defeated Hornswoggle (with Drew McIntyre, Heath Slater, and Jinder Mahal)",
+          "stipulation": "WeeLC match",
+          "time": "11:01",
+          "note": "pre-show"
+        },
+        {
+          "match": "Cesaro (with Paul Heyman) defeated Rob Van Dam and Jack Swagger (with Zeb Colter) by pinfall",
+          "stipulation": "Triple threat elimination match",
+          "time": "12:34"
+        },
+        {
+          "match": "Alexander Rusev (with Lana) defeated R-Truth and Xavier Woods by submission",
+          "stipulation": "Handicap match",
+          "time": "2:53"
+        },
+        {
+          "match": "Bad News Barrett defeated Big E (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "7:55"
+        },
+        {
+          "match": "The Shield (Dean Ambrose, Seth Rollins, and Roman Reigns) defeated Evolution (Batista, Randy Orton, and Triple H) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "19:52"
+        },
+        {
+          "match": "Bray Wyatt (with Erick Rowan and Luke Harper) defeated John Cena by escaping the cage",
+          "stipulation": "Steel Cage match",
+          "time": "21:12"
+        },
+        {
+          "match": "Paige (c) defeated Tamina Snuka by submission",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "6:18"
+        },
+        {
+          "match": "Daniel Bryan (c) defeated Kane by pinfall",
+          "stipulation": "Extreme Rules match for the WWE World Heavyweight Championship",
+          "time": "22:27"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2014-payback-2014",
+      "competition": "wwe",
+      "season": "2014",
+      "title": "Payback",
+      "session": "ple",
+      "startsAt": "2014-06-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "El Torito (with Diego and Fernando) defeated Hornswoggle (with Drew McIntyre, Heath Slater, and Jinder Mahal) by pinfall",
+          "stipulation": "Mask vs. Hair match",
+          "time": "7:10",
+          "note": "pre-show"
+        },
+        {
+          "match": "Sheamus (c) defeated Cesaro (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "11:38"
+        },
+        {
+          "match": "RybAxel (Curtis Axel and Ryback) defeated Cody Rhodes and Goldust by pinfall",
+          "stipulation": "Tag team match",
+          "time": "7:49"
+        },
+        {
+          "match": "Rusev (with Lana) defeated Big E by submission",
+          "stipulation": "Singles match",
+          "time": "3:40"
+        },
+        {
+          "match": "Bo Dallas vs. Kofi Kingston ended in a no contest",
+          "stipulation": "Singles match",
+          "time": "0:32"
+        },
+        {
+          "match": "Bad News Barrett (c) defeated Rob Van Dam by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "9:32"
+        },
+        {
+          "match": "John Cena (with Jey Uso and Jimmy Uso) defeated Bray Wyatt (with Erick Rowan and Luke Harper)",
+          "stipulation": "Last Man Standing match",
+          "time": "24:24"
+        },
+        {
+          "match": "Paige (c) defeated Alicia Fox by submission",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "6:37"
+        },
+        {
+          "match": "The Shield (Dean Ambrose, Roman Reigns, and Seth Rollins) defeated Evolution (Batista, Randy Orton, and Triple H)",
+          "stipulation": "No Holds Barred Elimination match",
+          "time": "30:56"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2014-money-in-the-bank-2014",
+      "competition": "wwe",
+      "season": "2014",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2014-06-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "TD Garden",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated The Wyatt Family (Erick Rowan and Luke Harper) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "13:13"
+        },
+        {
+          "match": "Paige (c) defeated Naomi (with Cameron) by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "07:10"
+        },
+        {
+          "match": "Adam Rose defeated Damien Sandow by pinfall",
+          "stipulation": "Singles match",
+          "time": "04:13"
+        },
+        {
+          "match": "Seth Rollins defeated Dean Ambrose, Dolph Ziggler, Jack Swagger (with Zeb Colter), Kofi Kingston, and Rob Van Dam",
+          "stipulation": "Money in the Bank ladder match for a WWE World Heavyweight Championship match contract",
+          "time": "23:14"
+        },
+        {
+          "match": "Goldust and Stardust defeated RybAxel (Curtis Axel and Ryback) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "07:45"
+        },
+        {
+          "match": "Rusev (with Lana) defeated Big E by submission",
+          "stipulation": "Singles match",
+          "time": "07:17"
+        },
+        {
+          "match": "Layla defeated Summer Rae by pinfall",
+          "stipulation": "Singles match · Fandango served as the special guest referee.",
+          "time": "03:45"
+        },
+        {
+          "match": "John Cena defeated Alberto Del Rio, Bray Wyatt, Cesaro (with Paul Heyman), Kane, Randy Orton, Roman Reigns, and Sheamus",
+          "stipulation": "Ladder match for the vacant WWE World Heavyweight Championship",
+          "time": "26:30"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2014-battleground-2014",
+      "competition": "wwe",
+      "season": "2014",
+      "title": "Battleground",
+      "session": "ple",
+      "startsAt": "2014-07-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Tampa Bay Times Forum",
+      "city": "Tampa, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Adam Rose (with Layla and Summer Rae) defeated Fandango by pinfall",
+          "stipulation": "Singles match",
+          "time": "01:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Cameron defeated Naomi by pinfall",
+          "stipulation": "Singles match",
+          "time": "03:30",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated The Wyatt Family (Erick Rowan and Luke Harper) 2–1",
+          "stipulation": "Two out of three falls match for the WWE Tag Team Championship",
+          "time": "18:57"
+        },
+        {
+          "match": "AJ Lee (c) defeated Paige by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "07:13"
+        },
+        {
+          "match": "Rusev (with Lana) defeated Jack Swagger (with Zeb Colter) by countout",
+          "stipulation": "Singles match",
+          "time": "09:54"
+        },
+        {
+          "match": "Seth Rollins defeated Dean Ambrose by forfeit",
+          "stipulation": "Singles match"
+        },
+        {
+          "match": "Chris Jericho defeated Bray Wyatt by pinfall",
+          "stipulation": "Singles match",
+          "time": "15:03"
+        },
+        {
+          "match": "The Miz won by last eliminating Dolph Ziggler",
+          "stipulation": "Battle Royal for the vacant WWE Intercontinental Championship",
+          "time": "14:05"
+        },
+        {
+          "match": "John Cena (c) defeated Kane, Randy Orton, and Roman Reigns by pinfall",
+          "stipulation": "Fatal four-way match for the WWE World Heavyweight Championship",
+          "time": "18:16"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2014-summerslam-2014",
+      "competition": "wwe",
+      "season": "2014",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2014-08-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rob Van Dam defeated Cesaro by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:06",
+          "note": "pre-show"
+        },
+        {
+          "match": "Dolph Ziggler defeated The Miz (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "7:57"
+        },
+        {
+          "match": "Paige defeated AJ Lee (c) by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "4:55"
+        },
+        {
+          "match": "Rusev (with Lana) defeated Jack Swagger (with Zeb Colter) by technical submission",
+          "stipulation": "Flag match",
+          "time": "9:01"
+        },
+        {
+          "match": "Seth Rollins defeated Dean Ambrose by pinfall",
+          "stipulation": "Lumberjack match",
+          "time": "10:51"
+        },
+        {
+          "match": "Bray Wyatt defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:53"
+        },
+        {
+          "match": "Stephanie McMahon defeated Brie Bella by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:06"
+        },
+        {
+          "match": "Roman Reigns defeated Randy Orton by pinfall",
+          "stipulation": "Singles match",
+          "time": "16:30"
+        },
+        {
+          "match": "Brock Lesnar defeated John Cena (c) by pinfall",
+          "stipulation": "Singles match for the WWE World Heavyweight Championship",
+          "time": "15:53"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2014-night-of-champions-2014",
+      "competition": "wwe",
+      "season": "2014",
+      "title": "Night of Champions",
+      "session": "ple",
+      "startsAt": "2014-09-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Bridgestone Arena",
+      "city": "Nashville, Tennessee",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Goldust and Stardust defeated The Usos (Jimmy and Jey) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "12:47"
+        },
+        {
+          "match": "Sheamus (c) defeated Cesaro by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "13:06"
+        },
+        {
+          "match": "The Miz (with Damien Mizdow) defeated Dolph Ziggler (c) (with R-Truth) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "9:23"
+        },
+        {
+          "match": "Seth Rollins defeated Roman Reigns by forfeit",
+          "stipulation": "Singles match",
+          "time": "00:30"
+        },
+        {
+          "match": "Rusev (with Lana) defeated Mark Henry by submission",
+          "stipulation": "Singles match",
+          "time": "08:57"
+        },
+        {
+          "match": "Randy Orton defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match",
+          "time": "16:20"
+        },
+        {
+          "match": "AJ Lee defeated Paige (c) and Nikki Bella by submission",
+          "stipulation": "Triple threat match for the WWE Divas Championship",
+          "time": "08:45"
+        },
+        {
+          "match": "John Cena defeated Brock Lesnar (c) (with Paul Heyman) by disqualification",
+          "stipulation": "Singles match for the WWE World Heavyweight Championship",
+          "time": "14:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2014-hell-in-a-cell-2014",
+      "competition": "wwe",
+      "season": "2014",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2014-10-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "American Airlines Center",
+      "city": "Dallas, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Mark Henry defeated Bo Dallas by pinfall",
+          "stipulation": "Singles match",
+          "time": "0:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "Dolph Ziggler (c) defeated Cesaro by 2–0",
+          "stipulation": "Two out of three falls match for the WWE Intercontinental Championship",
+          "time": "12:18"
+        },
+        {
+          "match": "Nikki Bella defeated Brie Bella by pinfall",
+          "stipulation": "Singles match · The loser had to become the winner's personal assistant for one month, and if she had refused, she would have been fired.",
+          "time": "6:22"
+        },
+        {
+          "match": "Goldust and Stardust (c) defeated The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "10:21"
+        },
+        {
+          "match": "John Cena defeated Randy Orton by pinfall",
+          "stipulation": "Hell in a Cell match to determine the #1 contender for the WWE World Heavyweight Championship",
+          "time": "25:52"
+        },
+        {
+          "match": "Sheamus (c) defeated The Miz (with Damien Mizdow) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "8:20"
+        },
+        {
+          "match": "Rusev (with Lana) defeated Big Show by submission",
+          "stipulation": "Singles match",
+          "time": "7:55"
+        },
+        {
+          "match": "AJ Lee (c) defeated Paige (with Alicia Fox) by submission",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "6:50"
+        },
+        {
+          "match": "Seth Rollins (with Jamie Noble and Joey Mercury) defeated Dean Ambrose by pinfall",
+          "stipulation": "Hell in a Cell match",
+          "time": "14:03"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2014-survivor-series-2014",
+      "competition": "wwe",
+      "season": "2014",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2014-11-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Scottrade Center",
+      "city": "St. Louis, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Fandango (with Rosa Mendes) defeated Justin Gabriel by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:15",
+          "note": "pre-show"
+        },
+        {
+          "match": "Jack Swagger (with Zeb Colter) defeated Cesaro by submission",
+          "stipulation": "Singles match",
+          "time": "5:34",
+          "note": "pre-show"
+        },
+        {
+          "match": "Damien Mizdow and The Miz defeated Goldust and Stardust (c), Los Matadores (Diego and Fernando) (with El Torito), and The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE Tag Team Championship",
+          "time": "15:25"
+        },
+        {
+          "match": "Team Natalya (Natalya, Alicia Fox, Emma, and Naomi) (with Tyson Kidd) defeated Team Paige (Paige, Cameron, Layla, and Summer Rae)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "14:35"
+        },
+        {
+          "match": "Bray Wyatt defeated Dean Ambrose by disqualification",
+          "stipulation": "Singles match",
+          "time": "14:00"
+        },
+        {
+          "match": "Adam Rose and The Bunny defeated Slater-Gator (Heath Slater and Titus O'Neil) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "2:36"
+        },
+        {
+          "match": "Nikki Bella (with Brie Bella) defeated AJ Lee (c) by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "0:33"
+        },
+        {
+          "match": "Team Cena (John Cena, Dolph Ziggler, Erick Rowan, Big Show, and Ryback) defeated Team Authority (Seth Rollins, Kane, Luke Harper, Mark Henry, and Rusev) (with Jamie Noble, Joey Mercury, Lana, Stephanie McMahon, and Triple H)",
+          "stipulation": "5-on-5 Survivor Series match · 1=Since Team Authority lost, The Authority was removed from power (Triple H was fired as Chief Operating Officer, Kane was fired as Director of Operations, and Stephanie McMahon was fired as one of the principal owners of WWE). Had Team Cena lost, all of Team Cena except Cena himself would have been fired.",
+          "time": "43:05"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2014-tlc-tables-ladders-chairs-2014",
+      "competition": "wwe",
+      "season": "2014",
+      "title": "TLC: Tables, Ladders, Chairs... and Stairs",
+      "session": "ple",
+      "startsAt": "2014-12-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Quicken Loans Arena",
+      "city": "Cleveland, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (with Xavier Woods) defeated Goldust and Stardust by pinfall",
+          "stipulation": "Tag team match",
+          "time": "11:40",
+          "note": "pre-show"
+        },
+        {
+          "match": "Dolph Ziggler defeated Luke Harper (c)",
+          "stipulation": "Ladder match for the WWE Intercontinental Championship",
+          "time": "16:40"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) defeated The Miz and Damien Mizdow (c) by disqualification",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "7:17"
+        },
+        {
+          "match": "Big Show defeated Erick Rowan by pinfall",
+          "stipulation": "Steel Stairs match",
+          "time": "11:14"
+        },
+        {
+          "match": "John Cena defeated Seth Rollins (with Jamie Noble and Joey Mercury)",
+          "stipulation": "Tables match for Cena's #1 contendership for the WWE World Heavyweight Championship",
+          "time": "21:35"
+        },
+        {
+          "match": "Nikki Bella (c) (with Brie Bella) defeated AJ Lee by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "7:38"
+        },
+        {
+          "match": "Ryback defeated Kane by pinfall",
+          "stipulation": "Chairs match",
+          "time": "9:50"
+        },
+        {
+          "match": "Rusev (c) (with Lana) defeated Jack Swagger by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "4:50"
+        },
+        {
+          "match": "Bray Wyatt defeated Dean Ambrose by pinfall",
+          "stipulation": "Tables, Ladders, and Chairs match",
+          "time": "26:58"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

@@ -1,0 +1,997 @@
+{
+  "competition": "wwe",
+  "season": "2018",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2018-royal-rumble-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2018-01-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Wells Fargo Center",
+      "city": "|Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kalisto, Gran Metalik, and Lince Dorado defeated TJP, Gentleman Jack Gallagher, and Drew Gulak by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "13:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Revival (Dash Wilder and Scott Dawson) defeated Luke Gallows and Karl Anderson by pinfall",
+          "stipulation": "Tag team match",
+          "time": "9:15",
+          "note": "pre-show"
+        },
+        {
+          "match": "Bobby Roode (c) defeated Mojo Rawley by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "7:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "AJ Styles (c) defeated Kevin Owens and Sami Zayn by pinfall",
+          "stipulation": "Handicap match for the WWE Championship",
+          "time": "15:55"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated Chad Gable and Shelton Benjamin by 2–0",
+          "stipulation": "Two out of three falls match for the WWE SmackDown Tag Team Championship",
+          "time": "13:55"
+        },
+        {
+          "match": "Shinsuke Nakamura won by last eliminating Roman Reigns",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 34"
+        },
+        {
+          "match": "Cesaro and Sheamus defeated Seth Rollins and Jason Jordan (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "12:50"
+        },
+        {
+          "match": "Brock Lesnar (c) (with Paul Heyman) defeated Kane and Braun Strowman by pinfall",
+          "stipulation": "Triple threat match for the WWE Universal Championship",
+          "time": "10:55"
+        },
+        {
+          "match": "Asuka won by last eliminating Nikki Bella",
+          "stipulation": "30-woman Royal Rumble match for a world championship match at WrestleMania 34",
+          "time": "58:57"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-elimination-chamber-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2018-02-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "T-Mobile Arena",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Luke Gallows and Karl Anderson defeated The Miztourage (Bo Dallas and Curtis Axel) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "8:50",
+          "note": "pre-show"
+        },
+        {
+          "match": "Alexa Bliss (c) defeated Sasha Banks, Bayley, Mickie James, Sonya Deville, and Mandy Rose",
+          "stipulation": "Elimination Chamber match for the WWE Raw Women's Championship",
+          "time": "29:35"
+        },
+        {
+          "match": "Cesaro and Sheamus (c) defeated Titus Worldwide (Apollo and Titus O'Neil) (with Dana Brooke) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "10:05"
+        },
+        {
+          "match": "Asuka defeated Nia Jax by pinfall",
+          "stipulation": "Singles match · Had Jax won, she would have been added to Asuka's championship match at WrestleMania 34, regardless of which title Asuka chose.",
+          "time": "8:15"
+        },
+        {
+          "match": "Matt Hardy defeated Bray Wyatt by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:55"
+        },
+        {
+          "match": "Roman Reigns defeated Braun Strowman, Seth Rollins, Finn Bálor, John Cena, Elias, and The Miz",
+          "stipulation": "Elimination Chamber match for a WWE Universal Championship match at WrestleMania 34",
+          "time": "40:15"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-fastlane-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "Fastlane",
+      "session": "ple",
+      "startsAt": "2018-03-11T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nationwide Arena",
+      "city": "Columbus, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Breezango (Fandango and Tyler Breeze) and Tye Dillinger defeated Mojo Rawley, Chad Gable, and Shelton Benjamin by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "7:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Shinsuke Nakamura defeated Rusev (with Aiden English) by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:50"
+        },
+        {
+          "match": "Randy Orton defeated Bobby Roode (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "19:15"
+        },
+        {
+          "match": "Natalya and Carmella defeated Becky Lynch and Naomi by pinfall",
+          "stipulation": "Tag team match",
+          "time": "8:55"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) vs. The New Day (Kofi Kingston and Xavier Woods) (with Big E) ended in a no contest",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "9:00"
+        },
+        {
+          "match": "Charlotte Flair (c) defeated Ruby Riott by submission",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "13:45"
+        },
+        {
+          "match": "AJ Styles (c) defeated Baron Corbin, Dolph Ziggler, John Cena, Kevin Owens, and Sami Zayn by pinfall",
+          "stipulation": "Six-Pack Challenge for the WWE Championship",
+          "time": "21:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-wrestlemania-34",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "WrestleMania 34",
+      "session": "ple",
+      "startsAt": "2018-04-08T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Mercedes-Benz Superdome",
+      "city": "New Orleans, Louisiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Matt Hardy won by last eliminating Baron Corbin",
+          "stipulation": "30-man André the Giant Memorial Battle Royal for the André the Giant Memorial Trophy",
+          "time": "15:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "Cedric Alexander defeated Mustafa Ali by pinfall",
+          "stipulation": "Tournament final for the vacant WWE Cruiserweight Championship",
+          "time": "12:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Naomi won by last eliminating Bayley",
+          "stipulation": "20-woman WrestleMania Women's Battle Royal for the WrestleMania Women's Battle Royal Trophy",
+          "time": "9:50",
+          "note": "pre-show"
+        },
+        {
+          "match": "Seth Rollins defeated The Miz (c) and Finn Bálor by pinfall",
+          "stipulation": "Triple threat match for the WWE Intercontinental Championship",
+          "time": "15:30"
+        },
+        {
+          "match": "Charlotte Flair (c) defeated Asuka by submission",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "13:05"
+        },
+        {
+          "match": "Jinder Mahal (with Sunil Singh) defeated Randy Orton (c), Bobby Roode, and Rusev (with Aiden English) by pinfall",
+          "stipulation": "Fatal four-way match for the WWE United States Championship",
+          "time": "8:15"
+        },
+        {
+          "match": "Kurt Angle and Ronda Rousey defeated Triple H and Stephanie McMahon by submission",
+          "stipulation": "Mixed tag team match",
+          "time": "20:40"
+        },
+        {
+          "match": "The Bludgeon Brothers (Harper and Rowan) defeated The Usos (Jey Uso and Jimmy Uso) (c) and The New Day (Big E and Kofi Kingston) (with Xavier Woods) by pinfall",
+          "stipulation": "Triple threat tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "5:50"
+        },
+        {
+          "match": "The Undertaker defeated John Cena by pinfall",
+          "stipulation": "Singles match",
+          "time": "2:45"
+        },
+        {
+          "match": "Daniel Bryan and Shane McMahon defeated Kevin Owens and Sami Zayn by submission",
+          "stipulation": "Tag team match · Had Owens and Zayn won, they would have been rehired to SmackDown.",
+          "time": "15:25"
+        },
+        {
+          "match": "Nia Jax defeated Alexa Bliss (c) (with Mickie James) by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "10:15"
+        },
+        {
+          "match": "AJ Styles (c) defeated Shinsuke Nakamura by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "20:20"
+        },
+        {
+          "match": "Braun Strowman and Nicholas defeated Cesaro and Sheamus (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "4:00"
+        },
+        {
+          "match": "Brock Lesnar (c) (with Paul Heyman) defeated Roman Reigns by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "15:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-wwe-greatest-royal-rumble",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "Greatest Royal Rumble",
+      "session": "ple",
+      "startsAt": "2018-04-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "King Abdullah International Stadium",
+      "city": "Jeddah, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "John Cena defeated Triple H by pinfall",
+          "stipulation": "Singles match",
+          "time": "15:45"
+        },
+        {
+          "match": "Cedric Alexander (c) defeated Kalisto by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "10:15"
+        },
+        {
+          "match": "Bray Wyatt and Matt Hardy defeated Cesaro and Sheamus by pinfall",
+          "stipulation": "Tag team match for the vacant WWE Raw Tag Team Championship",
+          "time": "8:50"
+        },
+        {
+          "match": "Jeff Hardy (c) defeated Jinder Mahal by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "6:10"
+        },
+        {
+          "match": "The Bludgeon Brothers (Harper and Rowan) (c) defeated The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "5:05"
+        },
+        {
+          "match": "Seth Rollins (c) defeated The Miz, Finn Bálor, and Samoa Joe by retrieving the championship",
+          "stipulation": "Ladder match for the WWE Intercontinental Championship",
+          "time": "15:05"
+        },
+        {
+          "match": "AJ Styles (c) vs. Shinsuke Nakamura ended in a double countout",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "14:25"
+        },
+        {
+          "match": "The Undertaker defeated Rusev (with Aiden English)",
+          "stipulation": "Casket match",
+          "time": "9:40"
+        },
+        {
+          "match": "Brock Lesnar (c) (with Paul Heyman) defeated Roman Reigns by escaping the cage",
+          "stipulation": "Steel Cage match for the WWE Universal Championship",
+          "time": "9:15"
+        },
+        {
+          "match": "Braun Strowman won by last eliminating Big Cass",
+          "stipulation": "50-man Royal Rumble match for the WWE Greatest Royal Rumble Trophy and Championship"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-backlash-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2018-05-06T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Prudential Center",
+      "city": "Newark, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Ruby Riott (with Liv Morgan and Sarah Logan) defeated Bayley by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:10",
+          "note": "pre-show"
+        },
+        {
+          "match": "Seth Rollins (c) defeated The Miz by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "20:30"
+        },
+        {
+          "match": "Nia Jax (c) defeated Alexa Bliss by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "10:20"
+        },
+        {
+          "match": "Jeff Hardy (c) defeated Randy Orton by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "12:00"
+        },
+        {
+          "match": "Daniel Bryan defeated Big Cass by submission",
+          "stipulation": "Singles match",
+          "time": "7:45"
+        },
+        {
+          "match": "Carmella (c) defeated Charlotte Flair by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "9:00"
+        },
+        {
+          "match": "AJ Styles (c) vs. Shinsuke Nakamura ended in a draw",
+          "stipulation": "No Disqualification match for the WWE Championship",
+          "time": "21:05"
+        },
+        {
+          "match": "Bobby Lashley and Braun Strowman defeated Kevin Owens and Sami Zayn by pinfall",
+          "stipulation": "Tag team match",
+          "time": "8:40"
+        },
+        {
+          "match": "Roman Reigns defeated Samoa Joe by pinfall",
+          "stipulation": "Singles match",
+          "time": "18:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-money-in-the-bank-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2018-06-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Bludgeon Brothers (Harper and Rowan) (c) defeated Luke Gallows and Karl Anderson by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "7:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "Daniel Bryan defeated Big Cass by submission",
+          "stipulation": "Singles match",
+          "time": "16:20"
+        },
+        {
+          "match": "Bobby Lashley defeated Sami Zayn by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:35"
+        },
+        {
+          "match": "Seth Rollins (c) defeated Elias by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "17:00"
+        },
+        {
+          "match": "Alexa Bliss defeated Becky Lynch, Charlotte Flair, Ember Moon, Lana, Naomi, Natalya, and Sasha Banks",
+          "stipulation": "Money in the Bank ladder match for a women's championship match contract · Due to Bliss being a Raw wrestler, she earned a contract for a Raw Women's Championship match. Had a SmackDown wrestler won, they would have earned a SmackDown Women's Championship match contract.",
+          "time": "18:30"
+        },
+        {
+          "match": "Roman Reigns defeated Jinder Mahal (with Sunil Singh) by pinfall",
+          "stipulation": "Singles match",
+          "time": "15:45"
+        },
+        {
+          "match": "Carmella (c) defeated Asuka by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "11:10"
+        },
+        {
+          "match": "AJ Styles (c) defeated Shinsuke Nakamura",
+          "stipulation": "Last Man Standing match for the WWE Championship",
+          "time": "31:15"
+        },
+        {
+          "match": "Ronda Rousey defeated Nia Jax (c) by disqualification",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "11:05"
+        },
+        {
+          "match": "Alexa Bliss defeated Nia Jax (c) by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship · This was Bliss's Money in the Bank cash-in match.",
+          "time": "0:35"
+        },
+        {
+          "match": "Braun Strowman defeated Bobby Roode, Finn Bálor, Kevin Owens, Kofi Kingston, Rusev, Samoa Joe, and The Miz",
+          "stipulation": "Money in the Bank ladder match for a world championship match contract · Due to Strowman being a Raw wrestler, he earned a contract for a WWE Universal Championship match. Had a SmackDown wrestler won, they would have earned a WWE Championship match contract.",
+          "time": "19:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-extreme-rules-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2018-07-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "PPG Paints Arena",
+      "city": "Pittsburgh, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Andrade \"Cien\" Almas (with Zelina Vega) defeated Sin Cara by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "Sanity (Eric Young, Alexander Wolfe, and Killian Dain) defeated The New Day (Big E, Kofi Kingston, and Xavier Woods)",
+          "stipulation": "Tables match",
+          "time": "8:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "The B-Team (Bo Dallas and Curtis Axel) defeated Bray Wyatt and Matt Hardy (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "8:00"
+        },
+        {
+          "match": "Finn Bálor defeated Baron Corbin by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:20"
+        },
+        {
+          "match": "Carmella (c) defeated Asuka by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship · James Ellsworth was suspended above the ring in a shark cage.",
+          "time": "5:25"
+        },
+        {
+          "match": "Shinsuke Nakamura defeated Jeff Hardy (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "0:06"
+        },
+        {
+          "match": "Kevin Owens defeated Braun Strowman by escaping the cage",
+          "stipulation": "Steel Cage match",
+          "time": "8:05"
+        },
+        {
+          "match": "The Bludgeon Brothers (Harper and Rowan) (c) defeated Team Hell No (Daniel Bryan and Kane) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "8:20"
+        },
+        {
+          "match": "Bobby Lashley defeated Roman Reigns by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:50"
+        },
+        {
+          "match": "Alexa Bliss (c) (with Mickie James) defeated Nia Jax (with Natalya) by pinfall",
+          "stipulation": "Extreme Rules match for the WWE Raw Women's Championship",
+          "time": "7:30"
+        },
+        {
+          "match": "AJ Styles (c) defeated Rusev (with Aiden English) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "15:35"
+        },
+        {
+          "match": "Dolph Ziggler (c) (with Drew McIntyre) defeated Seth Rollins by 5–4 in sudden death overtime",
+          "stipulation": "30-minute Iron Man match for the WWE Intercontinental Championship",
+          "time": "30:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-summerslam-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2018-08-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Barclays Center",
+      "city": "Brooklyn, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Andrade \"Cien\" Almas and Zelina Vega defeated Lana and Rusev by pinfall",
+          "stipulation": "Mixed tag team match",
+          "time": "7:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "Cedric Alexander (c) defeated Drew Gulak by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "10:15",
+          "note": "pre-show"
+        },
+        {
+          "match": "The B-Team (Bo Dallas and Curtis Axel) (c) defeated The Revival (Dash Wilder and Scott Dawson) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "6:15",
+          "note": "pre-show"
+        },
+        {
+          "match": "Seth Rollins (with Dean Ambrose) defeated Dolph Ziggler (c) (with Drew McIntyre) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "22:00"
+        },
+        {
+          "match": "The New Day (Big E and Xavier Woods) (with Kofi Kingston) defeated The Bludgeon Brothers (Harper and Rowan) (c) by disqualification",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "9:45"
+        },
+        {
+          "match": "Braun Strowman defeated Kevin Owens by pinfall",
+          "stipulation": "Singles match for Strowman's Money in the Bank contract",
+          "time": "1:50"
+        },
+        {
+          "match": "Charlotte Flair defeated Carmella (c) and Becky Lynch by pinfall",
+          "stipulation": "Triple threat match for the WWE SmackDown Women's Championship",
+          "time": "15:15"
+        },
+        {
+          "match": "Samoa Joe defeated AJ Styles (c) by disqualification",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "22:45"
+        },
+        {
+          "match": "The Miz defeated Daniel Bryan by pinfall",
+          "stipulation": "Singles match",
+          "time": "23:30"
+        },
+        {
+          "match": "\"The Demon\" Finn Bálor defeated Baron Corbin by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:35"
+        },
+        {
+          "match": "Shinsuke Nakamura (c) defeated Jeff Hardy by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "11:00"
+        },
+        {
+          "match": "Ronda Rousey defeated Alexa Bliss (c) by submission",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "4:00"
+        },
+        {
+          "match": "Roman Reigns defeated Brock Lesnar (c) (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "6:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-hell-in-a-cell-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2018-09-16T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "AT&T Center",
+      "city": "San Antonio, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (c) (with Xavier Woods) defeated Rusev Day (Aiden English and Rusev) (with Lana) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "8:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "Randy Orton defeated Jeff Hardy by pinfall",
+          "stipulation": "Hell in a Cell match",
+          "time": "24:50"
+        },
+        {
+          "match": "Becky Lynch defeated Charlotte Flair (c) by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "13:50"
+        },
+        {
+          "match": "Dolph Ziggler and Drew McIntyre (c) defeated Dean Ambrose and Seth Rollins by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "24:52"
+        },
+        {
+          "match": "AJ Styles (c) defeated Samoa Joe by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "19:00"
+        },
+        {
+          "match": "The Miz and Maryse defeated Daniel Bryan and Brie Bella by pinfall",
+          "stipulation": "Mixed tag team match",
+          "time": "13:00"
+        },
+        {
+          "match": "Ronda Rousey (c) (with Natalya) defeated Alexa Bliss (with Alicia Fox and Mickie James) by submission",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "12:02"
+        },
+        {
+          "match": "Roman Reigns (c) vs. Braun Strowman ended in a no contest",
+          "stipulation": "Hell in a Cell match for the WWE Universal Championship with Mick Foley as special guest referee · This was Strowman's Money in the Bank cash-in match.",
+          "time": "24:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-super-show-down-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "Super Show-Down",
+      "session": "ple",
+      "startsAt": "2018-10-06T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Melbourne Cricket Ground",
+      "city": "Melbourne, Victoria, Australia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The New Day (Kofi Kingston and Xavier Woods) (c) (with Big E) defeated The Bar (Cesaro and Sheamus) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "9:40"
+        },
+        {
+          "match": "Charlotte Flair defeated Becky Lynch (c) by disqualification",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "10:50"
+        },
+        {
+          "match": "John Cena and Bobby Lashley defeated Elias and Kevin Owens by pinfall",
+          "stipulation": "Tag team match",
+          "time": "10:05"
+        },
+        {
+          "match": "The IIconics (Billie Kay and Peyton Royce) defeated Asuka and Naomi by pinfall",
+          "stipulation": "Tag team match",
+          "time": "5:45"
+        },
+        {
+          "match": "AJ Styles (c) defeated Samoa Joe by submission",
+          "stipulation": "No Countout, No Disqualification match for the WWE Championship",
+          "time": "23:45"
+        },
+        {
+          "match": "Ronda Rousey and The Bella Twins (Brie Bella and Nikki Bella) defeated The Riott Squad (Ruby Riott, Liv Morgan, and Sarah Logan) by submission",
+          "stipulation": "Six-woman tag team match",
+          "time": "10:05"
+        },
+        {
+          "match": "Buddy Murphy defeated Cedric Alexander (c) by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "10:35"
+        },
+        {
+          "match": "The Shield (Dean Ambrose, Roman Reigns, and Seth Rollins) defeated Braun Strowman, Dolph Ziggler, and Drew McIntyre by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "19:40"
+        },
+        {
+          "match": "Daniel Bryan defeated The Miz by pinfall",
+          "stipulation": "Singles match to determine the number one contender for the WWE Championship",
+          "time": "2:25"
+        },
+        {
+          "match": "Triple H (with Shawn Michaels) defeated The Undertaker (with Kane) by pinfall",
+          "stipulation": "No Disqualification match",
+          "time": "27:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-wwe-evolution-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "Evolution",
+      "session": "ple",
+      "startsAt": "2018-10-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nassau Veterans Memorial Coliseum",
+      "city": "Uniondale, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rhea Ripley (c) defeated Dakota Kai by pinfall",
+          "stipulation": "Singles match for the NXT UK Women's Championship",
+          "time": "4:21",
+          "note": "dark"
+        },
+        {
+          "match": "Trish Stratus and Lita defeated Mickie James and Alicia Fox (with Alexa Bliss) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "11:05"
+        },
+        {
+          "match": "Nia Jax won by last eliminating Ember Moon",
+          "stipulation": "20-woman Battle Royal for a women's championship match",
+          "time": "16:10"
+        },
+        {
+          "match": "Toni Storm defeated Io Shirai by pinfall",
+          "stipulation": "2018 Mae Young Classic tournament final match",
+          "time": "10:20"
+        },
+        {
+          "match": "Sasha Banks, Bayley, and Natalya defeated The Riott Squad (Ruby Riott, Liv Morgan, and Sarah Logan) by pinfall",
+          "stipulation": "Six-woman tag team match",
+          "time": "13:10"
+        },
+        {
+          "match": "Shayna Baszler defeated Kairi Sane (c) by technical submission",
+          "stipulation": "Singles match for the NXT Women's Championship",
+          "time": "12:10"
+        },
+        {
+          "match": "Becky Lynch (c) defeated Charlotte Flair",
+          "stipulation": "Last Woman Standing match for the WWE Smackdown Women's Championship",
+          "time": "28:40"
+        },
+        {
+          "match": "Ronda Rousey (c) defeated Nikki Bella (with Brie Bella) by submission",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "14:15"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-crown-jewel-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "Crown Jewel",
+      "session": "ple",
+      "startsAt": "2018-11-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "King Saud University Stadium",
+      "city": "Riyadh, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Shinsuke Nakamura (c) defeated Rusev by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:30",
+          "note": "pre-show"
+        },
+        {
+          "match": "Rey Mysterio defeated Randy Orton by pinfall",
+          "stipulation": "WWE World Cup quarter-final match",
+          "time": "5:30"
+        },
+        {
+          "match": "The Miz defeated Jeff Hardy by pinfall",
+          "stipulation": "WWE World Cup quarter-final match",
+          "time": "7:05"
+        },
+        {
+          "match": "Seth Rollins defeated Bobby Lashley (with Lio Rush) by pinfall",
+          "stipulation": "WWE World Cup quarter-final match",
+          "time": "5:30"
+        },
+        {
+          "match": "Dolph Ziggler (with Drew McIntyre) defeated Kurt Angle by pinfall",
+          "stipulation": "WWE World Cup quarter-final match",
+          "time": "8:10"
+        },
+        {
+          "match": "The Bar (Cesaro and Sheamus) (c) (with Big Show) defeated The New Day (Big E and Kofi Kingston) (with Xavier Woods) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "10:30"
+        },
+        {
+          "match": "The Miz defeated Rey Mysterio by pinfall",
+          "stipulation": "WWE World Cup semifinal match",
+          "time": "11:15"
+        },
+        {
+          "match": "Dolph Ziggler (with Drew McIntyre) defeated Seth Rollins by pinfall",
+          "stipulation": "WWE World Cup semifinal match",
+          "time": "13:05"
+        },
+        {
+          "match": "AJ Styles (c) defeated Samoa Joe by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "11:15"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Braun Strowman by pinfall",
+          "stipulation": "Singles match for the vacant WWE Universal Championship",
+          "time": "3:15"
+        },
+        {
+          "match": "Shane McMahon defeated Dolph Ziggler by pinfall",
+          "stipulation": "WWE World Cup final match",
+          "time": "2:30"
+        },
+        {
+          "match": "D-Generation X (Triple H and Shawn Michaels) defeated The Brothers of Destruction (The Undertaker and Kane) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "27:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-survivor-series-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2018-11-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Team SmackDown (The Usos (Jey Uso and Jimmy Uso), The New Day (Big E and Xavier Woods), Sanity (Eric Young and Killian Dain), Gallows and Anderson, and The Colóns (Epico Colón and Primo Colón)) (with Kofi Kingston and Alexander Wolfe) defeated Team Raw (Bobby Roode and Chad Gable, The Revival (Dash Wilder and Scott Dawson), The B-Team (Bo Dallas and Curtis Axel), Lucha House Party (Lince Dorado and Kalisto/Gran Metalik), and The Ascension (Konnor and Viktor))",
+          "stipulation": "10-on-10 Survivor Series tag team match",
+          "time": "22:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Team Raw (Mickie James, Nia Jax, Tamina, Bayley, and Sasha Banks) (with Alexa Bliss) defeated Team SmackDown (Naomi, Carmella, Sonya Deville, Asuka, and Mandy Rose)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "18:50"
+        },
+        {
+          "match": "Seth Rollins (Raw's Intercontinental Champion) defeated Shinsuke Nakamura (SmackDown's United States Champion) by pinfall",
+          "stipulation": "Champion vs. Champion match",
+          "time": "21:50"
+        },
+        {
+          "match": "AOP (Akam and Rezar) (Raw Tag Team Champions) (with Drake Maverick) defeated The Bar (Cesaro and Sheamus) (SmackDown Tag Team Champions) (with Big Show) by pinfall",
+          "stipulation": "Champions vs. Champions match",
+          "time": "9:00"
+        },
+        {
+          "match": "Buddy Murphy (c) defeated Mustafa Ali by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "12:20"
+        },
+        {
+          "match": "Team Raw (Dolph Ziggler, Drew McIntyre, Braun Strowman, Finn Bálor, and Bobby Lashley) (with Baron Corbin and Lio Rush) defeated Team SmackDown (The Miz, Shane McMahon, Rey Mysterio, Samoa Joe, and Jeff Hardy)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "24:00"
+        },
+        {
+          "match": "Ronda Rousey (Raw) defeated Charlotte Flair (SmackDown) by disqualification",
+          "stipulation": "Singles match",
+          "time": "14:40"
+        },
+        {
+          "match": "Brock Lesnar (Raw's Universal Champion) (with Paul Heyman) defeated Daniel Bryan (SmackDown's WWE Champion) by pinfall",
+          "stipulation": "Champion vs. Champion match",
+          "time": "18:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2018-tlc-tables-ladders-chairs-2018",
+      "competition": "wwe",
+      "season": "2018",
+      "title": "TLC: Tables, Ladders & Chairs",
+      "session": "ple",
+      "startsAt": "2018-12-16T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "SAP Center",
+      "city": "San Jose, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Buddy Murphy (c) defeated Cedric Alexander by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "10:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "Elias defeated Bobby Lashley (with Lio Rush) by retrieving the guitar",
+          "stipulation": "Ladder match · A guitar was suspended above the ring and the first to retrieve it was declared the winner.",
+          "time": "6:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Fabulous Truth (Carmella and R-Truth) defeated Mahalicia (Alicia Fox and Jinder Mahal) (with The Singh Brothers) by submission",
+          "stipulation": "Mixed Match Challenge final · Each member of the winning team became the 30th entrant of their respective Royal Rumble matches at the Royal Rumble.",
+          "time": "5:50"
+        },
+        {
+          "match": "The Bar (Cesaro and Sheamus) (c) defeated The New Day (Kofi Kingston and Xavier Woods) (with Big E) and The Usos (Jimmy Uso and Jey Uso) by pinfall",
+          "stipulation": "Triple threat tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "12:15"
+        },
+        {
+          "match": "Braun Strowman (with Apollo Crews, Bobby Roode, Chad Gable, Kurt Angle, and Finn Bálor) defeated Baron Corbin by pinfall",
+          "stipulation": "Tables, Ladders, and Chairs match · Since Strowman won, he earned a Universal Championship match at the Royal Rumble and Corbin was stripped of all authoritative power. · Had Corbin won, he would have become the full-time general manager of Raw.",
+          "time": "16:00"
+        },
+        {
+          "match": "Natalya defeated Ruby Riott (with Liv Morgan and Sarah Logan)",
+          "stipulation": "Tables match",
+          "time": "12:40"
+        },
+        {
+          "match": "Finn Bálor defeated Drew McIntyre by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:20"
+        },
+        {
+          "match": "Rey Mysterio defeated Randy Orton by pinfall",
+          "stipulation": "Chairs match",
+          "time": "11:30"
+        },
+        {
+          "match": "Ronda Rousey (c) defeated Nia Jax (with Tamina) by submission",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "10:50"
+        },
+        {
+          "match": "Daniel Bryan (c) defeated AJ Styles by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "23:55"
+        },
+        {
+          "match": "Dean Ambrose defeated Seth Rollins (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "23:00"
+        },
+        {
+          "match": "Asuka defeated Becky Lynch (c) and Charlotte Flair",
+          "stipulation": "Triple threat Tables, Ladders, and Chairs match for the WWE SmackDown Women's Championship",
+          "time": "21:45"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

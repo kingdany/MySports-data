@@ -1,0 +1,845 @@
+{
+  "competition": "wwe",
+  "season": "2004",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2004-royal-rumble-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2004-01-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Wachovia Center",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Victoria (with Steven Richards) defeated Molly Holly by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:58",
+          "note": "pre-show"
+        },
+        {
+          "match": "Evolution (Batista and Ric Flair) (c) defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley)",
+          "stipulation": "Tables match for the World Tag Team Championship",
+          "time": "4:22"
+        },
+        {
+          "match": "Rey Mysterio (c) defeated Jamie Noble (with Nidia) by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "3:12"
+        },
+        {
+          "match": "Eddie Guerrero defeated Chavo Guerrero (with Chavo Guerrero Sr.) by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:04"
+        },
+        {
+          "match": "Brock Lesnar (c) defeated Hardcore Holly by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "6:30"
+        },
+        {
+          "match": "Triple H (c) vs. Shawn Michaels ended in a draw",
+          "stipulation": "Last Man Standing match for the World Heavyweight Championship",
+          "time": "22:47"
+        },
+        {
+          "match": "Chris Benoit won by last eliminating Big Show",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania XX"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-no-way-out-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "No Way Out",
+      "session": "ple",
+      "startsAt": "2004-02-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Cow Palace",
+      "city": "Daly City, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Akio, Sakoda and Tajiri defeated Billy Kidman, Paul London and Último Dragón",
+          "stipulation": "Six-man tag team match",
+          "time": "5:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "Too Cool (Rikishi and Scotty 2 Hotty) (c) defeated Basham Brothers (Danny Basham and Doug Basham) and Shaniqua",
+          "stipulation": "Handicap match for the WWE Tag Team Championship",
+          "time": "8:16"
+        },
+        {
+          "match": "Jamie Noble defeated Nidia by submission",
+          "stipulation": "Singles match with Jamie Noble blindfolded",
+          "time": "4:25"
+        },
+        {
+          "match": "World's Greatest Tag Team (Shelton Benjamin and Charlie Haas) defeated The APA (Bradshaw and Faarooq)",
+          "stipulation": "Tag team match",
+          "time": "7:20"
+        },
+        {
+          "match": "Hardcore Holly defeated Rhyno",
+          "stipulation": "Singles match",
+          "time": "9:55"
+        },
+        {
+          "match": "Chavo Guerrero (with Chavo Classic) defeated Rey Mysterio (c) (with Jorge Páez)",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "17:21"
+        },
+        {
+          "match": "Kurt Angle defeated John Cena and Big Show by submission",
+          "stipulation": "Triple threat match to determine the #1 contender to the WWE Championship at WrestleMania XX",
+          "time": "12:19"
+        },
+        {
+          "match": "Eddie Guerrero defeated Brock Lesnar (c)",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "30:07"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-wrestlemania-xx",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "WrestleMania XX",
+      "session": "ple",
+      "startsAt": "2004-03-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Madison Square Garden",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "John Cena defeated Big Show (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:12"
+        },
+        {
+          "match": "Rob Van Dam and Booker T (c) defeated Garrison Cade and Mark Jindrak, Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) and La Résistance (René Duprée and Rob Conway) by pinfall",
+          "stipulation": "Fatal four-way tag team match for the World Tag Team Championship",
+          "time": "7:52"
+        },
+        {
+          "match": "Christian defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:43"
+        },
+        {
+          "match": "Evolution (Randy Orton, Batista and Ric Flair) defeated Rock 'n' Sock Connection (The Rock and Mick Foley) by pinfall",
+          "stipulation": "3-on-2 Handicap match",
+          "time": "17:01"
+        },
+        {
+          "match": "Torrie Wilson and Sable defeated Miss Jackie and Stacy Keibler",
+          "stipulation": "Playboy Evening Gown Women's Tag Team match",
+          "time": "2:33"
+        },
+        {
+          "match": "Chavo Guerrero (c) (with Chavo Guerrero Sr.) defeated Akio, Billy Kidman, Funaki, Jamie Noble, Nunzio, Rey Mysterio, Shannon Moore, Tajiri and Último Dragón",
+          "stipulation": "Cruiserweight Open for the WWE Cruiserweight Championship",
+          "time": "10:30"
+        },
+        {
+          "match": "Goldberg defeated Brock Lesnar by pinfall",
+          "stipulation": "Singles match with \"Stone Cold\" Steve Austin as special guest referee",
+          "time": "13:43"
+        },
+        {
+          "match": "Too Cool (Rikishi and Scotty 2 Hotty) (c) defeated World's Greatest Tag Team (Shelton Benjamin and Charlie Haas), Basham Brothers (Doug Basham and Danny Basham) and The APA (Faarooq and Bradshaw) by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE Tag Team Championship",
+          "time": "6:02"
+        },
+        {
+          "match": "Victoria (c) defeated Molly Holly by pinfall",
+          "stipulation": "Hair vs. Title match for the WWE Women's Championship",
+          "time": "4:52"
+        },
+        {
+          "match": "Eddie Guerrero (c) defeated Kurt Angle by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "21:34"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Kane by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:46"
+        },
+        {
+          "match": "Chris Benoit defeated Triple H (c) and Shawn Michaels by submission",
+          "stipulation": "Triple threat match for the World Heavyweight Championship",
+          "time": "24:47"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-backlash-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2004-04-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Rexall Place",
+      "city": "Edmonton, Alberta, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Val Venis defeated Matt Hardy",
+          "stipulation": "Singles match",
+          "time": "7:58",
+          "note": "pre-show"
+        },
+        {
+          "match": "Shelton Benjamin defeated Ric Flair",
+          "stipulation": "Singles match",
+          "time": "9:29"
+        },
+        {
+          "match": "Jonathan Coachman defeated Tajiri",
+          "stipulation": "Singles match",
+          "time": "6:25"
+        },
+        {
+          "match": "Chris Jericho defeated Christian and Trish Stratus",
+          "stipulation": "Handicap match",
+          "time": "11:32"
+        },
+        {
+          "match": "Victoria (c) defeated Lita",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "7:22"
+        },
+        {
+          "match": "Randy Orton (c) defeated Mick Foley",
+          "stipulation": "Hardcore match for the WWE Intercontinental Championship Evolution were banned from ringside",
+          "time": "23:04"
+        },
+        {
+          "match": "Rosey and The Hurricane defeated La Résistance (Robért Conway and Sylvain Grenier)",
+          "stipulation": "Tag team match",
+          "time": "5:02"
+        },
+        {
+          "match": "Edge defeated Kane",
+          "stipulation": "Singles match",
+          "time": "6:25"
+        },
+        {
+          "match": "Chris Benoit (c) defeated Shawn Michaels and Triple H by submission",
+          "stipulation": "Triple threat match for the World Heavyweight Championship",
+          "time": "30:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-wwe-judgment-day-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "Judgment Day",
+      "session": "ple",
+      "startsAt": "2004-05-16T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Mark Jindrak (with Theodore Long) defeated Funaki",
+          "stipulation": "Singles match",
+          "time": "3:44",
+          "note": "pre-show"
+        },
+        {
+          "match": "Rey Mysterio and Rob Van Dam defeated The Dudley Boyz (Bubba Ray and D-Von)",
+          "stipulation": "Tag team match",
+          "time": "15:17"
+        },
+        {
+          "match": "Torrie Wilson defeated Dawn Marie",
+          "stipulation": "Singles match",
+          "time": "6:15"
+        },
+        {
+          "match": "Mordecai defeated Scotty 2 Hotty",
+          "stipulation": "Singles match",
+          "time": "3:02"
+        },
+        {
+          "match": "Charlie Haas and Rico (c) (with Miss Jackie) defeated Billy Gunn and Hardcore Holly",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "10:26"
+        },
+        {
+          "match": "Chavo Guerrero (with Chavo Classic) defeated Jacqueline (c)",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "4:49"
+        },
+        {
+          "match": "John Cena (c) defeated René Duprée",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:54"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Booker T",
+          "stipulation": "Singles match",
+          "time": "11:28"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield defeated Eddie Guerrero (c) by disqualification",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "23:16"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-wwe-bad-blood-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "Bad Blood",
+      "session": "ple",
+      "startsAt": "2004-06-13T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nationwide Arena",
+      "city": "Columbus, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Batista defeated Maven by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:44",
+          "note": "pre-show"
+        },
+        {
+          "match": "Chris Benoit and Edge defeated La Résistance (Sylvain Grenier and Robért Conway) (c) by disqualification",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "10:13"
+        },
+        {
+          "match": "Chris Jericho defeated Tyson Tomko (with Trish Stratus) by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:04"
+        },
+        {
+          "match": "Randy Orton (c) defeated Shelton Benjamin by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "15:03"
+        },
+        {
+          "match": "Trish Stratus (with Tyson Tomko) defeated Victoria (c), Lita and Gail Kim by pinfall",
+          "stipulation": "Fatal four-way match for the WWE Women's Championship",
+          "time": "4:43"
+        },
+        {
+          "match": "Eugene defeated Jonathan Coachman by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:38"
+        },
+        {
+          "match": "Chris Benoit (c) defeated Kane by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "18:14"
+        },
+        {
+          "match": "Triple H defeated Shawn Michaels by pinfall",
+          "stipulation": "Hell in a Cell match",
+          "time": "47:24"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-the-great-american-bash-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "The Great American Bash",
+      "session": "ple",
+      "startsAt": "2004-06-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Norfolk Scope",
+      "city": "Norfolk, Virginia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Spike Dudley defeated Jamie Noble",
+          "stipulation": "Singles match",
+          "time": "4:13",
+          "note": "pre-show"
+        },
+        {
+          "match": "John Cena (c) defeated Booker T, René Duprée and Rob Van Dam",
+          "stipulation": "Fatal 4-Way Elimination match for the WWE United States Championship",
+          "time": "15:51"
+        },
+        {
+          "match": "Luther Reigns (with Kurt Angle) defeated Charlie Haas (with Jackie Gayda)",
+          "stipulation": "Singles match",
+          "time": "7:11"
+        },
+        {
+          "match": "Rey Mysterio (c) defeated Chavo Guerrero",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "19:40"
+        },
+        {
+          "match": "Kenzo Suzuki (with Hiroko) defeated Billy Gunn",
+          "stipulation": "Singles match",
+          "time": "8:06"
+        },
+        {
+          "match": "Sable defeated Torrie Wilson",
+          "stipulation": "Singles match",
+          "time": "6:06"
+        },
+        {
+          "match": "Mordecai defeated Hardcore Holly",
+          "stipulation": "Singles match",
+          "time": "6:31"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield defeated Eddie Guerrero (c)",
+          "stipulation": "Texas Bullrope match for the WWE Championship",
+          "time": "21:06"
+        },
+        {
+          "match": "The Undertaker defeated The Dudley Boyz (Bubba Ray and D-Von) (with Paul Heyman)",
+          "stipulation": "Handicap Concrete Crypt match",
+          "time": "14:43"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-vengeance-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "Vengeance",
+      "session": "ple",
+      "startsAt": "2004-07-11T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Hartford Civic Center",
+      "city": "Hartford, Connecticut",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Tyson Tomko (with Trish Stratus) defeated Val Venis (with Nidia)",
+          "stipulation": "Singles match",
+          "time": "2:52",
+          "note": "pre-show"
+        },
+        {
+          "match": "Tajiri and Rhyno defeated Garrison Cade and Jonathan Coachman",
+          "stipulation": "Tag team match",
+          "time": "7:30"
+        },
+        {
+          "match": "Batista defeated Chris Jericho",
+          "stipulation": "Singles match",
+          "time": "12:11"
+        },
+        {
+          "match": "La Résistance (Sylvain Grenier and Robért Conway) (c) defeated Ric Flair and Eugene by disqualification",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "12:30"
+        },
+        {
+          "match": "Matt Hardy defeated Kane",
+          "stipulation": "No Disqualification match",
+          "time": "10:34"
+        },
+        {
+          "match": "Edge defeated Randy Orton (c)",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "26:36"
+        },
+        {
+          "match": "Victoria defeated Molly Holly",
+          "stipulation": "Singles match to determine the #1 contender for the WWE Women's Championship",
+          "time": "6:22"
+        },
+        {
+          "match": "Chris Benoit (c) defeated Triple H",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "29:06"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-summerslam-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2004-08-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Air Canada Centre",
+      "city": "Toronto, Ontario, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rob Van Dam defeated René Duprée by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:07",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray, D-Von, and Spike) defeated Rey Mysterio, Billy Kidman, and Paul London by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "8:06"
+        },
+        {
+          "match": "Kane defeated Matt Hardy by pinfall",
+          "stipulation": "\"Till Death Do Us Part\" match · Since Kane won, Lita had to marry Kane.",
+          "time": "6:08"
+        },
+        {
+          "match": "John Cena defeated Booker T (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship · First in the best of five series",
+          "time": "6:25"
+        },
+        {
+          "match": "Edge (c) defeated Batista and Chris Jericho by pinfall",
+          "stipulation": "Triple threat match for the WWE Intercontinental Championship",
+          "time": "8:24"
+        },
+        {
+          "match": "Kurt Angle (with Luther Reigns) defeated Eddie Guerrero by submission",
+          "stipulation": "Singles match",
+          "time": "13:38"
+        },
+        {
+          "match": "Triple H defeated Eugene by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:06"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield (c) (with Orlando Jordan) defeated The Undertaker by disqualification",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "17:37"
+        },
+        {
+          "match": "Randy Orton defeated Chris Benoit (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "20:08"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-unforgiven-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "Unforgiven",
+      "session": "ple",
+      "startsAt": "2004-09-12T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Rose Garden Arena",
+      "city": "Portland, Oregon",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Maven defeated Rodney Mack (with Jazz)",
+          "stipulation": "Singles match",
+          "time": "4:42",
+          "note": "pre-show"
+        },
+        {
+          "match": "Chris Benoit and William Regal defeated Evolution (Ric Flair and Batista)",
+          "stipulation": "Tag team match",
+          "time": "15:07"
+        },
+        {
+          "match": "Trish Stratus (c) (with Tyson Tomko) defeated Victoria",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "8:21"
+        },
+        {
+          "match": "Tyson Tomko defeated Steven Richards",
+          "stipulation": "Singles match",
+          "time": "6:24"
+        },
+        {
+          "match": "Chris Jericho defeated Christian",
+          "stipulation": "Ladder match for the vacant WWE Intercontinental Championship",
+          "time": "22:29"
+        },
+        {
+          "match": "Shawn Michaels defeated Kane (with Lita)",
+          "stipulation": "No Disqualification match",
+          "time": "18:02"
+        },
+        {
+          "match": "La Résistance (Sylvain Grenier and Robért Conway) (c) defeated Tajiri and Rhyno",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "9:40"
+        },
+        {
+          "match": "Triple H defeated Randy Orton (c)",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "24:47"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-no-mercy-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "2004-10-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Continental Airlines Arena",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Mark Jindrak defeated Scotty 2 Hotty by pinfall",
+          "stipulation": "Singles match",
+          "time": "2:46",
+          "note": "pre-show"
+        },
+        {
+          "match": "Eddie Guerrero defeated Luther Reigns (with Mark Jindrak) by pinfall",
+          "stipulation": "Singles match",
+          "time": "13:22"
+        },
+        {
+          "match": "Spike Dudley (c) (with The Dudley Boyz) defeated Nunzio (with Johnny Stamboli) by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "8:48"
+        },
+        {
+          "match": "Billy Kidman defeated Paul London by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:37"
+        },
+        {
+          "match": "René Duprée and Kenzo Suzuki (c) (with Hiroko Suzuki) defeated Rob Van Dam and Rey Mysterio by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "9:13"
+        },
+        {
+          "match": "Big Show defeated Kurt Angle by pinfall",
+          "stipulation": "Singles match · Luther Reigns & Mark Jindrak were banned from ringside. Had anyone interfered in the match, they would be fired",
+          "time": "13:07"
+        },
+        {
+          "match": "John Cena defeated Booker T (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship · Final match in the best of five series",
+          "time": "10:22"
+        },
+        {
+          "match": "Miss Jackie, Charlie Haas, and Rico defeated Dawn Marie and The Dudley Boyz (Bubba Ray and D-Von) by pinfall",
+          "stipulation": "Mixed tag team match",
+          "time": "8:48"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield (c) defeated The Undertaker",
+          "stipulation": "Last Ride match for the WWE Championship",
+          "time": "21:06"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-taboo-tuesday-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "Taboo Tuesday",
+      "session": "ple",
+      "startsAt": "2004-10-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Bradley Center",
+      "city": "Milwaukee, Wisconsin",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Sgt. Slaughter defeated Muhammad Hassan (with Daivari) by disqualification",
+          "stipulation": "Singles match",
+          "time": "2:20",
+          "note": "dark"
+        },
+        {
+          "match": "Shelton Benjamin defeated Chris Jericho (c)",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "10:57"
+        },
+        {
+          "match": "Trish Stratus (c) won by last eliminating Molly Holly",
+          "stipulation": "Fulfill Your Fantasy Battle Royal for the WWE Women's Championship",
+          "time": "5:37"
+        },
+        {
+          "match": "Gene Snitsky defeated Kane (with Lita)",
+          "stipulation": "Weapon of Choice match",
+          "time": "14:17"
+        },
+        {
+          "match": "Eugene defeated Eric Bischoff",
+          "stipulation": "\"Choose the Loser's Fate\" match",
+          "time": "2:11"
+        },
+        {
+          "match": "Edge and Chris Benoit defeated La Résistance (Sylvain Grenier and Robért Conway) (c)",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "16:15"
+        },
+        {
+          "match": "Christy Hemme defeated Carmella",
+          "stipulation": "Lingerie Pillow Fight",
+          "time": "1:48"
+        },
+        {
+          "match": "Triple H (c) defeated Shawn Michaels",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "14:05"
+        },
+        {
+          "match": "Randy Orton defeated Ric Flair",
+          "stipulation": "Steel Cage match",
+          "time": "10:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-survivor-series-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2004-11-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Gund Arena",
+      "city": "Cleveland, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "La Résistance (Sylvain Grenier and Robért Conway) defeated The Hurricane and Rosey",
+          "stipulation": "Tag team match",
+          "time": "4:59",
+          "note": "pre-show"
+        },
+        {
+          "match": "Spike Dudley (c) defeated Billy Kidman, Chavo Guerrero and Rey Mysterio",
+          "stipulation": "Fatal 4-Way match for the WWE Cruiserweight Championship",
+          "time": "9:04"
+        },
+        {
+          "match": "Shelton Benjamin (c) defeated Christian (with Tyson Tomko)",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "13:24"
+        },
+        {
+          "match": "Team Guerrero (Eddie Guerrero, Big Show, John Cena and Rob Van Dam) defeated Team Angle (Kurt Angle, Carlito Caribbean Cool, Luther Reigns and Mark Jindrak) (with Jesús)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "12:26"
+        },
+        {
+          "match": "The Undertaker defeated Heidenreich (with Paul Heyman)",
+          "stipulation": "Singles match",
+          "time": "15:55"
+        },
+        {
+          "match": "Trish Stratus (c) defeated Lita by disqualification",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "1:21"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield (c) (with Orlando Jordan) defeated Booker T",
+          "stipulation": "Singles match for the WWE Championship. · Had JBL lost, he would have left wrestling forever.",
+          "time": "14:43"
+        },
+        {
+          "match": "Team Orton (Randy Orton, Chris Benoit, Chris Jericho and Maven) defeated Team Triple H (Triple H, Batista, Edge and Gene Snitsky) (with Ric Flair)",
+          "stipulation": "4-on-4 Survivor Series match · Whichever team won would each be in charge of Raw for the next four weeks.",
+          "time": "24:32"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2004-armageddon-2004",
+      "competition": "wwe",
+      "season": "2004",
+      "title": "Armageddon",
+      "session": "ple",
+      "startsAt": "2004-12-12T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Gwinnett Arena",
+      "city": "Duluth, Georgia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Akio and Billy Kidman defeated Chavo Guerrero and Paul London by pinfall",
+          "stipulation": "Tag team match",
+          "time": "5:44",
+          "note": "pre-show"
+        },
+        {
+          "match": "Rob Van Dam and Rey Mysterio (c) (with Torrie Wilson) defeated René Duprée and Kenzo Suzuki (with Hiroko) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "17:12"
+        },
+        {
+          "match": "Kurt Angle defeated Santa Claus by submission",
+          "stipulation": "Singles match",
+          "time": "0:25"
+        },
+        {
+          "match": "Daniel Puder defeated Mike Mizanin",
+          "stipulation": "Dixie Dog Fight",
+          "time": "3:00"
+        },
+        {
+          "match": "The Basham Brothers (Doug and Danny) defeated Hardcore Holly and Charlie Haas by pinfall",
+          "stipulation": "Tag team match",
+          "time": "6:50"
+        },
+        {
+          "match": "John Cena (c) defeated Jesús (with Carlito Caribbean Cool) by pinfall",
+          "stipulation": "Street Fight for the WWE United States Championship",
+          "time": "7:54"
+        },
+        {
+          "match": "Dawn Marie defeated Miss Jackie by pinfall",
+          "stipulation": "Singles match with Charlie Haas as special guest referee",
+          "time": "1:44"
+        },
+        {
+          "match": "Big Show defeated Kurt Angle, Mark Jindrak and Luther Reigns by pinfall",
+          "stipulation": "Handicap match",
+          "time": "9:57"
+        },
+        {
+          "match": "Funaki defeated Spike Dudley (c) by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "9:30"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield (c) defeated Eddie Guerrero, Booker T and The Undertaker by pinfall",
+          "stipulation": "Fatal 4-Way match for the WWE Championship",
+          "time": "25:37"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

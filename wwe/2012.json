@@ -1,0 +1,699 @@
+{
+  "competition": "wwe",
+  "season": "2012",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2012-royal-rumble-2012",
+      "competition": "wwe",
+      "season": "2012",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2012-01-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Scottrade Center",
+      "city": "St. Louis, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Yoshi Tatsu defeated Heath Slater by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:00",
+          "note": "dark"
+        },
+        {
+          "match": "Daniel Bryan (c) defeated Big Show and Mark Henry by escaping the cage",
+          "stipulation": "Triple Threat Steel Cage match for the World Heavyweight Championship",
+          "time": "9:08"
+        },
+        {
+          "match": "Beth Phoenix, Natalya, and The Bella Twins (Brie and Nikki) defeated Kelly Kelly, Eve Torres, Alicia Fox, and Tamina Snuka by pinfall",
+          "stipulation": "Eight-Diva tag team match",
+          "time": "5:29"
+        },
+        {
+          "match": "Kane vs. John Cena ended in a double countout",
+          "stipulation": "Singles match",
+          "time": "10:56"
+        },
+        {
+          "match": "Brodus Clay (with Cameron and Naomi) defeated Drew McIntyre by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:05"
+        },
+        {
+          "match": "CM Punk (c) defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match for the WWE Championship with John Laurinaitis as special guest enforcer Jack Swagger & Vickie Guerrero were banned from ringside",
+          "time": "14:32"
+        },
+        {
+          "match": "Sheamus won by last eliminating Chris Jericho",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania XXVIII",
+          "time": "54:54"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2012-elimination-chamber-2012",
+      "competition": "wwe",
+      "season": "2012",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2012-02-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Bradley Center",
+      "city": "Milwaukee, Wisconsin",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Hunico (with Camacho) defeated Alex Riley by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "CM Punk (c) defeated The Miz, Chris Jericho, Kofi Kingston, Dolph Ziggler (with Vickie Guerrero), and R-Truth",
+          "stipulation": "Elimination Chamber match for the WWE Championship",
+          "time": "32:39"
+        },
+        {
+          "match": "Beth Phoenix (c) defeated Tamina Snuka by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "7:19"
+        },
+        {
+          "match": "Daniel Bryan (c) defeated Santino Marella, Wade Barrett, Cody Rhodes, Big Show, and The Great Khali",
+          "stipulation": "Elimination Chamber match for the World Heavyweight Championship",
+          "time": "34:04"
+        },
+        {
+          "match": "Jack Swagger (c) (with Vickie Guerrero) defeated Justin Gabriel (with Hornswoggle) by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "3:05"
+        },
+        {
+          "match": "John Cena defeated Kane",
+          "stipulation": "Ambulance match",
+          "time": "21:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2012-wrestlemania-xxviii",
+      "competition": "wwe",
+      "season": "2012",
+      "title": "WrestleMania XXVIII",
+      "session": "ple",
+      "startsAt": "2012-04-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Sun Life Stadium",
+      "city": "Miami Gardens, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Primo and Epico (c) (with Rosa Mendes) defeated Justin Gabriel and Tyson Kidd and The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Triple threat match for the WWE Tag Team Championship",
+          "time": "5:02",
+          "note": "pre-show"
+        },
+        {
+          "match": "Sheamus defeated Daniel Bryan (c) (with AJ) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "0:18"
+        },
+        {
+          "match": "Kane defeated Randy Orton by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:58"
+        },
+        {
+          "match": "Big Show defeated Cody Rhodes (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "5:19"
+        },
+        {
+          "match": "Kelly Kelly and Maria Menounos defeated Beth Phoenix and Eve Torres by pinfall",
+          "stipulation": "Tag team match",
+          "time": "6:22"
+        },
+        {
+          "match": "The Undertaker defeated Triple H by pinfall",
+          "stipulation": "Hell in a Cell match · Shawn Michaels was the special guest referee.",
+          "time": "30:53"
+        },
+        {
+          "match": "Team Johnny (David Otunga, Dolph Ziggler, Drew McIntyre, Jack Swagger, Mark Henry and The Miz) (with John Laurinaitis, Brie Bella and Vickie Guerrero) defeated Team Teddy (Booker T, Kofi Kingston, The Great Khali, R-Truth, Santino Marella and Zack Ryder) (with Teddy Long, Aksana, Eve Torres, Hornswoggle, and Nikki Bella) by pinfall",
+          "stipulation": "Twelve-man tag team match to determine the general manager of both Raw and SmackDown",
+          "time": "10:32"
+        },
+        {
+          "match": "CM Punk (c) defeated Chris Jericho by submission",
+          "stipulation": "Singles match for the WWE Championship · Had Punk been disqualified, he would have lost the championship.",
+          "time": "22:23"
+        },
+        {
+          "match": "The Rock defeated John Cena by pinfall",
+          "stipulation": "Singles match",
+          "time": "30:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2012-extreme-rules-2012",
+      "competition": "wwe",
+      "season": "2012",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2012-04-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Santino Marella (c) defeated The Miz by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "5:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "Randy Orton defeated Kane by pinfall",
+          "stipulation": "Falls Count Anywhere match",
+          "time": "16:45"
+        },
+        {
+          "match": "Brodus Clay (with Cameron, Hornswoggle, and Naomi) defeated Dolph Ziggler (with Jack Swagger and Vickie Guerrero) by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:17"
+        },
+        {
+          "match": "Cody Rhodes defeated Big Show (c)",
+          "stipulation": "Tables match for the WWE Intercontinental Championship",
+          "time": "4:37"
+        },
+        {
+          "match": "Sheamus (c) defeated Daniel Bryan 2–1",
+          "stipulation": "Two out of three falls match for the World Heavyweight Championship",
+          "time": "22:55"
+        },
+        {
+          "match": "Ryback defeated Aaron Relic and Jay Hatton by pinfall",
+          "stipulation": "Handicap match",
+          "time": "1:51"
+        },
+        {
+          "match": "CM Punk (c) defeated Chris Jericho by pinfall",
+          "stipulation": "Chicago Street Fight for the WWE Championship",
+          "time": "25:15"
+        },
+        {
+          "match": "Layla defeated Nikki Bella (c) (with Brie Bella) by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "2:45"
+        },
+        {
+          "match": "John Cena defeated Brock Lesnar by pinfall",
+          "stipulation": "Extreme Rules match",
+          "time": "17:43"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2012-over-the-limit-2012",
+      "competition": "wwe",
+      "season": "2012",
+      "title": "Over the Limit",
+      "session": "ple",
+      "startsAt": "2012-05-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "PNC Arena",
+      "city": "Raleigh, North Carolina",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kane defeated Zack Ryder by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "Christian won by last eliminating The Miz",
+          "stipulation": "20-man Battle Royal · The winner got a choice of a United States or Intercontinental Championship match.",
+          "time": "12:24"
+        },
+        {
+          "match": "Kofi Kingston and R-Truth (c) defeated Dolph Ziggler and Jack Swagger (with Vickie Guerrero) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "12:17"
+        },
+        {
+          "match": "Layla (c) defeated Beth Phoenix by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "7:50"
+        },
+        {
+          "match": "Sheamus (c) defeated Alberto Del Rio (with Ricardo Rodriguez), Chris Jericho, and Randy Orton by pinfall",
+          "stipulation": "Fatal four-way match for the World Heavyweight Championship",
+          "time": "15:54"
+        },
+        {
+          "match": "Brodus Clay (with Cameron and Naomi) defeated The Miz by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:12"
+        },
+        {
+          "match": "Christian defeated Cody Rhodes (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "7:25"
+        },
+        {
+          "match": "CM Punk (c) defeated Daniel Bryan by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "24:14"
+        },
+        {
+          "match": "Ryback defeated Camacho (with Hunico) by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:50"
+        },
+        {
+          "match": "John Laurinaitis defeated John Cena by pinfall",
+          "stipulation": "No Disqualification match · Had Cena won, Laurinaitis would have been fired, and anyone who interfered would have been fired.",
+          "time": "17:02"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2012-no-way-out-2012",
+      "competition": "wwe",
+      "season": "2012",
+      "title": "No Way Out",
+      "session": "ple",
+      "startsAt": "2012-06-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Izod Center",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Brodus Clay (with Cameron and Naomi) defeated David Otunga by countout",
+          "stipulation": "Singles match",
+          "time": "05:43",
+          "note": "pre-show"
+        },
+        {
+          "match": "Sheamus (c) defeated Dolph Ziggler (with Vickie Guerrero) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "15:10"
+        },
+        {
+          "match": "Santino Marella defeated Ricardo Rodriguez",
+          "stipulation": "Tuxedo match",
+          "time": "04:25"
+        },
+        {
+          "match": "Christian (c) defeated Cody Rhodes by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "11:30"
+        },
+        {
+          "match": "The Prime Time Players (Darren Young and Titus O'Neil) (with A.W.) defeated Justin Gabriel and Tyson Kidd, Primo and Epico (with Rosa Mendes) and The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Fatal-four way tag team match to determine #1 contenders to the WWE Tag Team Championship",
+          "time": "09:30"
+        },
+        {
+          "match": "Layla (c) defeated Beth Phoenix by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "06:57"
+        },
+        {
+          "match": "Sin Cara defeated Hunico (with Camacho) by pinfall",
+          "stipulation": "Singles match",
+          "time": "05:48"
+        },
+        {
+          "match": "CM Punk (c) defeated Daniel Bryan and Kane by pinfall",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "18:17"
+        },
+        {
+          "match": "Ryback defeated Dan Delaney and Rob Grymes by pinfall",
+          "stipulation": "Handicap match",
+          "time": "01:38"
+        },
+        {
+          "match": "John Cena (with Mr. McMahon) defeated Big Show (with John Laurinaitis) by escaping the cage",
+          "stipulation": "Steel Cage match · Since Cena won, Laurinaitis was fired. Had Big Show won, Cena would have been fired.",
+          "time": "19:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2012-money-in-the-bank-2012",
+      "competition": "wwe",
+      "season": "2012",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2012-07-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "US Airways Center",
+      "city": "Phoenix, Arizona",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "R-Truth and Kofi Kingston defeated Camacho and Hunico by pinfall",
+          "stipulation": "Tag team match",
+          "time": "08:24",
+          "note": "pre-show"
+        },
+        {
+          "match": "Dolph Ziggler (with Vickie Guerrero) defeated Christian, Cody Rhodes, Damien Sandow, Santino Marella, Sin Cara, Tensai (with Sakamoto), and Tyson Kidd",
+          "stipulation": "Money in the Bank ladder match for a World Heavyweight Championship match contract",
+          "time": "18:29"
+        },
+        {
+          "match": "Sheamus (c) defeated Alberto Del Rio (with Ricardo Rodriguez) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "14:24"
+        },
+        {
+          "match": "Primo and Epico (with Rosa Mendes) defeated The Prime Time Players (Darren Young and Titus O'Neil) (with A.W.) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "07:31"
+        },
+        {
+          "match": "CM Punk (c) defeated Daniel Bryan by pinfall",
+          "stipulation": "No Disqualification match for the WWE Championship · AJ Lee served as the special guest referee.",
+          "time": "27:48"
+        },
+        {
+          "match": "Ryback defeated Curt Hawkins and Tyler Reks by pinfall",
+          "stipulation": "Handicap match",
+          "time": "04:22"
+        },
+        {
+          "match": "Kaitlyn, Layla, and Tamina Snuka defeated Beth Phoenix, Eve Torres, and Natalya by pinfall",
+          "stipulation": "Six-Diva tag team match",
+          "time": "03:23"
+        },
+        {
+          "match": "John Cena defeated Big Show, Chris Jericho, Kane, and The Miz",
+          "stipulation": "Money in the Bank ladder match for a WWE Championship match contract",
+          "time": "20:03"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2012-summerslam-2012",
+      "competition": "wwe",
+      "season": "2012",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2012-08-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Antonio Cesaro (with Aksana) defeated Santino Marella (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "5:08",
+          "note": "pre-show"
+        },
+        {
+          "match": "Chris Jericho defeated Dolph Ziggler (with Vickie Guerrero) by submission",
+          "stipulation": "Singles match",
+          "time": "13:07"
+        },
+        {
+          "match": "Daniel Bryan defeated Kane by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:02"
+        },
+        {
+          "match": "The Miz (c) defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "9:09"
+        },
+        {
+          "match": "Sheamus (c) defeated Alberto Del Rio (with Ricardo Rodriguez) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "11:22"
+        },
+        {
+          "match": "Kofi Kingston and R-Truth (c) defeated The Prime Time Players (Darren Young and Titus O'Neil) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "7:06"
+        },
+        {
+          "match": "CM Punk (c) defeated Big Show and John Cena by pinfall",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "12:34"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Triple H by submission",
+          "stipulation": "No Disqualification match",
+          "time": "18:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2012-night-of-champions-2012",
+      "competition": "wwe",
+      "season": "2012",
+      "title": "Night of Champions",
+      "session": "ple",
+      "startsAt": "2012-09-16T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "TD Garden",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Zack Ryder won by last eliminating Tensai",
+          "stipulation": "16-man battle royal to determine the #1 contender to the WWE United States Championship",
+          "time": "5:43",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Miz (c) defeated Cody Rhodes, Rey Mysterio, and Sin Cara by pinfall",
+          "stipulation": "Fatal four-way match for the WWE Intercontinental Championship",
+          "time": "12:05"
+        },
+        {
+          "match": "Kane and Daniel Bryan defeated Kofi Kingston and R-Truth (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "8:30"
+        },
+        {
+          "match": "Antonio Cesaro (c) (with Aksana) defeated Zack Ryder by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "6:40"
+        },
+        {
+          "match": "Randy Orton defeated Dolph Ziggler (with Vickie Guerrero) by pinfall",
+          "stipulation": "Singles match",
+          "time": "18:24"
+        },
+        {
+          "match": "Eve Torres defeated Layla (c) by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "7:05"
+        },
+        {
+          "match": "Sheamus (c) defeated Alberto Del Rio (with David Otunga and Ricardo Rodriguez) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "14:25"
+        },
+        {
+          "match": "CM Punk (c) (with Paul Heyman) vs. John Cena ended in a draw",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "26:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2012-hell-in-a-cell-2012",
+      "competition": "wwe",
+      "season": "2012",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2012-10-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Philips Arena",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Randy Orton defeated Alberto Del Rio (with Ricardo Rodriguez) by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:38"
+        },
+        {
+          "match": "Team Rhodes Scholars (Cody Rhodes and Damien Sandow) defeated Team Hell No (Daniel Bryan and Kane) (c) by disqualification",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "13:08"
+        },
+        {
+          "match": "Kofi Kingston (c) defeated The Miz by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "10:20"
+        },
+        {
+          "match": "Antonio Cesaro (c) defeated Justin Gabriel by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "7:20"
+        },
+        {
+          "match": "Rey Mysterio and Sin Cara defeated The Prime Time Players (Darren Young and Titus O'Neil) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "12:28"
+        },
+        {
+          "match": "Big Show defeated Sheamus (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "20:15"
+        },
+        {
+          "match": "Eve Torres (c) defeated Kaitlyn and Layla by pinfall",
+          "stipulation": "Triple threat match for the WWE Divas Championship",
+          "time": "6:30"
+        },
+        {
+          "match": "CM Punk (c) (with Paul Heyman) defeated Ryback by pinfall",
+          "stipulation": "Hell in a Cell match for the WWE Championship",
+          "time": "11:21"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2012-survivor-series-2012",
+      "competition": "wwe",
+      "season": "2012",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2012-11-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Bankers Life Fieldhouse",
+      "city": "Indianapolis, Indiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "3MB (Heath Slater and Jinder Mahal) (with Drew McIntyre) defeated Team Co-Bro (Santino Marella and Zack Ryder) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "06:11",
+          "note": "pre-show"
+        },
+        {
+          "match": "Brodus Clay, Justin Gabriel, Rey Mysterio, Sin Cara, and Tyson Kidd (with Cameron and Naomi) defeated The Prime Time Players (Darren Young and Titus O'Neil), Primo and Epico, and Tensai (with Rosa Mendes)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "18:27"
+        },
+        {
+          "match": "Eve Torres (c) defeated Kaitlyn by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "07:01"
+        },
+        {
+          "match": "Antonio Cesaro (c) defeated R-Truth by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "06:57"
+        },
+        {
+          "match": "Sheamus defeated Big Show (c) by disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "14:44"
+        },
+        {
+          "match": "Team Ziggler (Alberto Del Rio, Damien Sandow, David Otunga, Dolph Ziggler, and Wade Barrett) (with Ricardo Rodriguez) defeated Team Foley (Daniel Bryan, Kane, Kofi Kingston, The Miz, and Randy Orton) (with Mick Foley)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "23:43"
+        },
+        {
+          "match": "CM Punk (c) (with Paul Heyman) defeated John Cena and Ryback by pinfall",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "17:58"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2012-tlc-tables-ladders-chairs-2012",
+      "competition": "wwe",
+      "season": "2012",
+      "title": "TLC: Tables, Ladders & Chairs",
+      "session": "ple",
+      "startsAt": "2012-12-16T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Barclays Center",
+      "city": "Brooklyn, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "JTG defeated David Otunga by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:21",
+          "note": "dark"
+        },
+        {
+          "match": "Naomi won by last eliminating Kaitlyn",
+          "stipulation": "\"Santa's Little Helpers\" battle royal for a WWE Divas Championship match later in the night",
+          "time": "05:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Team Rhodes Scholars (Cody Rhodes and Damien Sandow) defeated Rey Mysterio and Sin Cara",
+          "stipulation": "Tables match to determine #1 contenders to the WWE Tag Team Championship",
+          "time": "09:29"
+        },
+        {
+          "match": "Antonio Cesaro (c) defeated R-Truth by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "06:40"
+        },
+        {
+          "match": "Kofi Kingston (c) defeated Wade Barrett by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "08:13"
+        },
+        {
+          "match": "The Shield (Dean Ambrose, Roman Reigns, and Seth Rollins) defeated Ryback and Team Hell No (Kane and Daniel Bryan) by pinfall",
+          "stipulation": "Six-man tag team Tables, Ladders and Chairs match",
+          "time": "22:44"
+        },
+        {
+          "match": "Eve Torres (c) defeated Naomi by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "02:58"
+        },
+        {
+          "match": "Big Show (c) defeated Sheamus by pinfall",
+          "stipulation": "Chairs match for the World Heavyweight Championship",
+          "time": "14:17"
+        },
+        {
+          "match": "The Brooklyn Brawler, The Miz, and Alberto Del Rio (with Ricardo Rodriguez) defeated 3MB (Drew McIntyre, Heath Slater, and Jinder Mahal) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "03:23"
+        },
+        {
+          "match": "Dolph Ziggler defeated John Cena",
+          "stipulation": "Ladder match for Ziggler's World Heavyweight Championship Money in the Bank contract",
+          "time": "23:16"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

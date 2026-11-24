@@ -1,0 +1,250 @@
+{
+  "competition": "wwe",
+  "season": "1989",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1989-royal-rumble-1989",
+      "competition": "wwe",
+      "season": "1989",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "1989-01-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "The Summit",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jim Powers defeated Barry Horowitz",
+          "stipulation": "Singles match",
+          "time": "6:40",
+          "note": "dark"
+        },
+        {
+          "match": "Sam Houston defeated Steve Lombardi",
+          "stipulation": "Singles match",
+          "time": "7:14",
+          "note": "dark"
+        },
+        {
+          "match": "Jim Duggan and The Hart Foundation (Bret Hart and Jim Neidhart) defeated Dino Bravo and The Fabulous Rougeaus (Jacques and Raymond) (with Frenchy Martin and Jimmy Hart)",
+          "stipulation": "Two-out-of-three falls match",
+          "time": "15:42"
+        },
+        {
+          "match": "Rockin' Robin (c) defeated Judy Martin",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "6:24"
+        },
+        {
+          "match": "King Haku (with Bobby Heenan) defeated Harley Race",
+          "stipulation": "Singles match",
+          "time": "9:01"
+        },
+        {
+          "match": "Big John Studd won by last eliminating Ted DiBiase",
+          "stipulation": "30-man Royal Rumble match"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1989-wrestlemania-v",
+      "competition": "wwe",
+      "season": "1989",
+      "title": "WrestleMania V",
+      "session": "ple",
+      "startsAt": "1989-04-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Atlantic City Convention Hall",
+      "city": "Atlantic City, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Hercules defeated King Haku (with Bobby Heenan)",
+          "stipulation": "Singles match",
+          "time": "6:57"
+        },
+        {
+          "match": "The Twin Towers (Akeem and Big Boss Man) (with Slick) defeated The Rockers (Shawn Michaels and Marty Jannetty)",
+          "stipulation": "Tag team match",
+          "time": "8:02"
+        },
+        {
+          "match": "Brutus Beefcake vs. Ted DiBiase (with Virgil) ended in a double countout",
+          "stipulation": "Singles match",
+          "time": "10:01"
+        },
+        {
+          "match": "The Bushwhackers (Bushwhacker Luke and Bushwhacker Butch) defeated the Fabulous Rougeaus (Jacques Rougeau and Raymond Rougeau) (with Jimmy Hart)",
+          "stipulation": "Tag team match",
+          "time": "5:23"
+        },
+        {
+          "match": "Mr. Perfect defeated The Blue Blazer",
+          "stipulation": "Singles match",
+          "time": "5:38"
+        },
+        {
+          "match": "Demolition (Ax and Smash) (c) defeated the Powers of Pain (The Warlord and The Barbarian) and Mr. Fuji",
+          "stipulation": "Handicap match for the WWF Tag Team Championship",
+          "time": "8:20"
+        },
+        {
+          "match": "Dino Bravo (with Frenchy Martin) defeated Ronnie Garvin",
+          "stipulation": "Singles match",
+          "time": "3:06"
+        },
+        {
+          "match": "The Brain Busters (Arn Anderson and Tully Blanchard) (with Bobby Heenan) defeated Strike Force (Tito Santana and Rick Martel)",
+          "stipulation": "Tag team match",
+          "time": "9:17"
+        },
+        {
+          "match": "Jake Roberts defeated André the Giant (with Bobby Heenan) by disqualification",
+          "stipulation": "Singles match with Big John Studd as special guest referee",
+          "time": "9:44"
+        },
+        {
+          "match": "The Hart Foundation (Bret Hart and Jim Neidhart) defeated Greg Valentine and The Honky Tonk Man (with Jimmy Hart)",
+          "stipulation": "Tag team match",
+          "time": "7:40"
+        },
+        {
+          "match": "Rick Rude (with Bobby Heenan) defeated Ultimate Warrior (c)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "9:36"
+        },
+        {
+          "match": "Bad News Brown vs. Jim Duggan ended in a double disqualification",
+          "stipulation": "Singles match",
+          "time": "3:49"
+        },
+        {
+          "match": "Red Rooster defeated Bobby Heenan (with Brooklyn Brawler)",
+          "stipulation": "Singles match",
+          "time": "0:31"
+        },
+        {
+          "match": "Hulk Hogan defeated Randy Savage (c) (with Miss Elizabeth in a neutral corner)",
+          "stipulation": "Singles match for the WWF World Heavyweight Championship",
+          "time": "17:54"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1989-summerslam-1989",
+      "competition": "wwe",
+      "season": "1989",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "1989-08-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Brendan Byrne Arena",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Dino Bravo defeated Koko B. Ware",
+          "stipulation": "Singles match",
+          "time": "8:52",
+          "note": "dark"
+        },
+        {
+          "match": "The Brain Busters (Arn Anderson and Tully Blanchard) (with Bobby Heenan) defeated The Hart Foundation (Bret Hart and Jim Neidhart)",
+          "stipulation": "Tag team match",
+          "time": "16:23"
+        },
+        {
+          "match": "Dusty Rhodes defeated The Honky Tonk Man (with Jimmy Hart)",
+          "stipulation": "Singles Match",
+          "time": "9:36"
+        },
+        {
+          "match": "Mr. Perfect defeated The Red Rooster",
+          "stipulation": "Singles Match",
+          "time": "3:21"
+        },
+        {
+          "match": "Rick Martel and The Fabulous Rougeaus (Jacques and Raymond) (with Slick and Jimmy Hart) defeated Tito Santana and The Rockers (Shawn Michaels and Marty Jannetty)",
+          "stipulation": "Six-man tag team match",
+          "time": "14:58"
+        },
+        {
+          "match": "Ultimate Warrior defeated Rick Rude (c) (with Bobby Heenan)",
+          "stipulation": "Singles Match for the WWF Intercontinental Championship",
+          "time": "16:02"
+        },
+        {
+          "match": "Jim Duggan and Demolition (Ax and Smash) defeated André the Giant and The Twin Towers (Akeem and Big Boss Man) (with Bobby Heenan and Slick)",
+          "stipulation": "Six-man tag team match",
+          "time": "7:23"
+        },
+        {
+          "match": "Greg Valentine (with Jimmy Hart) defeated Hercules",
+          "stipulation": "Singles Match",
+          "time": "3:08"
+        },
+        {
+          "match": "Ted DiBiase (with Virgil) defeated Jimmy Snuka by countout",
+          "stipulation": "Singles Match",
+          "time": "6:27"
+        },
+        {
+          "match": "Hulk Hogan and Brutus Beefcake (with Miss Elizabeth) defeated Randy Savage and Zeus (with Sensational Sherri)",
+          "stipulation": "Tag team match",
+          "time": "15:04"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1989-survivor-series-1989",
+      "competition": "wwe",
+      "season": "1989",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1989-11-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Rosemont Horizon",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Boris Zhukov defeated Paul Roma",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The Dream Team (Dusty Rhodes, Brutus Beefcake, The Red Rooster, and Tito Santana) defeated The Enforcers (Big Boss Man, Bad News Brown, Rick Martel, and The Honky Tonk Man) (with Jimmy Hart and Slick)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "22:02"
+        },
+        {
+          "match": "The King's Court (Randy Savage, Canadian Earthquake, Dino Bravo, and Greg Valentine) (with Jimmy Hart and Queen Sherri) defeated The 4x4s: (Jim Duggan, Bret Hart, Ronnie Garvin, and Hercules)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "23:25"
+        },
+        {
+          "match": "The Hulkamaniacs (Hulk Hogan, Jake Roberts, Ax, and Smash) defeated The Million Dollar Team (Ted DiBiase, The Warlord, The Barbarian, and Zeus) (with Virgil and Mr. Fuji)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "27:32"
+        },
+        {
+          "match": "The Rude Brood (Rick Rude, Mr. Perfect, Jacques, and Raymond Rougeau) (with The Genius and Jimmy Hart) defeated Roddy's Rowdies (Roddy Piper, Jimmy Snuka, Bushwhacker Luke, and Bushwhacker Butch)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "21:27"
+        },
+        {
+          "match": "The Ultimate Warriors (Ultimate Warrior, Jim Neidhart, Shawn Michaels, and Marty Jannetty) defeated The Heenan Family (Bobby Heenan, André the Giant, Haku, and Arn Anderson)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "20:28"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

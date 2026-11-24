@@ -1,0 +1,875 @@
+{
+  "competition": "wwe",
+  "season": "1998",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1998-royal-rumble-1998",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "1998-01-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "San Jose Arena",
+      "city": "San Jose, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Vader defeated The Artist Formerly Known as Goldust (with Luna) by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:51"
+        },
+        {
+          "match": "Max Mini, Mosaic, and Nova defeated Battalion, El Torito, and Tarantula by pinfall",
+          "stipulation": "Six-man tag team match · with Sunny as the special guest referee.",
+          "time": "7:48"
+        },
+        {
+          "match": "\"The Rock\" Rocky Maivia (c) defeated Ken Shamrock by disqualification",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "10:52"
+        },
+        {
+          "match": "The Legion of Doom (Animal and Hawk) defeated New Age Outlaws (Billy Gunn and Road Dogg) (c) by disqualification",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "7:57"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin won by last eliminating \"The Rock\" Rocky Maivia",
+          "stipulation": "30-man Royal Rumble match for a WWF Championship match at WrestleMania XIV",
+          "time": "55:24"
+        },
+        {
+          "match": "Shawn Michaels (c) (with Chyna and Triple H) defeated The Undertaker by putting Undertaker in the casket with the lid completely shut",
+          "stipulation": "Casket match for the WWF Championship",
+          "time": "20:37"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1998-no-way-out-of-texas-in-your-house",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "No Way Out of Texas: In Your House",
+      "session": "ple",
+      "startsAt": "1998-02-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Compaq Center",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Headbangers (Mosh and Thrasher) defeated The Artist Formerly Known as Goldust and Marc Mero (with Luna and Sable)",
+          "stipulation": "Tag team match",
+          "time": "13:53"
+        },
+        {
+          "match": "Taka Michinoku (c) defeated Pantera",
+          "stipulation": "Singles match for the WWF Light Heavyweight Championship",
+          "time": "10:09"
+        },
+        {
+          "match": "The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) defeated The Quebecers (Jacques and Pierre)",
+          "stipulation": "Tag team match",
+          "time": "11:15"
+        },
+        {
+          "match": "Justin Bradshaw defeated Jeff Jarrett (c) (with Jim Cornette) by disqualification",
+          "stipulation": "Singles match for the NWA North American Heavyweight Championship",
+          "time": "8:33"
+        },
+        {
+          "match": "Ken Shamrock, Ahmed Johnson, and The Disciples of Apocalypse (Chainz, 8-Ball, and Skull) defeated The Nation of Domination (\"The Rock\" Rocky Maivia, Faarooq, D'Lo Brown, Kama Mustafa, and Mark Henry) by submission",
+          "stipulation": "War of Attrition match",
+          "time": "13:44"
+        },
+        {
+          "match": "Kane (with Paul Bearer) defeated Vader",
+          "stipulation": "Singles match",
+          "time": "11:00"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin, Owen Hart, Cactus Jack, and Chainsaw Charlie defeated Triple H, Savio Vega, and The New Age Outlaws (Billy Gunn and Road Dogg) (with Chyna)",
+          "stipulation": "Eight-man tag team non-sanctioned match",
+          "time": "17:37"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1998-wrestlemania-xiv",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "WrestleMania XIV",
+      "session": "ple",
+      "startsAt": "1998-03-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "FleetCenter",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "LOD 2000 (Hawk and Animal) (with Sunny) won by last eliminating The Midnight Express (Bodacious Bart and Bombastic Bob) (with Jim Cornette)",
+          "stipulation": "Tag Team Battle Royal to determine the #1 contenders to the WWF Tag Team Championship",
+          "time": "8:19"
+        },
+        {
+          "match": "Taka Michinoku (c) defeated Aguila",
+          "stipulation": "Singles match for the WWF Light Heavyweight Championship",
+          "time": "5:57"
+        },
+        {
+          "match": "Triple H (c) (with Chyna) defeated Owen Hart",
+          "stipulation": "Singles match for the WWF European Championship · Chyna was handcuffed to Sgt. Slaughter.",
+          "time": "11:29"
+        },
+        {
+          "match": "Marc Mero and Sable defeated The Artist Formerly Known as Goldust and Luna Vachon",
+          "stipulation": "Mixed tag team match",
+          "time": "9:11"
+        },
+        {
+          "match": "The Rock (c) (with The Nation of Domination) defeated Ken Shamrock by disqualification",
+          "stipulation": "Singles match for the WWF Intercontinental Championship · Had The Rock been disqualified, he would have lost the title.",
+          "time": "4:49"
+        },
+        {
+          "match": "Cactus Jack and Chainsaw Charlie defeated The New Age Outlaws (Road Dogg and Billy Gunn) (c) by putting the Outlaws in a dumpster with the lid completely shut",
+          "stipulation": "Dumpster match for the WWF Tag Team Championship",
+          "time": "10:01"
+        },
+        {
+          "match": "The Undertaker defeated Kane (with Paul Bearer)",
+          "stipulation": "Singles match",
+          "time": "17:05"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Shawn Michaels (c)",
+          "stipulation": "Singles match for the WWF Championship · Mike Tyson was the special ring enforcer.",
+          "time": "20:08"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1998-unforgiven-in-your-house",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "Unforgiven: In Your House",
+      "session": "ple",
+      "startsAt": "1998-04-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Greensboro Coliseum",
+      "city": "Greensboro, North Carolina",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Faarooq, Ken Shamrock, and Steve Blackman defeated The Nation of Domination (D'Lo Brown, Mark Henry, and The Rock) (with Kama Mustafa) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "13:32"
+        },
+        {
+          "match": "Triple H (c) (with Chyna) defeated Owen Hart by pinfall",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "12:26"
+        },
+        {
+          "match": "The Midnight Express (Bodacious Bart and Bombastic Bob) (c) (with Jim Cornette) defeated The Rock 'n' Roll Express (Ricky Morton and Robert Gibson) by pinfall",
+          "stipulation": "Tag team match for the NWA World Tag Team Championship",
+          "time": "7:12"
+        },
+        {
+          "match": "Luna Vachon (with The Artist Formerly Known As Goldust) defeated Sable",
+          "stipulation": "Evening gown match",
+          "time": "2:50"
+        },
+        {
+          "match": "The New Age Outlaws (Billy Gunn and Road Dogg Jesse James) (c) defeated LOD 2000 (Animal and Hawk) (with Sunny) by pinfall",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "12:13"
+        },
+        {
+          "match": "The Undertaker defeated Kane (with Paul Bearer) by setting Kane on fire",
+          "stipulation": "Inferno match",
+          "time": "16:00"
+        },
+        {
+          "match": "Dude Love defeated \"Stone Cold\" Steve Austin (c) by disqualification",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "18:49"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1998-over-the-edge-in-your-house",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "Over the Edge: In Your House",
+      "session": "ple",
+      "startsAt": "1998-05-31T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Wisconsin Center Arena",
+      "city": "Milwaukee, Wisconsin",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "LOD 2000 (Animal and Hawk) (with Droz and Sunny) defeated The Disciples of Apocalypse (8-Ball and Skull) (with Chainz) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "9:57"
+        },
+        {
+          "match": "Jeff Jarrett (with Tennessee Lee) defeated Steve Blackman by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:15"
+        },
+        {
+          "match": "Marc Mero defeated Sable by pinfall",
+          "stipulation": "Singles match",
+          "time": "0:30"
+        },
+        {
+          "match": "Kaientai (Dick Togo, Mens Teioh, and Sho Funaki) (with Yamaguchi-san) defeated Justin Bradshaw and Taka Michinoku by pinfall",
+          "stipulation": "3-on-2 Handicap match",
+          "time": "9:52"
+        },
+        {
+          "match": "The Rock (c) defeated Faarooq by pinfall",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "5:07"
+        },
+        {
+          "match": "Kane (with Paul Bearer) defeated Vader by pinfall",
+          "stipulation": "Mask vs. Mask match",
+          "time": "7:20"
+        },
+        {
+          "match": "The Nation of Domination (D'Lo Brown, Kama Mustafa, and Owen Hart) (with Mark Henry) defeated D-Generation X (Triple H, Billy Gunn, and Road Dogg) (with Chyna and X-Pac) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "18:33"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin (c) defeated Dude Love by pinfall",
+          "stipulation": "Falls Count Anywhere match for the WWF Championship · Mr. McMahon was the special guest referee. · Pat Patterson was the special guest ring announcer. · Gerald Brisco was the special guest timekeeper. · The Undertaker was the special guest enforcer.",
+          "time": "22:27"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1998-king-of-the-ring-1998",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "King of the Ring",
+      "session": "ple",
+      "startsAt": "1998-06-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Civic Arena",
+      "city": "Pittsburgh, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Headbangers (Mosh and Thrasher) and Taka Michinoku defeated Kaientai (Funaki, Men's Teioh, and Dick Togo)",
+          "stipulation": "Six-man tag team match",
+          "time": "6:44"
+        },
+        {
+          "match": "Ken Shamrock defeated Jeff Jarrett (with Tennessee Lee) by submission",
+          "stipulation": "King of the Ring semi-final",
+          "time": "5:29"
+        },
+        {
+          "match": "The Rock defeated Dan Severn",
+          "stipulation": "King of the Ring semi-final",
+          "time": "4:25"
+        },
+        {
+          "match": "Too Much (Brian Christopher and Scott Taylor) defeated Al Snow and Head",
+          "stipulation": "Tag team match with Jerry Lawler as special guest referee",
+          "time": "8:26"
+        },
+        {
+          "match": "X-Pac (with Chyna) defeated Owen Hart",
+          "stipulation": "Singles match",
+          "time": "8:30"
+        },
+        {
+          "match": "The New Age Outlaws (Billy Gunn and \"Road Dogg\" Jesse James) (c) (with Chyna) defeated The Midnight Express (Bodacious Bart and Bombastic Bob) (with Jim Cornette)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "9:34"
+        },
+        {
+          "match": "Ken Shamrock defeated The Rock by submission",
+          "stipulation": "King of the Ring final",
+          "time": "14:09"
+        },
+        {
+          "match": "The Undertaker defeated Mankind",
+          "stipulation": "Hell in a Cell match",
+          "time": "17:38"
+        },
+        {
+          "match": "Kane (with Paul Bearer) defeated \"Stone Cold\" Steve Austin (c) by making Austin bleed first",
+          "stipulation": "First Blood match for the WWF Championship · Had Kane lost, he would have had to set himself on fire.",
+          "time": "15:58"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1998-fully-loaded-in-your-house",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "Fully Loaded: In Your House",
+      "session": "ple",
+      "startsAt": "1998-07-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Selland Arena",
+      "city": "Fresno, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Val Venis defeated Jeff Jarrett (with Tennessee Lee)",
+          "stipulation": "Singles match",
+          "time": "7:45"
+        },
+        {
+          "match": "D'Lo Brown (with The Godfather) defeated X-Pac (with Chyna)",
+          "stipulation": "Singles match",
+          "time": "8:26"
+        },
+        {
+          "match": "Faarooq and Scorpio defeated Justin Bradshaw and Terry Funk",
+          "stipulation": "Tag team match",
+          "time": "6:49"
+        },
+        {
+          "match": "Mark Henry defeated Vader",
+          "stipulation": "Singles match",
+          "time": "5:03"
+        },
+        {
+          "match": "The Disciples of Apocalypse (8-Ball and Skull) (with Paul Ellering) defeated LOD 2000 (Animal and Hawk)",
+          "stipulation": "Tag team match",
+          "time": "8:50"
+        },
+        {
+          "match": "Owen Hart defeated Ken Shamrock by submission",
+          "stipulation": "Dungeon match · Dan Severn was the special guest referee.",
+          "time": "4:46"
+        },
+        {
+          "match": "The Rock (c) vs. Triple H (with Chyna) ended in a time-limit draw of 1–1",
+          "stipulation": "Two-out-of-three-falls match for the WWF Intercontinental Championship",
+          "time": "30:00"
+        },
+        {
+          "match": "Jacqueline defeated Sable by disqualification",
+          "stipulation": "Bikini contest · Jerry Lawler was the master of ceremonies."
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin and The Undertaker defeated Kane and Mankind (c) (with Paul Bearer)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "18:08"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1998-summerslam-1998",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "1998-08-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Madison Square Garden",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Too Much (Brian Christopher and Scott Taylor) defeated L.O.D. 2000 (Animal and Hawk) (with Droz)",
+          "stipulation": "Tag team match",
+          "time": "2:14",
+          "note": "pre-show"
+        },
+        {
+          "match": "Gangrel defeated Dustin Runnels",
+          "stipulation": "Singles match",
+          "time": "2:32",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Disciples of Apocalypse (8-Ball and Skull) (with Paul Ellering) defeated Bradshaw and Vader",
+          "stipulation": "Tag team match",
+          "time": "2:56",
+          "note": "pre-show"
+        },
+        {
+          "match": "D'Lo Brown (c) defeated Val Venis by disqualification",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "15:24"
+        },
+        {
+          "match": "The Oddities (Giant Silva, Golga, and Kurrgan) (with Luna Vachon, Shaggy 2 Dope, and Violent J) defeated Kaientai (Dick Togo, Men's Teioh, Sho Funaki, and Taka Michinoku) (with Yamaguchi-san)",
+          "stipulation": "4-on-3 Handicap match",
+          "time": "10:10"
+        },
+        {
+          "match": "X-Pac (with Howard Finkel) defeated Jeff Jarrett",
+          "stipulation": "Hair vs. Hair match",
+          "time": "11:11"
+        },
+        {
+          "match": "Edge and Sable defeated Marc Mero and Jacqueline",
+          "stipulation": "Mixed tag team match",
+          "time": "8:26"
+        },
+        {
+          "match": "Ken Shamrock defeated Owen Hart (with Dan Severn) by submission",
+          "stipulation": "Lion's Den match",
+          "time": "9:15"
+        },
+        {
+          "match": "The New Age Outlaws (Road Dogg and Billy Gunn) defeated Mankind (c)",
+          "stipulation": "2-on-1 Falls Count Anywhere handicap match for the WWF Tag Team Championship",
+          "time": "5:17"
+        },
+        {
+          "match": "Triple H (with Chyna) defeated The Rock (c) (with Mark Henry) by retrieving the championship belt",
+          "stipulation": "Ladder match for the WWF Intercontinental Championship",
+          "time": "25:58"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin (c) defeated The Undertaker",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "20:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1998-breakdown-in-your-house",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "Breakdown: In Your House",
+      "session": "ple",
+      "startsAt": "1998-09-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Copps Coliseum",
+      "city": "Hamilton, Ontario, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Golga (with Giant Silva, Kurrgan, and Luna Vachon) defeated Mosh (with Thrasher)",
+          "stipulation": "Singles match",
+          "time": "2:02",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Hardy Boyz (Jeff Hardy and Matt Hardy) defeated Kaientai (Funaki and Men's Teioh) (with Yamaguchi-san)",
+          "stipulation": "Tag team match",
+          "time": "3:36",
+          "note": "pre-show"
+        },
+        {
+          "match": "8-Ball (with Paul Ellering) defeated Billy Gunn and Skull (with Paul Ellering)",
+          "stipulation": "Triple threat match",
+          "time": "3:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Owen Hart defeated Edge",
+          "stipulation": "Singles match",
+          "time": "9:16"
+        },
+        {
+          "match": "Al Snow and Scorpio (with Head) defeated Too Much (Brian Christopher and Scott Taylor)",
+          "stipulation": "Tag team match",
+          "time": "8:03"
+        },
+        {
+          "match": "Marc Mero (with Jacqueline) defeated Droz",
+          "stipulation": "Singles match",
+          "time": "5:12"
+        },
+        {
+          "match": "Bradshaw defeated Vader",
+          "stipulation": "Falls Count Anywhere match",
+          "time": "7:56"
+        },
+        {
+          "match": "D'Lo Brown defeated Gangrel",
+          "stipulation": "Singles match",
+          "time": "7:46"
+        },
+        {
+          "match": "The Rock defeated Ken Shamrock and Mankind via pinfall",
+          "stipulation": "Triple threat steel cage match to determine the #1 contender to the WWF Championship",
+          "time": "18:47"
+        },
+        {
+          "match": "Val Venis (with Terri Runnels) defeated Dustin Runnels",
+          "stipulation": "Singles match",
+          "time": "9:09"
+        },
+        {
+          "match": "D-Generation X (Billy Gunn, Road Dogg, and X-Pac) defeated Jeff Jarrett and Southern Justice (Dennis Knight and Mark Canterbury)",
+          "stipulation": "Six-man tag team match",
+          "time": "11:17"
+        },
+        {
+          "match": "Kane and The Undertaker defeated \"Stone Cold\" Steve Austin (c) by double pinfall",
+          "stipulation": "Triple threat match for the WWF Championship · Kane and Undertaker were prohibited from defeating each other. Had anyone interfered on Austin's behalf, Austin would have been immediately stripped of the title.",
+          "time": "22:05"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1998-judgment-day-in-your-house",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "Judgment Day: In Your House",
+      "session": "ple",
+      "startsAt": "1998-10-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Rosemont Horizon",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Steve Blackman defeated Bradshaw",
+          "stipulation": "Singles match",
+          "time": "2:58",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Oddities (Giant Silva, Golga, and Kurrgan) (with Luna Vachon, Shaggy 2 Dope, and Violent J) defeated Los Boricuas (Jesus Castillo, Jose Estrada, and Miguel Pérez Jr.)",
+          "stipulation": "Six-man tag team match",
+          "time": "2:32",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Godfather (with 2 Hos) defeated Faarooq",
+          "stipulation": "Singles match",
+          "time": "1:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "Scorpio defeated Jeff Jarrett",
+          "stipulation": "Singles match",
+          "time": "3:42",
+          "note": "pre-show"
+        },
+        {
+          "match": "Al Snow (with Head) defeated Marc Mero (with Jacqueline)",
+          "stipulation": "Singles match",
+          "time": "7:12"
+        },
+        {
+          "match": "LOD 2000 (Animal, Droz, and Hawk) defeated The Disciples of Apocalypse (8-Ball, Paul Ellering, and Skull)",
+          "stipulation": "Six-man tag team match",
+          "time": "5:04"
+        },
+        {
+          "match": "Christian (with Gangrel) defeated Taka Michinoku (c) (with Yamaguchi-san)",
+          "stipulation": "Singles match for the WWF Light Heavyweight Championship",
+          "time": "8:35"
+        },
+        {
+          "match": "Goldust defeated Val Venis (with Terri Runnels)",
+          "stipulation": "Singles match",
+          "time": "12:05"
+        },
+        {
+          "match": "X-Pac (with Chyna) defeated D'Lo Brown (c)",
+          "stipulation": "Singles match for the WWF European Championship",
+          "time": "14:37"
+        },
+        {
+          "match": "The Headbangers (Mosh and Thrasher) defeated The New Age Outlaws (Billy Gunn and Road Dogg) (c) by disqualification",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "14:00"
+        },
+        {
+          "match": "Ken Shamrock (c) defeated Mankind by technical submission",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "14:36"
+        },
+        {
+          "match": "Mark Henry defeated The Rock",
+          "stipulation": "Singles match",
+          "time": "5:06"
+        },
+        {
+          "match": "Kane vs. The Undertaker ended in a double pinfall",
+          "stipulation": "Singles match for the vacant WWF Championship · \"Stone Cold\" Steve Austin was the special guest referee. Since Austin did not crown a new champion, he was (kayfabe) fired.",
+          "time": "17:39"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1998-survivor-series-1998",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1998-11-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Kiel Center",
+      "city": "St. Louis, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Too Much (Scott Taylor and Brian Christopher) defeated The Hardy Boyz (Matt and Jeff)",
+          "stipulation": "Tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "The J.O.B. Squad (Bob Holly and Scorpio) (with Al Snow) defeated The Legion of Doom (Animal and Droz)",
+          "stipulation": "Tag team match",
+          "time": "2:17",
+          "note": "pre-show"
+        },
+        {
+          "match": "Val Venis defeated Tiger Ali Singh (with Babu)",
+          "stipulation": "Singles match",
+          "time": "2:36",
+          "note": "pre-show"
+        },
+        {
+          "match": "Gangrel (with Edge and Christian) defeated Steve Blackman",
+          "stipulation": "Singles match",
+          "time": "3:21",
+          "note": "pre-show"
+        },
+        {
+          "match": "Mankind defeated Duane Gill",
+          "stipulation": "Tournament first round match",
+          "time": "0:30"
+        },
+        {
+          "match": "Al Snow defeated Jeff Jarrett (with Debra)",
+          "stipulation": "Tournament first round match",
+          "time": "3:31"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Big Boss Man by disqualification",
+          "stipulation": "Tournament first round match",
+          "time": "3:20"
+        },
+        {
+          "match": "Steven Regal vs. X-Pac ended in a double countout",
+          "stipulation": "Tournament first round match",
+          "time": "8:10"
+        },
+        {
+          "match": "Ken Shamrock defeated Goldust by submission",
+          "stipulation": "Tournament first round match",
+          "time": "5:56"
+        },
+        {
+          "match": "The Rock defeated Big Boss Man",
+          "stipulation": "Tournament first round match",
+          "time": "0:03"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Kane",
+          "stipulation": "Tournament quarter-final match",
+          "time": "7:16"
+        },
+        {
+          "match": "Mankind defeated Al Snow by submission",
+          "stipulation": "Tournament quarter-final match",
+          "time": "3:55"
+        },
+        {
+          "match": "The Rock defeated Ken Shamrock",
+          "stipulation": "Tournament quarter-final match",
+          "time": "8:20"
+        },
+        {
+          "match": "Sable defeated Jacqueline (c) (with Marc Mero)",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "3:14"
+        },
+        {
+          "match": "Mankind defeated \"Stone Cold\" Steve Austin",
+          "stipulation": "Tournament semi-final match",
+          "time": "10:27"
+        },
+        {
+          "match": "The Rock defeated The Undertaker (with Paul Bearer) by disqualification",
+          "stipulation": "Tournament semi-final match",
+          "time": "8:24"
+        },
+        {
+          "match": "The New Age Outlaws (Billy Gunn and Road Dogg) (c) defeated The Headbangers (Mosh and Thrasher) and D'Lo Brown and Mark Henry",
+          "stipulation": "Triple threat match for the WWF Tag Team Championship",
+          "time": "10:10"
+        },
+        {
+          "match": "The Rock defeated Mankind by submission",
+          "stipulation": "Tournament final for the vacant WWF Championship",
+          "time": "17:17"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1998-wwf-capital-carnage",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "Capital Carnage",
+      "session": "ple",
+      "startsAt": "1998-12-06T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "London Arena",
+      "city": "London, England",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Droz defeated Mosh",
+          "stipulation": "Singles match",
+          "time": "6:00",
+          "note": "dark"
+        },
+        {
+          "match": "Gangrel defeated Al Snow (with Head)",
+          "stipulation": "Singles match",
+          "time": "5:51"
+        },
+        {
+          "match": "The Headbangers (Mosh and Thrasher) defeated The Legion of Doom (Animal and Droz)",
+          "stipulation": "Tag team match",
+          "time": "3:21"
+        },
+        {
+          "match": "Val Venis defeated Goldust",
+          "stipulation": "Singles match",
+          "time": "5:33"
+        },
+        {
+          "match": "Tiger Ali Singh defeated Edge",
+          "stipulation": "Singles match",
+          "time": "2:51"
+        },
+        {
+          "match": "Christian and Sable defeated Jacqueline and Marc Mero",
+          "stipulation": "Mixed tag team match",
+          "time": "4:49"
+        },
+        {
+          "match": "Ken Shamrock (c) (with Big Boss Man) defeated Steve Blackman by submission",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "6:51"
+        },
+        {
+          "match": "Triple H (with Chyna) defeated Jeff Jarrett (with Debra)",
+          "stipulation": "Singles match",
+          "time": "6:55"
+        },
+        {
+          "match": "The New Age Outlaws (Billy Gunn and Road Dogg) (c) defeated D'Lo Brown and Mark Henry",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "12:34"
+        },
+        {
+          "match": "The Rock (c) defeated X-Pac (with Chyna and Triple H) by disqualification",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "12:34"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Kane, Mankind, and The Undertaker (with Paul Bearer)",
+          "stipulation": "Fatal four-way match · Gerald Brisco was the special guest referee and Big Boss Man was the special guest enforcer.",
+          "time": "16:12"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1998-rock-bottom-in-your-house",
+      "competition": "wwe",
+      "season": "1998",
+      "title": "Rock Bottom: In Your House",
+      "session": "ple",
+      "startsAt": "1998-12-13T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "General Motors Place",
+      "city": "Vancouver, British Columbia, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Duane Gill (c) (with Al Snow, Scorpio, and Bob Holly) defeated Matt Hardy (with Jeff Hardy)",
+          "stipulation": "Singles match for the WWF Light Heavyweight Championship",
+          "time": "1:02",
+          "note": "pre-show"
+        },
+        {
+          "match": "Kevin Quinn defeated Brian Christopher",
+          "stipulation": "Singles match",
+          "time": "2:23",
+          "note": "pre-show"
+        },
+        {
+          "match": "The New Age Outlaws (Billy Gunn and Road Dogg) defeated The Acolytes (Bradshaw and Faarooq) by disqualification",
+          "stipulation": "Tag team match",
+          "time": "2:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "Triple H (with Billy Gunn, Chyna, and Road Dogg) defeated Droz (with Animal)",
+          "stipulation": "Singles match",
+          "time": "1:37",
+          "note": "pre-show"
+        },
+        {
+          "match": "D'Lo Brown and Mark Henry (with Jacqueline and Terri Runnels) defeated The Godfather and Val Venis",
+          "stipulation": "Tag team match",
+          "time": "5:54"
+        },
+        {
+          "match": "The Headbangers (Mosh and Thrasher) defeated The Oddities (Golga and Kurrgan) (with Giant Silva and Luna Vachon)",
+          "stipulation": "Tag team match",
+          "time": "6:29"
+        },
+        {
+          "match": "Steve Blackman defeated Owen Hart by countout",
+          "stipulation": "Singles match",
+          "time": "10:26"
+        },
+        {
+          "match": "The Brood (Gangrel, Edge, and Christian) defeated The J.O.B. Squad (Al Snow, Bob Holly, and Scorpio) (with Head)",
+          "stipulation": "Six-man tag team match",
+          "time": "9:08"
+        },
+        {
+          "match": "Goldust defeated Jeff Jarrett (with Debra) by disqualification",
+          "stipulation": "\"Strip Tease\" match",
+          "time": "8:06"
+        },
+        {
+          "match": "The New Age Outlaws (Billy Gunn and Road Dogg) (c) defeated The Corporation (Big Boss Man and Ken Shamrock) (with Shawn Michaels)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "16:10"
+        },
+        {
+          "match": "Mankind defeated The Rock (c) (with Mr. McMahon and Shane McMahon) by referee stoppage",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "13:35"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated The Undertaker (with Paul Bearer) by burying Undertaker alive",
+          "stipulation": "Buried Alive match for the right to compete in the 1999 Royal Rumble match",
+          "time": "21:33"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

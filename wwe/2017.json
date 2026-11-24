@@ -1,0 +1,994 @@
+{
+  "competition": "wwe",
+  "season": "2017",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2017-royal-rumble-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2017-01-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Alamodome",
+      "city": "San Antonio, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Naomi, Nikki Bella, and Becky Lynch defeated Alexa Bliss, Mickie James, and Natalya by pinfall",
+          "stipulation": "Six-woman tag team match",
+          "time": "9:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "Luke Gallows and Karl Anderson defeated Cesaro and Sheamus (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship · Two referees were assigned to the match.",
+          "time": "10:30",
+          "note": "pre-show"
+        },
+        {
+          "match": "Nia Jax defeated Sasha Banks by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:10",
+          "note": "pre-show"
+        },
+        {
+          "match": "Charlotte Flair (c) defeated Bayley by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "13:05"
+        },
+        {
+          "match": "Kevin Owens (c) defeated Roman Reigns by pinfall",
+          "stipulation": "No Disqualification match for the WWE Universal Championship · Chris Jericho was suspended above the ring in a shark cage.",
+          "time": "22:55"
+        },
+        {
+          "match": "Neville defeated Rich Swann (c) by submission",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "14:00"
+        },
+        {
+          "match": "John Cena defeated AJ Styles (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "24:10"
+        },
+        {
+          "match": "Randy Orton won by last eliminating Roman Reigns",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 33"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-elimination-chamber-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2017-02-12T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Talking Stick Resort Arena",
+      "city": "Phoenix, Arizona",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Mojo Rawley defeated Curt Hawkins by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:05",
+          "note": "pre-show"
+        },
+        {
+          "match": "Becky Lynch defeated Mickie James by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:40"
+        },
+        {
+          "match": "Apollo Crews and Kalisto defeated Dolph Ziggler by pinfall",
+          "stipulation": "Handicap match",
+          "time": "7:20"
+        },
+        {
+          "match": "American Alpha (Chad Gable and Jason Jordan) (c) won by last eliminating The Ascension (Konnor and Viktor)",
+          "stipulation": "Tag team turmoil match for the WWE SmackDown Tag Team Championship",
+          "time": "21:10"
+        },
+        {
+          "match": "Natalya vs. Nikki Bella ended in a double countout",
+          "stipulation": "Singles match",
+          "time": "13:40"
+        },
+        {
+          "match": "Randy Orton defeated Luke Harper by pinfall",
+          "stipulation": "Singles match",
+          "time": "17:15"
+        },
+        {
+          "match": "Naomi defeated Alexa Bliss (c) by pinfall",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "8:20"
+        },
+        {
+          "match": "Bray Wyatt defeated John Cena (c), AJ Styles, The Miz, Dean Ambrose, and Baron Corbin",
+          "stipulation": "Elimination Chamber match for the WWE Championship",
+          "time": "34:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-fastlane-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Fastlane",
+      "session": "ple",
+      "startsAt": "2017-03-05T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Bradley Center",
+      "city": "Milwaukee, Wisconsin",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rich Swann and Akira Tozawa defeated The Brian Kendrick and Noam Dar (with Alicia Fox) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "9:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Samoa Joe defeated Sami Zayn by technical submission",
+          "stipulation": "Singles match",
+          "time": "9:45"
+        },
+        {
+          "match": "Luke Gallows and Karl Anderson (c) defeated Enzo Amore and Big Cass by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "8:40"
+        },
+        {
+          "match": "Sasha Banks defeated Nia Jax by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:15"
+        },
+        {
+          "match": "Cesaro (with Sheamus) defeated Jinder Mahal by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:12"
+        },
+        {
+          "match": "Big Show defeated Rusev (with Lana) by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:40"
+        },
+        {
+          "match": "Neville (c) defeated Jack Gallagher by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "12:08"
+        },
+        {
+          "match": "Roman Reigns defeated Braun Strowman by pinfall",
+          "stipulation": "Singles match",
+          "time": "17:13"
+        },
+        {
+          "match": "Bayley (c) defeated Charlotte Flair by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "16:49"
+        },
+        {
+          "match": "Goldberg defeated Kevin Owens (c) by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "0:22"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-wrestlemania-33",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "WrestleMania 33",
+      "session": "ple",
+      "startsAt": "2017-04-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Camping World Stadium",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Neville (c) defeated Austin Aries by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "15:40",
+          "note": "pre-show"
+        },
+        {
+          "match": "Mojo Rawley won by last eliminating Jinder Mahal",
+          "stipulation": "33-man battle royal for the André the Giant Memorial Trophy",
+          "time": "14:15",
+          "note": "pre-show"
+        },
+        {
+          "match": "Dean Ambrose (c) defeated Baron Corbin by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "10:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "AJ Styles defeated Shane McMahon by pinfall",
+          "stipulation": "Singles match",
+          "time": "20:35"
+        },
+        {
+          "match": "Kevin Owens defeated Chris Jericho (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "16:20"
+        },
+        {
+          "match": "Bayley (c) defeated Charlotte Flair, Nia Jax, and Sasha Banks",
+          "stipulation": "Fatal four-way elimination match for the WWE Raw Women's Championship",
+          "time": "12:45"
+        },
+        {
+          "match": "The Hardy Boyz (Matt Hardy and Jeff Hardy) defeated Luke Gallows and Karl Anderson (c), Cesaro and Sheamus, and Enzo Amore and Big Cass",
+          "stipulation": "Fatal four-way tag team ladder match for the WWE Raw Tag Team Championship",
+          "time": "11:05"
+        },
+        {
+          "match": "John Cena and Nikki Bella defeated The Miz and Maryse by pinfall",
+          "stipulation": "Mixed tag team match",
+          "time": "9:40"
+        },
+        {
+          "match": "Seth Rollins defeated Triple H (with Stephanie McMahon) by pinfall",
+          "stipulation": "Non-sanctioned match",
+          "time": "25:30"
+        },
+        {
+          "match": "Randy Orton defeated Bray Wyatt (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "10:30"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Goldberg (c) by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "4:45"
+        },
+        {
+          "match": "Naomi defeated Alexa Bliss (c), Becky Lynch, Carmella (with James Ellsworth), Mickie James, and Natalya by submission",
+          "stipulation": "Six-pack challenge for the WWE SmackDown Women's Championship",
+          "time": "5:35"
+        },
+        {
+          "match": "Roman Reigns defeated The Undertaker by pinfall",
+          "stipulation": "No Holds Barred match",
+          "time": "23:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-payback-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Payback",
+      "session": "ple",
+      "startsAt": "2017-04-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "SAP Center",
+      "city": "San Jose, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Enzo Amore and Big Cass defeated Luke Gallows and Karl Anderson by pinfall",
+          "stipulation": "Tag team match",
+          "time": "6:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "Chris Jericho defeated Kevin Owens (c) by submission",
+          "stipulation": "Singles match for the WWE United States Championship · Since Jericho won the title, he was transferred to SmackDown.",
+          "time": "14:00"
+        },
+        {
+          "match": "Austin Aries defeated Neville (c) by disqualification",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "11:20"
+        },
+        {
+          "match": "The Hardy Boyz (Matt Hardy and Jeff Hardy) (c) defeated Cesaro and Sheamus by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "12:45"
+        },
+        {
+          "match": "Alexa Bliss defeated Bayley (c) by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "11:15"
+        },
+        {
+          "match": "Bray Wyatt defeated Randy Orton by pinfall",
+          "stipulation": "House of Horrors match",
+          "time": "17:10"
+        },
+        {
+          "match": "Seth Rollins defeated Samoa Joe by pinfall",
+          "stipulation": "Singles match",
+          "time": "15:55"
+        },
+        {
+          "match": "Braun Strowman defeated Roman Reigns by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-backlash-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2017-05-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Tye Dillinger defeated Aiden English by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Shinsuke Nakamura defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match",
+          "time": "15:50"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated Breezango (Fandango and Tyler Breeze) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "9:15"
+        },
+        {
+          "match": "Sami Zayn defeated Baron Corbin by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:35"
+        },
+        {
+          "match": "The Welcoming Committee (Carmella, Natalya, and Tamina) (with James Ellsworth) defeated Becky Lynch, Charlotte Flair, and Naomi by submission",
+          "stipulation": "Six-woman tag team match",
+          "time": "10:05"
+        },
+        {
+          "match": "Kevin Owens (c) defeated AJ Styles by countout",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "21:10"
+        },
+        {
+          "match": "Luke Harper defeated Erick Rowan by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:00"
+        },
+        {
+          "match": "Jinder Mahal (with The Singh Brothers) defeated Randy Orton (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "15:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-extreme-rules-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2017-06-04T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Royal Farms Arena",
+      "city": "Baltimore, Maryland",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kalisto defeated Apollo Crews (with Titus O'Neil) by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:40",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Miz (with Maryse) defeated Dean Ambrose (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship · If Ambrose had been disqualified, he would have lost the title.",
+          "time": "20:00"
+        },
+        {
+          "match": "Rich Swann and Sasha Banks defeated Alicia Fox and Noam Dar by pinfall",
+          "stipulation": "Mixed tag team match",
+          "time": "6:20"
+        },
+        {
+          "match": "Alexa Bliss (c) defeated Bayley by pinfall",
+          "stipulation": "Kendo stick-on-a-Pole match for the WWE Raw Women's Championship",
+          "time": "5:10"
+        },
+        {
+          "match": "Cesaro and Sheamus defeated The Hardy Boyz (Jeff Hardy and Matt Hardy) (c) by escaping the cage",
+          "stipulation": "Steel Cage match for the WWE Raw Tag Team Championship",
+          "time": "15:00"
+        },
+        {
+          "match": "Neville (c) defeated Austin Aries",
+          "stipulation": "Submission match for the WWE Cruiserweight Championship",
+          "time": "17:35"
+        },
+        {
+          "match": "Samoa Joe defeated Finn Bálor, Roman Reigns, Seth Rollins, and Bray Wyatt by technical submission",
+          "stipulation": "Fatal 5-Way Extreme Rules match for a WWE Universal Championship match at Great Balls of Fire",
+          "time": "29:15"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-money-in-the-bank-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2017-06-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Scottrade Center",
+      "city": "St. Louis, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Hype Bros (Mojo Rawley and Zack Ryder) defeated The Colóns (Epico Colón and Primo Colón) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "8:30",
+          "note": "pre-show"
+        },
+        {
+          "match": "Carmella (with James Ellsworth) defeated Becky Lynch, Charlotte Flair, Natalya, and Tamina",
+          "stipulation": "Money in the Bank ladder match for a WWE SmackDown Women's Championship match contract",
+          "time": "13:20"
+        },
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (with Xavier Woods) defeated The Usos (Jey Uso and Jimmy Uso) (c) by countout",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "12:00"
+        },
+        {
+          "match": "Naomi (c) defeated Lana by submission",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "7:30"
+        },
+        {
+          "match": "Jinder Mahal (c) (with The Singh Brothers) defeated Randy Orton by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "20:50"
+        },
+        {
+          "match": "Breezango (Fandango and Tyler Breeze) defeated The Ascension (Konnor and Viktor) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "3:50"
+        },
+        {
+          "match": "Baron Corbin defeated AJ Styles, Dolph Ziggler, Kevin Owens, Sami Zayn, and Shinsuke Nakamura",
+          "stipulation": "Money in the Bank ladder match for a WWE Championship match contract",
+          "time": "29:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-wwe-great-balls-of-fire",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Great Balls of Fire",
+      "session": "ple",
+      "startsAt": "2017-07-09T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "American Airlines Center",
+      "city": "Dallas, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Neville (c) defeated Akira Tozawa (with Titus O'Neil) by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "11:40",
+          "note": "pre-show"
+        },
+        {
+          "match": "Bray Wyatt defeated Seth Rollins by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:10"
+        },
+        {
+          "match": "Big Cass defeated Enzo Amore by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:25"
+        },
+        {
+          "match": "Cesaro and Sheamus (c) defeated The Hardy Boyz (Matt and Jeff) 4–3",
+          "stipulation": "30-minute Iron Man match for the WWE Raw Tag Team Championship",
+          "time": "30:00"
+        },
+        {
+          "match": "Sasha Banks defeated Alexa Bliss (c) by countout",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "11:40"
+        },
+        {
+          "match": "The Miz (c) (with Bo Dallas, Curtis Axel and Maryse) defeated Dean Ambrose by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "11:20"
+        },
+        {
+          "match": "Braun Strowman defeated Roman Reigns",
+          "stipulation": "Ambulance match",
+          "time": "16:35"
+        },
+        {
+          "match": "Heath Slater defeated Curt Hawkins by pinfall",
+          "stipulation": "Singles match",
+          "time": "2:10"
+        },
+        {
+          "match": "Brock Lesnar (c) (with Paul Heyman) defeated Samoa Joe by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "6:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-battleground-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Battleground",
+      "session": "ple",
+      "startsAt": "2017-07-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Wells Fargo Center",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Aiden English defeated Tye Dillinger by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "The New Day (Kofi Kingston and Xavier Woods) (with Big E) defeated The Usos (Jey Uso and Jimmy Uso) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "13:50"
+        },
+        {
+          "match": "Shinsuke Nakamura defeated Baron Corbin by disqualification",
+          "stipulation": "Singles match",
+          "time": "12:25"
+        },
+        {
+          "match": "Natalya defeated Becky Lynch, Charlotte Flair, Lana, and Tamina",
+          "stipulation": "Fatal five-way elimination match to determine the #1 contender for the WWE SmackDown Women's Championship at SummerSlam",
+          "time": "11:00"
+        },
+        {
+          "match": "Kevin Owens defeated AJ Styles (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "17:50"
+        },
+        {
+          "match": "John Cena defeated Rusev",
+          "stipulation": "Flag match",
+          "time": "21:10"
+        },
+        {
+          "match": "Sami Zayn defeated Mike Kanellis (with Maria Kanellis) by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:15"
+        },
+        {
+          "match": "Jinder Mahal (c) (with The Singh Brothers) defeated Randy Orton",
+          "stipulation": "Punjabi Prison match for the WWE Championship",
+          "time": "27:40"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-summerslam-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2017-08-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Barclays Center",
+      "city": "Brooklyn, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Miz and The Miztourage (Bo Dallas and Curtis Axel) (with Maryse) defeated The Hardy Boyz (Jeff Hardy and Matt Hardy) and Jason Jordan by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "11:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "Neville defeated Akira Tozawa (c) (with Titus O'Neil) by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "11:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) defeated The New Day (Big E and Xavier Woods) (c) (with Kofi Kingston) by pinfall",
+          "stipulation": "Tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "19:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "John Cena defeated Baron Corbin by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:15"
+        },
+        {
+          "match": "Natalya defeated Naomi (c) by submission",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "11:10"
+        },
+        {
+          "match": "Big Cass defeated Big Show by pinfall",
+          "stipulation": "Singles match · Enzo Amore was suspended above the ring in a shark cage.",
+          "time": "10:30"
+        },
+        {
+          "match": "Randy Orton defeated Rusev by pinfall",
+          "stipulation": "Singles match",
+          "time": "0:10"
+        },
+        {
+          "match": "Sasha Banks defeated Alexa Bliss (c) by submission",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "13:10"
+        },
+        {
+          "match": "\"The Demon\" Finn Bálor defeated Bray Wyatt by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:40"
+        },
+        {
+          "match": "Dean Ambrose and Seth Rollins defeated Cesaro and Sheamus (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "18:35"
+        },
+        {
+          "match": "AJ Styles (c) defeated Kevin Owens by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship · Shane McMahon was the special guest referee.",
+          "time": "17:20"
+        },
+        {
+          "match": "Jinder Mahal (c) (with The Singh Brothers) defeated Shinsuke Nakamura by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "11:25"
+        },
+        {
+          "match": "Brock Lesnar (c) (with Paul Heyman) defeated Roman Reigns, Braun Strowman, and Samoa Joe by pinfall",
+          "stipulation": "Fatal four-way match for the WWE Universal Championship · Had Lesnar lost the title, he and Heyman would have left WWE.",
+          "time": "20:51"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-mae-young-classic-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Mae Young Classic Finale",
+      "session": "ple",
+      "startsAt": "2017-09-12T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Thomas & Mack Center",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bianca Belair defeated Aliyah",
+          "stipulation": "Mae Young Classic Qualifying Match"
+        },
+        {
+          "match": "Vanessa Borne defeated Jayme Hachey",
+          "stipulation": "Mae Young Classic Qualifying Match"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-no-mercy-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "2017-09-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Elias defeated Apollo Crews (with Titus O'Neil) by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:35",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Miz (c) (with Bo Dallas and Curtis Axel) defeated Jason Jordan by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "10:15"
+        },
+        {
+          "match": "Finn Bálor defeated Bray Wyatt by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:35"
+        },
+        {
+          "match": "Dean Ambrose and Seth Rollins (c) defeated Cesaro and Sheamus by pinfall",
+          "stipulation": "Tag team match for the WWE Raw Tag Team Championship",
+          "time": "15:55"
+        },
+        {
+          "match": "Alexa Bliss (c) defeated Bayley, Emma, Nia Jax, and Sasha Banks by pinfall",
+          "stipulation": "Fatal 5-Way match for the WWE Raw Women's Championship",
+          "time": "9:40"
+        },
+        {
+          "match": "Roman Reigns defeated John Cena by pinfall",
+          "stipulation": "Singles match",
+          "time": "22:05"
+        },
+        {
+          "match": "Enzo Amore defeated Neville (c) by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "10:40"
+        },
+        {
+          "match": "Brock Lesnar (c) (with Paul Heyman) defeated Braun Strowman by pinfall",
+          "stipulation": "Singles match for the WWE Universal Championship",
+          "time": "9:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-hell-in-a-cell-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2017-10-08T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Little Caesars Arena",
+      "city": "Detroit, Michigan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Chad Gable and Shelton Benjamin defeated The Hype Bros (Mojo Rawley and Zack Ryder) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "11:20",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) defeated The New Day (Big E and Xavier Woods) (c) (with Kofi Kingston) by pinfall",
+          "stipulation": "Hell in a Cell match for the WWE SmackDown Tag Team Championship",
+          "time": "22:00"
+        },
+        {
+          "match": "Randy Orton defeated Rusev by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:40"
+        },
+        {
+          "match": "Baron Corbin defeated AJ Styles (c) and Tye Dillinger by pinfall",
+          "stipulation": "Triple threat match for the WWE United States Championship",
+          "time": "19:20"
+        },
+        {
+          "match": "Charlotte Flair defeated Natalya (c) by disqualification",
+          "stipulation": "Singles match for the WWE SmackDown Women's Championship",
+          "time": "12:15"
+        },
+        {
+          "match": "Jinder Mahal (c) (with The Singh Brothers) defeated Shinsuke Nakamura by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "12:10"
+        },
+        {
+          "match": "Bobby Roode defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:35"
+        },
+        {
+          "match": "Kevin Owens defeated Shane McMahon by pinfall",
+          "stipulation": "Falls Count Anywhere Hell in a Cell match",
+          "time": "39:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-tlc-tables-ladders-chairs-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "TLC: Tables, Ladders & Chairs",
+      "session": "ple",
+      "startsAt": "2017-10-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Target Center",
+      "city": "Minneapolis, Minnesota",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Sasha Banks defeated Alicia Fox by submission",
+          "stipulation": "Singles match",
+          "time": "11:00",
+          "note": "pre-show"
+        },
+        {
+          "match": "Asuka defeated Emma by submission",
+          "stipulation": "Singles match",
+          "time": "9:25"
+        },
+        {
+          "match": "Rich Swann and Cedric Alexander defeated Gentleman Jack Gallagher and The Brian Kendrick by pinfall",
+          "stipulation": "Tag team match",
+          "time": "8:00"
+        },
+        {
+          "match": "Alexa Bliss (c) defeated Mickie James by pinfall",
+          "stipulation": "Singles match for the WWE Raw Women's Championship",
+          "time": "11:25"
+        },
+        {
+          "match": "Enzo Amore defeated Kalisto (c) by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "8:45"
+        },
+        {
+          "match": "\"The Demon\" Finn Bálor defeated AJ Styles by pinfall",
+          "stipulation": "Singles match",
+          "time": "18:20"
+        },
+        {
+          "match": "Jason Jordan defeated Elias by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:50"
+        },
+        {
+          "match": "Kurt Angle and The Shield (Seth Rollins and Dean Ambrose) defeated Braun Strowman, The Miz, Kane and The Bar (Cesaro and Sheamus) by pinfall",
+          "stipulation": "3-on-5 Handicap Tag Team Tables, Ladders, and Chairs match",
+          "time": "35:25"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-survivor-series-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2017-11-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Toyota Center",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Elias defeated Matt Hardy by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:15",
+          "note": "pre-show"
+        },
+        {
+          "match": "Enzo Amore (c) defeated Kalisto by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "8:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "Kevin Owens and Sami Zayn defeated Breezango (Fandango and Tyler Breeze) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "7:45",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Shield (Dean Ambrose, Roman Reigns, and Seth Rollins) (Raw) defeated The New Day (Big E, Kofi Kingston, and Xavier Woods) (SmackDown) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "21:20"
+        },
+        {
+          "match": "Team Raw (Alicia Fox, Sasha Banks, Bayley, Asuka, and Nia Jax) defeated Team SmackDown (Becky Lynch, Naomi, Carmella, Natalya, and Tamina) (with Lana)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "18:35"
+        },
+        {
+          "match": "Baron Corbin (SmackDown's United States Champion) defeated The Miz (Raw's Intercontinental Champion) (with Bo Dallas and Curtis Axel) by pinfall",
+          "stipulation": "Champion vs. Champion singles match",
+          "time": "9:35"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (SmackDown Tag Team Champions) defeated Cesaro and Sheamus (Raw Tag Team Champions) by pinfall",
+          "stipulation": "Champions vs. Champions tag team match",
+          "time": "15:55"
+        },
+        {
+          "match": "Charlotte Flair (SmackDown Women's Champion) defeated Alexa Bliss (Raw Women's Champion) by submission",
+          "stipulation": "Champion vs. Champion singles match",
+          "time": "15:00"
+        },
+        {
+          "match": "Brock Lesnar (Raw's Universal Champion) (with Paul Heyman) defeated AJ Styles (SmackDown's WWE Champion) by pinfall",
+          "stipulation": "Champion vs. Champion singles match",
+          "time": "15:25"
+        },
+        {
+          "match": "Team Raw (Kurt Angle, Braun Strowman, Finn Bálor, Samoa Joe, and Triple H) defeated Team SmackDown (Shane McMahon, Randy Orton, Bobby Roode, Shinsuke Nakamura, and John Cena)",
+          "stipulation": "5-on-5 Survivor Series match · Had Team Raw lost, Kurt Angle would have been fired as Raw General Manager.",
+          "time": "33:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2017-clash-of-champions-2017",
+      "competition": "wwe",
+      "season": "2017",
+      "title": "Clash of Champions",
+      "session": "ple",
+      "startsAt": "2017-12-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "TD Garden",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Mojo Rawley defeated Zack Ryder by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "Dolph Ziggler defeated Baron Corbin (c) and Bobby Roode by pinfall",
+          "stipulation": "Triple threat match for the WWE United States Championship",
+          "time": "12:45"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated The New Day (Big E and Kofi Kingston) (with Xavier Woods), Chad Gable and Shelton Benjamin, and Rusev and Aiden English by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE SmackDown Tag Team Championship",
+          "time": "12:00"
+        },
+        {
+          "match": "Charlotte Flair (c) defeated Natalya by submission",
+          "stipulation": "Lumberjack match for the WWE SmackDown Women's Championship",
+          "time": "10:35"
+        },
+        {
+          "match": "The Bludgeon Brothers (Harper and Rowan) defeated Breezango (Fandango and Tyler Breeze) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "1:55"
+        },
+        {
+          "match": "Kevin Owens and Sami Zayn defeated Randy Orton and Shinsuke Nakamura by pinfall",
+          "stipulation": "Tag team match with Shane McMahon and Daniel Bryan as special guest referees · Had Owens and Zayn lost, they would have been fired from WWE.",
+          "time": "21:40"
+        },
+        {
+          "match": "AJ Styles (c) defeated Jinder Mahal (with The Singh Brothers) by submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "23:00"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

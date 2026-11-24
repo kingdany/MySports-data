@@ -1,0 +1,606 @@
+{
+  "competition": "wwe",
+  "season": "2025",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2025-royal-rumble-2025",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2025-02-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Lucas Oil Stadium",
+      "city": "Indianapolis, Indiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Charlotte Flair won by last eliminating Roxanne Perez",
+          "stipulation": "30-woman Royal Rumble match for a world championship match at WrestleMania 41"
+        },
+        {
+          "match": "#DIY (Johnny Gargano and Tommaso Ciampa) (c) defeated The Motor City Machine Guns (Alex Shelley and Chris Sabin) by 2–1",
+          "stipulation": "Two out of three falls match for the WWE Tag Team Championship",
+          "time": "14:00"
+        },
+        {
+          "match": "Cody Rhodes (c) defeated Kevin Owens by retrieving both championship belts",
+          "stipulation": "Ladder match for the Undisputed WWE Championship · The \"Undisputed\" and \"Winged Eagle\" championship belts were suspended above the ring and both had to be retrieved in order to win.",
+          "time": "25:05"
+        },
+        {
+          "match": "Jey Uso won by last eliminating John Cena",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 41"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-elimination-chamber-2025",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2025-03-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Rogers Centre",
+      "city": "Toronto, Ontario, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bianca Belair defeated Alexa Bliss, Bayley, Liv Morgan, Naomi, and Roxanne Perez",
+          "stipulation": "Elimination Chamber match for a Women's World Championship match at WrestleMania 41",
+          "time": "29:15"
+        },
+        {
+          "match": "Tiffany Stratton and Trish Stratus defeated Nia Jax and Candice LeRae by pinfall",
+          "stipulation": "Tag team match",
+          "time": "11:40"
+        },
+        {
+          "match": "Kevin Owens defeated Sami Zayn by pinfall",
+          "stipulation": "Unsanctioned match",
+          "time": "27:35"
+        },
+        {
+          "match": "John Cena defeated CM Punk, Damian Priest, Drew McIntyre, Logan Paul, and Seth \"Freakin\" Rollins",
+          "stipulation": "Elimination Chamber match for an Undisputed WWE Championship match at WrestleMania 41",
+          "time": "32:40"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-wrestlemania-41-1",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "WrestleMania 41 – Notte 1",
+      "session": "ple",
+      "startsAt": "2025-04-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allegiant Stadium",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jey Uso defeated Gunther (c) by submission",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "16:30"
+        },
+        {
+          "match": "The New Day (Kofi Kingston and Xavier Woods) defeated The War Raiders (Erik and Ivar) (c) by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "9:15"
+        },
+        {
+          "match": "Jade Cargill defeated Naomi by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:20"
+        },
+        {
+          "match": "Jacob Fatu defeated LA Knight (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "10:40"
+        },
+        {
+          "match": "El Grande Americano defeated Rey Fénix by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:55"
+        },
+        {
+          "match": "Tiffany Stratton (c) defeated Charlotte Flair by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "19:05"
+        },
+        {
+          "match": "Seth \"Freakin\" Rollins defeated Roman Reigns and CM Punk (with Paul Heyman) by pinfall",
+          "stipulation": "Triple threat match",
+          "time": "32:55"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-wrestlemania-41-2",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "WrestleMania 41 – Notte 2",
+      "session": "ple",
+      "startsAt": "2025-04-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allegiant Stadium",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Iyo Sky (c) defeated Bianca Belair and Rhea Ripley by pinfall",
+          "stipulation": "Triple threat match for the Women's World Championship",
+          "time": "14:25"
+        },
+        {
+          "match": "Drew McIntyre defeated Damian Priest by pinfall",
+          "stipulation": "Sin City Street Fight",
+          "time": "13:55"
+        },
+        {
+          "match": "Dominik Mysterio defeated Bron Breakker (c), Finn Bálor, and Penta by pinfall",
+          "stipulation": "Fatal four-way match for the WWE Intercontinental Championship",
+          "time": "10:30"
+        },
+        {
+          "match": "Randy Orton defeated Joe Hendry by pinfall",
+          "stipulation": "Singles match · This was an open challenge.",
+          "time": "3:10"
+        },
+        {
+          "match": "Logan Paul defeated AJ Styles by pinfall",
+          "stipulation": "Singles match",
+          "time": "17:50"
+        },
+        {
+          "match": "Lyra Valkyria and Becky Lynch defeated Liv Morgan and Raquel Rodriguez (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "8:40"
+        },
+        {
+          "match": "John Cena defeated Cody Rhodes (c) by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Championship",
+          "time": "21:40"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-backlash-2025",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2025-05-10T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Enterprise Center",
+      "city": "St. Louis, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jacob Fatu (c) defeated LA Knight, Damian Priest, and Drew McIntyre by pinfall",
+          "stipulation": "Fatal four-way match for the WWE United States Championship",
+          "time": "17:55"
+        },
+        {
+          "match": "Lyra Valkyria (c) defeated Becky Lynch by pinfall",
+          "stipulation": "Singles match for the WWE Women's Intercontinental Championship",
+          "time": "18:45"
+        },
+        {
+          "match": "Dominik Mysterio (c) defeated Penta by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "9:20"
+        },
+        {
+          "match": "Gunther defeated Pat McAfee by technical submission",
+          "stipulation": "Singles match",
+          "time": "14:00"
+        },
+        {
+          "match": "John Cena (c) defeated Randy Orton by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Championship",
+          "time": "27:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-money-in-the-bank-2025",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2025-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Intuit Dome",
+      "city": "Inglewood, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Naomi defeated Alexa Bliss, Giulia, Rhea Ripley, Roxanne Perez, and Stephanie Vaquer by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a women's championship match contract",
+          "time": "25:15"
+        },
+        {
+          "match": "Dominik Mysterio (c) (with Liv Morgan) defeated Octagón Jr. by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "4:55"
+        },
+        {
+          "match": "Becky Lynch defeated Lyra Valkyria (c) by pinfall",
+          "stipulation": "Last Chance match for the WWE Women's Intercontinental Championship · Since Valkyria lost, she was forced to raise Lynch's hand and acknowledge her as the better woman. Had Lynch lost, she would have never been able to challenge for the title again for as long as Valkyria was champion.",
+          "time": "15:20"
+        },
+        {
+          "match": "Seth Rollins (with Paul Heyman) defeated Andrade, El Grande Americano, LA Knight, Penta, and Solo Sikoa by retrieving the briefcase",
+          "stipulation": "Money in the Bank ladder match for a men's championship match contract",
+          "time": "33:35"
+        },
+        {
+          "match": "Cody Rhodes and Jey Uso defeated John Cena and Logan Paul by pinfall",
+          "stipulation": "Tag team match",
+          "time": "23:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-night-of-champions-2025",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "Night of Champions",
+      "session": "ple",
+      "startsAt": "2025-06-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Kingdom Arena",
+      "city": "Riyadh, Saudi Arabia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Cody Rhodes defeated Randy Orton by pinfall",
+          "stipulation": "King of the Ring tournament final · Since Rhodes won, he was crowned \"King of the Ring\" and earned a match for SmackDown's Undisputed WWE Championship at SummerSlam.",
+          "time": "19:45"
+        },
+        {
+          "match": "Rhea Ripley defeated Raquel Rodriguez by pinfall",
+          "stipulation": "Riyadh Boulevard Street Fight",
+          "time": "14:00"
+        },
+        {
+          "match": "Sami Zayn defeated Karrion Kross (with Scarlett) by pinfall",
+          "stipulation": "Singles match",
+          "time": "13:35"
+        },
+        {
+          "match": "Solo Sikoa defeated Jacob Fatu (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "12:05"
+        },
+        {
+          "match": "Jade Cargill defeated Asuka by pinfall",
+          "stipulation": "Queen of the Ring tournament final · Since Cargill won, she was crowned \"Queen of the Ring\" and earned a match for SmackDown's WWE Women's Championship at SummerSlam.",
+          "time": "8:35"
+        },
+        {
+          "match": "John Cena (c) defeated CM Punk by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Championship",
+          "time": "26:15"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-wwe-evolution-2025",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "Evolution",
+      "session": "ple",
+      "startsAt": "2025-07-13T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "State Farm Arena",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Becky Lynch (c) defeated Bayley and Lyra Valkyria by pinfall",
+          "stipulation": "Triple threat match for the WWE Women's Intercontinental Championship",
+          "time": "16:30"
+        },
+        {
+          "match": "Jacy Jayne (c) (with Fallon Henley and Jazmyn Nyx) defeated Jordynne Grace (with Blake Monroe) by pinfall",
+          "stipulation": "Singles match for the NXT Women's Championship",
+          "time": "10:30"
+        },
+        {
+          "match": "The Judgment Day (Raquel Rodriguez and Roxanne Perez) (c) defeated Charlotte Flair and Alexa Bliss, Sol Ruca and Zaria, and The Kabuki Warriors (Asuka and Kairi Sane) by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE Women's Tag Team Championship",
+          "time": "10:50"
+        },
+        {
+          "match": "Tiffany Stratton (c) defeated Trish Stratus by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "8:30"
+        },
+        {
+          "match": "Jade Cargill defeated Naomi by pinfall",
+          "stipulation": "No Holds Barred match · Bianca Belair was the special guest referee.",
+          "time": "11:10"
+        },
+        {
+          "match": "Stephanie Vaquer won by last eliminating Lash Legend",
+          "stipulation": "20-woman Evolution Battle Royal for a future world championship match",
+          "time": "15:30"
+        },
+        {
+          "match": "Naomi defeated Iyo Sky (c) and Rhea Ripley by pinfall",
+          "stipulation": "Triple threat match for the Women's World Championship · This was Naomi's Money in the Bank cash-in match.",
+          "time": "26:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-summerslam-2025-1",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "SummerSlam – Notte 1",
+      "session": "ple",
+      "startsAt": "2025-08-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Roman Reigns and Jey Uso defeated Bron Breakker and Bronson Reed (with Paul Heyman) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "21:10"
+        },
+        {
+          "match": "Alexa Bliss and Charlotte Flair defeated The Judgment Day (Raquel Rodriguez and Roxanne Perez) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Women's Tag Team Championship",
+          "time": "13:30"
+        },
+        {
+          "match": "Sami Zayn defeated Karrion Kross (with Scarlett) by pinfall",
+          "stipulation": "Singles match · Since Zayn won, Kross had to admit he was wrong about Zayn. Had Kross won, Zayn would have had to admit that Kross was right about Zayn that he was not the good guy he portrayed himself to be.",
+          "time": "8:10"
+        },
+        {
+          "match": "Tiffany Stratton (c) defeated Jade Cargill by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "7:05"
+        },
+        {
+          "match": "Drew McIntyre and Logan Paul defeated Randy Orton and Jelly Roll by pinfall",
+          "stipulation": "Tag team match",
+          "time": "17:10"
+        },
+        {
+          "match": "CM Punk defeated Gunther (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "30:20"
+        },
+        {
+          "match": "Seth Rollins (with Paul Heyman) defeated CM Punk (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship · This was Rollins's Money in the Bank cash-in match.",
+          "time": "0:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-summerslam-2025-2",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "SummerSlam – Notte 2",
+      "session": "ple",
+      "startsAt": "2025-08-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Naomi (c) defeated Rhea Ripley and Iyo Sky by pinfall",
+          "stipulation": "Triple threat match for the Women's World Championship",
+          "time": "16:20"
+        },
+        {
+          "match": "The Wyatt Sicks (Dexter Lumis and Joe Gacy) (c) defeated Andrade and Rey Fénix, #DIY (Johnny Gargano and Tommaso Ciampa), Fraxiom (Axiom and Nathan Frazer), Motor City Machine Guns (Alex Shelley and Chris Sabin), and The Street Profits (Angelo Dawkins and Montez Ford) by retrieving the championship belts",
+          "stipulation": "Six-Pack tag team Tables, Ladders, and Chairs match for the WWE Tag Team Championship",
+          "time": "16:00"
+        },
+        {
+          "match": "Becky Lynch (c) defeated Lyra Valkyria by pinfall",
+          "stipulation": "No Disqualification, No Countout Last Chance match for the WWE Women's Intercontinental Championship · Since Lynch won, Valkyria could no longer challenge for the title for as long as Lynch was champion.",
+          "time": "25:05"
+        },
+        {
+          "match": "Solo Sikoa (c) defeated Jacob Fatu by escaping the cage",
+          "stipulation": "Steel Cage match for the WWE United States Championship",
+          "time": "12:40"
+        },
+        {
+          "match": "Dominik Mysterio (c) defeated AJ Styles by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "10:45"
+        },
+        {
+          "match": "Cody Rhodes defeated John Cena (c) by pinfall",
+          "stipulation": "Street Fight for the Undisputed WWE Championship",
+          "time": "37:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-clash-in-paris",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "Clash in Paris",
+      "session": "ple",
+      "startsAt": "2025-08-31T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Paris La Défense Arena",
+      "city": "La Défense, Nanterre, France",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Roman Reigns defeated Bronson Reed (with Paul Heyman) by pinfall",
+          "stipulation": "Singles match",
+          "time": "22:05"
+        },
+        {
+          "match": "The Wyatt Sicks (Joe Gacy and Dexter Lumis) (c) (with Uncle Howdy, Erick Rowan, and Nikki Cross) defeated The Street Profits (Angelo Dawkins and Montez Ford) (with B-Fab) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "13:10"
+        },
+        {
+          "match": "Becky Lynch (c) defeated Nikki Bella by pinfall",
+          "stipulation": "Singles match for the WWE Women's Intercontinental Championship",
+          "time": "13:07"
+        },
+        {
+          "match": "Rusev defeated Sheamus by submission",
+          "stipulation": "Good Ol' Fashioned Donnybrook match",
+          "time": "20:08"
+        },
+        {
+          "match": "John Cena defeated Logan Paul by pinfall",
+          "stipulation": "Singles match",
+          "time": "26:20"
+        },
+        {
+          "match": "Seth Rollins (c) defeated CM Punk, Jey Uso, and LA Knight by pinfall",
+          "stipulation": "Fatal four-way match for the World Heavyweight Championship",
+          "time": "24:29"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-wrestlepalooza-2025",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "Wrestlepalooza",
+      "session": "ple",
+      "startsAt": "2025-09-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Gainbridge Fieldhouse",
+      "city": "Indianapolis, Indiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Brock Lesnar defeated John Cena by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:50"
+        },
+        {
+          "match": "The Vision (Bronson Reed and Bron Breakker) (with Paul Heyman) defeated The Usos (Jey Uso and Jimmy Uso) by pinfall",
+          "stipulation": "Tag team match · LA Knight was the special guest referee.",
+          "time": "17:12"
+        },
+        {
+          "match": "Stephanie Vaquer defeated Iyo Sky by pinfall",
+          "stipulation": "Singles match for the vacant Women's World Championship",
+          "time": "20:11"
+        },
+        {
+          "match": "CM Punk and AJ Lee defeated Seth Rollins and Becky Lynch by submission",
+          "stipulation": "Mixed tag team match",
+          "time": "29:18"
+        },
+        {
+          "match": "Cody Rhodes (c) defeated Drew McIntyre by pinfall",
+          "stipulation": "Singles match for the Undisputed WWE Championship",
+          "time": "17:17"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-crown-jewel-2025",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "Crown Jewel",
+      "session": "ple",
+      "startsAt": "2025-10-11T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "RAC Arena",
+      "city": "Perth, Western Australia, Australia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bronson Reed (with Paul Heyman) defeated Roman Reigns by pinfall",
+          "stipulation": "Australian Street Fight",
+          "time": "21:00"
+        },
+        {
+          "match": "Stephanie Vaquer (Raw's Women's World Champion) defeated Tiffany Stratton (SmackDown's WWE Women's Champion) by pinfall",
+          "stipulation": "Singles match for the 2025 WWE Women's Crown Jewel Championship",
+          "time": "10:05"
+        },
+        {
+          "match": "John Cena defeated AJ Styles by pinfall",
+          "stipulation": "Singles match",
+          "time": "27:10"
+        },
+        {
+          "match": "Iyo Sky and Rhea Ripley defeated The Kabuki Warriors (Asuka and Kairi Sane) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "19:55"
+        },
+        {
+          "match": "Seth Rollins (Raw's World Heavyweight Champion) defeated Cody Rhodes (SmackDown's Undisputed WWE Champion) by pinfall",
+          "stipulation": "Singles match for the 2025 WWE Crown Jewel Championship",
+          "time": "29:40"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2025-survivor-series-wargames-2025",
+      "competition": "wwe",
+      "season": "2025",
+      "title": "Survivor Series: WarGames",
+      "session": "ple",
+      "startsAt": "2025-11-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Petco Park",
+      "city": "San Diego, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "AJ Lee, Alexa Bliss, Charlotte Flair, Iyo Sky, and Rhea Ripley defeated Becky Lynch, Lash Legend, Nia Jax and The Kabuki Warriors (Asuka and Kairi Sane) by submission",
+          "stipulation": "Women's WarGames match",
+          "time": "41:10"
+        },
+        {
+          "match": "Dominik Mysterio (with Raquel Rodriguez and Roxanne Perez) defeated John Cena (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "16:40"
+        },
+        {
+          "match": "Stephanie Vaquer (c) defeated Nikki Bella by pinfall",
+          "stipulation": "Singles match for the Women's World Championship",
+          "time": "12:20"
+        },
+        {
+          "match": "The Vision (Bron Breakker and Bronson Reed), Logan Paul, Drew McIntyre, and Brock Lesnar (with Paul Heyman) defeated CM Punk, Cody Rhodes, The Usos (Jey Uso and Jimmy Uso), and Roman Reigns by pinfall",
+          "stipulation": "Men's WarGames match",
+          "time": "40:30"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

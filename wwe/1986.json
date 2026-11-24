@@ -1,0 +1,112 @@
+{
+  "competition": "wwe",
+  "season": "1986",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1986-wrestlemania-2-1",
+      "competition": "wwe",
+      "season": "1986",
+      "title": "WrestleMania 2 – Notte 1",
+      "session": "ple",
+      "startsAt": "1986-04-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nassau Veterans Memorial Coliseum",
+      "city": "Uniondale, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Paul Orndorff vs. Magnificent Muraco (with Mr. Fuji) ended in a double countout",
+          "stipulation": "Singles match",
+          "time": "4:10"
+        },
+        {
+          "match": "Randy Savage (c) (with Miss Elizabeth) defeated George Steele",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "5:10"
+        },
+        {
+          "match": "Jake Roberts defeated George Wells",
+          "stipulation": "Singles match",
+          "time": "3:15"
+        },
+        {
+          "match": "Mr. T (with Joe Frazier and Haiti Kid) defeated Roddy Piper (with Lou Duva and Bob Orton) by disqualification",
+          "stipulation": "Boxing match (scheduled for 10, 3 minute long rounds, referee: Jack Lotz, judges: Cab Calloway, Darryl Dawkins, and G. Gordon Liddy)"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1986-wrestlemania-2-2",
+      "competition": "wwe",
+      "season": "1986",
+      "title": "WrestleMania 2 – Notte 2",
+      "session": "ple",
+      "startsAt": "1986-04-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Rosemont Horizon",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Fabulous Moolah (c) defeated Velvet McIntyre",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "1:25"
+        },
+        {
+          "match": "Corporal Kirchner defeated Nikolai Volkoff (with Freddie Blassie)",
+          "stipulation": "Flag match",
+          "time": "2:05"
+        },
+        {
+          "match": "André the Giant won by last eliminating Bret Hart",
+          "stipulation": "WWF vs. NFL Battle Royal",
+          "time": "9:13"
+        },
+        {
+          "match": "The British Bulldogs (Davey Boy Smith and Dynamite Kid) (with Lou Albano and Ozzy Osbourne) defeated the Dream Team (Brutus Beefcake and Greg Valentine) (c) (with Johnny Valiant)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "13:03"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1986-wrestlemania-2-3",
+      "competition": "wwe",
+      "season": "1986",
+      "title": "WrestleMania 2 – Notte 3",
+      "session": "ple",
+      "startsAt": "1986-04-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Los Angeles Memorial Sports Arena",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Ricky Steamboat defeated Hercules Hernandez",
+          "stipulation": "Singles match",
+          "time": "7:27"
+        },
+        {
+          "match": "Adrian Adonis (with Jimmy Hart) defeated Uncle Elmer",
+          "stipulation": "Singles match",
+          "time": "3:01"
+        },
+        {
+          "match": "Hoss Funk and Terry Funk (with Jimmy Hart) defeated Tito Santana and Junkyard Dog",
+          "stipulation": "Tag team match",
+          "time": "11:42"
+        },
+        {
+          "match": "Hulk Hogan (c) defeated King Kong Bundy (with Bobby Heenan)",
+          "stipulation": "Steel cage match for the WWF World Heavyweight Championship",
+          "time": "11:00"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

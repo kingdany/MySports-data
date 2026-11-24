@@ -1,0 +1,894 @@
+{
+  "competition": "wwe",
+  "season": "2015",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2015-royal-rumble-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2015-01-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Wells Fargo Center",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Tyson Kidd and Cesaro (with Adam Rose and Natalya) defeated The New Day (Big E and Kofi Kingston) (with Xavier Woods) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "11:02",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Ascension (Konnor and Viktor) defeated New Age Outlaws (Billy Gunn and Road Dogg) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "5:25"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso) (c) defeated Damien Mizdow and The Miz by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "9:20"
+        },
+        {
+          "match": "The Bella Twins (Brie Bella and Nikki Bella) defeated Paige and Natalya by pinfall",
+          "stipulation": "Tag team match",
+          "time": "8:05"
+        },
+        {
+          "match": "Brock Lesnar (c) (with Paul Heyman) defeated Seth Rollins (with Jamie Noble and Joey Mercury) and John Cena by pinfall",
+          "stipulation": "Triple threat match for the WWE World Heavyweight Championship",
+          "time": "22:42"
+        },
+        {
+          "match": "Roman Reigns won by last eliminating Rusev",
+          "stipulation": "30-man Royal Rumble match for a WWE World Heavyweight Championship match at WrestleMania 31",
+          "time": "59:31"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-fastlane-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "Fastlane",
+      "session": "ple",
+      "startsAt": "2015-02-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "FedExForum",
+      "city": "Memphis, Tennessee",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Authority (Big Show, Kane, and Seth Rollins) (with J&J Security (Jamie Noble and Joey Mercury) defeated Dolph Ziggler, Erick Rowan, and Ryback by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "13:01"
+        },
+        {
+          "match": "Goldust (with Dusty Rhodes) defeated Stardust by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:55"
+        },
+        {
+          "match": "Brass Ring Club (Tyson Kidd and Cesaro) (with Natalya) defeated The Usos (Jey Uso and Jimmy Uso) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "09:33"
+        },
+        {
+          "match": "Nikki Bella (c) (with Brie Bella) defeated Paige by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "05:34"
+        },
+        {
+          "match": "Bad News Barrett (c) defeated Dean Ambrose by disqualification",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "7:58"
+        },
+        {
+          "match": "Rusev (c) (with Lana) defeated John Cena by technical submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "18:44"
+        },
+        {
+          "match": "Roman Reigns defeated Daniel Bryan by pinfall",
+          "stipulation": "Singles match to determine the number one contender for the WWE World Heavyweight Championship at WrestleMania 31",
+          "time": "20:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-wrestlemania-31",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "WrestleMania 31",
+      "session": "ple",
+      "startsAt": "2015-03-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Levi's Stadium",
+      "city": "Santa Clara, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Tyson Kidd and Cesaro (c) (with Natalya) defeated Los Matadores (Diego and Fernando) (with El Torito), The New Day (Big E and Kofi Kingston) (with Xavier Woods), and The Usos (Jey Uso and Jimmy Uso) (with Naomi) by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE Tag Team Championship",
+          "time": "9:58",
+          "note": "pre-show"
+        },
+        {
+          "match": "Big Show won by last eliminating Damien Mizdow",
+          "stipulation": "30-man André the Giant Memorial Battle Royal for the André the Giant Memorial Trophy",
+          "time": "18:07",
+          "note": "pre-show"
+        },
+        {
+          "match": "Daniel Bryan defeated Bad News Barrett (c), Dean Ambrose, Dolph Ziggler, Luke Harper, R-Truth, and Stardust",
+          "stipulation": "Ladder match for the WWE Intercontinental Championship",
+          "time": "13:47"
+        },
+        {
+          "match": "Randy Orton defeated Seth Rollins (with Jamie Noble and Joey Mercury) by pinfall",
+          "stipulation": "Singles match",
+          "time": "13:15"
+        },
+        {
+          "match": "Triple H defeated Sting by pinfall",
+          "stipulation": "No Disqualification match",
+          "time": "18:36"
+        },
+        {
+          "match": "AJ Lee and Paige defeated The Bella Twins (Brie Bella and Nikki Bella) by submission",
+          "stipulation": "Tag team match",
+          "time": "6:42"
+        },
+        {
+          "match": "John Cena defeated Rusev (c) (with Lana) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "14:31"
+        },
+        {
+          "match": "The Undertaker defeated Bray Wyatt by pinfall",
+          "stipulation": "Singles match",
+          "time": "15:12"
+        },
+        {
+          "match": "Seth Rollins defeated Brock Lesnar (c) (with Paul Heyman) and Roman Reigns by pinfall",
+          "stipulation": "Triple threat match for the WWE World Heavyweight Championship · This was Rollins's Money in the Bank cash-in match.",
+          "time": "16:43"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-extreme-rules-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "Extreme Rules",
+      "session": "ple",
+      "startsAt": "2015-04-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Neville defeated Bad News Barrett by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:36",
+          "note": "pre-show"
+        },
+        {
+          "match": "Dean Ambrose defeated Luke Harper by pinfall",
+          "stipulation": "Chicago Street Fight",
+          "time": "56:10"
+        },
+        {
+          "match": "Dolph Ziggler defeated Sheamus by pinfall",
+          "stipulation": "Kiss Me Arse match",
+          "time": "9:16"
+        },
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (with Xavier Woods) defeated Tyson Kidd and Cesaro (c) (with Natalya) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "9:47"
+        },
+        {
+          "match": "John Cena (c) defeated Rusev (with Lana)",
+          "stipulation": "Russian Chain match for the WWE United States Championship",
+          "time": "13:35"
+        },
+        {
+          "match": "Nikki Bella (c) (with Brie Bella) defeated Naomi by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "8:10"
+        },
+        {
+          "match": "Roman Reigns defeated Big Show",
+          "stipulation": "Last Man Standing match",
+          "time": "19:56"
+        },
+        {
+          "match": "Seth Rollins (c) defeated Randy Orton by escaping the cage",
+          "stipulation": "Steel Cage match for the WWE World Heavyweight Championship · Orton's finisher, the RKO, was banned, and Kane served as the gatekeeper.",
+          "time": "21:02"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-king-of-the-ring-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "King of the Ring",
+      "session": "ple",
+      "startsAt": "2015-04-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "iWireless Center",
+      "city": "Moline, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bad News Barrett defeated Dolph Ziggler",
+          "stipulation": "King of the Ring quarterfinal match",
+          "time": "8:18"
+        },
+        {
+          "match": "R-Truth defeated Stardust",
+          "stipulation": "King of the Ring quarterfinal match",
+          "time": "3:47"
+        },
+        {
+          "match": "Sheamus defeated Dean Ambrose by disqualification",
+          "stipulation": "King of the Ring quarterfinal match",
+          "time": "12:29"
+        },
+        {
+          "match": "Neville defeated Luke Harper",
+          "stipulation": "King of the Ring quarterfinal match",
+          "time": "10:12"
+        },
+        {
+          "match": "Neville defeated Sheamus",
+          "stipulation": "King of the Ring semifinal match",
+          "time": "5:43"
+        },
+        {
+          "match": "Bad News Barrett defeated R-Truth",
+          "stipulation": "King of the Ring semifinal match",
+          "time": "4:37"
+        },
+        {
+          "match": "Bad News Barrett defeated Neville",
+          "stipulation": "King of the Ring final match",
+          "time": "7:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-payback-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "Payback",
+      "session": "ple",
+      "startsAt": "2015-05-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Royal Farms Arena",
+      "city": "Baltimore, Maryland",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "R-Truth defeated Stardust by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:50",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Ascension (Konnor and Viktor) defeated The Mega Powers (Curtis Axel and Macho Mandow) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "2:50",
+          "note": "pre-show"
+        },
+        {
+          "match": "Sheamus defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:20"
+        },
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (c) (with Xavier Woods) defeated Cesaro and Tyson Kidd (with Natalya) by 2–1",
+          "stipulation": "Two out of three falls match for the WWE Tag Team Championship",
+          "time": "12:40"
+        },
+        {
+          "match": "Bray Wyatt defeated Ryback by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:54"
+        },
+        {
+          "match": "John Cena (c) defeated Rusev (with Lana)",
+          "stipulation": "\"I Quit\" match for the WWE United States Championship",
+          "time": "27:58"
+        },
+        {
+          "match": "Naomi and Tamina defeated The Bella Twins (Nikki Bella and Brie Bella) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "6:13"
+        },
+        {
+          "match": "Neville defeated King Barrett by countout",
+          "stipulation": "Singles match",
+          "time": "7:22"
+        },
+        {
+          "match": "Seth Rollins (c) (with Jamie Noble and Joey Mercury) defeated Randy Orton, Dean Ambrose, and Roman Reigns by pinfall",
+          "stipulation": "Fatal four-way match for the WWE World Heavyweight Championship · Had Rollins lost the title, Kane would have been fired as WWE Director of Operations.",
+          "time": "21:06"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-elimination-chamber-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "Elimination Chamber",
+      "session": "ple",
+      "startsAt": "2015-05-31T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "American Bank Center",
+      "city": "Corpus Christi, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Stardust defeated Zack Ryder by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:12",
+          "note": "pre-show"
+        },
+        {
+          "match": "The New Day (Big E, Kofi Kingston, and Xavier Woods) (c) defeated The Prime Time Players (Darren Young and Titus O'Neil), Tyson Kidd and Cesaro (with Natalya), The Ascension (Konnor and Viktor), The Lucha Dragons (Kalisto and Sin Cara), and Los Matadores (Diego and Fernando) (with El Torito)",
+          "stipulation": "Tag team Elimination Chamber match for the WWE Tag Team Championship",
+          "time": "23:40"
+        },
+        {
+          "match": "Nikki Bella (c) defeated Naomi and Paige by pinfall",
+          "stipulation": "Triple threat match for the WWE Divas Championship",
+          "time": "6:04"
+        },
+        {
+          "match": "NXT Champion Kevin Owens defeated WWE United States Champion John Cena by pinfall",
+          "stipulation": "Champion vs Champion match",
+          "time": "19:57"
+        },
+        {
+          "match": "Neville defeated Bo Dallas by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:54"
+        },
+        {
+          "match": "Ryback defeated Sheamus, Dolph Ziggler, Mark Henry, R-Truth, and King Barrett",
+          "stipulation": "Elimination Chamber match for the vacant WWE Intercontinental Championship",
+          "time": "25:12"
+        },
+        {
+          "match": "Dean Ambrose defeated Seth Rollins (c) (with Jamie Noble, Joey Mercury, and Kane) by disqualification",
+          "stipulation": "Singles match for the WWE World Heavyweight Championship · Roman Reigns was barred from ringside.",
+          "time": "21:49"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-money-in-the-bank-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "Money in the Bank",
+      "session": "ple",
+      "startsAt": "2015-06-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nationwide Arena",
+      "city": "Columbus, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "R-Truth defeated King Barrett by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:40",
+          "note": "pre-show"
+        },
+        {
+          "match": "Sheamus defeated Dolph Ziggler, Kane, Kofi Kingston, Neville, Randy Orton, and Roman Reigns",
+          "stipulation": "Money in the Bank ladder match for a WWE World Heavyweight Championship match contract",
+          "time": "21:50"
+        },
+        {
+          "match": "Nikki Bella (c) defeated Paige by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "12:14"
+        },
+        {
+          "match": "Big Show defeated Ryback (c) by disqualification",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "5:25"
+        },
+        {
+          "match": "WWE United States Champion John Cena defeated NXT Champion Kevin Owens by pinfall",
+          "stipulation": "Champion vs. Champion match",
+          "time": "19:15"
+        },
+        {
+          "match": "The Prime Time Players (Darren Young and Titus O'Neil) defeated The New Day (Big E and Xavier Woods) (c) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "5:48"
+        },
+        {
+          "match": "Seth Rollins (c) defeated Dean Ambrose",
+          "stipulation": "Ladder match for the WWE World Heavyweight Championship",
+          "time": "35:40"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-the-beast-in-the-east",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "The Beast in the East",
+      "session": "ple",
+      "startsAt": "2015-07-04T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Ryōgoku Kokugikan",
+      "city": "Sumida, Tokyo, Japan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Cesaro defeated Diego by submission",
+          "stipulation": "Singles match",
+          "time": "8:13",
+          "note": "dark"
+        },
+        {
+          "match": "The Lucha Dragons (Kalisto and Sin Cara) defeated The New Day (Big E and Xavier Woods)",
+          "stipulation": "Tag team match",
+          "time": "6:31",
+          "note": "dark"
+        },
+        {
+          "match": "Chris Jericho defeated Neville by submission",
+          "stipulation": "Singles match",
+          "time": "16:20"
+        },
+        {
+          "match": "Nikki Bella (c) defeated Tamina and Paige",
+          "stipulation": "Triple threat match for the WWE Divas Championship",
+          "time": "7:03"
+        },
+        {
+          "match": "Brock Lesnar defeated Kofi Kingston",
+          "stipulation": "Singles match",
+          "time": "2:35"
+        },
+        {
+          "match": "Finn Bálor defeated Kevin Owens (c)",
+          "stipulation": "Singles match for the NXT Championship",
+          "time": "19:25"
+        },
+        {
+          "match": "Dolph Ziggler and John Cena defeated Kane and King Barrett",
+          "stipulation": "Tag team match",
+          "time": "23:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-battleground-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "Battleground",
+      "session": "ple",
+      "startsAt": "2015-07-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Scottrade Center",
+      "city": "St. Louis, Missouri",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "King Barrett defeated R-Truth by pinfall",
+          "stipulation": "Singles match for Barrett's King of the Ring crown",
+          "time": "9:15",
+          "note": "pre-show"
+        },
+        {
+          "match": "Randy Orton defeated Sheamus by pinfall",
+          "stipulation": "Singles match",
+          "time": "16:54"
+        },
+        {
+          "match": "The Prime Time Players (Darren Young and Titus O'Neil) (c) defeated The New Day (Big E and Kofi Kingston) (with Xavier Woods) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "8:50"
+        },
+        {
+          "match": "Bray Wyatt defeated Roman Reigns by pinfall",
+          "stipulation": "Singles match",
+          "time": "22:42"
+        },
+        {
+          "match": "Charlotte (with Becky Lynch and Paige) defeated Brie Bella (with Alicia Fox and Nikki Bella) and Sasha Banks (with Naomi and Tamina) by submission",
+          "stipulation": "Triple threat match",
+          "time": "11:30"
+        },
+        {
+          "match": "John Cena (c) defeated Kevin Owens by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "22:11"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Seth Rollins (c) by disqualification",
+          "stipulation": "Singles match for the WWE World Heavyweight Championship",
+          "time": "9:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-summerslam-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2015-08-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Barclays Center",
+      "city": "Brooklyn, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Sheamus defeated Randy Orton by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:28"
+        },
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (with Xavier Woods) defeated The Prime Time Players (Darren Young and Titus O'Neil) (c), Los Matadores (Diego and Fernando) (with El Torito) and The Lucha Dragons (Kalisto and Sin Cara) by pinfall",
+          "stipulation": "Fatal four-way tag team match for the WWE Tag Team Championship",
+          "time": "11:20"
+        },
+        {
+          "match": "Dolph Ziggler (with Lana) vs. Rusev (with Summer Rae) ended in a double countout",
+          "stipulation": "Singles match",
+          "time": "11:50"
+        },
+        {
+          "match": "Neville and Stephen Amell defeated King Barrett and Stardust by pinfall",
+          "stipulation": "Tag team match",
+          "time": "7:35"
+        },
+        {
+          "match": "Ryback (c) defeated Big Show and The Miz by pinfall",
+          "stipulation": "Triple threat match for the WWE Intercontinental Championship",
+          "time": "5:33"
+        },
+        {
+          "match": "Dean Ambrose and Roman Reigns defeated The Wyatt Family (Bray Wyatt and Luke Harper) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "10:55"
+        },
+        {
+          "match": "Seth Rollins (WWE) defeated John Cena (US) by pinfall",
+          "stipulation": "Winner Takes All match for the WWE World Heavyweight Championship and WWE United States Championship",
+          "time": "19:44"
+        },
+        {
+          "match": "Team PCB (Becky Lynch, Charlotte, and Paige) defeated Team B.A.D. (Naomi, Sasha Banks, and Tamina) and Team Bella (Alicia Fox, Brie Bella, and Nikki Bella) by pinfall",
+          "stipulation": "Three-team elimination match",
+          "time": "15:20"
+        },
+        {
+          "match": "Kevin Owens defeated Cesaro by pinfall",
+          "stipulation": "Singles match",
+          "time": "14:18"
+        },
+        {
+          "match": "The Undertaker defeated Brock Lesnar (with Paul Heyman) by technical submission",
+          "stipulation": "Singles match",
+          "time": "17:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-night-of-champions-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "Night of Champions",
+      "session": "ple",
+      "startsAt": "2015-09-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Toyota Center",
+      "city": "Houston, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Stardust and The Ascension (Konnor and Viktor) defeated Neville and The Lucha Dragons (Kalisto and Sin Cara) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "9:44",
+          "note": "pre-show"
+        },
+        {
+          "match": "Kevin Owens defeated Ryback (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "9:32"
+        },
+        {
+          "match": "Dolph Ziggler defeated Rusev (with Summer Rae) by pinfall",
+          "stipulation": "Singles match",
+          "time": "13:47"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) defeated The New Day (Big E and Kofi Kingston) (with Xavier Woods) (c) by disqualification",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "9:57"
+        },
+        {
+          "match": "Charlotte (with Becky Lynch and Paige) defeated Nikki Bella (c) (with Alicia Fox and Brie Bella) by submission",
+          "stipulation": "Singles match for the WWE Divas Championship · Had Nikki been counted out or disqualified, she would have lost the title.",
+          "time": "12:41"
+        },
+        {
+          "match": "The Wyatt Family (Bray Wyatt, Luke Harper, and Braun Strowman) defeated Roman Reigns, Dean Ambrose, and Chris Jericho by technical submission",
+          "stipulation": "Six-man tag team match",
+          "time": "13:04"
+        },
+        {
+          "match": "John Cena defeated Seth Rollins (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "16:01"
+        },
+        {
+          "match": "Seth Rollins (c) defeated Sting by pinfall",
+          "stipulation": "Singles match for the WWE World Heavyweight Championship",
+          "time": "14:56"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-wwe-live-from-madison-square-garden",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "Live from Madison Square Garden",
+      "session": "ple",
+      "startsAt": "2015-10-03T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Madison Square Garden",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Zack Ryder defeated Bo Dallas",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Mark Henry defeated Brad Maddox",
+          "stipulation": "Singles match",
+          "time": "0:25",
+          "note": "dark"
+        },
+        {
+          "match": "Randy Orton and Dolph Ziggler defeated Sheamus and Rusev (with Summer Rae)",
+          "stipulation": "Tag team match",
+          "time": "9:00"
+        },
+        {
+          "match": "Neville defeated Stardust",
+          "stipulation": "Singles match",
+          "time": "7:20"
+        },
+        {
+          "match": "Team Bella (Nikki Bella, Brie Bella, and Alicia Fox) defeated Team PCB (Paige, Charlotte, and Becky Lynch)",
+          "stipulation": "Six-woman tag team match",
+          "time": "8:35"
+        },
+        {
+          "match": "Kevin Owens (c) defeated Chris Jericho",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "8:10"
+        },
+        {
+          "match": "The Dudley Boyz (Bubba Ray and D-Von) defeated The New Day (Big E and Kofi Kingston) (with Xavier Woods) (c) by disqualification",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "6:40"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated Big Show",
+          "stipulation": "Singles match",
+          "time": "4:05"
+        },
+        {
+          "match": "John Cena (c) defeated Seth Rollins",
+          "stipulation": "Steel Cage match for the WWE United States Championship",
+          "time": "22:43"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-hell-in-a-cell-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "Hell in a Cell",
+      "session": "ple",
+      "startsAt": "2015-10-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Staples Center",
+      "city": "Los Angeles, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Dolph Ziggler, Cesaro, and Neville defeated Rusev, Sheamus, and King Barrett by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "11:30",
+          "note": "pre-show"
+        },
+        {
+          "match": "Alberto Del Rio (with Zeb Colter) defeated John Cena (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "7:48"
+        },
+        {
+          "match": "Roman Reigns defeated Bray Wyatt by pinfall",
+          "stipulation": "Hell in a Cell match",
+          "time": "23:03"
+        },
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (c) defeated The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "8:24"
+        },
+        {
+          "match": "Charlotte (c) defeated Nikki Bella by submission",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "10:39"
+        },
+        {
+          "match": "Seth Rollins (c) defeated Kane by pinfall",
+          "stipulation": "Singles match for the WWE World Heavyweight Championship · Since \"Demon\" Kane lost, \"Corporate\" Kane was fired from his role as Director of Operations.",
+          "time": "14:35"
+        },
+        {
+          "match": "Kevin Owens (c) defeated Ryback by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "5:35"
+        },
+        {
+          "match": "Brock Lesnar (with Paul Heyman) defeated The Undertaker by pinfall",
+          "stipulation": "Hell in a Cell match",
+          "time": "18:10"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-survivor-series-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2015-11-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Philips Arena",
+      "city": "Atlanta, Georgia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Dudley Boyz (Bubba Ray Dudley and D-Von Dudley), Goldust, Neville, and Titus O'Neil defeated Bo Dallas, The Ascension (Konnor and Viktor), Stardust, and The Miz",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "18:10",
+          "note": "pre-show"
+        },
+        {
+          "match": "Roman Reigns defeated Alberto Del Rio (with Zeb Colter) by pinfall",
+          "stipulation": "WWE World Heavyweight Championship tournament semifinal match",
+          "time": "14:05"
+        },
+        {
+          "match": "Dean Ambrose defeated Kevin Owens by pinfall",
+          "stipulation": "WWE World Heavyweight Championship tournament semifinal match",
+          "time": "11:20"
+        },
+        {
+          "match": "The Usos (Jey Uso and Jimmy Uso), The Lucha Dragons (Kalisto and Sin Cara), and Ryback defeated King Barrett, Sheamus, and The New Day (Big E, Kofi Kingston, and Xavier Woods)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "17:33"
+        },
+        {
+          "match": "Charlotte (c) defeated Paige by submission",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "14:18"
+        },
+        {
+          "match": "Tyler Breeze (with Summer Rae) defeated Dolph Ziggler by pinfall",
+          "stipulation": "Singles match",
+          "time": "06:41"
+        },
+        {
+          "match": "The Brothers of Destruction (Kane and The Undertaker) defeated The Wyatt Family (Bray Wyatt and Luke Harper) (with Braun Strowman and Erick Rowan) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "10:18"
+        },
+        {
+          "match": "Roman Reigns defeated Dean Ambrose by pinfall",
+          "stipulation": "Tournament final for the vacant WWE World Heavyweight Championship",
+          "time": "9:02"
+        },
+        {
+          "match": "Sheamus defeated Roman Reigns (c) by pinfall",
+          "stipulation": "Singles match for the WWE World Heavyweight Championship · This was Sheamus's Money in the Bank cash-in match.",
+          "time": "0:38"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2015-tlc-tables-ladders-chairs-2015",
+      "competition": "wwe",
+      "season": "2015",
+      "title": "TLC: Tables, Ladders & Chairs",
+      "session": "ple",
+      "startsAt": "2015-12-13T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "TD Garden",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Sasha Banks (with Naomi and Tamina) defeated Becky Lynch by submission",
+          "stipulation": "Singles match",
+          "time": "11:30",
+          "note": "pre-show"
+        },
+        {
+          "match": "The New Day (Big E and Kofi Kingston) (c) (with Xavier Woods) defeated The Lucha Dragons (Kalisto and Sin Cara) and The Usos (Jey Uso and Jimmy Uso)",
+          "stipulation": "Triple threat tag team ladder match for the WWE Tag Team Championship",
+          "time": "17:45"
+        },
+        {
+          "match": "Rusev (with Lana) defeated Ryback by technical submission",
+          "stipulation": "Singles match",
+          "time": "7:58"
+        },
+        {
+          "match": "Alberto Del Rio (c) defeated Jack Swagger by pinfall",
+          "stipulation": "Chairs match for the WWE United States Championship",
+          "time": "11:10"
+        },
+        {
+          "match": "The Wyatt Family (Braun Strowman, Bray Wyatt, Erick Rowan, and Luke Harper) defeated The ECW Originals (Bubba Ray Dudley, D-Von Dudley, Rhyno, and Tommy Dreamer)",
+          "stipulation": "Eight-man elimination tables match",
+          "time": "12:26"
+        },
+        {
+          "match": "Dean Ambrose defeated Kevin Owens (c) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "9:53"
+        },
+        {
+          "match": "Charlotte (c) (with Ric Flair) defeated Paige by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "10:38"
+        },
+        {
+          "match": "Sheamus (c) defeated Roman Reigns",
+          "stipulation": "Tables, Ladders, and Chairs match for the WWE World Heavyweight Championship",
+          "time": "23:55"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

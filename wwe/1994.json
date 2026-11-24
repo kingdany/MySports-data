@@ -1,0 +1,289 @@
+{
+  "competition": "wwe",
+  "season": "1994",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1994-royal-rumble-1994",
+      "competition": "wwe",
+      "season": "1994",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "1994-01-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Providence Civic Center",
+      "city": "Providence, Rhode Island",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Brooklyn Brawler defeated Jim Powers",
+          "stipulation": "Singles match",
+          "time": "1:11",
+          "note": "dark"
+        },
+        {
+          "match": "Tatanka defeated Bam Bam Bigelow (with Luna Vachon)",
+          "stipulation": "Singles match",
+          "time": "8:12"
+        },
+        {
+          "match": "The Quebecers (Jacques and Pierre) (c) (with Johnny Polo) defeated Bret Hart and Owen Hart",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "16:48"
+        },
+        {
+          "match": "Razor Ramon (c) defeated Irwin R. Schyster",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "11:30"
+        },
+        {
+          "match": "Yokozuna (c) (with Mr. Fuji and Jim Cornette) defeated The Undertaker (with Paul Bearer) by putting Undertaker in the casket with the lid completely shut",
+          "stipulation": "Casket match for the WWF Championship",
+          "time": "14:20"
+        },
+        {
+          "match": "Bret Hart and Lex Luger co-won by last eliminating each other",
+          "stipulation": "30-man Royal Rumble match for a WWF Championship match at WrestleMania X",
+          "time": "55:04"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1994-wrestlemania-x",
+      "competition": "wwe",
+      "season": "1994",
+      "title": "WrestleMania X",
+      "session": "ple",
+      "startsAt": "1994-03-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Madison Square Garden",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Heavenly Bodies (Tom Prichard and Jimmy Del Ray) (with Jim Cornette) defeated The Bushwhackers (Luke and Butch)",
+          "stipulation": "Tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "Owen Hart defeated Bret Hart",
+          "stipulation": "Singles match",
+          "time": "20:21"
+        },
+        {
+          "match": "Bam Bam Bigelow and Luna Vachon defeated Doink the Clown and Dink the Clown",
+          "stipulation": "Mixed tag team match",
+          "time": "6:09"
+        },
+        {
+          "match": "Randy Savage defeated Crush (with Mr. Fuji)",
+          "stipulation": "Falls Count Anywhere match",
+          "time": "9:49"
+        },
+        {
+          "match": "Alundra Blayze (c) defeated Leilani Kai",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "3:20"
+        },
+        {
+          "match": "Men on a Mission (Mabel and Mo) (with Oscar) defeated The Quebecers (Jacques and Pierre) (c) (with Johnny Polo) by countout",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "7:41"
+        },
+        {
+          "match": "Yokozuna (c) (with Mr. Fuji and Jim Cornette) defeated Lex Luger by disqualification",
+          "stipulation": "Singles match for the WWF Championship · Mr. Perfect was the special guest referee.",
+          "time": "14:40"
+        },
+        {
+          "match": "Earthquake defeated Adam Bomb (with Harvey Wippleman)",
+          "stipulation": "Singles match",
+          "time": "0:35"
+        },
+        {
+          "match": "Razor Ramon (c) defeated Shawn Michaels (with Diesel) by retrieving the championship belts",
+          "stipulation": "Ladder match for the Undisputed WWF Intercontinental Championship",
+          "time": "18:47"
+        },
+        {
+          "match": "Bret Hart defeated Yokozuna (c) (with Mr. Fuji and Jim Cornette)",
+          "stipulation": "Singles match for the WWF Championship · Roddy Piper was the special guest referee.",
+          "time": "10:38"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1994-king-of-the-ring-1994",
+      "competition": "wwe",
+      "season": "1994",
+      "title": "King of the Ring",
+      "session": "ple",
+      "startsAt": "1994-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Baltimore Arena",
+      "city": "Baltimore, Maryland",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Thurman Plugg defeated Kwang (with Harvey Wippleman)",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Razor Ramon defeated Bam Bam Bigelow (with Luna Vachon)",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "8:24"
+        },
+        {
+          "match": "Irwin R. Schyster defeated Mabel (with Oscar)",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "5:34"
+        },
+        {
+          "match": "Owen Hart defeated Tatanka",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "8:18"
+        },
+        {
+          "match": "The 1–2–3 Kid defeated Jeff Jarrett",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "4:39"
+        },
+        {
+          "match": "Diesel (with Shawn Michaels) defeated Bret Hart (c) (with Jim Neidhart) by disqualification",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "22:51"
+        },
+        {
+          "match": "Razor Ramon defeated Irwin R. Schyster",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "5:13"
+        },
+        {
+          "match": "Owen Hart defeated The 1–2–3 Kid",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "3:37"
+        },
+        {
+          "match": "The Headshrinkers (Samu and Fatu) (c) (with Afa and Lou Albano) defeated Yokozuna and Crush (with Mr. Fuji and Jim Cornette)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "9:16"
+        },
+        {
+          "match": "Owen Hart defeated Razor Ramon",
+          "stipulation": "King of the Ring final match",
+          "time": "6:35"
+        },
+        {
+          "match": "Roddy Piper defeated Jerry Lawler",
+          "stipulation": "Singles match",
+          "time": "12:30"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1994-summerslam-1994",
+      "competition": "wwe",
+      "season": "1994",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "1994-08-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "United Center",
+      "city": "Chicago, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Adam Bomb defeated Kwang",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The Million Dollar Corporation (Bam Bam Bigelow and Irwin R. Schyster) (with Ted DiBiase) defeated The Headshrinkers (Fatu and Samu) (with Afa and Lou Albano) by disqualification",
+          "stipulation": "Tag team match",
+          "time": "7:20"
+        },
+        {
+          "match": "Alundra Blayze (c) defeated Bull Nakano (with Luna Vachon)",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "8:10"
+        },
+        {
+          "match": "Razor Ramon (with Walter Payton) defeated Diesel (c) (with Shawn Michaels)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "15:03"
+        },
+        {
+          "match": "Tatanka defeated Lex Luger",
+          "stipulation": "Singles match",
+          "time": "6:02"
+        },
+        {
+          "match": "Jeff Jarrett defeated Mabel (with Oscar)",
+          "stipulation": "Singles match",
+          "time": "5:45"
+        },
+        {
+          "match": "Bret Hart (c) defeated Owen Hart by escaping the cage",
+          "stipulation": "Steel Cage match for the WWF Championship",
+          "time": "32:22"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated The Undertaker (with Ted DiBiase)",
+          "stipulation": "Singles match",
+          "time": "8:57"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1994-survivor-series-1994",
+      "competition": "wwe",
+      "season": "1994",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1994-11-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Freeman Coliseum",
+      "city": "San Antonio, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bob Holly defeated Kwang (with Harvey Wippleman)",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "The Bad Guys (Razor Ramon, 1-2-3 Kid, The British Bulldog, Fatu, and Sione) (with Afa and Lou Albano) defeated The Teamsters (Diesel, Jeff Jarrett, Jim Neidhart, Owen Hart, and Shawn Michaels)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "21:45"
+        },
+        {
+          "match": "The Royal Family (Jerry Lawler, Cheesy, Queasy, and Sleazy) defeated Clowns Are Us (Doink the Clown, Dink the Clown, Pink the Clown, and Wink the Clown)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "16:05"
+        },
+        {
+          "match": "Bob Backlund (with Owen Hart) defeated Bret Hart (c) (with The British Bulldog) when Helen Hart threw Bret's towel into the ring",
+          "stipulation": "Throw in the Towel match for the WWF Championship",
+          "time": "35:11"
+        },
+        {
+          "match": "The Million Dollar Team (Bam Bam Bigelow, Jimmy Del Ray, King Kong Bundy, Tatanka, and Tom Prichard) (with Jim Cornette and Ted DiBiase) defeated Guts and Glory (Adam Bomb, Bart Gunn, Billy Gunn, Lex Luger, and Mabel) (with Oscar)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "23:21"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Yokozuna (with Jim Cornette and Mr. Fuji) by putting Yokozuna in the casket with the lid completely shut",
+          "stipulation": "Casket match · Chuck Norris was the special outside enforcer.",
+          "time": "15:24"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

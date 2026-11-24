@@ -1,0 +1,619 @@
+{
+  "competition": "wwe",
+  "season": "1995",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1995-royal-rumble-1995",
+      "competition": "wwe",
+      "season": "1995",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "1995-01-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "USF Sun Dome",
+      "city": "Tampa, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Buck Quartermaine defeated The Brooklyn Brawler by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Jeff Jarrett (with The Roadie) defeated Razor Ramon (c) by pinfall",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "18:06"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Irwin R. Schyster (with Ted DiBiase) by pinfall",
+          "stipulation": "Singles match",
+          "time": "12:21"
+        },
+        {
+          "match": "Diesel (c) vs. Bret Hart ended in a draw",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "27:19"
+        },
+        {
+          "match": "The 1–2–3 Kid and Bob Holly defeated The Million Dollar Corporation (Bam Bam Bigelow and Tatanka) (with Ted DiBiase) by pinfall",
+          "stipulation": "Tag team tournament final for the vacant WWF Tag Team Championship",
+          "time": "15:32"
+        },
+        {
+          "match": "Shawn Michaels won by last eliminating The British Bulldog",
+          "stipulation": "30-man Royal Rumble match for a WWF Championship match at WrestleMania XI",
+          "time": "38:41"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1995-wrestlemania-xi",
+      "competition": "wwe",
+      "season": "1995",
+      "title": "WrestleMania XI",
+      "session": "ple",
+      "startsAt": "1995-04-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Hartford Civic Center",
+      "city": "Hartford, Connecticut",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Allied Powers (Lex Luger and The British Bulldog) defeated The Blu Brothers (Jacob Blu and Eli Blu) (with Uncle Zebekiah)",
+          "stipulation": "Tag team match",
+          "time": "6:34"
+        },
+        {
+          "match": "Razor Ramon (with The 1–2–3 Kid) defeated Jeff Jarrett (c) (with The Roadie) by disqualification",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "13:32"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated King Kong Bundy (with Ted DiBiase)",
+          "stipulation": "Singles match · Larry Young was the special guest referee.",
+          "time": "6:36"
+        },
+        {
+          "match": "Owen Hart and Yokozuna (with Mr. Fuji and Jim Cornette) defeated The Smoking Gunns (Billy Gunn and Bart Gunn) (c)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "9:42"
+        },
+        {
+          "match": "Bret Hart defeated Bob Backlund by making Backlund say \"I quit\"",
+          "stipulation": "\"I Quit\" match · Roddy Piper was the special guest referee.",
+          "time": "9:34"
+        },
+        {
+          "match": "Diesel (c) (with Pamela Anderson) defeated Shawn Michaels (with Sid and Jenny McCarthy)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "20:35"
+        },
+        {
+          "match": "Lawrence Taylor defeated Bam Bam Bigelow (with Ted DiBiase)",
+          "stipulation": "Singles match · Pat Patterson was the special guest referee.",
+          "time": "11:42"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1995-in-your-house-1",
+      "competition": "wwe",
+      "season": "1995",
+      "title": "In Your House",
+      "session": "ple",
+      "startsAt": "1995-05-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Onondaga County War Memorial",
+      "city": "Syracuse, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Hunter Hearst Helmsley defeated Phil Apollo",
+          "stipulation": "Singles match",
+          "time": "6:38",
+          "note": "dark"
+        },
+        {
+          "match": "Jean-Pierre Lafitte defeated Bob Holly",
+          "stipulation": "Singles match",
+          "time": "5:32",
+          "note": "dark"
+        },
+        {
+          "match": "Bret Hart defeated Hakushi (with Shinja)",
+          "stipulation": "Singles match",
+          "time": "14:39"
+        },
+        {
+          "match": "Razor Ramon defeated Jeff Jarrett and The Roadie",
+          "stipulation": "Handicap match",
+          "time": "12:36"
+        },
+        {
+          "match": "Mabel (with Mo) defeated Adam Bomb",
+          "stipulation": "King of the Ring qualifying match",
+          "time": "1:54"
+        },
+        {
+          "match": "Owen Hart and Yokozuna (c) (with Mr. Fuji and Jim Cornette) defeated The Smoking Gunns (Billy Gunn and Bart Gunn)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "5:44"
+        },
+        {
+          "match": "Jerry Lawler defeated Bret Hart",
+          "stipulation": "Singles match",
+          "time": "5:01"
+        },
+        {
+          "match": "Diesel (c) defeated Sid (with Ted DiBiase) by disqualification",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "11:31"
+        },
+        {
+          "match": "Owen Hart vs. The British Bulldog ended in a draw",
+          "stipulation": "King of the Ring qualifying match",
+          "time": "15:00",
+          "note": "dark"
+        },
+        {
+          "match": "Bam Bam Bigelow defeated Tatanka (with Ted DiBiase)",
+          "stipulation": "Singles match",
+          "time": "8:50",
+          "note": "dark"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Kama (with Ted DiBiase)",
+          "stipulation": "Singles match",
+          "time": "13:08",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1995-king-of-the-ring-1995",
+      "competition": "wwe",
+      "season": "1995",
+      "title": "King of the Ring",
+      "session": "ple",
+      "startsAt": "1995-06-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "CoreStates Spectrum",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Savio Vega (with Razor Ramon) defeated Irwin R. Schyster (with Ted DiBiase)",
+          "stipulation": "King of the Ring qualifying match",
+          "time": "5:01",
+          "note": "pre-show"
+        },
+        {
+          "match": "Savio Vega (with Razor Ramon) defeated Yokozuna (with Mr. Fuji and Jim Cornette) by countout",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "8:24"
+        },
+        {
+          "match": "The Roadie (with Jeff Jarrett) defeated Bob Holly",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "7:11"
+        },
+        {
+          "match": "Shawn Michaels vs. Kama (with Ted DiBiase) ended in a time-limit draw",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "15:00"
+        },
+        {
+          "match": "Mabel (with Mo) defeated The Undertaker (with Paul Bearer)",
+          "stipulation": "King of the Ring quarter-final match",
+          "time": "10:44"
+        },
+        {
+          "match": "Savio Vega (with Razor Ramon) defeated The Roadie (with Jeff Jarrett)",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "6:36"
+        },
+        {
+          "match": "Bret Hart defeated Jerry Lawler",
+          "stipulation": "Kiss my Foot match",
+          "time": "9:20"
+        },
+        {
+          "match": "Mabel (with Mo) defeated Savio Vega",
+          "stipulation": "King of the Ring final match",
+          "time": "8:32"
+        },
+        {
+          "match": "Diesel and Bam Bam Bigelow defeated Tatanka and Sycho Sid (with Ted DiBiase)",
+          "stipulation": "Tag team match",
+          "time": "17:35"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1995-in-your-house-2",
+      "competition": "wwe",
+      "season": "1995",
+      "title": "In Your House",
+      "session": "ple",
+      "startsAt": "1995-07-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nashville Municipal Auditorium",
+      "city": "Nashville, Tennessee",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Skip (with Sunny) defeated Aldo Montoya",
+          "stipulation": "Singles match",
+          "time": "4:00",
+          "note": "dark"
+        },
+        {
+          "match": "Hunter Hearst Helmsley defeated Bob Holly",
+          "stipulation": "Singles match",
+          "time": "7:03",
+          "note": "dark"
+        },
+        {
+          "match": "The Roadie defeated The 1–2–3 Kid",
+          "stipulation": "Singles match",
+          "time": "7:26"
+        },
+        {
+          "match": "Men on a Mission (King Mabel and Sir Mo) defeated Razor Ramon and Savio Vega",
+          "stipulation": "Tag team match",
+          "time": "10:09"
+        },
+        {
+          "match": "Bam Bam Bigelow defeated Henry O. Godwinn",
+          "stipulation": "Singles match",
+          "time": "5:33"
+        },
+        {
+          "match": "Shawn Michaels defeated Jeff Jarrett (c) (with The Roadie)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "20:01"
+        },
+        {
+          "match": "Owen Hart and Yokozuna (c) (with Mr. Fuji and Jim Cornette) defeated The Allied Powers (Lex Luger and The British Bulldog)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "10:54"
+        },
+        {
+          "match": "Diesel (c) defeated Sycho Sid (with Ted DiBiase)",
+          "stipulation": "Lumberjack match for the WWF Championship",
+          "time": "10:06"
+        },
+        {
+          "match": "Bret Hart defeated Jean-Pierre Lafitte",
+          "stipulation": "Singles match",
+          "time": "13:26",
+          "note": "dark"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Kama (with Ted DiBiase)",
+          "stipulation": "Casket match",
+          "time": "14:50",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1995-summerslam-1995",
+      "competition": "wwe",
+      "season": "1995",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "1995-08-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Civic Arena",
+      "city": "Pittsburgh, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Hakushi defeated The 1–2–3 Kid",
+          "stipulation": "Singles match",
+          "time": "9:27"
+        },
+        {
+          "match": "Hunter Hearst Helmsley defeated Bob Holly",
+          "stipulation": "Singles match",
+          "time": "7:10"
+        },
+        {
+          "match": "The Smoking Gunns (Billy and Bart) defeated The Blu Brothers (Jacob and Eli) (with Uncle Zebekiah)",
+          "stipulation": "Tag team match",
+          "time": "6:09"
+        },
+        {
+          "match": "Barry Horowitz defeated Skip (with Sunny)",
+          "stipulation": "Singles match",
+          "time": "11:21"
+        },
+        {
+          "match": "Bertha Faye (with Harvey Wippleman) defeated Alundra Blayze (c)",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "4:14"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Kama (with Ted DiBiase)",
+          "stipulation": "Casket match",
+          "time": "16:26"
+        },
+        {
+          "match": "Bret Hart defeated Isaac Yankem, DDS by disqualification",
+          "stipulation": "Singles match",
+          "time": "16:07"
+        },
+        {
+          "match": "Shawn Michaels (c) defeated Razor Ramon",
+          "stipulation": "Ladder match for the WWF Intercontinental Championship",
+          "time": "25:01"
+        },
+        {
+          "match": "Diesel (c) defeated King Mabel (with Sir Mo)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "9:14"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1995-in-your-house-3",
+      "competition": "wwe",
+      "season": "1995",
+      "title": "In Your House",
+      "session": "ple",
+      "startsAt": "1995-09-24T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Saginaw Civic Center",
+      "city": "Saginaw, Michigan",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Hunter Hearst Helmsley defeated Fatu",
+          "stipulation": "Singles match",
+          "time": "10:20",
+          "note": "dark"
+        },
+        {
+          "match": "Savio Vega defeated Waylon Mercy",
+          "stipulation": "Singles match",
+          "time": "7:06"
+        },
+        {
+          "match": "Sycho Sid (with Ted DiBiase) defeated Henry O. Godwinn",
+          "stipulation": "Singles match",
+          "time": "7:23"
+        },
+        {
+          "match": "The British Bulldog defeated Bam Bam Bigelow",
+          "stipulation": "Singles match",
+          "time": "12:00"
+        },
+        {
+          "match": "Dean Douglas (with Bob Backlund) defeated Razor Ramon",
+          "stipulation": "Singles match",
+          "time": "14:53"
+        },
+        {
+          "match": "Bret Hart defeated Jean-Pierre Lafitte via submission",
+          "stipulation": "Singles match",
+          "time": "16:37"
+        },
+        {
+          "match": "Diesel (WWF) and Shawn Michaels (Intercontinental) defeated The British Bulldog and Yokozuna (Tag Team) (with Jim Cornette and Mr. Fuji)",
+          "stipulation": "Tag team match for the WWF Championship, WWF Intercontinental Championship, and WWF Tag Team Championship · The stipulation was that whoever was pinned would lose their respective title.",
+          "time": "15:42"
+        },
+        {
+          "match": "Goldust defeated Bob Holly",
+          "stipulation": "Singles match",
+          "time": "12:11",
+          "note": "dark"
+        },
+        {
+          "match": "Ahmed Johnson defeated Skip (with Sunny)",
+          "stipulation": "Singles match",
+          "time": "5:30",
+          "note": "dark"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated King Mabel (with Sir Mo)",
+          "stipulation": "Singles match",
+          "time": "7:04",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1995-in-your-house-4",
+      "competition": "wwe",
+      "season": "1995",
+      "title": "In Your House",
+      "session": "ple",
+      "startsAt": "1995-10-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Winnipeg Arena",
+      "city": "Winnipeg, Manitoba, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Bob Holly defeated Rad Radford",
+          "stipulation": "Singles match",
+          "time": "4:02",
+          "note": "dark"
+        },
+        {
+          "match": "Hunter Hearst Helmsley defeated Fatu",
+          "stipulation": "Singles match",
+          "time": "8:06"
+        },
+        {
+          "match": "The Smoking Gunns (Billy and Bart) (c) defeated The 1-2-3 Kid and Razor Ramon",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "12:46"
+        },
+        {
+          "match": "Goldust defeated Marty Jannetty",
+          "stipulation": "Singles match",
+          "time": "11:15"
+        },
+        {
+          "match": "King Mabel (with Sir Mo) vs. Yokozuna (with Mr. Fuji and Jim Cornette) ended in a double countout",
+          "stipulation": "Singles match",
+          "time": "5:12"
+        },
+        {
+          "match": "Razor Ramon defeated Dean Douglas (c)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "11:01"
+        },
+        {
+          "match": "The British Bulldog (with Jim Cornette) defeated Diesel (c) by disqualification",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "18:14"
+        },
+        {
+          "match": "Henry O. Godwinn defeated Sycho Sid",
+          "stipulation": "Singles match",
+          "time": "12:34",
+          "note": "dark"
+        },
+        {
+          "match": "Owen Hart and Yokozuna (with Mr Fuji and Jim Cornette) defeated Savio Vega and Bam Bam Bigelow",
+          "stipulation": "Tag team match",
+          "time": "13:22",
+          "note": "dark"
+        },
+        {
+          "match": "Bret Hart defeated Isaac Yankem, DDS",
+          "stipulation": "Singles match",
+          "time": "14:10",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1995-survivor-series-1995",
+      "competition": "wwe",
+      "season": "1995",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1995-11-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "USAir Arena",
+      "city": "Landover, Maryland",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Smoking Gunns (Billy Gunn and Bart Gunn) defeated The Public Enemy (Rocco Rock and Johnny Grunge)",
+          "stipulation": "Tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "The BodyDonnas (Skip, Rad Radford, Dr. Tom Prichard, and 1-2-3 Kid) (with Sunny and Ted DiBiase) defeated The Underdogs (Marty Jannetty, Hakushi, Barry Horowitz, and Bob Holly) by pinfall",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "18:45"
+        },
+        {
+          "match": "Bertha Faye, Aja Kong, Tomoko Watanabe, and Lioness Asuka (with Harvey Wippleman) defeated Alundra Blayze, Kyoko Inoue, Sakie Hasegawa, and Chaparita Asari by pinfall",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "10:01"
+        },
+        {
+          "match": "Goldust defeated Bam Bam Bigelow by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:18"
+        },
+        {
+          "match": "The Darkside (The Undertaker, Savio Vega, Fatu, and Henry O. Godwinn) (with Paul Bearer) defeated The Royals (King Mabel, Jerry Lawler, Isaac Yankem, and Hunter Hearst Helmsley) (with Sir Mo) by count-out",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "14:21"
+        },
+        {
+          "match": "Shawn Michaels, Ahmed Johnson, The British Bulldog, and Sycho Sid (with Jim Cornette and Ted DiBiase) defeated Yokozuna, Owen Hart, Razor Ramon, and Dean Douglas (with Mr. Fuji) by pinfall",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "27:24"
+        },
+        {
+          "match": "Bret Hart defeated Diesel (c) by pinfall",
+          "stipulation": "No Disqualification match for the WWF Championship",
+          "time": "24:54"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1995-in-your-house-5",
+      "competition": "wwe",
+      "season": "1995",
+      "title": "In Your House",
+      "session": "ple",
+      "startsAt": "1995-12-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Hersheypark Arena",
+      "city": "Hershey, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Razor Ramon and Marty Jannetty defeated The 1-2-3 Kid and Sycho Sid (with Ted DiBiase)",
+          "stipulation": "Tag team match",
+          "time": "12:22"
+        },
+        {
+          "match": "Ahmed Johnson defeated Buddy Landel (with Dean Douglas)",
+          "stipulation": "Singles match",
+          "time": "0:45"
+        },
+        {
+          "match": "Hunter Hearst Helmsley defeated Henry O. Godwinn by throwing Godwinn in the hog pen",
+          "stipulation": "Arkansas Hog Pen match · Hillbilly Jim was the special guest referee.",
+          "time": "8:58"
+        },
+        {
+          "match": "Owen Hart (with Jim Cornette) defeated Diesel by disqualification",
+          "stipulation": "Singles match",
+          "time": "4:34"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated King Mabel (with Sir Mo) by putting Mabel in the casket with the lid completely shut",
+          "stipulation": "Casket match",
+          "time": "6:11"
+        },
+        {
+          "match": "Bret Hart (c) defeated The British Bulldog (with Diana Smith and Jim Cornette)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "21:09"
+        },
+        {
+          "match": "Goldust defeated Duke Droese",
+          "stipulation": "Singles match",
+          "time": "6:38",
+          "note": "dark"
+        },
+        {
+          "match": "Barry Horowitz, Hakushi, and The Smoking Gunns (Billy Gunn and Bart Gunn) defeated Yokozuna, Isaac Yankem, DDS, and The Bodydonnas (Skip and Zip) (with Sunny)",
+          "stipulation": "Eight-man tag team match",
+          "time": "11:38",
+          "note": "dark"
+        },
+        {
+          "match": "Bob Backlund defeated Savio Vega",
+          "stipulation": "Singles match",
+          "time": "6:22",
+          "note": "dark"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

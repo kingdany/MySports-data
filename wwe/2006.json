@@ -1,0 +1,817 @@
+{
+  "competition": "wwe",
+  "season": "2006",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2006-new-year-s-revolution-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "New Year's Revolution",
+      "session": "ple",
+      "startsAt": "2006-01-08T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Pepsi Arena",
+      "city": "Albany, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Chavo Guerrero defeated Snitsky by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:18",
+          "note": "pre-show"
+        },
+        {
+          "match": "Ric Flair (c) defeated Edge (with Lita) by disqualification",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "7:17"
+        },
+        {
+          "match": "Trish Stratus (c) defeated Mickie James by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "7:18"
+        },
+        {
+          "match": "Jerry Lawler defeated Gregory Helms by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:32"
+        },
+        {
+          "match": "Triple H defeated Big Show by pinfall",
+          "stipulation": "Singles match",
+          "time": "16:11"
+        },
+        {
+          "match": "Shelton Benjamin (with Momma Benjamin) defeated Viscera by pinfall",
+          "stipulation": "Singles match",
+          "time": "7:48"
+        },
+        {
+          "match": "Ashley defeated Candice Michelle, Maria, Torrie Wilson and Victoria",
+          "stipulation": "Bra & Panties Gauntlet match",
+          "time": "11:01"
+        },
+        {
+          "match": "John Cena (c) defeated Carlito, Chris Masters, Shawn Michaels, Kane, and Kurt Angle",
+          "stipulation": "Elimination Chamber match for the WWE Championship",
+          "time": "28:23"
+        },
+        {
+          "match": "Edge (with Lita) defeated John Cena (c) by pinfall",
+          "stipulation": "Singles match for the WWE Championship · This was Edge's Money in the Bank cash-in match.",
+          "time": "1:46"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-royal-rumble-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2006-01-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "American Airlines Arena",
+      "city": "Miami, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Finlay defeated Brian Kendrick",
+          "stipulation": "Singles match",
+          "time": "2:07",
+          "note": "pre-show"
+        },
+        {
+          "match": "Gregory Helms defeated Kid Kash (c), Funaki, Jamie Noble, Nunzio, and Paul London",
+          "stipulation": "Cruiserweight Open for the WWE Cruiserweight Championship",
+          "time": "7:40"
+        },
+        {
+          "match": "Mickie James defeated Ashley",
+          "stipulation": "Singles match with Trish Stratus as special guest referee",
+          "time": "7:44"
+        },
+        {
+          "match": "The Boogeyman defeated John \"Bradshaw\" Layfield (with Jillian Hall)",
+          "stipulation": "Singles match",
+          "time": "1:54"
+        },
+        {
+          "match": "Rey Mysterio won by last eliminating Randy Orton",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania 22"
+        },
+        {
+          "match": "John Cena defeated Edge (c) (with Lita)",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "14:03"
+        },
+        {
+          "match": "Kurt Angle (c) defeated Mark Henry (with Daivari)",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "9:29"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-no-way-out-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "No Way Out",
+      "session": "ple",
+      "startsAt": "2006-02-19T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "1st Mariner Arena",
+      "city": "Baltimore, Maryland",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Boogeyman defeated Simon Dean by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:55",
+          "note": "pre-show"
+        },
+        {
+          "match": "Gregory Helms (c) defeated Brian Kendrick, Funaki, Kid Kash, Nunzio, Paul London, Psicosis, Scotty 2 Hotty, and Super Crazy",
+          "stipulation": "Cruiserweight Open for the WWE Cruiserweight Championship",
+          "time": "9:42"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield (with Jillian Hall) defeated Bobby Lashley by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:58"
+        },
+        {
+          "match": "Matt Hardy and Tatanka defeated MNM (Joey Mercury and Johnny Nitro) (with Melina) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "10:28"
+        },
+        {
+          "match": "Chris Benoit defeated Booker T (c) (with Sharmell) by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "18:11"
+        },
+        {
+          "match": "Randy Orton defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match to determine the #1 contender for the World Heavyweight Championship at WrestleMania 22",
+          "time": "17:28"
+        },
+        {
+          "match": "Kurt Angle (c) defeated The Undertaker by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "29:38"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-wrestlemania-22",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "WrestleMania 22",
+      "session": "ple",
+      "startsAt": "2006-04-02T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Allstate Arena",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Viscera won by last eliminating Snitsky",
+          "stipulation": "18 Man Interpromotional Battle Royal",
+          "time": "9:03",
+          "note": "pre-show"
+        },
+        {
+          "match": "Big Show and Kane (c) defeated Carlito and Chris Masters by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "6:42"
+        },
+        {
+          "match": "Rob Van Dam defeated Bobby Lashley, Finlay, Matt Hardy, Ric Flair, and Shelton Benjamin",
+          "stipulation": "Money in the Bank ladder match",
+          "time": "12:14"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield (with Jillian Hall) defeated Chris Benoit (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:45"
+        },
+        {
+          "match": "Edge (with Lita) defeated Mick Foley by pinfall",
+          "stipulation": "Hardcore match",
+          "time": "14:36"
+        },
+        {
+          "match": "The Boogeyman defeated Booker T and Queen Sharmell by pinfall",
+          "stipulation": "Intergender Handicap match",
+          "time": "3:43"
+        },
+        {
+          "match": "Mickie James defeated Trish Stratus (c) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "8:31"
+        },
+        {
+          "match": "The Undertaker defeated Mark Henry",
+          "stipulation": "Casket match",
+          "time": "9:26"
+        },
+        {
+          "match": "Shawn Michaels defeated Mr. McMahon (with Shane McMahon) by pinfall",
+          "stipulation": "No Holds Barred match",
+          "time": "18:24"
+        },
+        {
+          "match": "Rey Mysterio defeated Kurt Angle (c) and Randy Orton by pinfall",
+          "stipulation": "Triple threat match for the World Heavyweight Championship",
+          "time": "9:19"
+        },
+        {
+          "match": "Torrie Wilson defeated Candice Michelle",
+          "stipulation": "Playboy pillow fight match",
+          "time": "3:57"
+        },
+        {
+          "match": "John Cena (c) defeated Triple H by submission",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "22:02"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-backlash-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2006-04-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Rupp Arena",
+      "city": "Lexington, Kentucky",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Goldust defeated Rob Conway",
+          "stipulation": "Singles match",
+          "time": "3:38",
+          "note": "pre-show"
+        },
+        {
+          "match": "Carlito defeated Chris Masters",
+          "stipulation": "Singles match",
+          "time": "9:58"
+        },
+        {
+          "match": "Umaga (with Armando Alejandro Estrada) defeated Ric Flair",
+          "stipulation": "Singles match",
+          "time": "3:29"
+        },
+        {
+          "match": "Trish Stratus defeated Mickie James (c) by disqualification",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "4:06"
+        },
+        {
+          "match": "Rob Van Dam (contract holder) defeated Shelton Benjamin (c)",
+          "stipulation": "Winner Takes All match for the WWE Intercontinental Championship and the Money in the Bank contract",
+          "time": "18:42"
+        },
+        {
+          "match": "Big Show vs. Kane ended in a no contest",
+          "stipulation": "Singles match",
+          "time": "9:30"
+        },
+        {
+          "match": "Mr. McMahon and Shane McMahon defeated Shawn Michaels and \"God\"",
+          "stipulation": "Tag team No Holds Barred match",
+          "time": "19:57"
+        },
+        {
+          "match": "John Cena (c) defeated Edge (with Lita) and Triple H",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "17:33"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-wwe-judgment-day-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "Judgment Day",
+      "session": "ple",
+      "startsAt": "2006-05-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "US Airways Center",
+      "city": "Phoenix, Arizona",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Matt Hardy defeated Simon Dean by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Brian Kendrick and Paul London defeated MNM (Joey Mercury and Johnny Nitro) (c) (with Melina) by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "13:42"
+        },
+        {
+          "match": "Chris Benoit defeated Finlay by submission",
+          "stipulation": "Singles match",
+          "time": "21:10"
+        },
+        {
+          "match": "Jillian Hall defeated Melina by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:18"
+        },
+        {
+          "match": "Gregory Helms (c) defeated Super Crazy by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "9:56"
+        },
+        {
+          "match": "Mark Henry defeated Kurt Angle by countout",
+          "stipulation": "Singles match",
+          "time": "9:11"
+        },
+        {
+          "match": "Booker T (with Sharmell) defeated Bobby Lashley by pinfall",
+          "stipulation": "2006 King of the Ring Final",
+          "time": "9:15"
+        },
+        {
+          "match": "The Great Khali (with Daivari) defeated The Undertaker by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:31"
+        },
+        {
+          "match": "Rey Mysterio (c) defeated John \"Bradshaw\" Layfield by pinfall",
+          "stipulation": "Singles match for the World Championship",
+          "time": "16:01"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-vengeance-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "Vengeance",
+      "session": "ple",
+      "startsAt": "2006-06-25T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Charlotte Bobcats Arena",
+      "city": "Charlotte, North Carolina",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Val Venis defeated Rob Conway",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Randy Orton defeated Kurt Angle",
+          "stipulation": "Singles match",
+          "time": "12:50"
+        },
+        {
+          "match": "Umaga (with Armando Estrada) defeated Eugene (with Jim Duggan, Doink the Clown and Kamala)",
+          "stipulation": "Singles match",
+          "time": "1:42"
+        },
+        {
+          "match": "Ric Flair defeated Mick Foley 2-0",
+          "stipulation": "Two-out-of-three falls match",
+          "time": "7:00"
+        },
+        {
+          "match": "Johnny Nitro (with Melina) defeated Shelton Benjamin (c) and Carlito",
+          "stipulation": "Triple threat match for the WWE Intercontinental Championship",
+          "time": "12:01"
+        },
+        {
+          "match": "Rob Van Dam (c) defeated Edge (with Lita)",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "17:55"
+        },
+        {
+          "match": "Imposter Kane defeated Kane",
+          "stipulation": "Singles match",
+          "time": "7:00"
+        },
+        {
+          "match": "John Cena defeated Sabu by submission",
+          "stipulation": "Extreme Lumberjack match",
+          "time": "6:38"
+        },
+        {
+          "match": "D-Generation X (Shawn Michaels and Triple H) defeated The Spirit Squad (Kenny, Johnny, Mitch, Nicky, and Mikey)",
+          "stipulation": "Handicap match",
+          "time": "17:45"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-the-great-american-bash-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "The Great American Bash",
+      "session": "ple",
+      "startsAt": "2006-07-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Conseco Fieldhouse",
+      "city": "Indianapolis, Indiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Funaki defeated Simon Dean",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Paul London and Brian Kendrick (c) defeated The Pit Bulls (Jamie Noble and Kid Kash)",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "13:40"
+        },
+        {
+          "match": "Finlay (c) defeated William Regal",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "13:49"
+        },
+        {
+          "match": "Gregory Helms defeated Matt Hardy",
+          "stipulation": "Singles match",
+          "time": "11:43"
+        },
+        {
+          "match": "The Undertaker defeated Big Show",
+          "stipulation": "Punjabi Prison match",
+          "time": "21:35"
+        },
+        {
+          "match": "Ashley defeated Kristal Marshall, Jillian Hall and Michelle McCool",
+          "stipulation": "Fatal 4-Way Bra and Panties match",
+          "time": "8:17"
+        },
+        {
+          "match": "Mr. Kennedy defeated Batista by disqualification",
+          "stipulation": "Singles match",
+          "time": "8:38"
+        },
+        {
+          "match": "King Booker (with Queen Sharmell) defeated Rey Mysterio (c)",
+          "stipulation": "Singles match for the World Championship",
+          "time": "16:46"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-summerslam-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2006-08-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "TD Banknorth Garden",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Carlito defeated Rob Conway by pinfall",
+          "stipulation": "Singles match",
+          "time": "6:40",
+          "note": "dark"
+        },
+        {
+          "match": "Chavo Guerrero defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match",
+          "time": "11:01"
+        },
+        {
+          "match": "Big Show (c) defeated Sabu by pinfall",
+          "stipulation": "Extreme Rules match for the ECW World Championship",
+          "time": "8:31"
+        },
+        {
+          "match": "Hulk Hogan defeated Randy Orton by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:57"
+        },
+        {
+          "match": "Ric Flair defeated Mick Foley",
+          "stipulation": "\"I Quit\" match",
+          "time": "13:14"
+        },
+        {
+          "match": "Batista defeated King Booker (c) (with Queen Sharmell) by disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "10:26"
+        },
+        {
+          "match": "D-Generation X (Shawn Michaels and Triple H) defeated Mr. McMahon and Shane McMahon by pinfall",
+          "stipulation": "Tag team match",
+          "time": "13:01"
+        },
+        {
+          "match": "Edge (c) (with Lita) defeated John Cena by pinfall",
+          "stipulation": "Singles match for the WWE Championship · Had Edge been disqualified, he would have lost the championship.",
+          "time": "15:41"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-unforgiven-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "Unforgiven",
+      "session": "ple",
+      "startsAt": "2006-09-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Air Canada Centre",
+      "city": "Toronto, Ontario, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Super Crazy defeated Shelton Benjamin",
+          "stipulation": "Singles match",
+          "time": "7:00",
+          "note": "dark"
+        },
+        {
+          "match": "Johnny Nitro (c) (with Melina) defeated Jeff Hardy",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "17:36"
+        },
+        {
+          "match": "Kane vs. Umaga (with Armando Estrada) ended in a double countout",
+          "stipulation": "Singles match",
+          "time": "7:03"
+        },
+        {
+          "match": "The Spirit Squad (Kenny and Mikey) (c) (with Johnny, Mitch and Nicky) defeated The Highlanders (Robbie McAllister and Rory McAllister)",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "8:59"
+        },
+        {
+          "match": "D-Generation X (Shawn Michaels and Triple H) defeated Big Show, Mr. McMahon, and Shane McMahon",
+          "stipulation": "Handicap Tag Team Hell in a Cell match",
+          "time": "25:05"
+        },
+        {
+          "match": "Trish Stratus defeated Lita (c) by submission",
+          "stipulation": "Singles match for the WWE Women's Championship · This was Trish Stratus' last match of her WWE full-time career",
+          "time": "11:35"
+        },
+        {
+          "match": "Randy Orton defeated Carlito",
+          "stipulation": "Singles match",
+          "time": "8:41"
+        },
+        {
+          "match": "John Cena defeated Edge (c)",
+          "stipulation": "Tables, Ladders, and Chairs match for the WWE Championship · Had Cena lost, he would leave Raw for SmackDown!.",
+          "time": "25:28"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-no-mercy-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "2006-10-08T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "RBC Center",
+      "city": "Raleigh, North Carolina",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jimmy Wang Yang defeated Sylvan",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Matt Hardy defeated Gregory Helms",
+          "stipulation": "Singles match",
+          "time": "13:07"
+        },
+        {
+          "match": "Brian Kendrick and Paul London (c) (with Ashley) defeated K.C. James and Idol Stevens (with Michelle McCool)",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "9:35"
+        },
+        {
+          "match": "Montel Vontavious Porter defeated Marty Garner",
+          "stipulation": "Singles match",
+          "time": "2:28"
+        },
+        {
+          "match": "Mr. Kennedy defeated The Undertaker by disqualification",
+          "stipulation": "Singles match",
+          "time": "20:34"
+        },
+        {
+          "match": "Rey Mysterio defeated Chavo Guerrero (with Vickie Guerrero)",
+          "stipulation": "Falls Count Anywhere match",
+          "time": "12:10"
+        },
+        {
+          "match": "Chris Benoit defeated William Regal by submission",
+          "stipulation": "Singles match",
+          "time": "11:16"
+        },
+        {
+          "match": "King Booker (c) (with Queen Sharmell) defeated Bobby Lashley, Batista, and Finlay",
+          "stipulation": "Fatal 4-Way match for the World Heavyweight Championship",
+          "time": "16:52"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-cyber-sunday-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "Cyber Sunday",
+      "session": "ple",
+      "startsAt": "2006-11-05T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "U.S. Bank Arena",
+      "city": "Cincinnati, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Super Crazy defeated Rob Conway by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:26",
+          "note": "dark"
+        },
+        {
+          "match": "Umaga (with Armando Alejandro Estrada) defeated Kane by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:39"
+        },
+        {
+          "match": "Cryme Tyme (JTG and Shad Gaspard) defeated The Highlanders (Robbie McAllister and Rory McAllister), Charlie Haas and Viscera, and Lance Cade and Trevor Murdoch by pinfall",
+          "stipulation": "Texas Tornado match",
+          "time": "4:28"
+        },
+        {
+          "match": "Jeff Hardy (c) defeated Carlito by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "13:21"
+        },
+        {
+          "match": "Rated-RKO (Edge and Randy Orton) defeated D-Generation X (Shawn Michaels and Triple H) by pinfall",
+          "stipulation": "Tag team match with Eric Bischoff as special guest referee",
+          "time": "18:11"
+        },
+        {
+          "match": "Lita defeated Mickie James by pinfall",
+          "stipulation": "Lumberjill match for the vacant WWE Women's Championship",
+          "time": "8:09"
+        },
+        {
+          "match": "Ric Flair and Roddy Piper (with Dusty Rhodes and Sgt. Slaughter) defeated The Spirit Squad (Kenny and Mikey) (c) (with Johnny, Mitch and Nicky) by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "6:55"
+        },
+        {
+          "match": "King Booker (c) (with Queen Sharmell) defeated Big Show and John Cena by pinfall",
+          "stipulation": "Triple threat match for the World Heavyweight Championship",
+          "time": "21:05"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-survivor-series-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2006-11-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Wachovia Center",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Carlito defeated Charlie Haas by pinfall",
+          "stipulation": "Singles match",
+          "time": "5:00",
+          "note": "dark"
+        },
+        {
+          "match": "Team WWE Legends (Dusty Rhodes, Ric Flair, Ron Simmons and Sgt. Slaughter) (with Arn Anderson) defeated The Spirit Squad (Johnny, Kenny, Mikey and Nicky) (with Mitch)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "10:31"
+        },
+        {
+          "match": "Chris Benoit (c) defeated Chavo Guerrero (with Vickie Guerrero) by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "8:19"
+        },
+        {
+          "match": "Mickie James defeated Lita (c) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship · This was Lita's retirement match.",
+          "time": "8:18"
+        },
+        {
+          "match": "Team D-X (Shawn Michaels, Triple H, CM Punk, Jeff Hardy and Matt Hardy) defeated Team Rated-RKO (Edge, Randy Orton, Gregory Helms, Johnny Nitro and Mike Knox) (with Kelly Kelly and Melina)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "11:30"
+        },
+        {
+          "match": "Mr. Kennedy defeated The Undertaker",
+          "stipulation": "First Blood match",
+          "time": "9:15"
+        },
+        {
+          "match": "Team Cena (John Cena, Bobby Lashley, Kane, Rob Van Dam, and Sabu) defeated Team Big Show (Big Show, Finlay, MVP, Test, and Umaga) (with Armando Alejandro Estrada)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "12:35"
+        },
+        {
+          "match": "Batista defeated King Booker (c) (with Queen Sharmell) by pinfall",
+          "stipulation": "Last Chance match for the World Heavyweight Championship · Had King Booker been counted out or disqualified, he would have lost the title.",
+          "time": "13:58"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2006-armageddon-2006",
+      "competition": "wwe",
+      "season": "2006",
+      "title": "Armageddon",
+      "session": "ple",
+      "startsAt": "2006-12-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Richmond Coliseum",
+      "city": "Richmond, Virginia",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Vladimir Kozlov defeated Scotty 2 Hotty by pinfall",
+          "stipulation": "Singles match",
+          "time": "2:01",
+          "note": "dark"
+        },
+        {
+          "match": "Kane defeated Montel Vontavious Porter by burning",
+          "stipulation": "Inferno match",
+          "time": "8:14"
+        },
+        {
+          "match": "Paul London and Brian Kendrick (c) defeated William Regal and Dave Taylor, MNM (Joey Mercury and Johnny Nitro) (with Melina) and The Hardys (Matt Hardy and Jeff Hardy)",
+          "stipulation": "Fatal four-way ladder match for the WWE Tag Team Championship",
+          "time": "20:13"
+        },
+        {
+          "match": "The Boogeyman defeated The Miz by pinfall",
+          "stipulation": "Singles match",
+          "time": "2:51"
+        },
+        {
+          "match": "Chris Benoit (c) defeated Chavo Guerrero (with Vickie Guerrero) by submission",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "12:14"
+        },
+        {
+          "match": "Gregory Helms (c) defeated Jimmy Wang Yang by pinfall",
+          "stipulation": "Singles match for the WWE Cruiserweight Championship",
+          "time": "10:51"
+        },
+        {
+          "match": "The Undertaker defeated Mr. Kennedy",
+          "stipulation": "Last Ride match",
+          "time": "19:49"
+        },
+        {
+          "match": "Kristal Marshall vs. Layla El vs. Jillian Hall vs. Ashley Massaro ended in a draw (Everyone won via \"Santa's Choice\")",
+          "stipulation": "4-Way Santa's little helpers Lingerie Contest",
+          "time": "6:00"
+        },
+        {
+          "match": "John Cena and Batista defeated King Booker's Court (King Booker and Finlay) (with Queen Sharmell) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "11:29"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

@@ -1,0 +1,779 @@
+{
+  "competition": "wwe",
+  "season": "2008",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-2008-royal-rumble-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "2008-01-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Madison Square Garden",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jimmy Wang Yang and Shannon Moore defeated Deuce 'n Domino",
+          "stipulation": "Tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "Ric Flair defeated Montel Vontavious Porter by submission",
+          "stipulation": "Career Threatening match · If Flair had lost, he would have been forced to retire from in-ring competition.",
+          "time": "7:48"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield defeated Chris Jericho by disqualification",
+          "stipulation": "Singles match",
+          "time": "9:23"
+        },
+        {
+          "match": "Edge (c) (with Vickie Guerrero) defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "12:34"
+        },
+        {
+          "match": "Randy Orton (c) defeated Jeff Hardy by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "14:03"
+        },
+        {
+          "match": "John Cena won by last eliminating Triple H",
+          "stipulation": "30-man Royal Rumble match for a world championship match at WrestleMania XXIV",
+          "time": "51:26"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-no-way-out-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "No Way Out",
+      "session": "ple",
+      "startsAt": "2008-02-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Thomas & Mack Center",
+      "city": "Paradise, Nevada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kane defeated Shelton Benjamin by pinfall",
+          "stipulation": "Singles match",
+          "time": "05:32",
+          "note": "dark"
+        },
+        {
+          "match": "Chavo Guerrero (c) defeated CM Punk by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "07:06"
+        },
+        {
+          "match": "The Undertaker defeated Batista, Finlay, Montel Vontavious Porter, The Great Khali (with Ranjin Singh), and Big Daddy V (with Matt Striker)",
+          "stipulation": "Elimination Chamber match for a World Heavyweight Championship match at WrestleMania XXIV",
+          "time": "29:28"
+        },
+        {
+          "match": "Ric Flair defeated Mr. Kennedy by submission",
+          "stipulation": "Career Threatening match · If Flair had lost, he would be forced to retire.",
+          "time": "07:13"
+        },
+        {
+          "match": "Edge (c) defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship · Curt Hawkins and Zack Ryder were banned from ringside.",
+          "time": "05:27"
+        },
+        {
+          "match": "John Cena defeated Randy Orton (c) by disqualification",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "15:51"
+        },
+        {
+          "match": "Triple H defeated Jeff Hardy, Shawn Michaels, Chris Jericho, Umaga, and John \"Bradshaw\" Layfield",
+          "stipulation": "Elimination Chamber match for a WWE Championship match at WrestleMania XXIV",
+          "time": "23:54"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-wrestlemania-xxiv",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "WrestleMania XXIV",
+      "session": "ple",
+      "startsAt": "2008-03-30T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Florida Citrus Bowl",
+      "city": "Orlando, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Kane won by last eliminating Mark Henry",
+          "stipulation": "24-Man Battle Royal to determine the #1 contender for the ECW Championship",
+          "time": "06:22",
+          "note": "pre-show"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield defeated Finlay (with Hornswoggle) by pinfall",
+          "stipulation": "Belfast Brawl",
+          "time": "08:43"
+        },
+        {
+          "match": "CM Punk defeated Shelton Benjamin, Chris Jericho, Carlito, Montel Vontavious Porter, Mr. Kennedy, and John Morrison",
+          "stipulation": "Money in the Bank ladder match",
+          "time": "15:12"
+        },
+        {
+          "match": "Batista (SmackDown) defeated Umaga (Raw) by pinfall",
+          "stipulation": "'Battle for Brand Supremacy' Singles match",
+          "time": "07:03"
+        },
+        {
+          "match": "Kane defeated Chavo Guerrero (c) by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "00:08"
+        },
+        {
+          "match": "Shawn Michaels defeated Ric Flair by pinfall",
+          "stipulation": "Career Threatening match · Since Flair lost, he had to retire from in-ring competition.",
+          "time": "21:34"
+        },
+        {
+          "match": "Beth Phoenix and Melina (with Santino Marella) defeated Maria and Ashley (with Snoop Dogg) by pinfall",
+          "stipulation": "Playboy BunnyMania Lumberjill match",
+          "time": "05:00"
+        },
+        {
+          "match": "Randy Orton (c) defeated Triple H and John Cena by pinfall",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "15:10"
+        },
+        {
+          "match": "Floyd \"Money\" Mayweather defeated Big Show by knockout",
+          "stipulation": "No Disqualification match",
+          "time": "11:40"
+        },
+        {
+          "match": "The Undertaker defeated Edge (c) by submission",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "24:03"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-backlash-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "Backlash",
+      "session": "ple",
+      "startsAt": "2008-04-27T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "1st Mariner Arena",
+      "city": "Baltimore, Maryland",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "John Morrison and The Miz defeated Jimmy Wang Yang and Shannon Moore by pinfall",
+          "stipulation": "Tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "Matt Hardy defeated Montel Vontavious Porter (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "11:24"
+        },
+        {
+          "match": "Kane (c) defeated Chavo Guerrero (with Bam Neely) by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "8:49"
+        },
+        {
+          "match": "Big Show defeated The Great Khali by pinfall",
+          "stipulation": "Singles match",
+          "time": "8:05"
+        },
+        {
+          "match": "Shawn Michaels defeated Batista by pinfall",
+          "stipulation": "Singles match with Chris Jericho as the special guest referee",
+          "time": "14:59"
+        },
+        {
+          "match": "Beth Phoenix, Jillian Hall, Layla, Melina, Natalya and Victoria defeated Ashley Massaro, Cherry, Kelly Kelly, Maria, Michelle McCool and Mickie James by pinfall",
+          "stipulation": "12-Diva tag team match",
+          "time": "6:31"
+        },
+        {
+          "match": "The Undertaker (c) defeated Edge by submission",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "18:26"
+        },
+        {
+          "match": "Triple H defeated John \"Bradshaw\" Layfield, John Cena and Randy Orton (c)",
+          "stipulation": "Fatal four-way elimination match for the WWE Championship",
+          "time": "29:22"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-wwe-judgment-day-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "Judgment Day",
+      "session": "ple",
+      "startsAt": "2008-05-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Qwest Center Omaha",
+      "city": "Omaha, Nebraska",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Hardcore Holly and Cody Rhodes (c) defeated Santino Marella and Carlito by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "note": "dark"
+        },
+        {
+          "match": "John Cena defeated John \"Bradshaw\" Layfield by pinfall",
+          "stipulation": "Singles match",
+          "time": "15:03"
+        },
+        {
+          "match": "John Morrison and The Miz (c) defeated Kane and CM Punk by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "7:12"
+        },
+        {
+          "match": "Shawn Michaels defeated Chris Jericho by pinfall",
+          "stipulation": "Singles match",
+          "time": "15:56"
+        },
+        {
+          "match": "Mickie James (c) defeated Beth Phoenix and Melina by pinfall",
+          "stipulation": "Triple threat match for the WWE Women's Championship",
+          "time": "6:14"
+        },
+        {
+          "match": "The Undertaker defeated Edge by countout",
+          "stipulation": "Singles match for the vacant World Heavyweight Championship · The title was not awarded due to the match ending in a count out",
+          "time": "16:15"
+        },
+        {
+          "match": "Jeff Hardy defeated Montel Vontavious Porter by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:42"
+        },
+        {
+          "match": "Triple H (c) defeated Randy Orton by pinfall",
+          "stipulation": "Steel Cage match for the WWE Championship",
+          "time": "21:12"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-one-night-stand-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "One Night Stand",
+      "session": "ple",
+      "startsAt": "2008-06-01T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "San Diego Sports Arena",
+      "city": "San Diego, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Matt Hardy defeated Shelton Benjamin by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Jeff Hardy defeated Umaga by pinfall",
+          "stipulation": "Falls Count Anywhere match",
+          "time": "09:27"
+        },
+        {
+          "match": "Big Show defeated Chavo Guerrero, CM Punk, John Morrison, and Tommy Dreamer",
+          "stipulation": "Singapore Cane match to determine the #1 contender for the ECW Championship at Night of Champions",
+          "time": "08:35"
+        },
+        {
+          "match": "John Cena defeated John \"Bradshaw\" Layfield",
+          "stipulation": "First Blood match",
+          "time": "14:30"
+        },
+        {
+          "match": "Beth Phoenix defeated Melina",
+          "stipulation": "\"I Quit\" match",
+          "time": "09:14"
+        },
+        {
+          "match": "Batista defeated Shawn Michaels",
+          "stipulation": "Stretcher match",
+          "time": "17:03"
+        },
+        {
+          "match": "Triple H (c) defeated Randy Orton",
+          "stipulation": "Last Man Standing match for the WWE Championship",
+          "time": "13:15"
+        },
+        {
+          "match": "Edge defeated The Undertaker",
+          "stipulation": "Tables, Ladders, and Chairs match for the vacant World Heavyweight Championship · Since The Undertaker lost, he was forced to leave WWE.",
+          "time": "23:50"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-night-of-champions-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "Night of Champions",
+      "session": "ple",
+      "startsAt": "2008-06-29T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "American Airlines Center",
+      "city": "Dallas, Texas",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jeff Hardy defeated Montel Vontavious Porter by pinfall",
+          "stipulation": "Singles match",
+          "time": "3:34",
+          "note": "dark"
+        },
+        {
+          "match": "John Morrison and The Miz (c) defeated Finlay and Hornswoggle by pinfall",
+          "stipulation": "Tag team match for the WWE Tag Team Championship",
+          "time": "8:48"
+        },
+        {
+          "match": "Matt Hardy (c) defeated Chavo Guerrero (with Bam Neely) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:20"
+        },
+        {
+          "match": "Mark Henry defeated Kane (c) and Big Show by pinfall",
+          "stipulation": "Triple threat match for the ECW Championship",
+          "time": "8:16"
+        },
+        {
+          "match": "Ted DiBiase and Cody Rhodes (c) defeated Hardcore Holly (c)",
+          "stipulation": "Handicap match for the World Tag Team Championship",
+          "time": "1:28"
+        },
+        {
+          "match": "Kofi Kingston defeated Chris Jericho (c) (with Lance Cade) by pinfall",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "11:00"
+        },
+        {
+          "match": "Mickie James (c) defeated Katie Lea Burchill (with Paul Burchill) by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "7:20"
+        },
+        {
+          "match": "Edge (c) defeated Batista by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "16:47"
+        },
+        {
+          "match": "Triple H (c) defeated John Cena by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "19:39"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-the-great-american-bash-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "The Great American Bash",
+      "session": "ple",
+      "startsAt": "2008-07-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Nassau Veterans Memorial Coliseum",
+      "city": "Uniondale, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Umaga defeated Mr. Kennedy",
+          "stipulation": "Singles match",
+          "time": "4:00",
+          "note": "dark"
+        },
+        {
+          "match": "Curt Hawkins and Zack Ryder defeated John Morrison and The Miz (c), Jesse and Festus, and Finlay and Hornswoggle by pinfall",
+          "stipulation": "Fatal four-way match for the WWE Tag Team Championship",
+          "time": "9:05"
+        },
+        {
+          "match": "Shelton Benjamin defeated Matt Hardy (c) by pinfall",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "9:33"
+        },
+        {
+          "match": "Mark Henry (c) (with Tony Atlas) defeated Tommy Dreamer (with Colin Delaney) by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "5:29"
+        },
+        {
+          "match": "Chris Jericho defeated Shawn Michaels by technical knockout",
+          "stipulation": "Singles match",
+          "time": "18:18"
+        },
+        {
+          "match": "Michelle McCool defeated Natalya by submission",
+          "stipulation": "Singles match for the inaugural WWE Divas Championship",
+          "time": "4:14"
+        },
+        {
+          "match": "CM Punk (c) vs. Batista ended in a double disqualification",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "11:10"
+        },
+        {
+          "match": "John \"Bradshaw\" Layfield defeated John Cena by pinfall",
+          "stipulation": "New York City Parking Lot Brawl",
+          "time": "14:36"
+        },
+        {
+          "match": "Triple H (c) defeated Edge by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "16:48"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-summerslam-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "2008-08-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Conseco Fieldhouse",
+      "city": "Indianapolis, Indiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Big Show defeated Bam Neely (with Chavo Guerrero)",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Montel Vontavious Porter defeated Jeff Hardy",
+          "stipulation": "Singles match",
+          "time": "10:10"
+        },
+        {
+          "match": "Glamarella (Santino Marella and Beth Phoenix) defeated Kofi Kingston (Intercontinental) and Mickie James (Women's)",
+          "stipulation": "Winners Take All Mixed tag team match for the WWE Intercontinental Championship and WWE Women's Championship",
+          "time": "5:25"
+        },
+        {
+          "match": "Matt Hardy defeated Mark Henry (c) (with Tony Atlas) by disqualification",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "0:33"
+        },
+        {
+          "match": "CM Punk (c) defeated John \"Bradshaw\" Layfield",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "11:24"
+        },
+        {
+          "match": "Triple H (c) defeated The Great Khali (with Ranjin Singh)",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "9:20"
+        },
+        {
+          "match": "Batista defeated John Cena",
+          "stipulation": "Singles match",
+          "time": "13:41"
+        },
+        {
+          "match": "The Undertaker defeated Edge",
+          "stipulation": "Hell in a Cell match",
+          "time": "26:44"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-unforgiven-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "Unforgiven",
+      "session": "ple",
+      "startsAt": "2008-09-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Quicken Loans Arena",
+      "city": "Cleveland, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Evan Bourne defeated John Morrison by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Matt Hardy defeated Chavo Guerrero, Finlay, Mark Henry (c), and The Miz",
+          "stipulation": "Championship Scramble for the ECW Championship",
+          "time": "20:00"
+        },
+        {
+          "match": "Cody Rhodes and Ted DiBiase (c) defeated Cryme Tyme (JTG and Shad Gaspard) by pinfall",
+          "stipulation": "Tag team match for the World Tag Team Championship",
+          "time": "11:35"
+        },
+        {
+          "match": "Shawn Michaels defeated Chris Jericho by technical knockout",
+          "stipulation": "Unsanctioned match",
+          "time": "26:53"
+        },
+        {
+          "match": "Triple H (c) defeated The Brian Kendrick, Jeff Hardy, Montel Vontavious Porter, and Shelton Benjamin",
+          "stipulation": "Championship Scramble for the WWE Championship",
+          "time": "20:00"
+        },
+        {
+          "match": "Michelle McCool (c) defeated Maryse by pinfall",
+          "stipulation": "Singles match for the WWE Divas Championship",
+          "time": "5:42"
+        },
+        {
+          "match": "Chris Jericho defeated Batista, Kane, John \"Bradshaw\" Layfield, and Rey Mysterio",
+          "stipulation": "Championship Scramble for the vacant World Heavyweight Championship",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-no-mercy-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "No Mercy",
+      "session": "ple",
+      "startsAt": "2008-10-05T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Rose Garden Arena",
+      "city": "Portland, Oregon",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Colóns (Carlito and Primo) defeated John Morrison and The Miz",
+          "stipulation": "Tag team match",
+          "time": "06:45",
+          "note": "dark"
+        },
+        {
+          "match": "Matt Hardy (c) defeated Mark Henry (with Tony Atlas) by pinfall",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "08:08"
+        },
+        {
+          "match": "Beth Phoenix (c) (with Santino Marella) defeated Candice Michelle by pinfall",
+          "stipulation": "Singles match for the WWE Women's Championship",
+          "time": "04:40"
+        },
+        {
+          "match": "Rey Mysterio defeated Kane by disqualification",
+          "stipulation": "Singles match · Had Mysterio lost, he would have had to unmask.",
+          "time": "10:10"
+        },
+        {
+          "match": "Batista defeated John \"Bradshaw\" Layfield by pinfall",
+          "stipulation": "Singles match to determine the #1 contender to the World Heavyweight Championship",
+          "time": "05:18"
+        },
+        {
+          "match": "Big Show defeated The Undertaker by technical knockout",
+          "stipulation": "Singles match",
+          "time": "10:04"
+        },
+        {
+          "match": "Triple H (c) defeated Jeff Hardy by pinfall",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "18:00"
+        },
+        {
+          "match": "Chris Jericho (c) defeated Shawn Michaels",
+          "stipulation": "Ladder match for the World Heavyweight Championship",
+          "time": "22:20"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-cyber-sunday-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "Cyber Sunday",
+      "session": "ple",
+      "startsAt": "2008-10-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "US Airways Center",
+      "city": "Phoenix, Arizona",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Shelton Benjamin (c) defeated R-Truth",
+          "stipulation": "Singles match for the WWE United States Championship",
+          "time": "3:23",
+          "note": "dark"
+        },
+        {
+          "match": "Rey Mysterio defeated Kane",
+          "stipulation": "No Holds Barred match",
+          "time": "10:17"
+        },
+        {
+          "match": "Matt Hardy (c) defeated Evan Bourne",
+          "stipulation": "Singles match for the ECW Championship",
+          "time": "11:01"
+        },
+        {
+          "match": "John Morrison and The Miz defeated Cryme Tyme (JTG and Shad Gaspard)",
+          "stipulation": "Tag team match",
+          "time": "10:22"
+        },
+        {
+          "match": "The Honky Tonk Man defeated Santino Marella (c) (with Beth Phoenix) by disqualification",
+          "stipulation": "Singles match for the WWE Intercontinental Championship",
+          "time": "1:06"
+        },
+        {
+          "match": "The Undertaker defeated Big Show",
+          "stipulation": "Last Man Standing match",
+          "time": "19:23"
+        },
+        {
+          "match": "Triple H (c) defeated Jeff Hardy",
+          "stipulation": "Singles match for the WWE Championship",
+          "time": "15:37"
+        },
+        {
+          "match": "Batista defeated Chris Jericho (c)",
+          "stipulation": "Singles match for the World Heavyweight Championship with \"Stone Cold\" Steve Austin as special guest referee",
+          "time": "17:06"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-survivor-series-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "2008-11-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "TD Banknorth Garden",
+      "city": "Boston, Massachusetts",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Brian Kendrick defeated Kung Fu Naki by pinfall",
+          "stipulation": "Singles match",
+          "note": "dark"
+        },
+        {
+          "match": "Team HBK (Shawn Michaels, The Great Khali, JTG, Rey Mysterio, and Shad Gaspard) (with Ranjin Singh) defeated Team JBL (John \"Bradshaw\" Layfield, John Morrison, Kane, The Miz, and Montel Vontavious Porter)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "18:13"
+        },
+        {
+          "match": "Team Raw (Beth Phoenix, Candice Michelle, Jillian Hall, Kelly Kelly, and Mickie James) (with Santino Marella) defeated Team SmackDown (Maria, Maryse, Michelle McCool, Natalya, and Victoria)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "09:39"
+        },
+        {
+          "match": "The Undertaker defeated Big Show",
+          "stipulation": "Casket match",
+          "time": "12:45"
+        },
+        {
+          "match": "Team Orton (Randy Orton, Cody Rhodes, Mark Henry, Shelton Benjamin, and William Regal) (with Layla, Manu, and Tony Atlas) defeated Team Batista (Batista, CM Punk, Kofi Kingston, Matt Hardy, and R-Truth)",
+          "stipulation": "5-on-5 Survivor Series match",
+          "time": "16:13"
+        },
+        {
+          "match": "Edge defeated Vladimir Kozlov and Triple H (c) by pinfall",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "14:22"
+        },
+        {
+          "match": "John Cena defeated Chris Jericho (c) by pinfall",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "21:19"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2008-armageddon-2008",
+      "competition": "wwe",
+      "season": "2008",
+      "title": "Armageddon",
+      "session": "ple",
+      "startsAt": "2008-12-14T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "HSBC Arena",
+      "city": "Buffalo, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "John Morrison and The Miz defeated Jesse and Festus by pinfall",
+          "stipulation": "Tag team match",
+          "note": "dark"
+        },
+        {
+          "match": "Vladimir Kozlov defeated Matt Hardy by pinfall",
+          "stipulation": "Singles match",
+          "time": "9:02"
+        },
+        {
+          "match": "CM Punk defeated Rey Mysterio by pinfall",
+          "stipulation": "Singles match to determine the #1 contender to the WWE Intercontinental Championship",
+          "time": "12:15"
+        },
+        {
+          "match": "Finlay defeated Mark Henry (with Tony Atlas) by pinfall",
+          "stipulation": "Belfast Brawl",
+          "time": "9:38"
+        },
+        {
+          "match": "Batista defeated Randy Orton (with Cody Rhodes and Manu) by pinfall",
+          "stipulation": "Singles match",
+          "time": "16:41"
+        },
+        {
+          "match": "Kelly Kelly, Maria, Michelle McCool, and Mickie James defeated Jillian Hall, Maryse, Natalya, and Victoria",
+          "stipulation": "Eight-Diva Santa's Little Helper tag team match",
+          "time": "5:32"
+        },
+        {
+          "match": "John Cena (c) defeated Chris Jericho by submission",
+          "stipulation": "Singles match for the World Heavyweight Championship",
+          "time": "12:43"
+        },
+        {
+          "match": "Jeff Hardy defeated Edge (c) and Triple H by pinfall",
+          "stipulation": "Triple threat match for the WWE Championship",
+          "time": "17:19"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

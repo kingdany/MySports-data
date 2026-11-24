@@ -1,0 +1,158 @@
+{
+  "competition": "wwe",
+  "season": "1985",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1985-wrestlemania-i",
+      "competition": "wwe",
+      "season": "1985",
+      "title": "WrestleMania",
+      "session": "ple",
+      "startsAt": "1985-03-31T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Madison Square Garden",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Tito Santana defeated The Executioner by submission",
+          "stipulation": "Singles match",
+          "time": "4:49"
+        },
+        {
+          "match": "King Kong Bundy (with Jimmy Hart) defeated Special Delivery Jones",
+          "stipulation": "Singles match",
+          "time": "0:25"
+        },
+        {
+          "match": "Ricky Steamboat defeated Matt Borne",
+          "stipulation": "Singles match",
+          "time": "4:39"
+        },
+        {
+          "match": "Brutus Beefcake (with Johnny Valiant) vs. David Sammartino (with Bruno Sammartino) ended in a double disqualification",
+          "stipulation": "Singles match",
+          "time": "11:43"
+        },
+        {
+          "match": "Junkyard Dog defeated Greg Valentine (c) (with Jimmy Hart) by countout",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "6:55"
+        },
+        {
+          "match": "The Iron Sheik and Nikolai Volkoff (with Freddie Blassie) defeated the U.S. Express (Barry Windham and Mike Rotundo) (c) (with Lou Albano)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "6:55"
+        },
+        {
+          "match": "André the Giant defeated Big John Studd (with Bobby Heenan)",
+          "stipulation": "Career vs. $15,000 Body Slam Challenge",
+          "time": "5:53"
+        },
+        {
+          "match": "Wendi Richter (with Cyndi Lauper) defeated Leilani Kai (c) (with The Fabulous Moolah)",
+          "stipulation": "Singles match for the WWF Women's Championship",
+          "time": "6:14"
+        },
+        {
+          "match": "Hulk Hogan and Mr. T (with Jimmy Snuka) defeated Paul Orndorff and Roddy Piper (with Bob Orton)",
+          "stipulation": "Tag team match with Muhammad Ali and Pat Patterson as special guest referees",
+          "time": "13:34"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1985-the-wrestling-classic",
+      "competition": "wwe",
+      "season": "1985",
+      "title": "The Wrestling Classic",
+      "session": "ple",
+      "startsAt": "1985-11-07T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Rosemont Horizon",
+      "city": "Rosemont, Illinois",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Adrian Adonis (with Jimmy Hart) defeated Corporal Kirchner",
+          "stipulation": "First round tournament match",
+          "time": "3:20"
+        },
+        {
+          "match": "Dynamite Kid defeated Nikolai Volkoff",
+          "stipulation": "First round tournament match",
+          "time": "0:09"
+        },
+        {
+          "match": "Randy Savage (with Miss Elizabeth) defeated Ivan Putski",
+          "stipulation": "First round tournament match",
+          "time": "2:45"
+        },
+        {
+          "match": "Ricky Steamboat defeated Davey Boy Smith by forfeit",
+          "stipulation": "First round tournament match",
+          "time": "2:53"
+        },
+        {
+          "match": "Junkyard Dog defeated The Iron Sheik",
+          "stipulation": "First round tournament match",
+          "time": "3:25"
+        },
+        {
+          "match": "Moondog Spot defeated Terry Funk (with Jimmy Hart) by countout",
+          "stipulation": "First round tournament match",
+          "time": "0:27"
+        },
+        {
+          "match": "Tito Santana defeated Magnificent Muraco (with Mr. Fuji)",
+          "stipulation": "First round tournament match",
+          "time": "4:17"
+        },
+        {
+          "match": "Paul Orndorff defeated Cowboy Bob Orton by disqualification",
+          "stipulation": "First round tournament match",
+          "time": "6:28"
+        },
+        {
+          "match": "Dynamite Kid defeated Adrian Adonis (with Jimmy Hart)",
+          "stipulation": "Quarter final tournament match",
+          "time": "6:00"
+        },
+        {
+          "match": "Randy Savage (with Miss Elizabeth) defeated Ricky Steamboat",
+          "stipulation": "Quarter final tournament match",
+          "time": "4:00"
+        },
+        {
+          "match": "Junkyard Dog defeated Moondog Spot",
+          "stipulation": "Quarter final tournament match",
+          "time": "0:45"
+        },
+        {
+          "match": "Tito Santana vs. Paul Orndorff ended in a double countout.",
+          "stipulation": "Quarter final tournament match",
+          "time": "8:00"
+        },
+        {
+          "match": "Hulk Hogan (c) defeated Roddy Piper by disqualification",
+          "stipulation": "Singles match for the WWF World Heavyweight Championship",
+          "time": "7:00"
+        },
+        {
+          "match": "Randy Savage (with Miss Elizabeth) defeated Dynamite Kid",
+          "stipulation": "Semi-final tournament match",
+          "time": "5:00"
+        },
+        {
+          "match": "Junkyard Dog defeated Randy Savage (with Miss Elizabeth) by countout",
+          "stipulation": "Tournament finals match",
+          "time": "9:00"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}

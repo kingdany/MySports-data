@@ -1,0 +1,763 @@
+{
+  "competition": "wwe",
+  "season": "1996",
+  "generatedAt": "2026-11-24T15:29:10.4131033+00:00",
+  "events": [
+    {
+      "id": "wwe-1996-royal-rumble-1996",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "Royal Rumble",
+      "session": "ple",
+      "startsAt": "1996-01-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Selland Arena",
+      "city": "Fresno, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Duke Droese defeated Hunter Hearst Helmsley by disqualification",
+          "stipulation": "Singles match for entry #30 in the Royal Rumble match",
+          "time": "6:25",
+          "note": "pre-show"
+        },
+        {
+          "match": "Ahmed Johnson defeated Jeff Jarrett by disqualification",
+          "stipulation": "Singles match",
+          "time": "6:40"
+        },
+        {
+          "match": "The Smoking Gunns (Bart Gunn and Billy Gunn) (c) defeated The Bodydonnas (Skip and Zip) (with Sunny)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "11:14"
+        },
+        {
+          "match": "Goldust (with Marlena) defeated Razor Ramon (c)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "14:17"
+        },
+        {
+          "match": "Shawn Michaels won by last eliminating Diesel",
+          "stipulation": "30-man Royal Rumble match for a WWF Championship match at WrestleMania XII",
+          "time": "58:49"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Bret Hart (c) by disqualification",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "28:31"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1996-in-your-house-6",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "In Your House",
+      "session": "ple",
+      "startsAt": "1996-02-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Louisville Gardens",
+      "city": "Louisville, Kentucky",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Jake Roberts defeated Tatanka (with Ted DiBiase)",
+          "stipulation": "Singles match",
+          "time": "5:36",
+          "note": "pre-show"
+        },
+        {
+          "match": "Razor Ramon defeated The 1–2–3 Kid (with Ted DiBiase)",
+          "stipulation": "Crybaby match",
+          "time": "12:01"
+        },
+        {
+          "match": "Hunter Hearst Helmsley (with Elizabeth Hilden) defeated Duke Droese",
+          "stipulation": "Singles match",
+          "time": "9:38"
+        },
+        {
+          "match": "Yokozuna defeated The British Bulldog (with Jim Cornette) by disqualification",
+          "stipulation": "Singles match",
+          "time": "5:05"
+        },
+        {
+          "match": "Shawn Michaels defeated Owen Hart (with Jim Cornette)",
+          "stipulation": "Singles match for Michael's title opportunity for the WWF Championship at WrestleMania XII",
+          "time": "15:57"
+        },
+        {
+          "match": "Bret Hart (c) defeated Diesel by escaping the cage",
+          "stipulation": "Steel Cage match for the WWF Championship",
+          "time": "19:13"
+        },
+        {
+          "match": "Ahmed Johnson defeated Isaac Yankem, DDS",
+          "stipulation": "Singles match",
+          "time": "11:15",
+          "note": "dark"
+        },
+        {
+          "match": "The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) (with Hillbilly Jim) defeated The Bodydonnas (Skip and Zip) (with Sunny)",
+          "stipulation": "Tag team match",
+          "time": "10:06",
+          "note": "dark"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Goldust (c) (with Marlena) by countout",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "13:40",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1996-wrestlemania-xii",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "WrestleMania XII",
+      "session": "ple",
+      "startsAt": "1996-03-31T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Arrowhead Pond",
+      "city": "Anaheim, California",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Bodydonnas (Skip and Zip) (with Sunny) defeated The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) (with Hillbilly Jim) by pinfall",
+          "stipulation": "Tag team match for the vacant WWF Tag Team Championship",
+          "time": "5:22",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Huckster vs. Nacho Man ended in a no contest",
+          "stipulation": "Singles match · Billionaire Ted was the special guest referee.",
+          "note": "pre-show"
+        },
+        {
+          "match": "The British Bulldog, Owen Hart, and Vader (with Jim Cornette) defeated Ahmed Johnson, Jake Roberts, and Yokozuna (with Mr. Fuji) by pinfall",
+          "stipulation": "Six-man tag team match · Had Yokozuna's team won, he would have received five minutes in the ring with Jim Cornette.",
+          "time": "13:08"
+        },
+        {
+          "match": "Roddy Piper defeated Goldust (with Marlena) by pinfall",
+          "stipulation": "\"Hollywood Backlot Brawl\"",
+          "time": "16:47"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin (with Ted DiBiase) defeated Savio Vega by technical knockout",
+          "stipulation": "Singles match",
+          "time": "10:05"
+        },
+        {
+          "match": "Ultimate Warrior defeated Hunter Hearst Helmsley (with Sable) by pinfall",
+          "stipulation": "Singles match",
+          "time": "1:39"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Diesel by pinfall",
+          "stipulation": "Singles match",
+          "time": "16:46"
+        },
+        {
+          "match": "Shawn Michaels (with José Lothario) defeated Bret Hart (c) by 1–0 in sudden death overtime",
+          "stipulation": "60-minute Iron Man match for the WWF Championship"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1996-in-your-house-7-good-friends-better-enemies",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "In Your House: Good Friends, Better Enemies",
+      "session": "ple",
+      "startsAt": "1996-04-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Omaha Civic Auditorium",
+      "city": "Omaha, Nebraska",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Marc Mero (with Sable) defeated The 1–2–3 Kid (with Ted DiBiase) by disqualification",
+          "stipulation": "Singles match",
+          "time": "7:17",
+          "note": "pre-show"
+        },
+        {
+          "match": "Owen Hart and The British Bulldog defeated Ahmed Johnson and Jake Roberts by submission",
+          "stipulation": "Tag team match",
+          "time": "13:47"
+        },
+        {
+          "match": "Ultimate Warrior defeated Goldust (c) (with Bodyguard and Marlena) by countout",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "7:38"
+        },
+        {
+          "match": "Vader (with Jim Cornette) defeated Razor Ramon",
+          "stipulation": "Singles match",
+          "time": "14:49"
+        },
+        {
+          "match": "The Bodydonnas (Skip and Zip) (c) (with Sunny) defeated The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) (with Hillbilly Jim)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "7:17"
+        },
+        {
+          "match": "Shawn Michaels (c) (with José Lothario) defeated Diesel",
+          "stipulation": "No Holds Barred match for the WWF Championship",
+          "time": "17:53"
+        },
+        {
+          "match": "Savio Vega defeated \"Stone Cold\" Steve Austin (with Ted DiBiase)",
+          "stipulation": "Singles match",
+          "time": "10:38",
+          "note": "dark"
+        },
+        {
+          "match": "The Undertaker defeated Mankind (with Paul Bearer)",
+          "stipulation": "Singles match",
+          "time": "13:24",
+          "note": "dark"
+        },
+        {
+          "match": "Hunter Hearst Helmsley defeated Marc Mero (with Sable)",
+          "stipulation": "Singles match",
+          "time": "14:10",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1996-in-your-house-8-beware-of-dog-1",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "In Your House: Beware of Dog – Notte 1",
+      "session": "ple",
+      "startsAt": "1996-05-26T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Florence Civic Center",
+      "city": "Florence, South Carolina",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Smoking Gunns (Billy Gunn and Bart Gunn) defeated The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) (c) (with Sunny)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "4:57",
+          "note": "pre-show"
+        },
+        {
+          "match": "Bob Holly defeated Isaac Yankem, DDS",
+          "stipulation": "Singles match",
+          "time": "7:35",
+          "note": "dark"
+        },
+        {
+          "match": "Marc Mero (with Sable) defeated Hunter Hearst Helmsley",
+          "stipulation": "Singles match",
+          "time": "16:23"
+        },
+        {
+          "match": "Savio Vega defeated \"Stone Cold\" Steve Austin (with Ted DiBiase)",
+          "stipulation": "Caribbean Strap match",
+          "time": "15:00",
+          "note": "dark"
+        },
+        {
+          "match": "Vader (with Jim Cornette) defeated Yokozuna",
+          "stipulation": "Singles match",
+          "time": "3:00",
+          "note": "dark"
+        },
+        {
+          "match": "Goldust (c) (with Marlena) defeated The Undertaker (with Paul Bearer) by putting Undertaker in the casket with the lid completely shut",
+          "stipulation": "Casket match for the WWF Intercontinental Championship",
+          "time": "8:00",
+          "note": "dark"
+        },
+        {
+          "match": "Jake Roberts defeated Justin Bradshaw (with Uncle Zebekiah)",
+          "stipulation": "Singles match",
+          "time": "0:30",
+          "note": "dark"
+        },
+        {
+          "match": "Shawn Michaels (c) (with José Lothario) vs. The British Bulldog (with Diana Smith, Owen Hart, and Clarence Mason) ended in a no contest",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "17:21"
+        },
+        {
+          "match": "Ahmed Johnson defeated Jerry Lawler",
+          "stipulation": "Singles match",
+          "time": "7:00",
+          "note": "dark"
+        },
+        {
+          "match": "Ultimate Warrior defeated Owen Hart",
+          "stipulation": "Singles match",
+          "time": "4:00",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1996-in-your-house-8-beware-of-dog-2",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "In Your House: Beware of Dog 2 – Notte 2",
+      "session": "ple",
+      "startsAt": "1996-05-28T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "North Charleston Coliseum",
+      "city": "North Charleston, South Carolina",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Savio Vega defeated \"Stone Cold\" Steve Austin (with Ted DiBiase)",
+          "stipulation": "Caribbean Strap match · Since Vega won, DiBiase was forced to leave the WWF. Had Austin won, Vega would have had to become DiBiase's chauffeur.",
+          "time": "21:27"
+        },
+        {
+          "match": "Vader (with Jim Cornette) defeated Yokozuna",
+          "stipulation": "Singles match",
+          "time": "8:53"
+        },
+        {
+          "match": "Goldust (c) (with Marlena) defeated The Undertaker (with Paul Bearer) by putting Undertaker in the casket with the lid completely shut",
+          "stipulation": "Casket match for the WWF Intercontinental Championship",
+          "time": "12:36"
+        },
+        {
+          "match": "Hunter Hearst Helmsley defeated Marc Mero",
+          "stipulation": "Singles match",
+          "time": "12:37",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1996-king-of-the-ring-1996",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "King of the Ring",
+      "session": "ple",
+      "startsAt": "1996-06-23T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "MECCA Arena",
+      "city": "Milwaukee, Wisconsin",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Bodydonnas (Skip and Zip) (with Kloudi) defeated The New Rockers (Marty Jannetty and Leif Cassidy)",
+          "stipulation": "Tag team match",
+          "time": "8:06",
+          "note": "pre-show"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Marc Mero (with Sable)",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "16:49"
+        },
+        {
+          "match": "Jake Roberts defeated Vader (with Jim Cornette) by disqualification",
+          "stipulation": "King of the Ring semi-final match",
+          "time": "3:34"
+        },
+        {
+          "match": "The Smoking Gunns (Billy Gunn and Bart Gunn) (c) (with Sunny) defeated The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) (with Hillbilly Jim)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "10:10"
+        },
+        {
+          "match": "Ultimate Warrior defeated Jerry Lawler",
+          "stipulation": "Singles match",
+          "time": "3:50"
+        },
+        {
+          "match": "Mankind defeated The Undertaker (with Paul Bearer) by technical submission",
+          "stipulation": "Singles match",
+          "time": "18:21"
+        },
+        {
+          "match": "Ahmed Johnson defeated Goldust (c) (with Marlena)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "15:34"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Jake Roberts",
+          "stipulation": "King of the Ring final match",
+          "time": "4:28"
+        },
+        {
+          "match": "Shawn Michaels (c) (with José Lothario) defeated The British Bulldog (with Diana Smith and Jim Cornette)",
+          "stipulation": "Singles match for the WWF Championship · Mr. Perfect was the special outside enforcer.",
+          "time": "26:24"
+        },
+        {
+          "match": "Hunter Hearst Helmsley defeated Aldo Montoya",
+          "stipulation": "Singles match",
+          "time": "3:00",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1996-in-your-house-9-international-incident",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "In Your House: International Incident",
+      "session": "ple",
+      "startsAt": "1996-07-21T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "General Motors Place",
+      "city": "Vancouver, British Columbia, Canada",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Justin Bradshaw (with Uncle Zebekiah) defeated Savio Vega by pinfall",
+          "stipulation": "Singles match",
+          "time": "4:44",
+          "note": "pre-show"
+        },
+        {
+          "match": "The Bodydonnas (Skip and Zip) defeated The Smoking Gunns (Bart Gunn and Billy Gunn) (with Sunny) by pinfall",
+          "stipulation": "Tag team match",
+          "time": "13:05"
+        },
+        {
+          "match": "Mankind defeated Henry O. Godwinn (with Hillbilly Jim) by submission",
+          "stipulation": "Singles match",
+          "time": "6:54"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Marc Mero (with Sable) by pinfall",
+          "stipulation": "Singles match",
+          "time": "10:48"
+        },
+        {
+          "match": "The Undertaker (with Paul Bearer) defeated Goldust (with Marlena) by disqualification",
+          "stipulation": "Singles match",
+          "time": "12:07"
+        },
+        {
+          "match": "Camp Cornette (The British Bulldog, Owen Hart, and Vader) (with Jim Cornette) defeated The People's Posse (Ahmed Johnson, Shawn Michaels, and Sycho Sid) (with José Lothario) by pinfall",
+          "stipulation": "Six-man tag team match",
+          "time": "24:32"
+        },
+        {
+          "match": "Hunter Hearst Helmsley defeated \"Stone Cold\" Steve Austin by countout",
+          "stipulation": "Singles match",
+          "time": "11:15",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1996-summerslam-1996",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "SummerSlam",
+      "session": "ple",
+      "startsAt": "1996-08-18T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Gund Arena",
+      "city": "Cleveland, Ohio",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Yokozuna",
+          "stipulation": "Singles match",
+          "time": "1:52",
+          "note": "pre-show"
+        },
+        {
+          "match": "Owen Hart (with Clarence Mason) defeated Savio Vega",
+          "stipulation": "Singles match",
+          "time": "13:23"
+        },
+        {
+          "match": "The Smoking Gunns (Billy Gunn and Bart Gunn) (c) (with Sunny) defeated The New Rockers (Marty Jannetty and Leif Cassidy), The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) (with Hillbilly Jim), and The Bodydonnas (Skip and Zip)",
+          "stipulation": "Four-way elimination match for the WWF Tag Team Championship",
+          "time": "12:18"
+        },
+        {
+          "match": "Sycho Sid defeated The British Bulldog",
+          "stipulation": "Singles match",
+          "time": "6:24"
+        },
+        {
+          "match": "Goldust (with Marlena) defeated Marc Mero (with Sable)",
+          "stipulation": "Singles match",
+          "time": "11:01"
+        },
+        {
+          "match": "Jerry Lawler defeated Jake Roberts",
+          "stipulation": "Singles match",
+          "time": "4:07"
+        },
+        {
+          "match": "Mankind defeated The Undertaker (with Paul Bearer)",
+          "stipulation": "Boiler Room Brawl",
+          "time": "26:40"
+        },
+        {
+          "match": "Shawn Michaels (c) (with José Lothario) defeated Vader (with Jim Cornette)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "22:58"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1996-in-your-house-10-mind-games",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "In Your House: Mind Games",
+      "session": "ple",
+      "startsAt": "1996-09-22T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "CoreStates Center",
+      "city": "Philadelphia, Pennsylvania",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Savio Vega defeated Marty Jannetty (with Leif Cassidy)",
+          "stipulation": "Singles match",
+          "time": "05:22",
+          "note": "pre-show"
+        },
+        {
+          "match": "Savio Vega defeated Justin Bradshaw (with Uncle Zebekiah)",
+          "stipulation": "Caribbean strap match",
+          "time": "07:07"
+        },
+        {
+          "match": "José Lothario defeated Jim Cornette by pinfall",
+          "stipulation": "Singles match",
+          "time": "00:56"
+        },
+        {
+          "match": "Owen Hart and The British Bulldog (with Clarence Mason) defeated The Smoking Gunns (Bart Gunn and Billy Gunn) (c) (with Sunny) by pinfall",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "10:59"
+        },
+        {
+          "match": "Mark Henry defeated Jerry Lawler by submission",
+          "stipulation": "Singles match",
+          "time": "05:13"
+        },
+        {
+          "match": "The Undertaker defeated Goldust (with Marlena) by pinfall",
+          "stipulation": "Final Curtain match",
+          "time": "10:23"
+        },
+        {
+          "match": "Shawn Michaels (c) (with José Lothario) defeated Mankind (with Paul Bearer) by disqualification",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "26:25"
+        },
+        {
+          "match": "Faarooq (with Sunny) defeated Marc Mero (with Sable)",
+          "stipulation": "Singles match",
+          "time": "06:23",
+          "note": "dark"
+        },
+        {
+          "match": "Sycho Sid defeated Vader (with Jim Cornette)",
+          "stipulation": "Singles match",
+          "time": "09:10",
+          "note": "dark"
+        },
+        {
+          "match": "Hunter Hearst Helmsley defeated Jake Roberts",
+          "stipulation": "Singles match",
+          "time": "10:30",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1996-in-your-house-11-buried-alive",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "In Your House: Buried Alive",
+      "session": "ple",
+      "startsAt": "1996-10-20T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Market Square Arena",
+      "city": "Indianapolis, Indiana",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "The Stalker defeated Justin Bradshaw (with Uncle Zebekiah)",
+          "stipulation": "Singles match",
+          "time": "20:00",
+          "note": "dark"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Hunter Hearst Helmsley",
+          "stipulation": "Singles match",
+          "time": "15:30"
+        },
+        {
+          "match": "Owen Hart and The British Bulldog (c) (with Clarence Mason) defeated The Smoking Gunns (Billy Gunn and Bart Gunn)",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "9:17"
+        },
+        {
+          "match": "Marc Mero (c) (with Sable) defeated Goldust (with Marlena)",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "11:38"
+        },
+        {
+          "match": "Sycho Sid defeated Vader (with Jim Cornette)",
+          "stipulation": "Singles match to determine the #1 contender to the WWF Championship at Survivor Series",
+          "time": "8:00"
+        },
+        {
+          "match": "The Undertaker defeated Mankind (with Paul Bearer) by burying Mankind alive",
+          "stipulation": "Buried Alive match",
+          "time": "18:25"
+        },
+        {
+          "match": "The Godwinns (Henry O. Godwinn and Phineas I. Godwinn) defeated The New Rockers (Marty Jannetty and Leif Cassidy)",
+          "stipulation": "Tag team match",
+          "time": "6:00",
+          "note": "dark"
+        },
+        {
+          "match": "Shawn Michaels (c) (with Jose Lothario) defeated Goldust (with Marlena)",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "13:35",
+          "note": "dark"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1996-survivor-series-1996",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "Survivor Series",
+      "session": "ple",
+      "startsAt": "1996-11-17T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "Madison Square Garden",
+      "city": "New York City, New York",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Aldo Montoya, Bart Gunn, Bob Holly, and Jesse James defeated Billy Gunn, Justin Bradshaw, Salvatore Sincere, and The Sultan (with The Iron Sheik and Uncle Zebekiah)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "10:46",
+          "note": "pre-show"
+        },
+        {
+          "match": "Doug Furnas, Henry O. Godwinn, Phil Lafon, and Phineas I. Godwinn (with Hillbilly Jim) defeated The British Bulldog, Leif Cassidy, Marty Jannetty, and Owen Hart (with Clarence Mason)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "20:41"
+        },
+        {
+          "match": "The Undertaker defeated Mankind by pinfall",
+          "stipulation": "Singles match · Paul Bearer was suspended above the ring in a shark cage.",
+          "time": "14:54"
+        },
+        {
+          "match": "Jake Roberts, Marc Mero, Rocky Maivia, and The Stalker (with Sable) defeated Crush, Goldust, Jerry Lawler, and Hunter Hearst Helmsley (with Marlena)",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "23:44"
+        },
+        {
+          "match": "Bret Hart defeated \"Stone Cold\" Steve Austin by pinfall",
+          "stipulation": "Singles match to determine the #1 contender to the WWF Championship",
+          "time": "28:36"
+        },
+        {
+          "match": "Diesel, Faarooq, Razor Ramon, and Vader (with Clarence Mason, J.C. Ice, Wolfie D, and Jim Cornette) vs. Flash Funk, Jimmy Snuka, Savio Vega, and Yokozuna ended in a no contest",
+          "stipulation": "4-on-4 Survivor Series match",
+          "time": "9:48"
+        },
+        {
+          "match": "Sycho Sid defeated Shawn Michaels (c) (with José Lothario) by pinfall",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "20:02"
+        }
+      ]
+    },
+    {
+      "id": "wwe-1996-in-your-house-12-it-s-time",
+      "competition": "wwe",
+      "season": "1996",
+      "title": "In Your House: It's Time",
+      "session": "ple",
+      "startsAt": "1996-12-15T12:00:00+00:00",
+      "dateOnly": true,
+      "venue": "West Palm Beach Auditorium",
+      "city": "West Palm Beach, Florida",
+      "status": "finished",
+      "videos": [],
+      "card": [
+        {
+          "match": "Rocky Maivia defeated Salvatore Sincere (with Jim Cornette) by disqualification",
+          "stipulation": "Singles match",
+          "time": "6:01",
+          "note": "pre-show"
+        },
+        {
+          "match": "Flash Funk defeated Leif Cassidy",
+          "stipulation": "Singles match",
+          "time": "10:34"
+        },
+        {
+          "match": "Owen Hart and The British Bulldog (c) (with Clarence Mason) defeated Razor Ramon and Diesel",
+          "stipulation": "Tag team match for the WWF Tag Team Championship",
+          "time": "10:45"
+        },
+        {
+          "match": "Marc Mero (with Sable) defeated Hunter Hearst Helmsley (c) by countout",
+          "stipulation": "Singles match for the WWF Intercontinental Championship",
+          "time": "13:12"
+        },
+        {
+          "match": "The Undertaker defeated The Executioner (with Paul Bearer)",
+          "stipulation": "Armageddon Rules match",
+          "time": "11:32"
+        },
+        {
+          "match": "Sycho Sid (c) defeated Bret Hart",
+          "stipulation": "Singles match for the WWF Championship",
+          "time": "17:04"
+        },
+        {
+          "match": "Brakkus defeated Dr. X",
+          "stipulation": "Singles match",
+          "time": "5:25",
+          "note": "dark"
+        },
+        {
+          "match": "\"Stone Cold\" Steve Austin defeated Goldust (with Marlena)",
+          "stipulation": "Singles match",
+          "time": "12:18",
+          "note": "dark"
+        },
+        {
+          "match": "Shawn Michaels defeated Mankind (with Paul Bearer)",
+          "stipulation": "Singles match",
+          "time": "6:55",
+          "note": "dark"
+        }
+      ]
+    }
+  ],
+  "standings": []
+}
