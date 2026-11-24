@@ -1,6 +1,308 @@
 {
-  "generatedAt": "2026-11-23T12:25:52.2092285+00:00",
+  "generatedAt": "2026-11-24T02:10:55.0229462+00:00",
   "events": [
+    {
+      "id": "serie-a-2026-27-558519",
+      "competition": "serie-a",
+      "season": "2026-27",
+      "round": 12,
+      "title": "Monza - Fiorentina",
+      "session": "match",
+      "startsAt": "2026-11-23T19:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "5911",
+        "name": "AC Monza",
+        "shortName": "Monza",
+        "logoUrl": "https://crests.football-data.org/5911.png"
+      },
+      "awayTeam": {
+        "id": "99",
+        "name": "ACF Fiorentina",
+        "shortName": "Fiorentina",
+        "logoUrl": "https://crests.football-data.org/99.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [
+        {
+          "videoId": "10B18PMOwK0",
+          "title": "Un VARELA da URLO stende la Viola: Monza-Fiorentina 3-0 | Serie A Enilive | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/10B18PMOwK0/hqdefault.jpg",
+          "publishedAt": "2026-11-24T00:43:07+00:00",
+          "source": "DAZN",
+          "duration": "4:09"
+        }
+      ],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 45,
+            "type": "penalty",
+            "side": "home",
+            "player": "Gustavo Varela",
+            "short": "Varela"
+          },
+          {
+            "minute": 51,
+            "type": "goal",
+            "side": "home",
+            "player": "Gustavo Varela",
+            "short": "Varela"
+          },
+          {
+            "minute": 59,
+            "type": "goal",
+            "side": "home",
+            "player": "Jay Robinson",
+            "short": "Robinson"
+          },
+          {
+            "minute": 80,
+            "type": "yellow",
+            "side": "away",
+            "player": "Radu Dragusin",
+            "short": "Dragusin"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 20,
+              "name": "Demba Thiam",
+              "short": "Thiam"
+            },
+            {
+              "number": 2,
+              "name": "Saba Goglichidze",
+              "short": "Goglichidze"
+            },
+            {
+              "number": 44,
+              "name": "Andrea Carboni",
+              "short": "Carboni"
+            },
+            {
+              "number": 60,
+              "name": "Eddy Kouadio",
+              "short": "Kouadio"
+            },
+            {
+              "number": 32,
+              "name": "Matteo Pessina",
+              "short": "Pessina"
+            },
+            {
+              "number": 14,
+              "name": "Ebenezer Akinsanmiro",
+              "short": "Akinsanmiro"
+            },
+            {
+              "number": 21,
+              "name": "Leonardo Colombo",
+              "short": "Colombo"
+            },
+            {
+              "number": 7,
+              "name": "Ricardo Mangas",
+              "short": "Mangas"
+            },
+            {
+              "number": 19,
+              "name": "Samuele Birindelli",
+              "short": "Birindelli"
+            },
+            {
+              "number": 46,
+              "name": "Jay Robinson",
+              "short": "Robinson"
+            },
+            {
+              "number": 9,
+              "name": "Gustavo Varela",
+              "short": "Varela"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 67,
+              "in": {
+                "number": 47,
+                "name": "Dany Mota",
+                "short": "Mota"
+              },
+              "out": {
+                "number": 46,
+                "name": "Jay Robinson",
+                "short": "Robinson"
+              }
+            },
+            {
+              "minute": 74,
+              "in": {
+                "number": 8,
+                "name": "Manga Foe Ondoa",
+                "short": "Foe Ondoa"
+              },
+              "out": {
+                "number": 14,
+                "name": "Ebenezer Akinsanmiro",
+                "short": "Akinsanmiro"
+              }
+            },
+            {
+              "minute": 74,
+              "in": {
+                "number": 4,
+                "name": "Jan Ziólkowski",
+                "short": "Ziólkowski"
+              },
+              "out": {
+                "number": 60,
+                "name": "Eddy Kouadio",
+                "short": "Kouadio"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 27,
+                "name": "Idrissa Touré",
+                "short": "Touré"
+              },
+              "out": {
+                "number": 32,
+                "name": "Matteo Pessina",
+                "short": "Pessina"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 3,
+                "name": "Lorenzo Lucchesi",
+                "short": "Lucchesi"
+              },
+              "out": {
+                "number": 19,
+                "name": "Samuele Birindelli",
+                "short": "Birindelli"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 43,
+              "name": "David de Gea",
+              "short": "de Gea"
+            },
+            {
+              "number": 33,
+              "name": "Viery"
+            },
+            {
+              "number": 3,
+              "name": "Radu Dragusin",
+              "short": "Dragusin"
+            },
+            {
+              "number": 17,
+              "name": "Joao Victor"
+            },
+            {
+              "number": 20,
+              "name": "Álex Jiménez",
+              "short": "Jiménez"
+            },
+            {
+              "number": 28,
+              "name": "Pedro Gonçalves",
+              "short": "Gonçalves"
+            },
+            {
+              "number": 42,
+              "name": "Christ Inao Oulaï",
+              "short": "Inao Oulaï"
+            },
+            {
+              "number": 27,
+              "name": "Cher Ndour",
+              "short": "Ndour"
+            },
+            {
+              "number": 32,
+              "name": "Mateo Pellegrino",
+              "short": "Pellegrino"
+            },
+            {
+              "number": 29,
+              "name": "Wilfried Gnonto",
+              "short": "Gnonto"
+            },
+            {
+              "number": 30,
+              "name": "Franco Mastantuono",
+              "short": "Mastantuono"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 27,
+              "in": {
+                "number": 6,
+                "name": "Luca Ranieri",
+                "short": "Ranieri"
+              },
+              "out": {
+                "number": 33,
+                "name": "Viery"
+              }
+            },
+            {
+              "minute": 45,
+              "in": {
+                "number": 25,
+                "name": "Alieu Njie",
+                "short": "Njie"
+              },
+              "out": {
+                "number": 28,
+                "name": "Pedro Gonçalves",
+                "short": "Gonçalves"
+              }
+            },
+            {
+              "minute": 66,
+              "in": {
+                "number": 21,
+                "name": "Víctor Valdepeñas",
+                "short": "Valdepeñas"
+              },
+              "out": {
+                "number": 29,
+                "name": "Wilfried Gnonto",
+                "short": "Gnonto"
+              }
+            },
+            {
+              "minute": 67,
+              "in": {
+                "number": 23,
+                "name": "Beto"
+              },
+              "out": {
+                "number": 30,
+                "name": "Franco Mastantuono",
+                "short": "Mastantuono"
+              }
+            }
+          ]
+        }
+      }
+    },
     {
       "id": "serie-a-2026-27-558520",
       "competition": "serie-a",

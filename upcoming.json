@@ -1,29 +1,6 @@
 {
-  "generatedAt": "2026-11-23T12:25:52.2092285+00:00",
+  "generatedAt": "2026-11-24T02:10:55.0229462+00:00",
   "events": [
-    {
-      "id": "serie-a-2026-27-558519",
-      "competition": "serie-a",
-      "season": "2026-27",
-      "round": 12,
-      "title": "Monza - Fiorentina",
-      "session": "match",
-      "startsAt": "2026-11-23T19:45:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "5911",
-        "name": "AC Monza",
-        "shortName": "Monza",
-        "logoUrl": "https://crests.football-data.org/5911.png"
-      },
-      "awayTeam": {
-        "id": "99",
-        "name": "ACF Fiorentina",
-        "shortName": "Fiorentina",
-        "logoUrl": "https://crests.football-data.org/99.png"
-      },
-      "videos": []
-    },
     {
       "id": "champions-league-2026-27-575395",
       "competition": "champions-league",
@@ -1984,6 +1961,52 @@
         "name": "Parma Calcio 1913",
         "shortName": "Parma",
         "logoUrl": "https://crests.football-data.org/112.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "serie-a-2026-27-558506",
+      "competition": "serie-a",
+      "season": "2026-27",
+      "round": 14,
+      "title": "Venezia - Sassuolo",
+      "session": "match",
+      "startsAt": "2026-12-07T17:30:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "454",
+        "name": "Venezia FC",
+        "shortName": "Venezia",
+        "logoUrl": "https://crests.football-data.org/454.png"
+      },
+      "awayTeam": {
+        "id": "471",
+        "name": "US Sassuolo Calcio",
+        "shortName": "Sassuolo",
+        "logoUrl": "https://crests.football-data.org/471.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "serie-a-2026-27-558503",
+      "competition": "serie-a",
+      "season": "2026-27",
+      "round": 14,
+      "title": "Fiorentina - Cagliari",
+      "session": "match",
+      "startsAt": "2026-12-07T19:45:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "99",
+        "name": "ACF Fiorentina",
+        "shortName": "Fiorentina",
+        "logoUrl": "https://crests.football-data.org/99.png"
+      },
+      "awayTeam": {
+        "id": "104",
+        "name": "Cagliari Calcio",
+        "shortName": "Cagliari",
+        "logoUrl": "https://crests.football-data.org/104.png"
       },
       "videos": []
     }
