@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:36:53.450259+00:00",
+  "generatedAt": "2026-11-24T14:18:16.434668+00:00",
   "competitions": [
     {
       "id": "f1",
@@ -294,6 +294,16 @@
         "2007-08",
         "2006-07",
         "2005-06"
+      ]
+    },
+    {
+      "id": "mondiale-per-club",
+      "sport": "football",
+      "name": "Mondiale per club",
+      "shortName": "Mondiale per club",
+      "currentSeason": "2025",
+      "seasons": [
+        "2025"
       ]
     }
   ]
