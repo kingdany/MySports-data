@@ -1,7 +1,7 @@
 {
   "competition": "champions-league",
   "season": "2026-27",
-  "generatedAt": "2026-11-25T17:47:08.4199569+00:00",
+  "generatedAt": "2026-11-25T19:01:16.4846584+00:00",
   "events": [
     {
       "id": "champions-league-2026-27-575323",
@@ -26946,7 +26946,7 @@
       "title": "Sabah - Barcellona",
       "session": "match",
       "startsAt": "2026-11-25T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "10233",
         "name": "Sabah FK",
@@ -26969,7 +26969,7 @@
       "title": "Slavia Praga - Villarreal",
       "session": "match",
       "startsAt": "2026-11-25T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "930",
         "name": "SK Slavia Praha",
