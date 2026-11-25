@@ -1,7 +1,7 @@
 {
   "competition": "champions-league",
   "season": "2026-27",
-  "generatedAt": "2026-11-25T21:01:20.0245018+00:00",
+  "generatedAt": "2026-11-25T23:01:19.2360927+00:00",
   "events": [
     {
       "id": "champions-league-2026-27-575323",
@@ -26946,7 +26946,7 @@
       "title": "Sabah - Barcellona",
       "session": "match",
       "startsAt": "2026-11-25T17:45:00+00:00",
-      "status": "finished",
+      "status": "scheduled",
       "homeTeam": {
         "id": "10233",
         "name": "Sabah FK",
@@ -26959,18 +26959,7 @@
         "shortName": "Barcellona",
         "logoUrl": "https://crests.football-data.org/81.png"
       },
-      "homeScore": 1,
-      "awayScore": 4,
-      "videos": [
-        {
-          "videoId": "e3UK0IAv-8o",
-          "title": "Sabah-Barcellona 1-4: gol e highlights | Champions League",
-          "thumbnailUrl": "https://i.ytimg.com/vi/e3UK0IAv-8o/hqdefault.jpg",
-          "publishedAt": "2026-11-25T20:08:53+00:00",
-          "source": "Sky Sport",
-          "duration": "3:54"
-        }
-      ],
+      "videos": [],
       "details": {
         "version": 2,
         "incidents": [
@@ -27270,7 +27259,7 @@
       "title": "Slavia Praga - Villarreal",
       "session": "match",
       "startsAt": "2026-11-25T17:45:00+00:00",
-      "status": "finished",
+      "status": "scheduled",
       "homeTeam": {
         "id": "930",
         "name": "SK Slavia Praha",
@@ -27283,18 +27272,7 @@
         "shortName": "Villarreal",
         "logoUrl": "https://crests.football-data.org/94.png"
       },
-      "homeScore": 0,
-      "awayScore": 1,
-      "videos": [
-        {
-          "videoId": "c_vIRcthmxo",
-          "title": "Slavia Praga-Villarreal 0-1: gol e highlights | Champions League",
-          "thumbnailUrl": "https://i.ytimg.com/vi/c_vIRcthmxo/hqdefault.jpg",
-          "publishedAt": "2026-11-25T20:12:40+00:00",
-          "source": "Sky Sport",
-          "duration": "2:43"
-        }
-      ],
+      "videos": [],
       "details": {
         "version": 2,
         "incidents": [
@@ -27575,7 +27553,7 @@
       "title": "Inter - Stoccarda",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "live",
+      "status": "scheduled",
       "homeTeam": {
         "id": "108",
         "name": "FC Internazionale Milano",
@@ -27598,7 +27576,7 @@
       "title": "Atletico Madrid - Viking",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "live",
+      "status": "scheduled",
       "homeTeam": {
         "id": "78",
         "name": "Club Atlético de Madrid",
@@ -27621,7 +27599,7 @@
       "title": "PSG - Roma",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "live",
+      "status": "scheduled",
       "homeTeam": {
         "id": "524",
         "name": "Paris Saint-Germain FC",
@@ -27644,7 +27622,7 @@
       "title": "Club Brugge - Liverpool",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "live",
+      "status": "scheduled",
       "homeTeam": {
         "id": "851",
         "name": "Club Brugge KV",
@@ -27667,7 +27645,7 @@
       "title": "Lilla - Bayern",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "live",
+      "status": "scheduled",
       "homeTeam": {
         "id": "521",
         "name": "Lille OSC",
@@ -27690,7 +27668,7 @@
       "title": "Sporting - Manchester United",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "live",
+      "status": "scheduled",
       "homeTeam": {
         "id": "498",
         "name": "Sporting Clube de Portugal",
@@ -27713,7 +27691,7 @@
       "title": "Shakhtar Donetsk - Fenerbahçe",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "live",
+      "status": "scheduled",
       "homeTeam": {
         "id": "1887",
         "name": "FK Shakhtar Donetsk",
@@ -28994,10 +28972,10 @@
           "posText": "2",
           "name": "PSG",
           "code": "PSG",
-          "points": 12,
+          "points": 13,
           "wins": 4,
-          "played": 4,
-          "draws": 0,
+          "played": 5,
+          "draws": 1,
           "losses": 0,
           "goalDifference": 15,
           "zone": "round_of_16"
@@ -29031,6 +29009,19 @@
         {
           "pos": 5,
           "posText": "5",
+          "name": "Liverpool",
+          "code": "LIV",
+          "points": 12,
+          "wins": 4,
+          "played": 5,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 7,
+          "zone": "round_of_16"
+        },
+        {
+          "pos": 6,
+          "posText": "6",
           "name": "Real Betis",
           "code": "BET",
           "points": 12,
@@ -29042,8 +29033,8 @@
           "zone": "round_of_16"
         },
         {
-          "pos": 6,
-          "posText": "6",
+          "pos": 7,
+          "posText": "7",
           "name": "Arsenal",
           "code": "ARS",
           "points": 11,
@@ -29055,8 +29046,8 @@
           "zone": "round_of_16"
         },
         {
-          "pos": 7,
-          "posText": "7",
+          "pos": 8,
+          "posText": "8",
           "name": "Man City",
           "code": "MCI",
           "points": 10,
@@ -29068,8 +29059,21 @@
           "zone": "round_of_16"
         },
         {
-          "pos": 8,
-          "posText": "8",
+          "pos": 9,
+          "posText": "9",
+          "name": "Sporting",
+          "code": "SPO",
+          "points": 10,
+          "wins": 3,
+          "played": 5,
+          "draws": 1,
+          "losses": 1,
+          "goalDifference": 4,
+          "zone": "playoff"
+        },
+        {
+          "pos": 10,
+          "posText": "10",
           "name": "Dortmund",
           "code": "BVB",
           "points": 10,
@@ -29078,11 +29082,11 @@
           "draws": 1,
           "losses": 1,
           "goalDifference": 2,
-          "zone": "round_of_16"
+          "zone": "playoff"
         },
         {
-          "pos": 9,
-          "posText": "9",
+          "pos": 11,
+          "posText": "11",
           "name": "Aston Villa",
           "code": "AVL",
           "points": 9,
@@ -29094,47 +29098,34 @@
           "zone": "playoff"
         },
         {
-          "pos": 10,
-          "posText": "10",
-          "name": "Liverpool",
-          "code": "LIV",
-          "points": 9,
-          "wins": 3,
-          "played": 4,
-          "draws": 0,
-          "losses": 1,
-          "goalDifference": 4,
-          "zone": "playoff"
-        },
-        {
-          "pos": 11,
-          "posText": "11",
-          "name": "Club Brugge",
-          "code": "BRU",
-          "points": 9,
-          "wins": 3,
-          "played": 4,
-          "draws": 0,
-          "losses": 1,
-          "goalDifference": 4,
-          "zone": "playoff"
-        },
-        {
           "pos": 12,
           "posText": "12",
-          "name": "Sporting",
-          "code": "SPO",
+          "name": "Inter",
+          "code": "INT",
           "points": 9,
           "wins": 3,
-          "played": 4,
+          "played": 5,
           "draws": 0,
-          "losses": 1,
+          "losses": 2,
           "goalDifference": 4,
           "zone": "playoff"
         },
         {
           "pos": 13,
           "posText": "13",
+          "name": "Club Brugge",
+          "code": "BRU",
+          "points": 9,
+          "wins": 3,
+          "played": 5,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": 1,
+          "zone": "playoff"
+        },
+        {
+          "pos": 14,
+          "posText": "14",
           "name": "Galatasaray",
           "code": "GAL",
           "points": 9,
@@ -29146,34 +29137,73 @@
           "zone": "playoff"
         },
         {
-          "pos": 14,
-          "posText": "14",
+          "pos": 15,
+          "posText": "15",
           "name": "Bayern",
           "code": "FCB",
           "points": 8,
           "wins": 2,
-          "played": 4,
+          "played": 5,
           "draws": 2,
-          "losses": 0,
-          "goalDifference": 7,
-          "zone": "playoff"
-        },
-        {
-          "pos": 15,
-          "posText": "15",
-          "name": "Stoccarda",
-          "code": "VFB",
-          "points": 7,
-          "wins": 2,
-          "played": 4,
-          "draws": 1,
           "losses": 1,
-          "goalDifference": 3,
+          "goalDifference": 6,
           "zone": "playoff"
         },
         {
           "pos": 16,
           "posText": "16",
+          "name": "Fenerbahçe",
+          "code": "FEN",
+          "points": 8,
+          "wins": 2,
+          "played": 5,
+          "draws": 2,
+          "losses": 1,
+          "goalDifference": -4,
+          "zone": "playoff"
+        },
+        {
+          "pos": 17,
+          "posText": "17",
+          "name": "Stoccarda",
+          "code": "VFB",
+          "points": 7,
+          "wins": 2,
+          "played": 5,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": 1,
+          "zone": "playoff"
+        },
+        {
+          "pos": 18,
+          "posText": "18",
+          "name": "Atletico Madrid",
+          "code": "ATL",
+          "points": 7,
+          "wins": 2,
+          "played": 5,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": 1,
+          "zone": "playoff"
+        },
+        {
+          "pos": 19,
+          "posText": "19",
+          "name": "Manchester United",
+          "code": "MUN",
+          "points": 7,
+          "wins": 2,
+          "played": 5,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": 0,
+          "zone": "playoff"
+        },
+        {
+          "pos": 20,
+          "posText": "20",
           "name": "Bodø/Glimt",
           "code": "FK",
           "points": 7,
@@ -29185,21 +29215,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 17,
-          "posText": "17",
-          "name": "Inter",
-          "code": "INT",
-          "points": 6,
-          "wins": 2,
-          "played": 4,
-          "draws": 0,
-          "losses": 2,
-          "goalDifference": 2,
-          "zone": "playoff"
-        },
-        {
-          "pos": 18,
-          "posText": "18",
+          "pos": 21,
+          "posText": "21",
           "name": "LASK",
           "code": "LIN",
           "points": 6,
@@ -29211,21 +29228,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 19,
-          "posText": "19",
-          "name": "Manchester United",
-          "code": "MUN",
-          "points": 6,
-          "wins": 2,
-          "played": 4,
-          "draws": 0,
-          "losses": 2,
-          "goalDifference": 0,
-          "zone": "playoff"
-        },
-        {
-          "pos": 20,
-          "posText": "20",
+          "pos": 22,
+          "posText": "22",
           "name": "Porto",
           "code": "FCP",
           "points": 6,
@@ -29237,8 +29241,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 21,
-          "posText": "21",
+          "pos": 23,
+          "posText": "23",
           "name": "Lipsia",
           "code": "RBL",
           "points": 6,
@@ -29250,8 +29254,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 22,
-          "posText": "22",
+          "pos": 24,
+          "posText": "24",
           "name": "Villarreal",
           "code": "VIL",
           "points": 6,
@@ -29263,66 +29267,40 @@
           "zone": "playoff"
         },
         {
-          "pos": 23,
-          "posText": "23",
-          "name": "Fenerbahçe",
-          "code": "FEN",
-          "points": 5,
-          "wins": 1,
-          "played": 4,
-          "draws": 2,
-          "losses": 1,
-          "goalDifference": -5,
-          "zone": "playoff"
-        },
-        {
-          "pos": 24,
-          "posText": "24",
-          "name": "Roma",
-          "code": "ROM",
-          "points": 4,
-          "wins": 1,
-          "played": 4,
-          "draws": 1,
-          "losses": 2,
-          "goalDifference": 2,
-          "zone": "playoff"
-        },
-        {
           "pos": 25,
           "posText": "25",
-          "name": "Shakhtar Donetsk",
-          "code": "SHD",
-          "points": 4,
+          "name": "Roma",
+          "code": "ROM",
+          "points": 5,
           "wins": 1,
-          "played": 4,
-          "draws": 1,
+          "played": 5,
+          "draws": 2,
           "losses": 2,
-          "goalDifference": 0
+          "goalDifference": 2
         },
         {
           "pos": 26,
           "posText": "26",
-          "name": "Viking",
-          "code": "VIK",
+          "name": "Shakhtar Donetsk",
+          "code": "SHD",
           "points": 4,
           "wins": 1,
-          "played": 4,
+          "played": 5,
           "draws": 1,
-          "losses": 2,
+          "losses": 3,
           "goalDifference": -1
         },
         {
           "pos": 27,
           "posText": "27",
-          "name": "Atletico Madrid",
-          "code": "ATL",
+          "name": "Viking",
+          "code": "VIK",
           "points": 4,
           "wins": 1,
-          "played": 4,
+          "played": 5,
           "draws": 1,
-          "losses": 2,
-          "goalDifference": -1
+          "losses": 3,
+          "goalDifference": -3
         },
         {
           "pos": 28,
@@ -29339,8 +29317,8 @@
         {
           "pos": 29,
           "posText": "29",
-          "name": "PSV",
-          "code": "PSV",
+          "name": "Lilla",
+          "code": "LIL",
           "points": 4,
           "wins": 1,
           "played": 5,
@@ -29351,6 +29329,18 @@
         {
           "pos": 30,
           "posText": "30",
+          "name": "PSV",
+          "code": "PSV",
+          "points": 4,
+          "wins": 1,
+          "played": 5,
+          "draws": 1,
+          "losses": 3,
+          "goalDifference": -5
+        },
+        {
+          "pos": 31,
+          "posText": "31",
           "name": "AEK Atene",
           "code": "AEK",
           "points": 3,
@@ -29361,8 +29351,8 @@
           "goalDifference": -7
         },
         {
-          "pos": 31,
-          "posText": "31",
+          "pos": 32,
+          "posText": "32",
           "name": "Feyenoord",
           "code": "FEY",
           "points": 3,
@@ -29373,8 +29363,8 @@
           "goalDifference": -8
         },
         {
-          "pos": 32,
-          "posText": "32",
+          "pos": 33,
+          "posText": "33",
           "name": "Sabah",
           "code": "SAB",
           "points": 3,
@@ -29385,8 +29375,8 @@
           "goalDifference": -9
         },
         {
-          "pos": 33,
-          "posText": "33",
+          "pos": 34,
+          "posText": "34",
           "name": "Lens",
           "code": "RCL",
           "points": 3,
@@ -29397,8 +29387,8 @@
           "goalDifference": -14
         },
         {
-          "pos": 34,
-          "posText": "34",
+          "pos": 35,
+          "posText": "35",
           "name": "Slavia Praga",
           "code": "SLP",
           "points": 1,
@@ -29407,18 +29397,6 @@
           "draws": 1,
           "losses": 4,
           "goalDifference": -5
-        },
-        {
-          "pos": 35,
-          "posText": "35",
-          "name": "Lilla",
-          "code": "LIL",
-          "points": 1,
-          "wins": 0,
-          "played": 4,
-          "draws": 1,
-          "losses": 3,
-          "goalDifference": -6
         },
         {
           "pos": 36,
@@ -29448,6 +29426,13 @@
         {
           "pos": 1,
           "posText": "1",
+          "name": "Luis Suárez",
+          "team": "Sporting",
+          "points": 6
+        },
+        {
+          "pos": 1,
+          "posText": "1",
           "name": "Anastasios Douvikas",
           "team": "Como",
           "points": 6
@@ -29469,8 +29454,8 @@
         {
           "pos": 2,
           "posText": "2",
-          "name": "Luis Suárez",
-          "team": "Sporting",
+          "name": "Donyell Malen",
+          "team": "Roma",
           "points": 5
         },
         {
@@ -29497,6 +29482,13 @@
         {
           "pos": 3,
           "posText": "3",
+          "name": "Ousmane Dembélé",
+          "team": "PSG",
+          "points": 4
+        },
+        {
+          "pos": 3,
+          "posText": "3",
           "name": "Fabián Ruiz",
           "team": "PSG",
           "points": 4
@@ -29511,15 +29503,15 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Aleksey Batrakov",
-          "team": "Galatasaray",
+          "name": "Bruno Fernandes",
+          "team": "Manchester United",
           "points": 4
         },
         {
           "pos": 3,
           "posText": "3",
-          "name": "Donyell Malen",
-          "team": "Roma",
+          "name": "Aleksey Batrakov",
+          "team": "Galatasaray",
           "points": 4
         }
       ]
