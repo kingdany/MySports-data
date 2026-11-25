@@ -1,0 +1,95 @@
+# Aggiorna i dati di MySports e li pubblica sul branch gh-pages di questo repo (servito da GitHub Pages).
+# Gira qui, nel repo pubblico, perché i minuti di Actions sono illimitati; il codice sta nel repo privato MySports e si
+# scarica a ogni giro con una deploy key di sola lettura (secret MYSPORTS_DEPLOY_KEY).
+# Lo avvia cron-job.org tramite l'API (workflow_dispatch), perché lo schedule di GitHub salta molti giri; lo schedule
+# qui sotto resta come riserva.
+name: Aggiorna dati
+
+on:
+  schedule:
+    - cron: "15 */6 * * *"   # riserva; minuto 15 per evitare il picco di inizio ora di GitHub
+  workflow_dispatch:          # avvio manuale dalla scheda Actions e da cron-job.org
+    inputs:
+      seasons:
+        description: "Stagioni passate da importare (es. 1950-2025, 2019,2021 oppure 2024-25 per il calcio; per anno il Mondiale per club e la Coppa Intercontinentale). Vuoto = aggiornamento normale"
+        required: false
+        default: ""
+      competition:
+        description: "Competizione delle stagioni passate (f1, motogp, serie-a, coppa-italia, supercoppa-italiana, champions-league, europa-league, conference-league, supercoppa-europea, mondiale-per-club, coppa-intercontinentale, wwe), obbligatoria se si indicano le stagioni"
+        required: false
+        default: ""
+      standings_only:
+        description: "Solo classifiche (non riscarica gli eventi delle stagioni già importate)"
+        type: boolean
+        required: false
+        default: false
+      recover_videos:
+        description: "Recupera i video delle partite vecchie (stagioni correnti, oppure le stagioni passate indicate sopra)"
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write   # per il push su gh-pages
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180   # l'importazione dello storico può attendere a lungo il limite di Jolpica
+    steps:
+      - name: Scarica il codice da MySports
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/MySports
+          ssh-key: ${{ secrets.MYSPORTS_DEPLOY_KEY }}
+          persist-credentials: false
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+
+      # I dati precedenti servono all'importatore (video già trovati, ripiego se una fonte è giù).
+      - name: Recupera i dati pubblicati
+        run: |
+          if git fetch --depth 1 "https://github.com/$GITHUB_REPOSITORY.git" gh-pages; then
+            git worktree add site FETCH_HEAD
+            git -C site checkout -B gh-pages
+          else
+            git worktree add --detach site
+            git -C site checkout --orphan gh-pages
+            git -C site rm -rf --quiet .
+          fi
+
+      - name: Esegui l'importatore
+        env:
+          SEASONS: ${{ inputs.seasons }}
+          COMPETITION: ${{ inputs.competition }}
+          STANDINGS_ONLY: ${{ inputs.standings_only && '--standings-only' || '' }}
+          RECOVER_VIDEOS: ${{ inputs.recover_videos && '--recover-videos' || '' }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: |
+          if [ -n "$SEASONS" ]; then
+            dotnet run --project src/MySports.Importer -c Release -- --out site --competition "$COMPETITION" --seasons "$SEASONS" $STANDINGS_ONLY $RECOVER_VIDEOS
+          else
+            dotnet run --project src/MySports.Importer -c Release -- --out site $RECOVER_VIDEOS
+          fi
+
+      # Si pubblica anche se una fonte o una stagione ha dato errore: le altre sono state salvate.
+      - name: Pubblica
+        if: success() || failure()
+        working-directory: site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          touch .nojekyll
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit --quiet -m "Aggiornamento dati $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push "https://x-access-token:$GH_TOKEN@github.com/$GITHUB_REPOSITORY.git" gh-pages
