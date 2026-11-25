@@ -1,52 +1,6 @@
 {
-  "generatedAt": "2026-11-25T19:01:16.4846584+00:00",
+  "generatedAt": "2026-11-25T21:01:20.0245018+00:00",
   "events": [
-    {
-      "id": "champions-league-2026-27-575404",
-      "competition": "champions-league",
-      "season": "2026-27",
-      "round": 5,
-      "title": "Sabah - Barcellona",
-      "session": "match",
-      "startsAt": "2026-11-25T17:45:00+00:00",
-      "status": "live",
-      "homeTeam": {
-        "id": "10233",
-        "name": "Sabah FK",
-        "shortName": "Sabah",
-        "logoUrl": "https://crests.football-data.org/10233.png"
-      },
-      "awayTeam": {
-        "id": "81",
-        "name": "FC Barcelona",
-        "shortName": "Barcellona",
-        "logoUrl": "https://crests.football-data.org/81.png"
-      },
-      "videos": []
-    },
-    {
-      "id": "champions-league-2026-27-575405",
-      "competition": "champions-league",
-      "season": "2026-27",
-      "round": 5,
-      "title": "Slavia Praga - Villarreal",
-      "session": "match",
-      "startsAt": "2026-11-25T17:45:00+00:00",
-      "status": "live",
-      "homeTeam": {
-        "id": "930",
-        "name": "SK Slavia Praha",
-        "shortName": "Slavia Praga",
-        "logoUrl": "https://crests.football-data.org/930.png"
-      },
-      "awayTeam": {
-        "id": "94",
-        "name": "Villarreal CF",
-        "shortName": "Villarreal",
-        "logoUrl": "https://crests.football-data.org/94.png"
-      },
-      "videos": []
-    },
     {
       "id": "champions-league-2026-27-575406",
       "competition": "champions-league",
@@ -55,7 +9,7 @@
       "title": "Inter - Stoccarda",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "108",
         "name": "FC Internazionale Milano",
@@ -78,7 +32,7 @@
       "title": "Atletico Madrid - Viking",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "78",
         "name": "Club Atlético de Madrid",
@@ -101,7 +55,7 @@
       "title": "PSG - Roma",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "524",
         "name": "Paris Saint-Germain FC",
@@ -124,7 +78,7 @@
       "title": "Club Brugge - Liverpool",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "851",
         "name": "Club Brugge KV",
@@ -147,7 +101,7 @@
       "title": "Lilla - Bayern",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "521",
         "name": "Lille OSC",
@@ -170,7 +124,7 @@
       "title": "Sporting - Manchester United",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "498",
         "name": "Sporting Clube de Portugal",
@@ -193,7 +147,7 @@
       "title": "Shakhtar Donetsk - Fenerbahçe",
       "session": "match",
       "startsAt": "2026-11-25T20:00:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "1887",
         "name": "FK Shakhtar Donetsk",
@@ -2066,6 +2020,167 @@
         "name": "FK Shakhtar Donetsk",
         "shortName": "Shakhtar Donetsk",
         "logoUrl": "https://crests.football-data.org/1887.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575280",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Arsenal - Real Madrid",
+      "session": "match",
+      "startsAt": "2026-12-09T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "57",
+        "name": "Arsenal FC",
+        "shortName": "Arsenal",
+        "logoUrl": "https://crests.football-data.org/57.png"
+      },
+      "awayTeam": {
+        "id": "86",
+        "name": "Real Madrid CF",
+        "shortName": "Real Madrid",
+        "logoUrl": "https://crests.football-data.org/86.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575286",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Dortmund - Inter",
+      "session": "match",
+      "startsAt": "2026-12-09T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "4",
+        "name": "Borussia Dortmund",
+        "shortName": "Dortmund",
+        "logoUrl": "https://crests.football-data.org/4.png"
+      },
+      "awayTeam": {
+        "id": "108",
+        "name": "FC Internazionale Milano",
+        "shortName": "Inter",
+        "logoUrl": "https://crests.football-data.org/108.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575290",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "PSV - Atletico Madrid",
+      "session": "match",
+      "startsAt": "2026-12-09T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "674",
+        "name": "PSV",
+        "shortName": "PSV",
+        "logoUrl": "https://crests.football-data.org/674.png"
+      },
+      "awayTeam": {
+        "id": "78",
+        "name": "Club Atlético de Madrid",
+        "shortName": "Atletico Madrid",
+        "logoUrl": "https://crests.football-data.org/78.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575295",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Liverpool - Porto",
+      "session": "match",
+      "startsAt": "2026-12-09T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "64",
+        "name": "Liverpool FC",
+        "shortName": "Liverpool",
+        "logoUrl": "https://crests.football-data.org/64.png"
+      },
+      "awayTeam": {
+        "id": "503",
+        "name": "FC Porto",
+        "shortName": "Porto",
+        "logoUrl": "https://crests.football-data.org/503.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575315",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Lens - Bodø/Glimt",
+      "session": "match",
+      "startsAt": "2026-12-09T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "546",
+        "name": "Racing Club de Lens",
+        "shortName": "Lens",
+        "logoUrl": "https://crests.football-data.org/546.png"
+      },
+      "awayTeam": {
+        "id": "5721",
+        "name": "FK Bodø/Glimt",
+        "shortName": "Bodø/Glimt",
+        "logoUrl": "https://crests.football-data.org/5721.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575317",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "LASK - Fenerbahçe",
+      "session": "match",
+      "startsAt": "2026-12-09T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "2016",
+        "name": "LASK Linz",
+        "shortName": "LASK",
+        "logoUrl": "https://crests.football-data.org/2016.png"
+      },
+      "awayTeam": {
+        "id": "613",
+        "name": "Fenerbahçe SK",
+        "shortName": "Fenerbahçe",
+        "logoUrl": "https://crests.football-data.org/613.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "champions-league-2026-27-575322",
+      "competition": "champions-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Stoccarda - Lilla",
+      "session": "match",
+      "startsAt": "2026-12-09T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "10",
+        "name": "VfB Stuttgart",
+        "shortName": "Stoccarda",
+        "logoUrl": "https://crests.football-data.org/10.png"
+      },
+      "awayTeam": {
+        "id": "521",
+        "name": "Lille OSC",
+        "shortName": "Lilla",
+        "logoUrl": "https://crests.football-data.org/521.png"
       },
       "videos": []
     }
