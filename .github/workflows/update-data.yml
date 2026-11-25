@@ -42,13 +42,13 @@ jobs:
     timeout-minutes: 180   # l'importazione dello storico può attendere a lungo il limite di Jolpica
     steps:
       - name: Scarica il codice da MySports
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: ${{ github.repository_owner }}/MySports
           ssh-key: ${{ secrets.MYSPORTS_DEPLOY_KEY }}
           persist-credentials: false
 
-      - uses: actions/setup-dotnet@v4
+      - uses: actions/setup-dotnet@v6
         with:
           dotnet-version: "10.0.x"
 
