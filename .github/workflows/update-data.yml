@@ -2,9 +2,7 @@
 # Gira qui, nel repo pubblico, perché i minuti di Actions sono illimitati; il codice sta nel repo privato MySports e si
 # scarica a ogni giro con una deploy key di sola lettura (secret MYSPORTS_DEPLOY_KEY).
 # Lo avvia solo cron-job.org tramite l'API (workflow_dispatch): lo schedule di GitHub saltava molti giri, quindi non
-# c'è. Per rimetterlo come riserva: sotto "on:" aggiungere
-#   schedule:
-#     - cron: "15 */6 * * *"   # minuto 15 per evitare il picco di inizio ora di GitHub
+# c'è.
 name: Aggiorna dati
 
 on:
