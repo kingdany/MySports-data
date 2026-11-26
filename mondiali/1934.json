@@ -1,7 +1,7 @@
 {
   "competition": "mondiali",
   "season": "1934",
-  "generatedAt": "2026-11-26T16:16:37.8331833+00:00",
+  "generatedAt": "2026-11-26T16:36:56.7210882+00:00",
   "events": [
     {
       "id": "mondiali-1934-197544",
@@ -2739,5 +2739,131 @@
       }
     }
   ],
-  "standings": []
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Angelo Schiavio",
+          "team": "Italia",
+          "points": 4
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Edmond Conen",
+          "team": "Germania",
+          "points": 4
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Oldrich Nejedly",
+          "team": "Cecoslovacchia",
+          "points": 4
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Leopold Kielholz",
+          "team": "Svizzera",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Raymundo Orsi",
+          "team": "Italia",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Abdel Fawzy",
+          "team": "Egitto",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Antonin Puc",
+          "team": "Cecoslovacchia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Bernard Voorhhof",
+          "team": "Belgio",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Ernst Lehner",
+          "team": "Germania",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Frantisek Svoboda",
+          "team": "Cecoslovacchia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Geza Toldi",
+          "team": "Ungheria",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Giovanni Ferrari",
+          "team": "Italia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Giuseppe Meazza",
+          "team": "Italia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Hans Horvath",
+          "team": "Austria",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "José Iraragorri",
+          "team": "Spagna",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Karl Hofmann",
+          "team": "Germania",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Sven Jonasson",
+          "team": "Svezia",
+          "points": 2
+        }
+      ]
+    }
+  ]
 }
