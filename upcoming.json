@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:01:23.5119292+00:00",
+  "generatedAt": "2026-11-26T16:29:58.7646709+00:00",
   "events": [
     {
       "id": "conference-league-2026-27-401915816",
@@ -9,7 +9,7 @@
       "title": "Kairat Almaty - Mjällby",
       "session": "match",
       "startsAt": "2026-11-26T15:30:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-2528",
         "name": "Kairat Almaty",
@@ -2020,6 +2020,29 @@
         "name": "Lille OSC",
         "shortName": "Lilla",
         "logoUrl": "https://crests.football-data.org/521.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "conference-league-2026-27-401915737",
+      "competition": "conference-league",
+      "season": "2026-27",
+      "round": 5,
+      "title": "Kairat Almaty - Universitatea Craiova",
+      "session": "match",
+      "startsAt": "2026-12-10T15:30:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "espn-2528",
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "awayTeam": {
+        "id": "espn-8089",
+        "name": "CSU Craiova",
+        "shortName": "Universitatea Craiova",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
       },
       "videos": []
     }

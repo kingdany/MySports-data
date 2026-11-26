@@ -1,7 +1,7 @@
 {
   "competition": "conference-league",
   "season": "2026-27",
-  "generatedAt": "2026-11-26T15:01:23.5119292+00:00",
+  "generatedAt": "2026-11-26T16:29:58.7646709+00:00",
   "events": [
     {
       "id": "conference-league-2026-27-401915855",
@@ -17242,7 +17242,7 @@
       "title": "Kairat Almaty - Mjällby",
       "session": "match",
       "startsAt": "2026-11-26T15:30:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-2528",
         "name": "Kairat Almaty",
