@@ -1,7 +1,7 @@
 {
   "competition": "europei",
   "season": "2016",
-  "generatedAt": "2026-11-26T16:27:22.401526+00:00",
+  "generatedAt": "2026-11-26T16:36:05.7728852+00:00",
   "events": [
     {
       "id": "europei-2016-438204",
@@ -14101,62 +14101,132 @@
         {
           "pos": 1,
           "posText": "1",
-          "name": "Gareth Bale",
-          "team": "Galles",
-          "points": 3
-        },
-        {
-          "pos": 1,
-          "posText": "1",
-          "name": "Álvaro Morata",
-          "team": "Spagna",
-          "points": 3
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Balázs Dzsudzsák",
-          "team": "Ungheria",
-          "points": 2
+          "name": "Antoine Griezmann",
+          "team": "Francia",
+          "points": 6
         },
         {
           "pos": 2,
           "posText": "2",
           "name": "Cristiano Ronaldo",
           "team": "Portogallo",
-          "points": 2
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Ivan Perisic",
-          "team": "Croazia",
-          "points": 2
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Bogdan Stancu",
-          "team": "Romania",
-          "points": 2
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Nani",
-          "team": "Portogallo",
-          "points": 2
+          "points": 3
         },
         {
           "pos": 2,
           "posText": "2",
           "name": "Dimitri Payet",
           "team": "Francia",
-          "points": 2
+          "points": 3
         },
         {
           "pos": 2,
           "posText": "2",
+          "name": "Gareth Bale",
+          "team": "Galles",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Nani",
+          "team": "Portogallo",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Olivier Giroud",
+          "team": "Francia",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Álvaro Morata",
+          "team": "Spagna",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Balázs Dzsudzsák",
+          "team": "Ungheria",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Birkir Bjarnason",
+          "team": "Islanda",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Bogdan Stancu",
+          "team": "Romania",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Graziano Pellè",
+          "team": "Italia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Hal Robson-Kanu",
+          "team": "Galles",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Ivan Perisic",
+          "team": "Croazia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Jakub Blaszczykowski",
+          "team": "Polonia",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Kolbeinn Sigthorsson",
+          "team": "Islanda",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Mario Gómez",
+          "team": "Germania",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Radja Nainggolan",
+          "team": "Belgio",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Robbie Brady",
+          "team": "Irlanda",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
           "name": "Romelu Lukaku",
           "team": "Belgio",
           "points": 2
@@ -14164,289 +14234,9 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Fabian Schär",
-          "team": "Svizzera",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Ozan Tufan",
-          "team": "Turchia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Eric Dier",
-          "team": "Inghilterra",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Robbie Brady",
-          "team": "Irlanda",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Gylfi Sigurdsson",
-          "team": "Islanda",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Neil Taylor",
-          "team": "Galles",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Marek Hamsik",
-          "team": "Slovacchia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Birkir Bjarnason",
-          "team": "Islanda",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Gerard Piqué",
-          "team": "Spagna",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Gareth McAuley",
-          "team": "Irlanda del Nord",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Arkadiusz Milik",
-          "team": "Polonia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Ivan Rakitić",
-          "team": "Croazia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Aaron Ramsey",
-          "team": "Galles",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Admir Mehmedi",
-          "team": "Svizzera",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Vladimir Weiss",
-          "team": "Slovacchia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Nolito",
-          "team": "Spagna",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Armando Sadiku",
-          "team": "Albania",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Jón Bödvarsson",
-          "team": "Islanda",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Zoltan Gera",
-          "team": "Ungheria",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Vasili Berezutski",
-          "team": "Russia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Jakub Blaszczykowski",
-          "team": "Polonia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Burak Yilmaz",
-          "team": "Turchia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Axel Witsel",
-          "team": "Belgio",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Tomas Necid",
-          "team": "Repubblica Ceca",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Antoine Griezmann",
-          "team": "Francia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Wes Hoolahan",
-          "team": "Irlanda",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Ondrej Duda",
-          "team": "Slovacchia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Denis Glushakov",
-          "team": "Russia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Ádám Szalai",
-          "team": "Ungheria",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Radja Nainggolan",
-          "team": "Belgio",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Zoltan Stieber",
-          "team": "Ungheria",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Alessandro Schöpf",
-          "team": "Austria",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Olivier Giroud",
-          "team": "Francia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Luka Modric",
-          "team": "Croazia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Jamie Vardy",
-          "team": "Inghilterra",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Daniel Sturridge",
-          "team": "Inghilterra",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Mario Gómez",
-          "team": "Germania",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Hal Robson-Kanu",
-          "team": "Galles",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Emanuele Giaccherini",
-          "team": "Italia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
           "name": "Éder",
-          "team": "Italia",
-          "points": 1
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Graziano Pellè",
-          "team": "Italia",
-          "points": 1
+          "team": "Portogallo",
+          "points": 2
         }
       ]
     }
