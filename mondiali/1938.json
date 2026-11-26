@@ -1,0 +1,2850 @@
+{
+  "competition": "mondiali",
+  "season": "1938",
+  "generatedAt": "2026-11-26T16:16:37.8331833+00:00",
+  "events": [
+    {
+      "id": "mondiali-1938-197507",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "last_16",
+      "title": "Svizzera - Germania",
+      "session": "match",
+      "startsAt": "1938-06-04T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "awayTeam": {
+        "id": "espn-481",
+        "name": "Germany",
+        "shortName": "Germania",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 24,
+            "type": "goal",
+            "side": "away",
+            "player": "Jupp Gauchel",
+            "short": "Gauchel"
+          },
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "home",
+            "player": "Andre Abegglen",
+            "short": "Abegglen"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Willy Huber",
+              "short": "Huber"
+            },
+            {
+              "name": "Georges Aeby",
+              "short": "Aeby"
+            },
+            {
+              "name": "Hermann Springer",
+              "short": "Springer"
+            },
+            {
+              "name": "Sirio Vernati",
+              "short": "Vernati"
+            },
+            {
+              "name": "Eugen Walaschek",
+              "short": "Walaschek"
+            },
+            {
+              "name": "Lauro Amado",
+              "short": "Amado"
+            },
+            {
+              "name": "August Lehmann",
+              "short": "Lehmann"
+            },
+            {
+              "name": "Ernest Loertscher",
+              "short": "Loertscher"
+            },
+            {
+              "name": "Severino Minelli",
+              "short": "Minelli"
+            },
+            {
+              "name": "Andre Abegglen",
+              "short": "Abegglen"
+            },
+            {
+              "name": "Alfred Bickel",
+              "short": "Bickel"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Rudi Raftl",
+              "short": "Raftl"
+            },
+            {
+              "name": "Jupp Gauchel",
+              "short": "Gauchel"
+            },
+            {
+              "name": "Albin Kitzinger",
+              "short": "Kitzinger"
+            },
+            {
+              "name": "Willi Schmaus",
+              "short": "Schmaus"
+            },
+            {
+              "name": "Paul Janes",
+              "short": "Janes"
+            },
+            {
+              "name": "Anderl Kupfer",
+              "short": "Kupfer"
+            },
+            {
+              "name": "Hans Mock",
+              "short": "Mock"
+            },
+            {
+              "name": "Rudi Gellesch",
+              "short": "Gellesch"
+            },
+            {
+              "name": "Willi Hahnemann",
+              "short": "Hahnemann"
+            },
+            {
+              "name": "Ernst Lehner",
+              "short": "Lehner"
+            },
+            {
+              "name": "Hans Pesser",
+              "short": "Pesser"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197509",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "last_16",
+      "title": "Brasile - Polonia",
+      "session": "match",
+      "startsAt": "1938-06-05T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "homeScore": 6,
+      "awayScore": 5,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Leonidas"
+          },
+          {
+            "minute": 24,
+            "type": "penalty",
+            "side": "away",
+            "player": "Fryderyk Scherfke",
+            "short": "Scherfke"
+          },
+          {
+            "minute": 26,
+            "type": "goal",
+            "side": "home",
+            "player": "Romeu Pellicciari",
+            "short": "Pellicciari"
+          },
+          {
+            "minute": 45,
+            "type": "goal",
+            "side": "home",
+            "player": "Berjun Peracio",
+            "short": "Peracio"
+          },
+          {
+            "minute": 54,
+            "type": "goal",
+            "side": "away",
+            "player": "Ernest Willimowski",
+            "short": "Willimowski"
+          },
+          {
+            "minute": 60,
+            "type": "goal",
+            "side": "away",
+            "player": "Ernest Willimowski",
+            "short": "Willimowski"
+          },
+          {
+            "minute": 72,
+            "type": "goal",
+            "side": "home",
+            "player": "Berjun Peracio",
+            "short": "Peracio"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "home",
+            "player": "Leonidas"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "away",
+            "player": "Ernest Willimowski",
+            "short": "Willimowski"
+          },
+          {
+            "minute": 105,
+            "type": "goal",
+            "side": "home",
+            "player": "Leonidas"
+          },
+          {
+            "minute": 119,
+            "type": "goal",
+            "side": "away",
+            "player": "Ernest Willimowski",
+            "short": "Willimowski"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Lorenzato Batatais",
+              "short": "Batatais"
+            },
+            {
+              "name": "Artur Machado",
+              "short": "Machado"
+            },
+            {
+              "name": "Domingos da Guia"
+            },
+            {
+              "name": "Alfonso Alfonsinho",
+              "short": "Alfonsinho"
+            },
+            {
+              "name": "Mercio Martim",
+              "short": "Martim"
+            },
+            {
+              "name": "José Zeze",
+              "short": "Zeze"
+            },
+            {
+              "name": "de Hércules",
+              "short": "Hércules"
+            },
+            {
+              "name": "José Lopes",
+              "short": "Lopes"
+            },
+            {
+              "name": "Romeu Pellicciari",
+              "short": "Pellicciari"
+            },
+            {
+              "name": "Berjun Peracio",
+              "short": "Peracio"
+            },
+            {
+              "name": "Leonidas"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Edward Madejski",
+              "short": "Madejski"
+            },
+            {
+              "name": "Antoni Galecki",
+              "short": "Galecki"
+            },
+            {
+              "name": "Wladyslaw Szczepaniak",
+              "short": "Szczepaniak"
+            },
+            {
+              "name": "Ewald Dytko",
+              "short": "Dytko"
+            },
+            {
+              "name": "Wilhelm Gora",
+              "short": "Gora"
+            },
+            {
+              "name": "Erwin Nyc",
+              "short": "Nyc"
+            },
+            {
+              "name": "Leonard Piatek",
+              "short": "Piatek"
+            },
+            {
+              "name": "Ryszard Piec",
+              "short": "Piec"
+            },
+            {
+              "name": "Fryderyk Scherfke",
+              "short": "Scherfke"
+            },
+            {
+              "name": "Ernest Willimowski",
+              "short": "Willimowski"
+            },
+            {
+              "name": "Gerard Wodarz",
+              "short": "Wodarz"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197512",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "last_16",
+      "title": "Cuba - Romania",
+      "session": "match",
+      "startsAt": "1938-06-05T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-2647",
+        "name": "Cuba",
+        "shortName": "Cuba",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/cub.png"
+      },
+      "awayTeam": {
+        "id": "espn-473",
+        "name": "Romania",
+        "shortName": "Romania",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png"
+      },
+      "homeScore": 3,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "away",
+            "player": "Silviu Bindea",
+            "short": "Bindea"
+          },
+          {
+            "minute": 41,
+            "type": "goal",
+            "side": "home",
+            "player": "Héctor Socorro",
+            "short": "Socorro"
+          },
+          {
+            "minute": 88,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "away",
+            "player": "Iuliu Baratky",
+            "short": "Baratky"
+          },
+          {
+            "minute": 101,
+            "type": "goal",
+            "side": "away",
+            "player": "Silviu Bindea",
+            "short": "Bindea"
+          },
+          {
+            "minute": 112,
+            "type": "goal",
+            "side": "home",
+            "player": "Juan Tunas",
+            "short": "Tunas"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Benito Carvajales",
+              "short": "Carvajales"
+            },
+            {
+              "name": "Jacinto Barquín",
+              "short": "Barquín"
+            },
+            {
+              "name": "Manuel Chorens",
+              "short": "Chorens"
+            },
+            {
+              "name": "Joaquin Arias",
+              "short": "Arias"
+            },
+            {
+              "name": "Pedro Berges",
+              "short": "Berges"
+            },
+            {
+              "name": "José Bolillo Rodríguez",
+              "short": "Bolillo Rodríguez"
+            },
+            {
+              "name": "Carlos Oliveira",
+              "short": "Oliveira"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Héctor Socorro",
+              "short": "Socorro"
+            },
+            {
+              "name": "Mario Sosa",
+              "short": "Sosa"
+            },
+            {
+              "name": "Juan Tunas",
+              "short": "Tunas"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Cornel Pavlovici",
+              "short": "Pavlovici"
+            },
+            {
+              "name": "Rudolf Burger",
+              "short": "Burger"
+            },
+            {
+              "name": "Vasile Chiroiu",
+              "short": "Chiroiu"
+            },
+            {
+              "name": "Ladislau Rafinski",
+              "short": "Rafinski"
+            },
+            {
+              "name": "Gheorghe Rasinaru",
+              "short": "Rasinaru"
+            },
+            {
+              "name": "Cossini Vintila",
+              "short": "Vintila"
+            },
+            {
+              "name": "Iuliu Baratky",
+              "short": "Baratky"
+            },
+            {
+              "name": "Silviu Bindea",
+              "short": "Bindea"
+            },
+            {
+              "name": "Iuliu Bodola",
+              "short": "Bodola"
+            },
+            {
+              "name": "Niculae Covaci",
+              "short": "Covaci"
+            },
+            {
+              "name": "Stefan Dobay",
+              "short": "Dobay"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197508",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "last_16",
+      "title": "Cecoslovacchia - Olanda",
+      "session": "match",
+      "startsAt": "1938-06-05T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "awayTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 93,
+            "type": "goal",
+            "side": "home",
+            "player": "Josef Kostalek",
+            "short": "Kostalek"
+          },
+          {
+            "minute": 111,
+            "type": "goal",
+            "side": "home",
+            "player": "Oldrich Nejedly",
+            "short": "Nejedly"
+          },
+          {
+            "minute": 116,
+            "type": "goal",
+            "side": "home",
+            "player": "Josef Zeman",
+            "short": "Zeman"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Frantisek Planicka",
+              "short": "Planicka"
+            },
+            {
+              "name": "Jaroslav Bürgr",
+              "short": "Bürgr"
+            },
+            {
+              "name": "Ferdinand Daucik",
+              "short": "Daucik"
+            },
+            {
+              "name": "Jaroslav Boucek",
+              "short": "Boucek"
+            },
+            {
+              "name": "Vlastimil Kopecky",
+              "short": "Kopecky"
+            },
+            {
+              "name": "Josef Kostalek",
+              "short": "Kostalek"
+            },
+            {
+              "name": "Oldrich Nejedly",
+              "short": "Nejedly"
+            },
+            {
+              "name": "Antonin Puc",
+              "short": "Puc"
+            },
+            {
+              "name": "Jan Riha",
+              "short": "Riha"
+            },
+            {
+              "name": "Ladislav Simunek",
+              "short": "Simunek"
+            },
+            {
+              "name": "Josef Zeman",
+              "short": "Zeman"
+            },
+            {
+              "name": "Oldrich Nejedly",
+              "short": "Nejedly"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Adri Van Male",
+              "short": "Van Male"
+            },
+            {
+              "name": "Bertus Caldenhove",
+              "short": "Caldenhove"
+            },
+            {
+              "name": "Mauk Weber",
+              "short": "Weber"
+            },
+            {
+              "name": "Wim Anderiesen",
+              "short": "Anderiesen"
+            },
+            {
+              "name": "Bas Pauwe",
+              "short": "Pauwe"
+            },
+            {
+              "name": "Puck Van Heel",
+              "short": "Van Heel"
+            },
+            {
+              "name": "Bertus De Harder",
+              "short": "De Harder"
+            },
+            {
+              "name": "Kick Smit",
+              "short": "Smit"
+            },
+            {
+              "name": "Frits Van der Veen",
+              "short": "Van der Veen"
+            },
+            {
+              "name": "Leen Vente",
+              "short": "Vente"
+            },
+            {
+              "name": "Frank Wels",
+              "short": "Wels"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197510",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "last_16",
+      "title": "Francia - Belgio",
+      "session": "match",
+      "startsAt": "1938-06-05T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "awayTeam": {
+        "id": "espn-459",
+        "name": "Belgium",
+        "shortName": "Belgio",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 2,
+            "type": "goal",
+            "side": "home",
+            "player": "Emile Veinante",
+            "short": "Veinante"
+          },
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Jean Nicolas",
+            "short": "Nicolas"
+          },
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "away",
+            "player": "Henri Isemborghs",
+            "short": "Isemborghs"
+          },
+          {
+            "minute": 70,
+            "type": "goal",
+            "side": "home",
+            "player": "Jean Nicolas",
+            "short": "Nicolas"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Laurent Di Lorto",
+              "short": "Di Lorto"
+            },
+            {
+              "name": "Héctor Cazenave",
+              "short": "Cazenave"
+            },
+            {
+              "name": "Etienne Mattler",
+              "short": "Mattler"
+            },
+            {
+              "name": "Jean Bastien",
+              "short": "Bastien"
+            },
+            {
+              "name": "Raoul Diagne",
+              "short": "Diagne"
+            },
+            {
+              "name": "Gusti Jordan",
+              "short": "Jordan"
+            },
+            {
+              "name": "Alfred Aston",
+              "short": "Aston"
+            },
+            {
+              "name": "Edmond Delfour",
+              "short": "Delfour"
+            },
+            {
+              "name": "Oscar Heisserer",
+              "short": "Heisserer"
+            },
+            {
+              "name": "Jean Nicolas",
+              "short": "Nicolas"
+            },
+            {
+              "name": "Emile Veinante",
+              "short": "Veinante"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Arnold Badjou",
+              "short": "Badjou"
+            },
+            {
+              "name": "Bob Paverick",
+              "short": "Paverick"
+            },
+            {
+              "name": "Corneille Seys",
+              "short": "Seys"
+            },
+            {
+              "name": "Pierre Braine",
+              "short": "Braine"
+            },
+            {
+              "name": "Alphonse De Winter",
+              "short": "De Winter"
+            },
+            {
+              "name": "Emiel Stijnen",
+              "short": "Stijnen"
+            },
+            {
+              "name": "John Van Alphen",
+              "short": "Van Alphen"
+            },
+            {
+              "name": "Fernand Buyle",
+              "short": "Buyle"
+            },
+            {
+              "name": "Henri Isemborghs",
+              "short": "Isemborghs"
+            },
+            {
+              "name": "Charley Van de Wouwer",
+              "short": "Van de Wouwer"
+            },
+            {
+              "name": "Bernard Voorhhof",
+              "short": "Voorhhof"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197511",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "last_16",
+      "title": "Ungheria - Indie orientali olandesi",
+      "session": "match",
+      "startsAt": "1938-06-05T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-6654",
+        "name": "Dutch East Indies",
+        "shortName": "Indie orientali olandesi",
+        "logoUrl": ""
+      },
+      "homeScore": 6,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Vilmos Kohut",
+            "short": "Kohut"
+          },
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "home",
+            "player": "Geza Toldi",
+            "short": "Toldi"
+          },
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "home",
+            "player": "Gyorgy Sarosi",
+            "short": "Sarosi"
+          },
+          {
+            "minute": 36,
+            "type": "goal",
+            "side": "home",
+            "player": "Gyula Zsengeller",
+            "short": "Zsengeller"
+          },
+          {
+            "minute": 64,
+            "type": "goal",
+            "side": "home",
+            "player": "Gyula Zsengeller",
+            "short": "Zsengeller"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Gyorgy Sarosi",
+            "short": "Sarosi"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Jozsef Hada",
+              "short": "Hada"
+            },
+            {
+              "name": "Sandor Biró",
+              "short": "Biró"
+            },
+            {
+              "name": "Lajos Koranyi",
+              "short": "Koranyi"
+            },
+            {
+              "name": "Istvan Balogh",
+              "short": "Balogh"
+            },
+            {
+              "name": "Gyula Lázar",
+              "short": "Lázar"
+            },
+            {
+              "name": "Jozsef Turay",
+              "short": "Turay"
+            },
+            {
+              "name": "Vilmos Kohut",
+              "short": "Kohut"
+            },
+            {
+              "name": "Gyorgy Sarosi",
+              "short": "Sarosi"
+            },
+            {
+              "name": "Ferenc Sas",
+              "short": "Sas"
+            },
+            {
+              "name": "Geza Toldi",
+              "short": "Toldi"
+            },
+            {
+              "name": "Gyula Zsengeller",
+              "short": "Zsengeller"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Heng Bing Mo",
+              "short": "Bing Mo"
+            },
+            {
+              "name": "F. Hu Kom",
+              "short": "Hu Kom"
+            },
+            {
+              "name": "Samuels"
+            },
+            {
+              "name": "Sutan Anwar",
+              "short": "Anwar"
+            },
+            {
+              "name": "Alfred Meng",
+              "short": "Meng"
+            },
+            {
+              "name": "A Nawir",
+              "short": "Nawir"
+            },
+            {
+              "name": "Djien Hong",
+              "short": "Hong"
+            },
+            {
+              "name": "Tjaak Pattiwael",
+              "short": "Pattiwael"
+            },
+            {
+              "name": "Suwarte Soedermandji",
+              "short": "Soedermandji"
+            },
+            {
+              "name": "Hans Taihuttu",
+              "short": "Taihuttu"
+            },
+            {
+              "name": "Henk Zomers",
+              "short": "Zomers"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197513",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "last_16",
+      "title": "Italia - Norvegia",
+      "session": "match",
+      "startsAt": "1938-06-05T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-464",
+        "name": "Norway",
+        "shortName": "Norvegia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 3,
+            "type": "goal",
+            "side": "home",
+            "player": "Pietro Ferraris II",
+            "short": "Ferraris II"
+          },
+          {
+            "minute": 84,
+            "type": "goal",
+            "side": "away",
+            "player": "Arne Brustad",
+            "short": "Brustad"
+          },
+          {
+            "minute": 95,
+            "type": "goal",
+            "side": "home",
+            "player": "Silvio Piola",
+            "short": "Piola"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Aldo Olivieri",
+              "short": "Olivieri"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Pietro Rava",
+              "short": "Rava"
+            },
+            {
+              "name": "Michele Andreolo",
+              "short": "Andreolo"
+            },
+            {
+              "name": "Ugo Locatelli",
+              "short": "Locatelli"
+            },
+            {
+              "name": "Pietro Serantoni",
+              "short": "Serantoni"
+            },
+            {
+              "name": "Giovanni Ferrari",
+              "short": "Ferrari"
+            },
+            {
+              "name": "Pietro Ferraris II",
+              "short": "Ferraris II"
+            },
+            {
+              "name": "Giuseppe Meazza",
+              "short": "Meazza"
+            },
+            {
+              "name": "Piero Pasinati",
+              "short": "Pasinati"
+            },
+            {
+              "name": "Silvio Piola",
+              "short": "Piola"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Henry Johansen",
+              "short": "Johansen"
+            },
+            {
+              "name": "Oyvind Holmsen",
+              "short": "Holmsen"
+            },
+            {
+              "name": "Rolf Johannesen",
+              "short": "Johannesen"
+            },
+            {
+              "name": "Nils Eriksen",
+              "short": "Eriksen"
+            },
+            {
+              "name": "Kristian Henriksen",
+              "short": "Henriksen"
+            },
+            {
+              "name": "Rolf Holmberg",
+              "short": "Holmberg"
+            },
+            {
+              "name": "Arne Brustad",
+              "short": "Brustad"
+            },
+            {
+              "name": "Knut Brynildsen",
+              "short": "Brynildsen"
+            },
+            {
+              "name": "Odd Frantzen",
+              "short": "Frantzen"
+            },
+            {
+              "name": "Magnar Isaksen",
+              "short": "Isaksen"
+            },
+            {
+              "name": "Reidar Kvammen",
+              "short": "Kvammen"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197515",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "last_16",
+      "title": "Cuba - Romania",
+      "session": "match",
+      "startsAt": "1938-06-09T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-2647",
+        "name": "Cuba",
+        "shortName": "Cuba",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/cub.png"
+      },
+      "awayTeam": {
+        "id": "espn-473",
+        "name": "Romania",
+        "shortName": "Romania",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 36,
+            "type": "goal",
+            "side": "away",
+            "player": "Stefan Dobay",
+            "short": "Dobay"
+          },
+          {
+            "minute": 51,
+            "type": "goal",
+            "side": "home",
+            "player": "Héctor Socorro",
+            "short": "Socorro"
+          },
+          {
+            "minute": 56,
+            "type": "goal",
+            "side": "home",
+            "player": "Carlos Oliveira",
+            "short": "Oliveira"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Juan Ayra",
+              "short": "Ayra"
+            },
+            {
+              "name": "Jacinto Barquín",
+              "short": "Barquín"
+            },
+            {
+              "name": "Manuel Chorens",
+              "short": "Chorens"
+            },
+            {
+              "name": "Joaquin Arias",
+              "short": "Arias"
+            },
+            {
+              "name": "Pedro Berges",
+              "short": "Berges"
+            },
+            {
+              "name": "José Bolillo Rodríguez",
+              "short": "Bolillo Rodríguez"
+            },
+            {
+              "name": "Carlos Oliveira",
+              "short": "Oliveira"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Héctor Socorro",
+              "short": "Socorro"
+            },
+            {
+              "name": "Mario Sosa",
+              "short": "Sosa"
+            },
+            {
+              "name": "Juan Tunas",
+              "short": "Tunas"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Robert Sadowsky",
+              "short": "Sadowsky"
+            },
+            {
+              "name": "Rudolf Burger",
+              "short": "Burger"
+            },
+            {
+              "name": "Iacob Felecan I",
+              "short": "Felecan I"
+            },
+            {
+              "name": "Andrei Barbulescu",
+              "short": "Barbulescu"
+            },
+            {
+              "name": "Ladislau Rafinski",
+              "short": "Rafinski"
+            },
+            {
+              "name": "Gheorghe Rasinaru",
+              "short": "Rasinaru"
+            },
+            {
+              "name": "Iuliu Baratky",
+              "short": "Baratky"
+            },
+            {
+              "name": "Bogdan Ion",
+              "short": "Ion"
+            },
+            {
+              "name": "Stefan Dobay",
+              "short": "Dobay"
+            },
+            {
+              "name": "Constantin Maldoveanu",
+              "short": "Maldoveanu"
+            },
+            {
+              "name": "Iulian Prassler",
+              "short": "Prassler"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197514",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "last_16",
+      "title": "Svizzera - Germania",
+      "session": "match",
+      "startsAt": "1938-06-09T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "awayTeam": {
+        "id": "espn-481",
+        "name": "Germany",
+        "shortName": "Germania",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+      },
+      "homeScore": 4,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 10,
+            "type": "goal",
+            "side": "away",
+            "player": "Willi Hahnemann",
+            "short": "Hahnemann"
+          },
+          {
+            "minute": 23,
+            "type": "ownGoal",
+            "side": "away",
+            "player": "Ernest Loertscher",
+            "short": "Loertscher"
+          },
+          {
+            "minute": 42,
+            "type": "goal",
+            "side": "home",
+            "player": "Eugen Walaschek",
+            "short": "Walaschek"
+          },
+          {
+            "minute": 66,
+            "type": "goal",
+            "side": "home",
+            "player": "Alfred Bickel",
+            "short": "Bickel"
+          },
+          {
+            "minute": 77,
+            "type": "goal",
+            "side": "home",
+            "player": "Andre Abegglen",
+            "short": "Abegglen"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Andre Abegglen",
+            "short": "Abegglen"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Willy Huber",
+              "short": "Huber"
+            },
+            {
+              "name": "August Lehmann",
+              "short": "Lehmann"
+            },
+            {
+              "name": "Severino Minelli",
+              "short": "Minelli"
+            },
+            {
+              "name": "Ernest Loertscher",
+              "short": "Loertscher"
+            },
+            {
+              "name": "Hermann Springer",
+              "short": "Springer"
+            },
+            {
+              "name": "Sirio Vernati",
+              "short": "Vernati"
+            },
+            {
+              "name": "Andre Abegglen",
+              "short": "Abegglen"
+            },
+            {
+              "name": "Georges Aeby",
+              "short": "Aeby"
+            },
+            {
+              "name": "Lauro Amado",
+              "short": "Amado"
+            },
+            {
+              "name": "Alfred Bickel",
+              "short": "Bickel"
+            },
+            {
+              "name": "Eugen Walaschek",
+              "short": "Walaschek"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Rudi Raftl",
+              "short": "Raftl"
+            },
+            {
+              "name": "Jakl Streitle",
+              "short": "Streitle"
+            },
+            {
+              "name": "Ludwig Goldbrunner",
+              "short": "Goldbrunner"
+            },
+            {
+              "name": "Paul Janes",
+              "short": "Janes"
+            },
+            {
+              "name": "Anderl Kupfer",
+              "short": "Kupfer"
+            },
+            {
+              "name": "Fritz Szepan",
+              "short": "Szepan"
+            },
+            {
+              "name": "Willi Hahnemann",
+              "short": "Hahnemann"
+            },
+            {
+              "name": "Ernst Lehner",
+              "short": "Lehner"
+            },
+            {
+              "name": "Poldi Neumer",
+              "short": "Neumer"
+            },
+            {
+              "name": "Steffi Skoumal",
+              "short": "Skoumal"
+            },
+            {
+              "name": "Pepi Stroh",
+              "short": "Stroh"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197519",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "quarter_finals",
+      "title": "Brasile - Cecoslovacchia",
+      "session": "match",
+      "startsAt": "1938-06-12T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "home",
+            "player": "Leonidas"
+          },
+          {
+            "minute": 42,
+            "type": "penalty",
+            "side": "away",
+            "player": "Oldrich Nejedly",
+            "short": "Nejedly"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "De Walter",
+              "short": "Walter"
+            },
+            {
+              "name": "Artur Machado",
+              "short": "Machado"
+            },
+            {
+              "name": "Domingos da Guia"
+            },
+            {
+              "name": "Alfonso Alfonsinho",
+              "short": "Alfonsinho"
+            },
+            {
+              "name": "Mercio Martim",
+              "short": "Martim"
+            },
+            {
+              "name": "José Zeze",
+              "short": "Zeze"
+            },
+            {
+              "name": "de Hércules",
+              "short": "Hércules"
+            },
+            {
+              "name": "José Lopes",
+              "short": "Lopes"
+            },
+            {
+              "name": "Romeu Pellicciari",
+              "short": "Pellicciari"
+            },
+            {
+              "name": "Berjun Peracio",
+              "short": "Peracio"
+            },
+            {
+              "name": "Leonidas"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Frantisek Planicka",
+              "short": "Planicka"
+            },
+            {
+              "name": "Jaroslav Bürgr",
+              "short": "Bürgr"
+            },
+            {
+              "name": "Ferdinand Daucik",
+              "short": "Daucik"
+            },
+            {
+              "name": "Jaroslav Boucek",
+              "short": "Boucek"
+            },
+            {
+              "name": "Vlastimil Kopecky",
+              "short": "Kopecky"
+            },
+            {
+              "name": "Josef Kostalek",
+              "short": "Kostalek"
+            },
+            {
+              "name": "Jozef Ludl",
+              "short": "Ludl"
+            },
+            {
+              "name": "Oldrich Nejedly",
+              "short": "Nejedly"
+            },
+            {
+              "name": "Antonin Puc",
+              "short": "Puc"
+            },
+            {
+              "name": "Jan Riha",
+              "short": "Riha"
+            },
+            {
+              "name": "Ladislav Simunek",
+              "short": "Simunek"
+            },
+            {
+              "name": "Oldrich Nejedly",
+              "short": "Nejedly"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197516",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "quarter_finals",
+      "title": "Ungheria - Svizzera",
+      "session": "match",
+      "startsAt": "1938-06-12T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "home",
+            "player": "Gyorgy Sarosi",
+            "short": "Sarosi"
+          },
+          {
+            "minute": 90,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Gyula Zsengeller",
+            "short": "Zsengeller"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Antal Szabó",
+              "short": "Szabó"
+            },
+            {
+              "name": "Sandor Biró",
+              "short": "Biró"
+            },
+            {
+              "name": "Lajos Koranyi",
+              "short": "Koranyi"
+            },
+            {
+              "name": "Gyula Lázar",
+              "short": "Lázar"
+            },
+            {
+              "name": "Antal Szalay",
+              "short": "Szalay"
+            },
+            {
+              "name": "Jozsef Turay",
+              "short": "Turay"
+            },
+            {
+              "name": "Vilmos Kohut",
+              "short": "Kohut"
+            },
+            {
+              "name": "Gyorgy Sarosi",
+              "short": "Sarosi"
+            },
+            {
+              "name": "Ferenc Sas",
+              "short": "Sas"
+            },
+            {
+              "name": "Jeno Vincze",
+              "short": "Vincze"
+            },
+            {
+              "name": "Gyula Zsengeller",
+              "short": "Zsengeller"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Willy Huber",
+              "short": "Huber"
+            },
+            {
+              "name": "August Lehmann",
+              "short": "Lehmann"
+            },
+            {
+              "name": "Adolf Stelzer",
+              "short": "Stelzer"
+            },
+            {
+              "name": "Ernest Loertscher",
+              "short": "Loertscher"
+            },
+            {
+              "name": "Hermann Springer",
+              "short": "Springer"
+            },
+            {
+              "name": "Sirio Vernati",
+              "short": "Vernati"
+            },
+            {
+              "name": "Andre Abegglen",
+              "short": "Abegglen"
+            },
+            {
+              "name": "Lauro Amado",
+              "short": "Amado"
+            },
+            {
+              "name": "Alfred Bickel",
+              "short": "Bickel"
+            },
+            {
+              "name": "Tullio Grassi",
+              "short": "Grassi"
+            },
+            {
+              "name": "Eugen Walaschek",
+              "short": "Walaschek"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197518",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "quarter_finals",
+      "title": "Italia - Francia",
+      "session": "match",
+      "startsAt": "1938-06-12T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 10,
+            "type": "goal",
+            "side": "home",
+            "player": "Gino Colaussi",
+            "short": "Colaussi"
+          },
+          {
+            "minute": 11,
+            "type": "goal",
+            "side": "away",
+            "player": "Oscar Heisserer",
+            "short": "Heisserer"
+          },
+          {
+            "minute": 52,
+            "type": "goal",
+            "side": "home",
+            "player": "Silvio Piola",
+            "short": "Piola"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "home",
+            "player": "Silvio Piola",
+            "short": "Piola"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Aldo Olivieri",
+              "short": "Olivieri"
+            },
+            {
+              "name": "Alfredo Foni",
+              "short": "Foni"
+            },
+            {
+              "name": "Pietro Rava",
+              "short": "Rava"
+            },
+            {
+              "name": "Michele Andreolo",
+              "short": "Andreolo"
+            },
+            {
+              "name": "Ugo Locatelli",
+              "short": "Locatelli"
+            },
+            {
+              "name": "Pietro Serantoni",
+              "short": "Serantoni"
+            },
+            {
+              "name": "Amadeo Biavati",
+              "short": "Biavati"
+            },
+            {
+              "name": "Gino Colaussi",
+              "short": "Colaussi"
+            },
+            {
+              "name": "Giovanni Ferrari",
+              "short": "Ferrari"
+            },
+            {
+              "name": "Giuseppe Meazza",
+              "short": "Meazza"
+            },
+            {
+              "name": "Silvio Piola",
+              "short": "Piola"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Laurent Di Lorto",
+              "short": "Di Lorto"
+            },
+            {
+              "name": "Héctor Cazenave",
+              "short": "Cazenave"
+            },
+            {
+              "name": "Etienne Mattler",
+              "short": "Mattler"
+            },
+            {
+              "name": "Jean Bastien",
+              "short": "Bastien"
+            },
+            {
+              "name": "Raoul Diagne",
+              "short": "Diagne"
+            },
+            {
+              "name": "Gusti Jordan",
+              "short": "Jordan"
+            },
+            {
+              "name": "Alfred Aston",
+              "short": "Aston"
+            },
+            {
+              "name": "Edmond Delfour",
+              "short": "Delfour"
+            },
+            {
+              "name": "Oscar Heisserer",
+              "short": "Heisserer"
+            },
+            {
+              "name": "Jean Nicolas",
+              "short": "Nicolas"
+            },
+            {
+              "name": "Emile Veinante",
+              "short": "Veinante"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197517",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "quarter_finals",
+      "title": "Svezia - Cuba",
+      "session": "match",
+      "startsAt": "1938-06-12T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-2647",
+        "name": "Cuba",
+        "shortName": "Cuba",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/cub.png"
+      },
+      "homeScore": 8,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 14,
+            "type": "goal",
+            "side": "home",
+            "player": "Tore Keller",
+            "short": "Keller"
+          },
+          {
+            "minute": 28,
+            "type": "goal",
+            "side": "home",
+            "player": "Gustav Wetterstroem",
+            "short": "Wetterstroem"
+          },
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Gustav Wetterstroem",
+            "short": "Wetterstroem"
+          },
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "home",
+            "player": "Gustav Wetterstroem",
+            "short": "Wetterstroem"
+          },
+          {
+            "minute": 49,
+            "type": "goal",
+            "side": "home",
+            "player": "Tore Keller",
+            "short": "Keller"
+          },
+          {
+            "minute": 50,
+            "type": "goal",
+            "side": "home",
+            "player": "Tore Keller",
+            "short": "Keller"
+          },
+          {
+            "minute": 87,
+            "type": "goal",
+            "side": "home",
+            "player": "Arne Nyberg",
+            "short": "Nyberg"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Harry Andersson",
+            "short": "Andersson"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Henock Abrahamsson",
+              "short": "Abrahamsson"
+            },
+            {
+              "name": "Ivar Eriksson",
+              "short": "Eriksson"
+            },
+            {
+              "name": "Olle Kallgren",
+              "short": "Kallgren"
+            },
+            {
+              "name": "Erik Almgren",
+              "short": "Almgren"
+            },
+            {
+              "name": "Harry Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Sven Jacobsson",
+              "short": "Jacobsson"
+            },
+            {
+              "name": "Sven Jonasson",
+              "short": "Jonasson"
+            },
+            {
+              "name": "Tore Keller",
+              "short": "Keller"
+            },
+            {
+              "name": "Arne Nyberg",
+              "short": "Nyberg"
+            },
+            {
+              "name": "Kurt Swanstroem",
+              "short": "Swanstroem"
+            },
+            {
+              "name": "Gustav Wetterstroem",
+              "short": "Wetterstroem"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Benito Carvajales",
+              "short": "Carvajales"
+            },
+            {
+              "name": "Jacinto Barquín",
+              "short": "Barquín"
+            },
+            {
+              "name": "Manuel Chorens",
+              "short": "Chorens"
+            },
+            {
+              "name": "Joaquin Arias",
+              "short": "Arias"
+            },
+            {
+              "name": "Pedro Berges",
+              "short": "Berges"
+            },
+            {
+              "name": "José Bolillo Rodríguez",
+              "short": "Bolillo Rodríguez"
+            },
+            {
+              "name": "Pedro Ferrer",
+              "short": "Ferrer"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Héctor Socorro",
+              "short": "Socorro"
+            },
+            {
+              "name": "Juan Tunas",
+              "short": "Tunas"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197520",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "quarter_finals",
+      "title": "Brasile - Cecoslovacchia",
+      "session": "match",
+      "startsAt": "1938-06-14T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 24,
+            "type": "goal",
+            "side": "away",
+            "player": "Vlastimil Kopecky",
+            "short": "Kopecky"
+          },
+          {
+            "minute": 57,
+            "type": "goal",
+            "side": "home",
+            "player": "Leonidas"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Leonidas"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "De Walter",
+              "short": "Walter"
+            },
+            {
+              "name": "Euclydes Jau",
+              "short": "Jau"
+            },
+            {
+              "name": "Pinheiro Argemiro",
+              "short": "Argemiro"
+            },
+            {
+              "name": "Jose Brandao",
+              "short": "Brandao"
+            },
+            {
+              "name": "Erminio Brito",
+              "short": "Brito"
+            },
+            {
+              "name": "José Lopes",
+              "short": "Lopes"
+            },
+            {
+              "name": "Luiz Luizinho",
+              "short": "Luizinho"
+            },
+            {
+              "name": "Rodolfo Patesko",
+              "short": "Patesko"
+            },
+            {
+              "name": "Enilio Roberto",
+              "short": "Roberto"
+            },
+            {
+              "name": "Elba Tim",
+              "short": "Tim"
+            },
+            {
+              "name": "Leonidas"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Karel Burkert",
+              "short": "Burkert"
+            },
+            {
+              "name": "Jaroslav Bürgr",
+              "short": "Bürgr"
+            },
+            {
+              "name": "Ferdinand Daucik",
+              "short": "Daucik"
+            },
+            {
+              "name": "Jaroslav Boucek",
+              "short": "Boucek"
+            },
+            {
+              "name": "Vlastimil Kopecky",
+              "short": "Kopecky"
+            },
+            {
+              "name": "Josef Kostalek",
+              "short": "Kostalek"
+            },
+            {
+              "name": "Vilem Kreutz",
+              "short": "Kreutz"
+            },
+            {
+              "name": "Vaclav Horak",
+              "short": "Horak"
+            },
+            {
+              "name": "Jozef Ludl",
+              "short": "Ludl"
+            },
+            {
+              "name": "Antonin Puc",
+              "short": "Puc"
+            },
+            {
+              "name": "Karel Senecky",
+              "short": "Senecky"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197521",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "semi_finals",
+      "title": "Ungheria - Svezia",
+      "session": "match",
+      "startsAt": "1938-06-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "homeScore": 5,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 2,
+            "type": "goal",
+            "side": "away",
+            "player": "Arne Nyberg",
+            "short": "Nyberg"
+          },
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "home",
+            "player": "Gyula Zsengeller",
+            "short": "Zsengeller"
+          },
+          {
+            "minute": 38,
+            "type": "goal",
+            "side": "home",
+            "player": "Ferenc Sas",
+            "short": "Sas"
+          },
+          {
+            "minute": 40,
+            "type": "goal",
+            "side": "home",
+            "player": "Gyula Zsengeller",
+            "short": "Zsengeller"
+          },
+          {
+            "minute": 67,
+            "type": "goal",
+            "side": "home",
+            "player": "Gyorgy Sarosi",
+            "short": "Sarosi"
+          },
+          {
+            "minute": 87,
+            "type": "goal",
+            "side": "home",
+            "player": "Gyula Zsengeller",
+            "short": "Zsengeller"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Antal Szabó",
+              "short": "Szabó"
+            },
+            {
+              "name": "Sandor Biró",
+              "short": "Biró"
+            },
+            {
+              "name": "Lajos Koranyi",
+              "short": "Koranyi"
+            },
+            {
+              "name": "Gyula Lázar",
+              "short": "Lázar"
+            },
+            {
+              "name": "Antal Szalay",
+              "short": "Szalay"
+            },
+            {
+              "name": "Jozsef Turay",
+              "short": "Turay"
+            },
+            {
+              "name": "Gyorgy Sarosi",
+              "short": "Sarosi"
+            },
+            {
+              "name": "Ferenc Sas",
+              "short": "Sas"
+            },
+            {
+              "name": "Pal Titkos",
+              "short": "Titkos"
+            },
+            {
+              "name": "Geza Toldi",
+              "short": "Toldi"
+            },
+            {
+              "name": "Gyula Zsengeller",
+              "short": "Zsengeller"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Henock Abrahamsson",
+              "short": "Abrahamsson"
+            },
+            {
+              "name": "Ivar Eriksson",
+              "short": "Eriksson"
+            },
+            {
+              "name": "Olle Kallgren",
+              "short": "Kallgren"
+            },
+            {
+              "name": "Erik Almgren",
+              "short": "Almgren"
+            },
+            {
+              "name": "Harry Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Sven Jacobsson",
+              "short": "Jacobsson"
+            },
+            {
+              "name": "Sven Jonasson",
+              "short": "Jonasson"
+            },
+            {
+              "name": "Tore Keller",
+              "short": "Keller"
+            },
+            {
+              "name": "Arne Nyberg",
+              "short": "Nyberg"
+            },
+            {
+              "name": "Kurt Swanstroem",
+              "short": "Swanstroem"
+            },
+            {
+              "name": "Gustav Wetterstroem",
+              "short": "Wetterstroem"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197522",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "semi_finals",
+      "title": "Italia - Brasile",
+      "session": "match",
+      "startsAt": "1938-06-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 57,
+            "type": "goal",
+            "side": "home",
+            "player": "Gino Colaussi",
+            "short": "Colaussi"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Giuseppe Meazza",
+            "short": "Meazza"
+          },
+          {
+            "minute": 83,
+            "type": "penalty",
+            "side": "away",
+            "player": "Romeu Pellicciari",
+            "short": "Pellicciari"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Aldo Olivieri",
+              "short": "Olivieri"
+            },
+            {
+              "name": "Alfredo Foni",
+              "short": "Foni"
+            },
+            {
+              "name": "Pietro Rava",
+              "short": "Rava"
+            },
+            {
+              "name": "Michele Andreolo",
+              "short": "Andreolo"
+            },
+            {
+              "name": "Ugo Locatelli",
+              "short": "Locatelli"
+            },
+            {
+              "name": "Pietro Serantoni",
+              "short": "Serantoni"
+            },
+            {
+              "name": "Amadeo Biavati",
+              "short": "Biavati"
+            },
+            {
+              "name": "Gino Colaussi",
+              "short": "Colaussi"
+            },
+            {
+              "name": "Giovanni Ferrari",
+              "short": "Ferrari"
+            },
+            {
+              "name": "Giuseppe Meazza",
+              "short": "Meazza"
+            },
+            {
+              "name": "Silvio Piola",
+              "short": "Piola"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "De Walter",
+              "short": "Walter"
+            },
+            {
+              "name": "Artur Machado",
+              "short": "Machado"
+            },
+            {
+              "name": "Domingos da Guia"
+            },
+            {
+              "name": "Alfonso Alfonsinho",
+              "short": "Alfonsinho"
+            },
+            {
+              "name": "Mercio Martim",
+              "short": "Martim"
+            },
+            {
+              "name": "José Zeze",
+              "short": "Zeze"
+            },
+            {
+              "name": "José Lopes",
+              "short": "Lopes"
+            },
+            {
+              "name": "Luiz Luizinho",
+              "short": "Luizinho"
+            },
+            {
+              "name": "Rodolfo Patesko",
+              "short": "Patesko"
+            },
+            {
+              "name": "Romeu Pellicciari",
+              "short": "Pellicciari"
+            },
+            {
+              "name": "Berjun Peracio",
+              "short": "Peracio"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197523",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "third_place",
+      "title": "Brasile - Svezia",
+      "session": "match",
+      "startsAt": "1938-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "homeScore": 4,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 14,
+            "type": "goal",
+            "side": "away",
+            "player": "Sven Jonasson",
+            "short": "Jonasson"
+          },
+          {
+            "minute": 24,
+            "type": "goal",
+            "side": "away",
+            "player": "Arne Nyberg",
+            "short": "Nyberg"
+          },
+          {
+            "minute": 43,
+            "type": "goal",
+            "side": "home",
+            "player": "Romeu Pellicciari",
+            "short": "Pellicciari"
+          },
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "home",
+            "player": "Leonidas"
+          },
+          {
+            "minute": 71,
+            "type": "goal",
+            "side": "home",
+            "player": "Leonidas"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "home",
+            "player": "Berjun Peracio",
+            "short": "Peracio"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "De Walter",
+              "short": "Walter"
+            },
+            {
+              "name": "Artur Machado",
+              "short": "Machado"
+            },
+            {
+              "name": "Domingos da Guia"
+            },
+            {
+              "name": "Alfonso Alfonsinho",
+              "short": "Alfonsinho"
+            },
+            {
+              "name": "Jose Brandao",
+              "short": "Brandao"
+            },
+            {
+              "name": "José Zeze",
+              "short": "Zeze"
+            },
+            {
+              "name": "Rodolfo Patesko",
+              "short": "Patesko"
+            },
+            {
+              "name": "Romeu Pellicciari",
+              "short": "Pellicciari"
+            },
+            {
+              "name": "Berjun Peracio",
+              "short": "Peracio"
+            },
+            {
+              "name": "Enilio Roberto",
+              "short": "Roberto"
+            },
+            {
+              "name": "Leonidas"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Henock Abrahamsson",
+              "short": "Abrahamsson"
+            },
+            {
+              "name": "Ivar Eriksson",
+              "short": "Eriksson"
+            },
+            {
+              "name": "Erik Nilsson",
+              "short": "Nilsson"
+            },
+            {
+              "name": "Erik Almgren",
+              "short": "Almgren"
+            },
+            {
+              "name": "Arne Linderholm",
+              "short": "Linderholm"
+            },
+            {
+              "name": "Ake Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Harry Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Sven Jonasson",
+              "short": "Jonasson"
+            },
+            {
+              "name": "Arne Nyberg",
+              "short": "Nyberg"
+            },
+            {
+              "name": "Erik Persson",
+              "short": "Persson"
+            },
+            {
+              "name": "Kurt Swanstroem",
+              "short": "Swanstroem"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1938-197524",
+      "competition": "mondiali",
+      "season": "1938",
+      "stage": "final",
+      "title": "Italia - Ungheria",
+      "session": "match",
+      "startsAt": "1938-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": []
+    }
+  ],
+  "standings": [
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Leonidas",
+          "team": "Brasile",
+          "points": 8
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Gyula Zsengeller",
+          "team": "Ungheria",
+          "points": 6
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Silvio Piola",
+          "team": "Italia",
+          "points": 5
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Gyorgy Sarosi",
+          "team": "Ungheria",
+          "points": 5
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Gino Colaussi",
+          "team": "Italia",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Ernest Willimowski",
+          "team": "Polonia",
+          "points": 4
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Berjun Peracio",
+          "team": "Brasile",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Romeu Pellicciari",
+          "team": "Brasile",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Arne Nyberg",
+          "team": "Svezia",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Andre Abegglen",
+          "team": "Svizzera",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Gustav Wetterstroem",
+          "team": "Svezia",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Tore Keller",
+          "team": "Svezia",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

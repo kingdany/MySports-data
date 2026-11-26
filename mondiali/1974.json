@@ -1,0 +1,5784 @@
+{
+  "competition": "mondiali",
+  "season": "1974",
+  "generatedAt": "2026-11-26T16:16:37.8331833+00:00",
+  "events": [
+    {
+      "id": "mondiali-1974-197801",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 1,
+      "title": "Brasile - Jugoslavia",
+      "session": "match",
+      "startsAt": "1974-06-13T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": "Chagas Francisco Marinho",
+              "short": "Francisco Marinho"
+            },
+            {
+              "name": "Luis Pereira",
+              "short": "Pereira"
+            },
+            {
+              "name": "Mario Marinho Peres Ulibarri",
+              "short": "Peres Ulibarri"
+            },
+            {
+              "name": "Wilson Piazza",
+              "short": "Piazza"
+            },
+            {
+              "name": "Nelinho Rezende",
+              "short": "Rezende"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Roberto Rivelino",
+              "short": "Rivelino"
+            },
+            {
+              "name": "Jairzinho"
+            },
+            {
+              "name": "Joao Leivinha",
+              "short": "Leivinha"
+            },
+            {
+              "name": "Vaz Valdomiro",
+              "short": "Valdomiro"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Enver Maric",
+              "short": "Maric"
+            },
+            {
+              "name": "Vladislav Bogicevic",
+              "short": "Bogicevic"
+            },
+            {
+              "name": "Ivan Buljan",
+              "short": "Buljan"
+            },
+            {
+              "name": "Enver Hadziabdic",
+              "short": "Hadziabdic"
+            },
+            {
+              "name": "Josip Katalinski",
+              "short": "Katalinski"
+            },
+            {
+              "name": "Jovan Acimovic",
+              "short": "Acimovic"
+            },
+            {
+              "name": "Drazen Muzinic",
+              "short": "Muzinic"
+            },
+            {
+              "name": "Branko Oblak",
+              "short": "Oblak"
+            },
+            {
+              "name": "Ivica Surjak",
+              "short": "Surjak"
+            },
+            {
+              "name": "Dragan Dzajic",
+              "short": "Dzajic"
+            },
+            {
+              "name": "Ilija Petkovic",
+              "short": "Petkovic"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197796",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 1,
+      "title": "Germania Est - Australia",
+      "session": "match",
+      "startsAt": "1974-06-14T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6682",
+        "name": "Germany DR",
+        "shortName": "Germania Est",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gdr.png"
+      },
+      "awayTeam": {
+        "id": "espn-628",
+        "name": "Australia",
+        "shortName": "Australia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 59,
+            "type": "ownGoal",
+            "side": "home",
+            "player": "Colin Curran",
+            "short": "Curran"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "home",
+            "player": "Joachim Streich",
+            "short": "Streich"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Juergen Croy",
+              "short": "Croy"
+            },
+            {
+              "name": "Bernd Bransch",
+              "short": "Bransch"
+            },
+            {
+              "name": "Wolfram Loewe",
+              "short": "Loewe"
+            },
+            {
+              "name": "Juergen Pommerenke",
+              "short": "Pommerenke"
+            },
+            {
+              "name": "Konrad Weise",
+              "short": "Weise"
+            },
+            {
+              "name": "Joachim Streich",
+              "short": "Streich"
+            },
+            {
+              "name": "Harald Irmscher",
+              "short": "Irmscher"
+            },
+            {
+              "name": "Siegmar Waetzlich",
+              "short": "Waetzlich"
+            },
+            {
+              "name": "Gerd Kische",
+              "short": "Kische"
+            },
+            {
+              "name": "Juergen Sparwasser",
+              "short": "Sparwasser"
+            },
+            {
+              "name": "Eberhard Vogel",
+              "short": "Vogel"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "Colin Curran",
+              "short": "Curran"
+            },
+            {
+              "name": "Manfred Schaefer",
+              "short": "Schaefer"
+            },
+            {
+              "name": "Doug Utjesenovic",
+              "short": "Utjesenovic"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jimmy Mackay",
+              "short": "Mackay"
+            },
+            {
+              "name": "Ray Richards",
+              "short": "Richards"
+            },
+            {
+              "name": "James Rooney",
+              "short": "Rooney"
+            },
+            {
+              "name": "Adrian Alston",
+              "short": "Alston"
+            },
+            {
+              "name": "Branco Buljevic",
+              "short": "Buljevic"
+            },
+            {
+              "name": "John Warren",
+              "short": "Warren"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197795",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 1,
+      "title": "Germania Ovest - Cile",
+      "session": "match",
+      "startsAt": "1974-06-14T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Paul Breitner",
+            "short": "Breitner"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Hans Schwarzenbeck",
+              "short": "Schwarzenbeck"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Paul Breitner",
+              "short": "Breitner"
+            },
+            {
+              "name": "Bernhard Cullman",
+              "short": "Cullman"
+            },
+            {
+              "name": "Ulrich Hoeness",
+              "short": "Hoeness"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            },
+            {
+              "name": "Juergen Grabowski",
+              "short": "Grabowski"
+            },
+            {
+              "name": "Josef Heynckes",
+              "short": "Heynckes"
+            },
+            {
+              "name": "Gerhard Müller",
+              "short": "Müller"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Leopoldo Vallejos",
+              "short": "Vallejos"
+            },
+            {
+              "name": "Antonio Arias",
+              "short": "Arias"
+            },
+            {
+              "name": "Elias Figueroa",
+              "short": "Figueroa"
+            },
+            {
+              "name": "Rolando García",
+              "short": "García"
+            },
+            {
+              "name": "Alberto Quintano",
+              "short": "Quintano"
+            },
+            {
+              "name": "Juan Rodríguez",
+              "short": "Rodríguez"
+            },
+            {
+              "name": "Sergio Ahumada",
+              "short": "Ahumada"
+            },
+            {
+              "name": "Carlos Caszely",
+              "short": "Caszely"
+            },
+            {
+              "name": "Guillermo Páez",
+              "short": "Páez"
+            },
+            {
+              "name": "Carlos Reinoso",
+              "short": "Reinoso"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197802",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 1,
+      "title": "Zaire - Scozia",
+      "session": "match",
+      "startsAt": "1974-06-14T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6681",
+        "name": "Zaire",
+        "shortName": "Zaire",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/zai.png"
+      },
+      "awayTeam": {
+        "id": "espn-580",
+        "name": "Scotland",
+        "shortName": "Scozia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png"
+      },
+      "homeScore": 0,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 27,
+            "type": "goal",
+            "side": "away",
+            "player": "Peter Lorimer",
+            "short": "Lorimer"
+          },
+          {
+            "minute": 35,
+            "type": "goal",
+            "side": "away",
+            "player": "Joe Jordan",
+            "short": "Jordan"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Muamba Kazadi",
+              "short": "Kazadi"
+            },
+            {
+              "name": "Tshimen Buhanga",
+              "short": "Buhanga"
+            },
+            {
+              "name": "Boba Lobilo",
+              "short": "Lobilo"
+            },
+            {
+              "name": "Mwanza Mukombo",
+              "short": "Mukombo"
+            },
+            {
+              "name": "Ilunga Mwepu",
+              "short": "Mwepu"
+            },
+            {
+              "name": "Massamba Kilasu",
+              "short": "Kilasu"
+            },
+            {
+              "name": "Mabwene Mana",
+              "short": "Mana"
+            },
+            {
+              "name": "Maku Mayanga",
+              "short": "Mayanga"
+            },
+            {
+              "name": "Etepe Kakoko",
+              "short": "Kakoko"
+            },
+            {
+              "name": "Mantantu Kidumu",
+              "short": "Kidumu"
+            },
+            {
+              "name": "Mulamba Ndaie",
+              "short": "Ndaie"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "David Harvey",
+              "short": "Harvey"
+            },
+            {
+              "name": "John Blackley",
+              "short": "Blackley"
+            },
+            {
+              "name": "James Holton",
+              "short": "Holton"
+            },
+            {
+              "name": "William Jardine",
+              "short": "Jardine"
+            },
+            {
+              "name": "Danny McGrain",
+              "short": "McGrain"
+            },
+            {
+              "name": "Peter Lorimer",
+              "short": "Lorimer"
+            },
+            {
+              "name": "William Bremner",
+              "short": "Bremner"
+            },
+            {
+              "name": "David Hay",
+              "short": "Hay"
+            },
+            {
+              "name": "Joe Jordan",
+              "short": "Jordan"
+            },
+            {
+              "name": "Kenny Dalglish",
+              "short": "Dalglish"
+            },
+            {
+              "name": "Denis Law",
+              "short": "Law"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197814",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 1,
+      "title": "Italia - Haiti",
+      "session": "match",
+      "startsAt": "1974-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-2654",
+        "name": "Haiti",
+        "shortName": "Haiti",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 47,
+            "type": "goal",
+            "side": "away",
+            "player": "Emmanuel Sanon",
+            "short": "Sanon"
+          },
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "home",
+            "player": "Gianni Rivera",
+            "short": "Rivera"
+          },
+          {
+            "minute": 67,
+            "type": "goal",
+            "side": "home",
+            "player": "Romeo Benetti",
+            "short": "Benetti"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Pietro Anastasi",
+            "short": "Anastasi"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Dino Zoff",
+              "short": "Zoff"
+            },
+            {
+              "name": "Tarcisio Burgnich",
+              "short": "Burgnich"
+            },
+            {
+              "name": "Giacinto Facchetti",
+              "short": "Facchetti"
+            },
+            {
+              "name": "Francesco Morini",
+              "short": "Morini"
+            },
+            {
+              "name": "Luciano Spinosi",
+              "short": "Spinosi"
+            },
+            {
+              "name": "Romeo Benetti",
+              "short": "Benetti"
+            },
+            {
+              "name": "Fabio Capello",
+              "short": "Capello"
+            },
+            {
+              "name": "Gianni Rivera",
+              "short": "Rivera"
+            },
+            {
+              "name": "Giorgio Chinaglia",
+              "short": "Chinaglia"
+            },
+            {
+              "name": "Alessandro Mazzola",
+              "short": "Mazzola"
+            },
+            {
+              "name": "Luigi Riva",
+              "short": "Riva"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Henry Francillon",
+              "short": "Francillon"
+            },
+            {
+              "name": "Arsene Auguste",
+              "short": "Auguste"
+            },
+            {
+              "name": "Pierre Bayonne",
+              "short": "Bayonne"
+            },
+            {
+              "name": "Ernst Jean Joseph",
+              "short": "Jean Joseph"
+            },
+            {
+              "name": "Wilner Nazaire",
+              "short": "Nazaire"
+            },
+            {
+              "name": "Eddy Antoine",
+              "short": "Antoine"
+            },
+            {
+              "name": "Guy Francois",
+              "short": "Francois"
+            },
+            {
+              "name": "Philippe Vorbe",
+              "short": "Vorbe"
+            },
+            {
+              "name": "Emmanuel Sanon",
+              "short": "Sanon"
+            },
+            {
+              "name": "Jean Desir",
+              "short": "Desir"
+            },
+            {
+              "name": "Guy Saint Vil",
+              "short": "Saint Vil"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197813",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 1,
+      "title": "Polonia - Argentina",
+      "session": "match",
+      "startsAt": "1974-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "awayTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 8,
+            "type": "goal",
+            "side": "home",
+            "player": "Grzegorz Lato",
+            "short": "Lato"
+          },
+          {
+            "minute": 9,
+            "type": "goal",
+            "side": "home",
+            "player": "Andrzej Szarmach",
+            "short": "Szarmach"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "away",
+            "player": "Ramón Heredia",
+            "short": "Heredia"
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "home",
+            "player": "Grzegorz Lato",
+            "short": "Lato"
+          },
+          {
+            "minute": 67,
+            "type": "goal",
+            "side": "away",
+            "player": "Carlos Babington",
+            "short": "Babington"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Jan Tomaszewski",
+              "short": "Tomaszewski"
+            },
+            {
+              "name": "Jerzy Gorgon",
+              "short": "Gorgon"
+            },
+            {
+              "name": "Adam Musial",
+              "short": "Musial"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Henryk Kasperczak",
+              "short": "Kasperczak"
+            },
+            {
+              "name": "Zygmunt Maszczyk",
+              "short": "Maszczyk"
+            },
+            {
+              "name": "Andrzej Szarmach",
+              "short": "Szarmach"
+            },
+            {
+              "name": "Robert Gadocha",
+              "short": "Gadocha"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Daniel Carnevali",
+              "short": "Carnevali"
+            },
+            {
+              "name": "Angel Bargas",
+              "short": "Bargas"
+            },
+            {
+              "name": "Roberto Perfumo",
+              "short": "Perfumo"
+            },
+            {
+              "name": "Francisco Sa",
+              "short": "Sa"
+            },
+            {
+              "name": "Enrique Wolff",
+              "short": "Wolff"
+            },
+            {
+              "name": "Carlos Babington",
+              "short": "Babington"
+            },
+            {
+              "name": "Ramón Heredia",
+              "short": "Heredia"
+            },
+            {
+              "name": "Miguel Brindisi",
+              "short": "Brindisi"
+            },
+            {
+              "name": "Rubén Ayala",
+              "short": "Ayala"
+            },
+            {
+              "name": "Agustín Balbuena",
+              "short": "Balbuena"
+            },
+            {
+              "name": "Mario Kempes",
+              "short": "Kempes"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197808",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 1,
+      "title": "Svezia - Bulgaria",
+      "session": "match",
+      "startsAt": "1974-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-462",
+        "name": "Bulgaria",
+        "shortName": "Bulgaria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Ronnie Hellstroem",
+              "short": "Hellstroem"
+            },
+            {
+              "name": "Björn Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Kent Karlsson",
+              "short": "Karlsson"
+            },
+            {
+              "name": "Jan Olsson",
+              "short": "Olsson"
+            },
+            {
+              "name": "Bo Larsson",
+              "short": "Larsson"
+            },
+            {
+              "name": "Steffan Tapper",
+              "short": "Tapper"
+            },
+            {
+              "name": "Ralf Edstroem",
+              "short": "Edstroem"
+            },
+            {
+              "name": "Ove Grahn",
+              "short": "Grahn"
+            },
+            {
+              "name": "Ove Kindvall",
+              "short": "Kindvall"
+            },
+            {
+              "name": "Roland Sandberg",
+              "short": "Sandberg"
+            },
+            {
+              "name": "Conny Torstensson",
+              "short": "Torstensson"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Rumentscho Goranov",
+              "short": "Goranov"
+            },
+            {
+              "name": "Kiril Ivkov",
+              "short": "Ivkov"
+            },
+            {
+              "name": "Bojil Kolev",
+              "short": "Kolev"
+            },
+            {
+              "name": "Dimitar Penev",
+              "short": "Penev"
+            },
+            {
+              "name": "Zonio Vassiliev",
+              "short": "Vassiliev"
+            },
+            {
+              "name": "Stefan Velitschkov",
+              "short": "Velitschkov"
+            },
+            {
+              "name": "Hristo Bonev",
+              "short": "Bonev"
+            },
+            {
+              "name": "Asparuch Nikodimov",
+              "short": "Nikodimov"
+            },
+            {
+              "name": "Voin Voinov",
+              "short": "Voinov"
+            },
+            {
+              "name": "Georgi Denev",
+              "short": "Denev"
+            },
+            {
+              "name": "Pavel Panov",
+              "short": "Panov"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197807",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 1,
+      "title": "Uruguay - Olanda",
+      "session": "match",
+      "startsAt": "1974-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "homeScore": 0,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 17,
+            "type": "goal",
+            "side": "away",
+            "player": "Johny Rep",
+            "short": "Rep"
+          },
+          {
+            "minute": 87,
+            "type": "goal",
+            "side": "away",
+            "player": "Johny Rep",
+            "short": "Rep"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ladislao Mazurkiewicz",
+              "short": "Mazurkiewicz"
+            },
+            {
+              "name": "Pablo Forlán",
+              "short": "Forlán"
+            },
+            {
+              "name": "Baudilio Jauregui",
+              "short": "Jauregui"
+            },
+            {
+              "name": "Juan Masnik",
+              "short": "Masnik"
+            },
+            {
+              "name": "Ricardo Pavoni",
+              "short": "Pavoni"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Pedro Rocha",
+              "short": "Rocha"
+            },
+            {
+              "name": "Luis Cubilla",
+              "short": "Cubilla"
+            },
+            {
+              "name": "Víctor Espárrago",
+              "short": "Espárrago"
+            },
+            {
+              "name": "Walter Mantegazza",
+              "short": "Mantegazza"
+            },
+            {
+              "name": "Fernando Morena",
+              "short": "Morena"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jan Jongbloed",
+              "short": "Jongbloed"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Wilhelmus Rijsbergen",
+              "short": "Rijsbergen"
+            },
+            {
+              "name": "Wilhelmus Suurbier",
+              "short": "Suurbier"
+            },
+            {
+              "name": "Johan Cruyff",
+              "short": "Cruyff"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Johan Neeskens",
+              "short": "Neeskens"
+            },
+            {
+              "name": "Wilhelmus Van Hanegem",
+              "short": "Van Hanegem"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197798",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 2,
+      "title": "Australia - Germania Ovest",
+      "session": "match",
+      "startsAt": "1974-06-18T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-628",
+        "name": "Australia",
+        "shortName": "Australia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png"
+      },
+      "awayTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "homeScore": 0,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "away",
+            "player": "Wolfgang Overath",
+            "short": "Overath"
+          },
+          {
+            "minute": 35,
+            "type": "goal",
+            "side": "away",
+            "player": "Bernhard Cullman",
+            "short": "Cullman"
+          },
+          {
+            "minute": 54,
+            "type": "goal",
+            "side": "away",
+            "player": "Gerhard Müller",
+            "short": "Müller"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "Colin Curran",
+              "short": "Curran"
+            },
+            {
+              "name": "Manfred Schaefer",
+              "short": "Schaefer"
+            },
+            {
+              "name": "Doug Utjesenovic",
+              "short": "Utjesenovic"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jimmy Mackay",
+              "short": "Mackay"
+            },
+            {
+              "name": "Ray Richards",
+              "short": "Richards"
+            },
+            {
+              "name": "James Rooney",
+              "short": "Rooney"
+            },
+            {
+              "name": "Adrian Alston",
+              "short": "Alston"
+            },
+            {
+              "name": "Branco Buljevic",
+              "short": "Buljevic"
+            },
+            {
+              "name": "Ernie Campbell",
+              "short": "Campbell"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Hans Schwarzenbeck",
+              "short": "Schwarzenbeck"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Bernhard Cullman",
+              "short": "Cullman"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            },
+            {
+              "name": "Paul Breitner",
+              "short": "Breitner"
+            },
+            {
+              "name": "Ulrich Hoeness",
+              "short": "Hoeness"
+            },
+            {
+              "name": "Gerhard Müller",
+              "short": "Müller"
+            },
+            {
+              "name": "Juergen Grabowski",
+              "short": "Grabowski"
+            },
+            {
+              "name": "Josef Heynckes",
+              "short": "Heynckes"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197797",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 2,
+      "title": "Cile - Germania Est",
+      "session": "match",
+      "startsAt": "1974-06-18T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "awayTeam": {
+        "id": "espn-6682",
+        "name": "Germany DR",
+        "shortName": "Germania Est",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gdr.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 56,
+            "type": "goal",
+            "side": "away",
+            "player": "Martin Hoffmann",
+            "short": "Hoffmann"
+          },
+          {
+            "minute": 70,
+            "type": "goal",
+            "side": "home",
+            "player": "Sergio Ahumada",
+            "short": "Ahumada"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Leopoldo Vallejos",
+              "short": "Vallejos"
+            },
+            {
+              "name": "Antonio Arias",
+              "short": "Arias"
+            },
+            {
+              "name": "Elias Figueroa",
+              "short": "Figueroa"
+            },
+            {
+              "name": "Rolando García",
+              "short": "García"
+            },
+            {
+              "name": "Alberto Quintano",
+              "short": "Quintano"
+            },
+            {
+              "name": "Jorge Sosias",
+              "short": "Sosias"
+            },
+            {
+              "name": "Leonardo Véliz",
+              "short": "Véliz"
+            },
+            {
+              "name": "Sergio Ahumada",
+              "short": "Ahumada"
+            },
+            {
+              "name": "Guillermo Páez",
+              "short": "Páez"
+            },
+            {
+              "name": "Carlos Reinoso",
+              "short": "Reinoso"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Juergen Croy",
+              "short": "Croy"
+            },
+            {
+              "name": "Bernd Bransch",
+              "short": "Bransch"
+            },
+            {
+              "name": "Konrad Weise",
+              "short": "Weise"
+            },
+            {
+              "name": "Martin Hoffmann",
+              "short": "Hoffmann"
+            },
+            {
+              "name": "Martin Hoffmann",
+              "short": "Hoffmann"
+            },
+            {
+              "name": "Harald Irmscher",
+              "short": "Irmscher"
+            },
+            {
+              "name": "Joachim Streich",
+              "short": "Streich"
+            },
+            {
+              "name": "Siegmar Waetzlich",
+              "short": "Waetzlich"
+            },
+            {
+              "name": "Gerd Kische",
+              "short": "Kische"
+            },
+            {
+              "name": "Wolfgang Seguin",
+              "short": "Seguin"
+            },
+            {
+              "name": "Juergen Sparwasser",
+              "short": "Sparwasser"
+            },
+            {
+              "name": "Eberhard Vogel",
+              "short": "Vogel"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197803",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 2,
+      "title": "Scozia - Brasile",
+      "session": "match",
+      "startsAt": "1974-06-18T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-580",
+        "name": "Scotland",
+        "shortName": "Scozia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "David Harvey",
+              "short": "Harvey"
+            },
+            {
+              "name": "Martin Buchan",
+              "short": "Buchan"
+            },
+            {
+              "name": "James Holton",
+              "short": "Holton"
+            },
+            {
+              "name": "William Jardine",
+              "short": "Jardine"
+            },
+            {
+              "name": "Danny McGrain",
+              "short": "McGrain"
+            },
+            {
+              "name": "William Bremner",
+              "short": "Bremner"
+            },
+            {
+              "name": "David Hay",
+              "short": "Hay"
+            },
+            {
+              "name": "Peter Lorimer",
+              "short": "Lorimer"
+            },
+            {
+              "name": "William Morgan",
+              "short": "Morgan"
+            },
+            {
+              "name": "Kenny Dalglish",
+              "short": "Dalglish"
+            },
+            {
+              "name": "Joe Jordan",
+              "short": "Jordan"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": "Chagas Francisco Marinho",
+              "short": "Francisco Marinho"
+            },
+            {
+              "name": "Luis Pereira",
+              "short": "Pereira"
+            },
+            {
+              "name": "Mario Marinho Peres Ulibarri",
+              "short": "Peres Ulibarri"
+            },
+            {
+              "name": "Wilson Piazza",
+              "short": "Piazza"
+            },
+            {
+              "name": "Nelinho Rezende",
+              "short": "Rezende"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Sebastiao Mirandinha",
+              "short": "Mirandinha"
+            },
+            {
+              "name": "Roberto Rivelino",
+              "short": "Rivelino"
+            },
+            {
+              "name": "Jairzinho"
+            },
+            {
+              "name": "Joao Leivinha",
+              "short": "Leivinha"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197804",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 2,
+      "title": "Jugoslavia - Zaire",
+      "session": "match",
+      "startsAt": "1974-06-18T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "awayTeam": {
+        "id": "espn-6681",
+        "name": "Zaire",
+        "shortName": "Zaire",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/zai.png"
+      },
+      "homeScore": 9,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 9,
+            "type": "goal",
+            "side": "home",
+            "player": "Dusan Bajevic",
+            "short": "Bajevic"
+          },
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "home",
+            "player": "Dragan Dzajic",
+            "short": "Dzajic"
+          },
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Ivica Surjak",
+            "short": "Surjak"
+          },
+          {
+            "minute": 23,
+            "type": "goal",
+            "side": "home",
+            "player": "Josip Katalinski",
+            "short": "Katalinski"
+          },
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Dusan Bajevic",
+            "short": "Bajevic"
+          },
+          {
+            "minute": 36,
+            "type": "goal",
+            "side": "home",
+            "player": "Vladislav Bogicevic",
+            "short": "Bogicevic"
+          },
+          {
+            "minute": 62,
+            "type": "goal",
+            "side": "home",
+            "player": "Ilija Petkovic",
+            "short": "Petkovic"
+          },
+          {
+            "minute": 66,
+            "type": "goal",
+            "side": "home",
+            "player": "Branko Oblak",
+            "short": "Oblak"
+          },
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "home",
+            "player": "Dusan Bajevic",
+            "short": "Bajevic"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Enver Maric",
+              "short": "Maric"
+            },
+            {
+              "name": "Vladislav Bogicevic",
+              "short": "Bogicevic"
+            },
+            {
+              "name": "Josip Katalinski",
+              "short": "Katalinski"
+            },
+            {
+              "name": "Ivan Buljan",
+              "short": "Buljan"
+            },
+            {
+              "name": "Enver Hadziabdic",
+              "short": "Hadziabdic"
+            },
+            {
+              "name": "Branko Oblak",
+              "short": "Oblak"
+            },
+            {
+              "name": "Ivica Surjak",
+              "short": "Surjak"
+            },
+            {
+              "name": "Jovan Acimovic",
+              "short": "Acimovic"
+            },
+            {
+              "name": "Dusan Bajevic",
+              "short": "Bajevic"
+            },
+            {
+              "name": "Dragan Dzajic",
+              "short": "Dzajic"
+            },
+            {
+              "name": "Ilija Petkovic",
+              "short": "Petkovic"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Muamba Kazadi",
+              "short": "Kazadi"
+            },
+            {
+              "name": "Tshimen Buhanga",
+              "short": "Buhanga"
+            },
+            {
+              "name": "Boba Lobilo",
+              "short": "Lobilo"
+            },
+            {
+              "name": "Mwanza Mukombo",
+              "short": "Mukombo"
+            },
+            {
+              "name": "Ilunga Mwepu",
+              "short": "Mwepu"
+            },
+            {
+              "name": "Uba Kembo",
+              "short": "Kembo"
+            },
+            {
+              "name": "Massamba Kilasu",
+              "short": "Kilasu"
+            },
+            {
+              "name": "Mabwene Mana",
+              "short": "Mana"
+            },
+            {
+              "name": "Etepe Kakoko",
+              "short": "Kakoko"
+            },
+            {
+              "name": "Mantantu Kidumu",
+              "short": "Kidumu"
+            },
+            {
+              "name": "Mulamba Ndaie",
+              "short": "Ndaie"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197816",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 2,
+      "title": "Argentina - Italia",
+      "session": "match",
+      "startsAt": "1974-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 20,
+            "type": "goal",
+            "side": "home",
+            "player": "René Houseman",
+            "short": "Houseman"
+          },
+          {
+            "minute": 36,
+            "type": "ownGoal",
+            "side": "away",
+            "player": "Roberto Perfumo",
+            "short": "Perfumo"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Daniel Carnevali",
+              "short": "Carnevali"
+            },
+            {
+              "name": "Roberto Perfumo",
+              "short": "Perfumo"
+            },
+            {
+              "name": "Francisco Sa",
+              "short": "Sa"
+            },
+            {
+              "name": "Enrique Wolff",
+              "short": "Wolff"
+            },
+            {
+              "name": "Carlos Babington",
+              "short": "Babington"
+            },
+            {
+              "name": "Ramón Heredia",
+              "short": "Heredia"
+            },
+            {
+              "name": "Roberto Telch",
+              "short": "Telch"
+            },
+            {
+              "name": "René Houseman",
+              "short": "Houseman"
+            },
+            {
+              "name": "Rubén Ayala",
+              "short": "Ayala"
+            },
+            {
+              "name": "Mario Kempes",
+              "short": "Kempes"
+            },
+            {
+              "name": "Hector Yazalde",
+              "short": "Yazalde"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Dino Zoff",
+              "short": "Zoff"
+            },
+            {
+              "name": "Tarcisio Burgnich",
+              "short": "Burgnich"
+            },
+            {
+              "name": "Giacinto Facchetti",
+              "short": "Facchetti"
+            },
+            {
+              "name": "Francesco Morini",
+              "short": "Morini"
+            },
+            {
+              "name": "Luciano Spinosi",
+              "short": "Spinosi"
+            },
+            {
+              "name": "Romeo Benetti",
+              "short": "Benetti"
+            },
+            {
+              "name": "Fabio Capello",
+              "short": "Capello"
+            },
+            {
+              "name": "Pietro Anastasi",
+              "short": "Anastasi"
+            },
+            {
+              "name": "Alessandro Mazzola",
+              "short": "Mazzola"
+            },
+            {
+              "name": "Luigi Riva",
+              "short": "Riva"
+            },
+            {
+              "name": "Gianni Rivera",
+              "short": "Rivera"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197809",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 2,
+      "title": "Bulgaria - Uruguay",
+      "session": "match",
+      "startsAt": "1974-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-462",
+        "name": "Bulgaria",
+        "shortName": "Bulgaria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png"
+      },
+      "awayTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "home",
+            "player": "Hristo Bonev",
+            "short": "Bonev"
+          },
+          {
+            "minute": 88,
+            "type": "goal",
+            "side": "away",
+            "player": "Ricardo Pavoni",
+            "short": "Pavoni"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Rumentscho Goranov",
+              "short": "Goranov"
+            },
+            {
+              "name": "Kiril Ivkov",
+              "short": "Ivkov"
+            },
+            {
+              "name": "Bojil Kolev",
+              "short": "Kolev"
+            },
+            {
+              "name": "Dimitar Penev",
+              "short": "Penev"
+            },
+            {
+              "name": "Mladen Vassiliev",
+              "short": "Vassiliev"
+            },
+            {
+              "name": "Stefan Velitschkov",
+              "short": "Velitschkov"
+            },
+            {
+              "name": "Hristo Bonev",
+              "short": "Bonev"
+            },
+            {
+              "name": "Asparuch Nikodimov",
+              "short": "Nikodimov"
+            },
+            {
+              "name": "Voin Voinov",
+              "short": "Voinov"
+            },
+            {
+              "name": "Georgi Denev",
+              "short": "Denev"
+            },
+            {
+              "name": "Pavel Panov",
+              "short": "Panov"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ladislao Mazurkiewicz",
+              "short": "Mazurkiewicz"
+            },
+            {
+              "name": "Ricardo Pavoni",
+              "short": "Pavoni"
+            },
+            {
+              "name": "Pablo Forlán",
+              "short": "Forlán"
+            },
+            {
+              "name": "Luis Garisto",
+              "short": "Garisto"
+            },
+            {
+              "name": "Baudilio Jauregui",
+              "short": "Jauregui"
+            },
+            {
+              "name": "Rubén Corbo",
+              "short": "Corbo"
+            },
+            {
+              "name": "Denis Milar",
+              "short": "Milar"
+            },
+            {
+              "name": "Pedro Rocha",
+              "short": "Rocha"
+            },
+            {
+              "name": "Víctor Espárrago",
+              "short": "Espárrago"
+            },
+            {
+              "name": "Walter Mantegazza",
+              "short": "Mantegazza"
+            },
+            {
+              "name": "Fernando Morena",
+              "short": "Morena"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197815",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 2,
+      "title": "Haiti - Polonia",
+      "session": "match",
+      "startsAt": "1974-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-2654",
+        "name": "Haiti",
+        "shortName": "Haiti",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png"
+      },
+      "awayTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "homeScore": 0,
+      "awayScore": 7,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "away",
+            "player": "Grzegorz Lato",
+            "short": "Lato"
+          },
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "away",
+            "player": "Kazimierz Deyna",
+            "short": "Deyna"
+          },
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "away",
+            "player": "Andrzej Szarmach",
+            "short": "Szarmach"
+          },
+          {
+            "minute": 32,
+            "type": "goal",
+            "side": "away",
+            "player": "Jerzy Gorgon",
+            "short": "Gorgon"
+          },
+          {
+            "minute": 35,
+            "type": "goal",
+            "side": "away",
+            "player": "Andrzej Szarmach",
+            "short": "Szarmach"
+          },
+          {
+            "minute": 51,
+            "type": "goal",
+            "side": "away",
+            "player": "Andrzej Szarmach",
+            "short": "Szarmach"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "away",
+            "player": "Grzegorz Lato",
+            "short": "Lato"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Henry Francillon",
+              "short": "Francillon"
+            },
+            {
+              "name": "Fritz Andre",
+              "short": "Andre"
+            },
+            {
+              "name": "Arsene Auguste",
+              "short": "Auguste"
+            },
+            {
+              "name": "Pierre Bayonne",
+              "short": "Bayonne"
+            },
+            {
+              "name": "Wilner Nazaire",
+              "short": "Nazaire"
+            },
+            {
+              "name": "Eddy Antoine",
+              "short": "Antoine"
+            },
+            {
+              "name": "Guy Francois",
+              "short": "Francois"
+            },
+            {
+              "name": "Philippe Vorbe",
+              "short": "Vorbe"
+            },
+            {
+              "name": "Jean Desir",
+              "short": "Desir"
+            },
+            {
+              "name": "Roger Saint Vil",
+              "short": "Saint Vil"
+            },
+            {
+              "name": "Emmanuel Sanon",
+              "short": "Sanon"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jan Tomaszewski",
+              "short": "Tomaszewski"
+            },
+            {
+              "name": "Jerzy Gorgon",
+              "short": "Gorgon"
+            },
+            {
+              "name": "Adam Musial",
+              "short": "Musial"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Henryk Kasperczak",
+              "short": "Kasperczak"
+            },
+            {
+              "name": "Zygmunt Maszczyk",
+              "short": "Maszczyk"
+            },
+            {
+              "name": "Andrzej Szarmach",
+              "short": "Szarmach"
+            },
+            {
+              "name": "Robert Gadocha",
+              "short": "Gadocha"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197810",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 2,
+      "title": "Olanda - Svezia",
+      "session": "match",
+      "startsAt": "1974-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "awayTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Jan Jongbloed",
+              "short": "Jongbloed"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Wilhelmus Rijsbergen",
+              "short": "Rijsbergen"
+            },
+            {
+              "name": "Wilhelmus Suurbier",
+              "short": "Suurbier"
+            },
+            {
+              "name": "Johan Cruyff",
+              "short": "Cruyff"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Johan Neeskens",
+              "short": "Neeskens"
+            },
+            {
+              "name": "Wilhelmus Van Hanegem",
+              "short": "Van Hanegem"
+            },
+            {
+              "name": "Pieter Keizer",
+              "short": "Keizer"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ronnie Hellstroem",
+              "short": "Hellstroem"
+            },
+            {
+              "name": "Björn Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Kent Karlsson",
+              "short": "Karlsson"
+            },
+            {
+              "name": "Björn Nordqvist",
+              "short": "Nordqvist"
+            },
+            {
+              "name": "Jan Olsson",
+              "short": "Olsson"
+            },
+            {
+              "name": "Inge Ejderstedt",
+              "short": "Ejderstedt"
+            },
+            {
+              "name": "Bo Larsson",
+              "short": "Larsson"
+            },
+            {
+              "name": "Steffan Tapper",
+              "short": "Tapper"
+            },
+            {
+              "name": "Ralf Edstroem",
+              "short": "Edstroem"
+            },
+            {
+              "name": "Ove Grahn",
+              "short": "Grahn"
+            },
+            {
+              "name": "Roland Sandberg",
+              "short": "Sandberg"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197799",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 3,
+      "title": "Australia - Cile",
+      "session": "match",
+      "startsAt": "1974-06-22T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-628",
+        "name": "Australia",
+        "shortName": "Australia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png"
+      },
+      "awayTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "Colin Curran",
+              "short": "Curran"
+            },
+            {
+              "name": "Manfred Schaefer",
+              "short": "Schaefer"
+            },
+            {
+              "name": "Doug Utjesenovic",
+              "short": "Utjesenovic"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jimmy Mackay",
+              "short": "Mackay"
+            },
+            {
+              "name": "Ray Richards",
+              "short": "Richards"
+            },
+            {
+              "name": "James Rooney",
+              "short": "Rooney"
+            },
+            {
+              "name": "Attila Abonyi",
+              "short": "Abonyi"
+            },
+            {
+              "name": "Adrian Alston",
+              "short": "Alston"
+            },
+            {
+              "name": "Branco Buljevic",
+              "short": "Buljevic"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Leopoldo Vallejos",
+              "short": "Vallejos"
+            },
+            {
+              "name": "Antonio Arias",
+              "short": "Arias"
+            },
+            {
+              "name": "Elias Figueroa",
+              "short": "Figueroa"
+            },
+            {
+              "name": "Rolando García",
+              "short": "García"
+            },
+            {
+              "name": "Alberto Quintano",
+              "short": "Quintano"
+            },
+            {
+              "name": "Leonardo Véliz",
+              "short": "Véliz"
+            },
+            {
+              "name": "Sergio Ahumada",
+              "short": "Ahumada"
+            },
+            {
+              "name": "Carlos Caszely",
+              "short": "Caszely"
+            },
+            {
+              "name": "Guillermo Páez",
+              "short": "Páez"
+            },
+            {
+              "name": "Carlos Reinoso",
+              "short": "Reinoso"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197800",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 3,
+      "title": "Germania Est - Germania Ovest",
+      "session": "match",
+      "startsAt": "1974-06-22T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6682",
+        "name": "Germany DR",
+        "shortName": "Germania Est",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gdr.png"
+      },
+      "awayTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 78,
+            "type": "goal",
+            "side": "home",
+            "player": "Juergen Sparwasser",
+            "short": "Sparwasser"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Juergen Croy",
+              "short": "Croy"
+            },
+            {
+              "name": "Bernd Bransch",
+              "short": "Bransch"
+            },
+            {
+              "name": "Lothard Kurbjuweit",
+              "short": "Kurbjuweit"
+            },
+            {
+              "name": "Konrad Weise",
+              "short": "Weise"
+            },
+            {
+              "name": "Martin Hoffmann",
+              "short": "Hoffmann"
+            },
+            {
+              "name": "Harald Irmscher",
+              "short": "Irmscher"
+            },
+            {
+              "name": "Hans Kreische",
+              "short": "Kreische"
+            },
+            {
+              "name": "Siegmar Waetzlich",
+              "short": "Waetzlich"
+            },
+            {
+              "name": "Juergen Sparwasser",
+              "short": "Sparwasser"
+            },
+            {
+              "name": "Gerd Kische",
+              "short": "Kische"
+            },
+            {
+              "name": "Reinhard Lauck",
+              "short": "Lauck"
+            },
+            {
+              "name": "Juergen Sparwasser",
+              "short": "Sparwasser"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Hans Schwarzenbeck",
+              "short": "Schwarzenbeck"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Paul Breitner",
+              "short": "Breitner"
+            },
+            {
+              "name": "Bernhard Cullman",
+              "short": "Cullman"
+            },
+            {
+              "name": "Heinz Flohe",
+              "short": "Flohe"
+            },
+            {
+              "name": "Ulrich Hoeness",
+              "short": "Hoeness"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            },
+            {
+              "name": "Juergen Grabowski",
+              "short": "Grabowski"
+            },
+            {
+              "name": "Gerhard Müller",
+              "short": "Müller"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197805",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 3,
+      "title": "Scozia - Jugoslavia",
+      "session": "match",
+      "startsAt": "1974-06-22T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-580",
+        "name": "Scotland",
+        "shortName": "Scozia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "away",
+            "player": "Stanislav Karasi",
+            "short": "Karasi"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Joe Jordan",
+            "short": "Jordan"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "David Harvey",
+              "short": "Harvey"
+            },
+            {
+              "name": "Martin Buchan",
+              "short": "Buchan"
+            },
+            {
+              "name": "James Holton",
+              "short": "Holton"
+            },
+            {
+              "name": "William Jardine",
+              "short": "Jardine"
+            },
+            {
+              "name": "Danny McGrain",
+              "short": "McGrain"
+            },
+            {
+              "name": "William Bremner",
+              "short": "Bremner"
+            },
+            {
+              "name": "David Hay",
+              "short": "Hay"
+            },
+            {
+              "name": "Peter Lorimer",
+              "short": "Lorimer"
+            },
+            {
+              "name": "William Morgan",
+              "short": "Morgan"
+            },
+            {
+              "name": "Joe Jordan",
+              "short": "Jordan"
+            },
+            {
+              "name": "Kenny Dalglish",
+              "short": "Dalglish"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Enver Maric",
+              "short": "Maric"
+            },
+            {
+              "name": "Vladislav Bogicevic",
+              "short": "Bogicevic"
+            },
+            {
+              "name": "Ivan Buljan",
+              "short": "Buljan"
+            },
+            {
+              "name": "Enver Hadziabdic",
+              "short": "Hadziabdic"
+            },
+            {
+              "name": "Josip Katalinski",
+              "short": "Katalinski"
+            },
+            {
+              "name": "Jovan Acimovic",
+              "short": "Acimovic"
+            },
+            {
+              "name": "Branko Oblak",
+              "short": "Oblak"
+            },
+            {
+              "name": "Ivica Surjak",
+              "short": "Surjak"
+            },
+            {
+              "name": "Dusan Bajevic",
+              "short": "Bajevic"
+            },
+            {
+              "name": "Dragan Dzajic",
+              "short": "Dzajic"
+            },
+            {
+              "name": "Ilija Petkovic",
+              "short": "Petkovic"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197806",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 3,
+      "title": "Zaire - Brasile",
+      "session": "match",
+      "startsAt": "1974-06-22T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6681",
+        "name": "Zaire",
+        "shortName": "Zaire",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/zai.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 0,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "away",
+            "player": "Jairzinho"
+          },
+          {
+            "minute": 67,
+            "type": "goal",
+            "side": "away",
+            "player": "Roberto Rivelino",
+            "short": "Rivelino"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "away",
+            "player": "Vaz Valdomiro",
+            "short": "Valdomiro"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Muamba Kazadi",
+              "short": "Kazadi"
+            },
+            {
+              "name": "Tshimen Buhanga",
+              "short": "Buhanga"
+            },
+            {
+              "name": "Boba Lobilo",
+              "short": "Lobilo"
+            },
+            {
+              "name": "Mwanza Mukombo",
+              "short": "Mukombo"
+            },
+            {
+              "name": "Ilunga Mwepu",
+              "short": "Mwepu"
+            },
+            {
+              "name": "Mabwene Mana",
+              "short": "Mana"
+            },
+            {
+              "name": "Maku Mayanga",
+              "short": "Mayanga"
+            },
+            {
+              "name": "Wamunda Tshinabu",
+              "short": "Tshinabu"
+            },
+            {
+              "name": "Mafu Kibonge",
+              "short": "Kibonge"
+            },
+            {
+              "name": "Mantantu Kidumu",
+              "short": "Kidumu"
+            },
+            {
+              "name": "Kalala Ntumba",
+              "short": "Ntumba"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": "Chagas Francisco Marinho",
+              "short": "Francisco Marinho"
+            },
+            {
+              "name": "Luis Pereira",
+              "short": "Pereira"
+            },
+            {
+              "name": "Mario Marinho Peres Ulibarri",
+              "short": "Peres Ulibarri"
+            },
+            {
+              "name": "Wilson Piazza",
+              "short": "Piazza"
+            },
+            {
+              "name": "Nelinho Rezende",
+              "short": "Rezende"
+            },
+            {
+              "name": "Roberto Rivelino",
+              "short": "Rivelino"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jairzinho"
+            },
+            {
+              "name": "Edu"
+            },
+            {
+              "name": "Joao Leivinha",
+              "short": "Leivinha"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197817",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 3,
+      "title": "Argentina - Haiti",
+      "session": "match",
+      "startsAt": "1974-06-23T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-2654",
+        "name": "Haiti",
+        "shortName": "Haiti",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png"
+      },
+      "homeScore": 4,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": "Hector Yazalde",
+            "short": "Yazalde"
+          },
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "René Houseman",
+            "short": "Houseman"
+          },
+          {
+            "minute": 56,
+            "type": "goal",
+            "side": "home",
+            "player": "Rubén Ayala",
+            "short": "Ayala"
+          },
+          {
+            "minute": 64,
+            "type": "goal",
+            "side": "away",
+            "player": "Emmanuel Sanon",
+            "short": "Sanon"
+          },
+          {
+            "minute": 69,
+            "type": "goal",
+            "side": "home",
+            "player": "Hector Yazalde",
+            "short": "Yazalde"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Daniel Carnevali",
+              "short": "Carnevali"
+            },
+            {
+              "name": "Roberto Perfumo",
+              "short": "Perfumo"
+            },
+            {
+              "name": "Francisco Sa",
+              "short": "Sa"
+            },
+            {
+              "name": "Enrique Wolff",
+              "short": "Wolff"
+            },
+            {
+              "name": "Carlos Babington",
+              "short": "Babington"
+            },
+            {
+              "name": "Ramón Heredia",
+              "short": "Heredia"
+            },
+            {
+              "name": "Roberto Telch",
+              "short": "Telch"
+            },
+            {
+              "name": "Rubén Ayala",
+              "short": "Ayala"
+            },
+            {
+              "name": "René Houseman",
+              "short": "Houseman"
+            },
+            {
+              "name": "Hector Yazalde",
+              "short": "Yazalde"
+            },
+            {
+              "name": "Mario Kempes",
+              "short": "Kempes"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Henry Francillon",
+              "short": "Francillon"
+            },
+            {
+              "name": "Pierre Bayonne",
+              "short": "Bayonne"
+            },
+            {
+              "name": "Serge Ducoste",
+              "short": "Ducoste"
+            },
+            {
+              "name": "Wilner Nazaire",
+              "short": "Nazaire"
+            },
+            {
+              "name": "Serge Racine",
+              "short": "Racine"
+            },
+            {
+              "name": "Eddy Antoine",
+              "short": "Antoine"
+            },
+            {
+              "name": "Philippe Vorbe",
+              "short": "Vorbe"
+            },
+            {
+              "name": "Emmanuel Sanon",
+              "short": "Sanon"
+            },
+            {
+              "name": "Jean Desir",
+              "short": "Desir"
+            },
+            {
+              "name": "Wilfrid Louis",
+              "short": "Louis"
+            },
+            {
+              "name": "Guy Saint Vil",
+              "short": "Saint Vil"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197812",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 3,
+      "title": "Bulgaria - Olanda",
+      "session": "match",
+      "startsAt": "1974-06-23T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-462",
+        "name": "Bulgaria",
+        "shortName": "Bulgaria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png"
+      },
+      "awayTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "homeScore": 1,
+      "awayScore": 4,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 6,
+            "type": "penalty",
+            "side": "away",
+            "player": "Johan Neeskens",
+            "short": "Neeskens"
+          },
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "penalty",
+            "side": "away",
+            "player": "Johan Neeskens",
+            "short": "Neeskens"
+          },
+          {
+            "minute": 72,
+            "type": "goal",
+            "side": "away",
+            "player": "Johny Rep",
+            "short": "Rep"
+          },
+          {
+            "minute": 79,
+            "type": "ownGoal",
+            "side": "home",
+            "player": "Ruud Krol",
+            "short": "Krol"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "away",
+            "player": "Theo de Jong",
+            "short": "de Jong"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Stefan Staykov",
+              "short": "Staykov"
+            },
+            {
+              "name": "Kiril Ivkov",
+              "short": "Ivkov"
+            },
+            {
+              "name": "Bojil Kolev",
+              "short": "Kolev"
+            },
+            {
+              "name": "Dimitar Penev",
+              "short": "Penev"
+            },
+            {
+              "name": "Mladen Vassiliev",
+              "short": "Vassiliev"
+            },
+            {
+              "name": "Stefan Velitschkov",
+              "short": "Velitschkov"
+            },
+            {
+              "name": "Hristo Bonev",
+              "short": "Bonev"
+            },
+            {
+              "name": "Ivan Stoyanov",
+              "short": "Stoyanov"
+            },
+            {
+              "name": "Voin Voinov",
+              "short": "Voinov"
+            },
+            {
+              "name": "Georgi Denev",
+              "short": "Denev"
+            },
+            {
+              "name": "Pavel Panov",
+              "short": "Panov"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jan Jongbloed",
+              "short": "Jongbloed"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Wilhelmus Rijsbergen",
+              "short": "Rijsbergen"
+            },
+            {
+              "name": "Wilhelmus Suurbier",
+              "short": "Suurbier"
+            },
+            {
+              "name": "Johan Neeskens",
+              "short": "Neeskens"
+            },
+            {
+              "name": "Johan Cruyff",
+              "short": "Cruyff"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Wilhelmus Van Hanegem",
+              "short": "Van Hanegem"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197818",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 3,
+      "title": "Polonia - Italia",
+      "session": "match",
+      "startsAt": "1974-06-23T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "awayTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "Andrzej Szarmach",
+            "short": "Szarmach"
+          },
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Kazimierz Deyna",
+            "short": "Deyna"
+          },
+          {
+            "minute": 87,
+            "type": "goal",
+            "side": "away",
+            "player": "Fabio Capello",
+            "short": "Capello"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Jan Tomaszewski",
+              "short": "Tomaszewski"
+            },
+            {
+              "name": "Jerzy Gorgon",
+              "short": "Gorgon"
+            },
+            {
+              "name": "Adam Musial",
+              "short": "Musial"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Henryk Kasperczak",
+              "short": "Kasperczak"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Zygmunt Maszczyk",
+              "short": "Maszczyk"
+            },
+            {
+              "name": "Andrzej Szarmach",
+              "short": "Szarmach"
+            },
+            {
+              "name": "Robert Gadocha",
+              "short": "Gadocha"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Dino Zoff",
+              "short": "Zoff"
+            },
+            {
+              "name": "Tarcisio Burgnich",
+              "short": "Burgnich"
+            },
+            {
+              "name": "Giacinto Facchetti",
+              "short": "Facchetti"
+            },
+            {
+              "name": "Francesco Morini",
+              "short": "Morini"
+            },
+            {
+              "name": "Luciano Spinosi",
+              "short": "Spinosi"
+            },
+            {
+              "name": "Fabio Capello",
+              "short": "Capello"
+            },
+            {
+              "name": "Romeo Benetti",
+              "short": "Benetti"
+            },
+            {
+              "name": "Pietro Anastasi",
+              "short": "Anastasi"
+            },
+            {
+              "name": "Franco Causio",
+              "short": "Causio"
+            },
+            {
+              "name": "Giorgio Chinaglia",
+              "short": "Chinaglia"
+            },
+            {
+              "name": "Alessandro Mazzola",
+              "short": "Mazzola"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197811",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 3,
+      "title": "Svezia - Uruguay",
+      "session": "match",
+      "startsAt": "1974-06-23T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 47,
+            "type": "goal",
+            "side": "home",
+            "player": "Ralf Edstroem",
+            "short": "Edstroem"
+          },
+          {
+            "minute": 75,
+            "type": "goal",
+            "side": "home",
+            "player": "Roland Sandberg",
+            "short": "Sandberg"
+          },
+          {
+            "minute": 78,
+            "type": "goal",
+            "side": "home",
+            "player": "Ralf Edstroem",
+            "short": "Edstroem"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Roland Grip",
+              "short": "Grip"
+            },
+            {
+              "name": "Ronnie Hellstroem",
+              "short": "Hellstroem"
+            },
+            {
+              "name": "Björn Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Kent Karlsson",
+              "short": "Karlsson"
+            },
+            {
+              "name": "Björn Nordqvist",
+              "short": "Nordqvist"
+            },
+            {
+              "name": "Bo Larsson",
+              "short": "Larsson"
+            },
+            {
+              "name": "Benno Magnusson",
+              "short": "Magnusson"
+            },
+            {
+              "name": "Ralf Edstroem",
+              "short": "Edstroem"
+            },
+            {
+              "name": "Roland Sandberg",
+              "short": "Sandberg"
+            },
+            {
+              "name": "Ove Grahn",
+              "short": "Grahn"
+            },
+            {
+              "name": "Ove Kindvall",
+              "short": "Kindvall"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ladislao Mazurkiewicz",
+              "short": "Mazurkiewicz"
+            },
+            {
+              "name": "Pablo Forlán",
+              "short": "Forlán"
+            },
+            {
+              "name": "Luis Garisto",
+              "short": "Garisto"
+            },
+            {
+              "name": "Baudilio Jauregui",
+              "short": "Jauregui"
+            },
+            {
+              "name": "Ricardo Pavoni",
+              "short": "Pavoni"
+            },
+            {
+              "name": "Rubén Corbo",
+              "short": "Corbo"
+            },
+            {
+              "name": "Denis Milar",
+              "short": "Milar"
+            },
+            {
+              "name": "Pedro Rocha",
+              "short": "Rocha"
+            },
+            {
+              "name": "Víctor Espárrago",
+              "short": "Espárrago"
+            },
+            {
+              "name": "Walter Mantegazza",
+              "short": "Mantegazza"
+            },
+            {
+              "name": "Fernando Morena",
+              "short": "Morena"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197820",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 4,
+      "title": "Brasile - Germania Est",
+      "session": "match",
+      "startsAt": "1974-06-26T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-6682",
+        "name": "Germany DR",
+        "shortName": "Germania Est",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gdr.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Roberto Rivelino",
+            "short": "Rivelino"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": "Chagas Francisco Marinho",
+              "short": "Francisco Marinho"
+            },
+            {
+              "name": "Luis Pereira",
+              "short": "Pereira"
+            },
+            {
+              "name": "Mario Marinho Peres Ulibarri",
+              "short": "Peres Ulibarri"
+            },
+            {
+              "name": "Ze María Rodrigues",
+              "short": "Rodrigues"
+            },
+            {
+              "name": "Roberto Rivelino",
+              "short": "Rivelino"
+            },
+            {
+              "name": "Paulo Carpeggiani",
+              "short": "Carpeggiani"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jairzinho"
+            },
+            {
+              "name": "José Dirceu",
+              "short": "Dirceu"
+            },
+            {
+              "name": "Vaz Valdomiro",
+              "short": "Valdomiro"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Juergen Croy",
+              "short": "Croy"
+            },
+            {
+              "name": "Bernd Bransch",
+              "short": "Bransch"
+            },
+            {
+              "name": "Lothard Kurbjuweit",
+              "short": "Kurbjuweit"
+            },
+            {
+              "name": "Konrad Weise",
+              "short": "Weise"
+            },
+            {
+              "name": "Martin Hoffmann",
+              "short": "Hoffmann"
+            },
+            {
+              "name": "Joachim Streich",
+              "short": "Streich"
+            },
+            {
+              "name": "Siegmar Waetzlich",
+              "short": "Waetzlich"
+            },
+            {
+              "name": "Erich Hamann",
+              "short": "Hamann"
+            },
+            {
+              "name": "Gerd Kische",
+              "short": "Kische"
+            },
+            {
+              "name": "Reinhard Lauck",
+              "short": "Lauck"
+            },
+            {
+              "name": "Juergen Sparwasser",
+              "short": "Sparwasser"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197819",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 4,
+      "title": "Olanda - Argentina",
+      "session": "match",
+      "startsAt": "1974-06-26T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "awayTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "homeScore": 4,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 11,
+            "type": "goal",
+            "side": "home",
+            "player": "Johan Cruyff",
+            "short": "Cruyff"
+          },
+          {
+            "minute": 26,
+            "type": "goal",
+            "side": "home",
+            "player": "Ruud Krol",
+            "short": "Krol"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "home",
+            "player": "Johny Rep",
+            "short": "Rep"
+          },
+          {
+            "minute": 90,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Johan Cruyff",
+            "short": "Cruyff"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Jan Jongbloed",
+              "short": "Jongbloed"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Wilhelmus Rijsbergen",
+              "short": "Rijsbergen"
+            },
+            {
+              "name": "Wilhelmus Suurbier",
+              "short": "Suurbier"
+            },
+            {
+              "name": "Johan Cruyff",
+              "short": "Cruyff"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Johan Neeskens",
+              "short": "Neeskens"
+            },
+            {
+              "name": "Wilhelmus Van Hanegem",
+              "short": "Van Hanegem"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Daniel Carnevali",
+              "short": "Carnevali"
+            },
+            {
+              "name": "Roberto Perfumo",
+              "short": "Perfumo"
+            },
+            {
+              "name": "Francisco Sa",
+              "short": "Sa"
+            },
+            {
+              "name": "Enrique Wolff",
+              "short": "Wolff"
+            },
+            {
+              "name": "Ramón Heredia",
+              "short": "Heredia"
+            },
+            {
+              "name": "Carlos Squeo",
+              "short": "Squeo"
+            },
+            {
+              "name": "Roberto Telch",
+              "short": "Telch"
+            },
+            {
+              "name": "Rubén Ayala",
+              "short": "Ayala"
+            },
+            {
+              "name": "Agustín Balbuena",
+              "short": "Balbuena"
+            },
+            {
+              "name": "René Houseman",
+              "short": "Houseman"
+            },
+            {
+              "name": "Hector Yazalde",
+              "short": "Yazalde"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197826",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 4,
+      "title": "Svezia - Polonia",
+      "session": "match",
+      "startsAt": "1974-06-26T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "homeScore": 0,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "away",
+            "player": "Grzegorz Lato",
+            "short": "Lato"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Roland Grip",
+              "short": "Grip"
+            },
+            {
+              "name": "Ronnie Hellstroem",
+              "short": "Hellstroem"
+            },
+            {
+              "name": "Björn Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Kent Karlsson",
+              "short": "Karlsson"
+            },
+            {
+              "name": "Björn Nordqvist",
+              "short": "Nordqvist"
+            },
+            {
+              "name": "Bo Larsson",
+              "short": "Larsson"
+            },
+            {
+              "name": "Steffan Tapper",
+              "short": "Tapper"
+            },
+            {
+              "name": "Ralf Edstroem",
+              "short": "Edstroem"
+            },
+            {
+              "name": "Ove Grahn",
+              "short": "Grahn"
+            },
+            {
+              "name": "Roland Sandberg",
+              "short": "Sandberg"
+            },
+            {
+              "name": "Conny Torstensson",
+              "short": "Torstensson"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jan Tomaszewski",
+              "short": "Tomaszewski"
+            },
+            {
+              "name": "Jerzy Gorgon",
+              "short": "Gorgon"
+            },
+            {
+              "name": "Zbigniew Gut",
+              "short": "Gut"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Henryk Kasperczak",
+              "short": "Kasperczak"
+            },
+            {
+              "name": "Zygmunt Maszczyk",
+              "short": "Maszczyk"
+            },
+            {
+              "name": "Robert Gadocha",
+              "short": "Gadocha"
+            },
+            {
+              "name": "Andrzej Szarmach",
+              "short": "Szarmach"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197825",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 4,
+      "title": "Jugoslavia - Germania Ovest",
+      "session": "match",
+      "startsAt": "1974-06-26T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "awayTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "homeScore": 0,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 40,
+            "type": "goal",
+            "side": "away",
+            "player": "Paul Breitner",
+            "short": "Breitner"
+          },
+          {
+            "minute": 83,
+            "type": "goal",
+            "side": "away",
+            "player": "Gerhard Müller",
+            "short": "Müller"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Enver Maric",
+              "short": "Maric"
+            },
+            {
+              "name": "Ivan Buljan",
+              "short": "Buljan"
+            },
+            {
+              "name": "Enver Hadziabdic",
+              "short": "Hadziabdic"
+            },
+            {
+              "name": "Josip Katalinski",
+              "short": "Katalinski"
+            },
+            {
+              "name": "Jovan Acimovic",
+              "short": "Acimovic"
+            },
+            {
+              "name": "Drazen Muzinic",
+              "short": "Muzinic"
+            },
+            {
+              "name": "Branko Oblak",
+              "short": "Oblak"
+            },
+            {
+              "name": "Miroslav Pavlovic",
+              "short": "Pavlovic"
+            },
+            {
+              "name": "Ivica Surjak",
+              "short": "Surjak"
+            },
+            {
+              "name": "Dragan Dzajic",
+              "short": "Dzajic"
+            },
+            {
+              "name": "Stanislav Karasi",
+              "short": "Karasi"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Dieter Herzog",
+              "short": "Herzog"
+            },
+            {
+              "name": "Hans Schwarzenbeck",
+              "short": "Schwarzenbeck"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Paul Breitner",
+              "short": "Breitner"
+            },
+            {
+              "name": "Rainer Bonhof",
+              "short": "Bonhof"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            },
+            {
+              "name": "Herbert Wimmer",
+              "short": "Wimmer"
+            },
+            {
+              "name": "Gerhard Müller",
+              "short": "Müller"
+            },
+            {
+              "name": "Bernd Hoelzenbein",
+              "short": "Hoelzenbein"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197822",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 5,
+      "title": "Argentina - Brasile",
+      "session": "match",
+      "startsAt": "1974-06-30T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 1,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 33,
+            "type": "goal",
+            "side": "away",
+            "player": "Roberto Rivelino",
+            "short": "Rivelino"
+          },
+          {
+            "minute": 36,
+            "type": "goal",
+            "side": "home",
+            "player": "Miguel Brindisi",
+            "short": "Brindisi"
+          },
+          {
+            "minute": 50,
+            "type": "goal",
+            "side": "away",
+            "player": "Jairzinho"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Daniel Carnevali",
+              "short": "Carnevali"
+            },
+            {
+              "name": "Angel Bargas",
+              "short": "Bargas"
+            },
+            {
+              "name": "Ruben Glaria",
+              "short": "Glaria"
+            },
+            {
+              "name": "Francisco Sa",
+              "short": "Sa"
+            },
+            {
+              "name": "Miguel Brindisi",
+              "short": "Brindisi"
+            },
+            {
+              "name": "Carlos Babington",
+              "short": "Babington"
+            },
+            {
+              "name": "Ramón Heredia",
+              "short": "Heredia"
+            },
+            {
+              "name": "Carlos Squeo",
+              "short": "Squeo"
+            },
+            {
+              "name": "Rubén Ayala",
+              "short": "Ayala"
+            },
+            {
+              "name": "Agustín Balbuena",
+              "short": "Balbuena"
+            },
+            {
+              "name": "Mario Kempes",
+              "short": "Kempes"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": "Chagas Francisco Marinho",
+              "short": "Francisco Marinho"
+            },
+            {
+              "name": "Luis Pereira",
+              "short": "Pereira"
+            },
+            {
+              "name": "Mario Marinho Peres Ulibarri",
+              "short": "Peres Ulibarri"
+            },
+            {
+              "name": "Ze María Rodrigues",
+              "short": "Rodrigues"
+            },
+            {
+              "name": "Roberto Rivelino",
+              "short": "Rivelino"
+            },
+            {
+              "name": "Paulo Carpeggiani",
+              "short": "Carpeggiani"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jairzinho"
+            },
+            {
+              "name": "José Dirceu",
+              "short": "Dirceu"
+            },
+            {
+              "name": "Vaz Valdomiro",
+              "short": "Valdomiro"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197821",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 5,
+      "title": "Germania Est - Olanda",
+      "session": "match",
+      "startsAt": "1974-06-30T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6682",
+        "name": "Germany DR",
+        "shortName": "Germania Est",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gdr.png"
+      },
+      "awayTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "homeScore": 0,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 14,
+            "type": "goal",
+            "side": "away",
+            "player": "Johan Neeskens",
+            "short": "Neeskens"
+          },
+          {
+            "minute": 60,
+            "type": "goal",
+            "side": "away",
+            "player": "Robert Rensenbrink",
+            "short": "Rensenbrink"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Juergen Croy",
+              "short": "Croy"
+            },
+            {
+              "name": "Bernd Bransch",
+              "short": "Bransch"
+            },
+            {
+              "name": "Lothard Kurbjuweit",
+              "short": "Kurbjuweit"
+            },
+            {
+              "name": "Wolfram Loewe",
+              "short": "Loewe"
+            },
+            {
+              "name": "Juergen Pommerenke",
+              "short": "Pommerenke"
+            },
+            {
+              "name": "Ruediger Schnuphase",
+              "short": "Schnuphase"
+            },
+            {
+              "name": "Konrad Weise",
+              "short": "Weise"
+            },
+            {
+              "name": "Martin Hoffmann",
+              "short": "Hoffmann"
+            },
+            {
+              "name": "Gerd Kische",
+              "short": "Kische"
+            },
+            {
+              "name": "Reinhard Lauck",
+              "short": "Lauck"
+            },
+            {
+              "name": "Juergen Sparwasser",
+              "short": "Sparwasser"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jan Jongbloed",
+              "short": "Jongbloed"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Wilhelmus Rijsbergen",
+              "short": "Rijsbergen"
+            },
+            {
+              "name": "Wilhelmus Suurbier",
+              "short": "Suurbier"
+            },
+            {
+              "name": "Johan Neeskens",
+              "short": "Neeskens"
+            },
+            {
+              "name": "Johan Cruyff",
+              "short": "Cruyff"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Wilhelmus Van Hanegem",
+              "short": "Van Hanegem"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197827",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 5,
+      "title": "Germania Ovest - Svezia",
+      "session": "match",
+      "startsAt": "1974-06-30T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "homeScore": 4,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 25,
+            "type": "goal",
+            "side": "away",
+            "player": "Ralf Edstroem",
+            "short": "Edstroem"
+          },
+          {
+            "minute": 52,
+            "type": "goal",
+            "side": "home",
+            "player": "Wolfgang Overath",
+            "short": "Overath"
+          },
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "home",
+            "player": "Rainer Bonhof",
+            "short": "Bonhof"
+          },
+          {
+            "minute": 54,
+            "type": "goal",
+            "side": "away",
+            "player": "Roland Sandberg",
+            "short": "Sandberg"
+          },
+          {
+            "minute": 77,
+            "type": "goal",
+            "side": "home",
+            "player": "Juergen Grabowski",
+            "short": "Grabowski"
+          },
+          {
+            "minute": 90,
+            "type": "penalty",
+            "side": "home",
+            "player": "Ulrich Hoeness",
+            "short": "Hoeness"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Dieter Herzog",
+              "short": "Herzog"
+            },
+            {
+              "name": "Hans Schwarzenbeck",
+              "short": "Schwarzenbeck"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Rainer Bonhof",
+              "short": "Bonhof"
+            },
+            {
+              "name": "Ulrich Hoeness",
+              "short": "Hoeness"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            },
+            {
+              "name": "Paul Breitner",
+              "short": "Breitner"
+            },
+            {
+              "name": "Bernd Hoelzenbein",
+              "short": "Hoelzenbein"
+            },
+            {
+              "name": "Gerhard Müller",
+              "short": "Müller"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ronnie Hellstroem",
+              "short": "Hellstroem"
+            },
+            {
+              "name": "Kent Karlsson",
+              "short": "Karlsson"
+            },
+            {
+              "name": "Björn Nordqvist",
+              "short": "Nordqvist"
+            },
+            {
+              "name": "Jan Olsson",
+              "short": "Olsson"
+            },
+            {
+              "name": "Joergen Augustsson",
+              "short": "Augustsson"
+            },
+            {
+              "name": "Bo Larsson",
+              "short": "Larsson"
+            },
+            {
+              "name": "Steffan Tapper",
+              "short": "Tapper"
+            },
+            {
+              "name": "Ralf Edstroem",
+              "short": "Edstroem"
+            },
+            {
+              "name": "Roland Sandberg",
+              "short": "Sandberg"
+            },
+            {
+              "name": "Ove Grahn",
+              "short": "Grahn"
+            },
+            {
+              "name": "Conny Torstensson",
+              "short": "Torstensson"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197828",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 5,
+      "title": "Polonia - Jugoslavia",
+      "session": "match",
+      "startsAt": "1974-06-30T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 25,
+            "type": "penalty",
+            "side": "home",
+            "player": "Kazimierz Deyna",
+            "short": "Deyna"
+          },
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "away",
+            "player": "Stanislav Karasi",
+            "short": "Karasi"
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "home",
+            "player": "Grzegorz Lato",
+            "short": "Lato"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Jan Tomaszewski",
+              "short": "Tomaszewski"
+            },
+            {
+              "name": "Jerzy Gorgon",
+              "short": "Gorgon"
+            },
+            {
+              "name": "Adam Musial",
+              "short": "Musial"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Henryk Kasperczak",
+              "short": "Kasperczak"
+            },
+            {
+              "name": "Zygmunt Maszczyk",
+              "short": "Maszczyk"
+            },
+            {
+              "name": "Robert Gadocha",
+              "short": "Gadocha"
+            },
+            {
+              "name": "Andrzej Szarmach",
+              "short": "Szarmach"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Enver Maric",
+              "short": "Maric"
+            },
+            {
+              "name": "Vladislav Bogicevic",
+              "short": "Bogicevic"
+            },
+            {
+              "name": "Ivan Buljan",
+              "short": "Buljan"
+            },
+            {
+              "name": "Enver Hadziabdic",
+              "short": "Hadziabdic"
+            },
+            {
+              "name": "Josip Katalinski",
+              "short": "Katalinski"
+            },
+            {
+              "name": "Jovan Acimovic",
+              "short": "Acimovic"
+            },
+            {
+              "name": "Branko Oblak",
+              "short": "Oblak"
+            },
+            {
+              "name": "Ivica Surjak",
+              "short": "Surjak"
+            },
+            {
+              "name": "Stanislav Karasi",
+              "short": "Karasi"
+            },
+            {
+              "name": "Dusan Bajevic",
+              "short": "Bajevic"
+            },
+            {
+              "name": "Ilija Petkovic",
+              "short": "Petkovic"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197824",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 6,
+      "title": "Argentina - Germania Est",
+      "session": "match",
+      "startsAt": "1974-07-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-6682",
+        "name": "Germany DR",
+        "shortName": "Germania Est",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gdr.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "away",
+            "player": "Joachim Streich",
+            "short": "Streich"
+          },
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "home",
+            "player": "René Houseman",
+            "short": "Houseman"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ubaldo Fillol",
+              "short": "Fillol"
+            },
+            {
+              "name": "Angel Bargas",
+              "short": "Bargas"
+            },
+            {
+              "name": "Jorge Carrascosa",
+              "short": "Carrascosa"
+            },
+            {
+              "name": "Enrique Wolff",
+              "short": "Wolff"
+            },
+            {
+              "name": "Carlos Babington",
+              "short": "Babington"
+            },
+            {
+              "name": "Miguel Brindisi",
+              "short": "Brindisi"
+            },
+            {
+              "name": "Ramón Heredia",
+              "short": "Heredia"
+            },
+            {
+              "name": "Roberto Telch",
+              "short": "Telch"
+            },
+            {
+              "name": "René Houseman",
+              "short": "Houseman"
+            },
+            {
+              "name": "Rubén Ayala",
+              "short": "Ayala"
+            },
+            {
+              "name": "Mario Kempes",
+              "short": "Kempes"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Juergen Croy",
+              "short": "Croy"
+            },
+            {
+              "name": "Bernd Bransch",
+              "short": "Bransch"
+            },
+            {
+              "name": "Lothard Kurbjuweit",
+              "short": "Kurbjuweit"
+            },
+            {
+              "name": "Wolfram Loewe",
+              "short": "Loewe"
+            },
+            {
+              "name": "Juergen Pommerenke",
+              "short": "Pommerenke"
+            },
+            {
+              "name": "Ruediger Schnuphase",
+              "short": "Schnuphase"
+            },
+            {
+              "name": "Konrad Weise",
+              "short": "Weise"
+            },
+            {
+              "name": "Joachim Streich",
+              "short": "Streich"
+            },
+            {
+              "name": "Martin Hoffmann",
+              "short": "Hoffmann"
+            },
+            {
+              "name": "Gerd Kische",
+              "short": "Kische"
+            },
+            {
+              "name": "Juergen Sparwasser",
+              "short": "Sparwasser"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197823",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 6,
+      "title": "Olanda - Brasile",
+      "session": "match",
+      "startsAt": "1974-07-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 51,
+            "type": "goal",
+            "side": "home",
+            "player": "Johan Neeskens",
+            "short": "Neeskens"
+          },
+          {
+            "minute": 66,
+            "type": "goal",
+            "side": "home",
+            "player": "Johan Cruyff",
+            "short": "Cruyff"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Jan Jongbloed",
+              "short": "Jongbloed"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Wilhelmus Rijsbergen",
+              "short": "Rijsbergen"
+            },
+            {
+              "name": "Wilhelmus Suurbier",
+              "short": "Suurbier"
+            },
+            {
+              "name": "Johan Cruyff",
+              "short": "Cruyff"
+            },
+            {
+              "name": "Johan Neeskens",
+              "short": "Neeskens"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Wilhelmus Van Hanegem",
+              "short": "Van Hanegem"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": "Chagas Francisco Marinho",
+              "short": "Francisco Marinho"
+            },
+            {
+              "name": "Luis Pereira",
+              "short": "Pereira"
+            },
+            {
+              "name": "Mario Marinho Peres Ulibarri",
+              "short": "Peres Ulibarri"
+            },
+            {
+              "name": "Ze María Rodrigues",
+              "short": "Rodrigues"
+            },
+            {
+              "name": "Paulo Carpeggiani",
+              "short": "Carpeggiani"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Roberto Rivelino",
+              "short": "Rivelino"
+            },
+            {
+              "name": "Jairzinho"
+            },
+            {
+              "name": "José Dirceu",
+              "short": "Dirceu"
+            },
+            {
+              "name": "Vaz Valdomiro",
+              "short": "Valdomiro"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197830",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 6,
+      "title": "Polonia - Germania Ovest",
+      "session": "match",
+      "startsAt": "1974-07-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "awayTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "homeScore": 0,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 77,
+            "type": "goal",
+            "side": "away",
+            "player": "Gerhard Müller",
+            "short": "Müller"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Jan Tomaszewski",
+              "short": "Tomaszewski"
+            },
+            {
+              "name": "Jerzy Gorgon",
+              "short": "Gorgon"
+            },
+            {
+              "name": "Adam Musial",
+              "short": "Musial"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Jan Domarski",
+              "short": "Domarski"
+            },
+            {
+              "name": "Henryk Kasperczak",
+              "short": "Kasperczak"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Zygmunt Maszczyk",
+              "short": "Maszczyk"
+            },
+            {
+              "name": "Robert Gadocha",
+              "short": "Gadocha"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Hans Schwarzenbeck",
+              "short": "Schwarzenbeck"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Rainer Bonhof",
+              "short": "Bonhof"
+            },
+            {
+              "name": "Paul Breitner",
+              "short": "Breitner"
+            },
+            {
+              "name": "Ulrich Hoeness",
+              "short": "Hoeness"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            },
+            {
+              "name": "Gerhard Müller",
+              "short": "Müller"
+            },
+            {
+              "name": "Juergen Grabowski",
+              "short": "Grabowski"
+            },
+            {
+              "name": "Bernd Hoelzenbein",
+              "short": "Hoelzenbein"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197829",
+      "competition": "mondiali",
+      "season": "1974",
+      "round": 6,
+      "title": "Svezia - Jugoslavia",
+      "session": "match",
+      "startsAt": "1974-07-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 28,
+            "type": "goal",
+            "side": "away",
+            "player": "Ivica Surjak",
+            "short": "Surjak"
+          },
+          {
+            "minute": 30,
+            "type": "goal",
+            "side": "home",
+            "player": "Ralf Edstroem",
+            "short": "Edstroem"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "home",
+            "player": "Conny Torstensson",
+            "short": "Torstensson"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ronnie Hellstroem",
+              "short": "Hellstroem"
+            },
+            {
+              "name": "Kent Karlsson",
+              "short": "Karlsson"
+            },
+            {
+              "name": "Björn Nordqvist",
+              "short": "Nordqvist"
+            },
+            {
+              "name": "Jan Olsson",
+              "short": "Olsson"
+            },
+            {
+              "name": "Joergen Augustsson",
+              "short": "Augustsson"
+            },
+            {
+              "name": "Steffan Tapper",
+              "short": "Tapper"
+            },
+            {
+              "name": "Ralf Edstroem",
+              "short": "Edstroem"
+            },
+            {
+              "name": "Conny Torstensson",
+              "short": "Torstensson"
+            },
+            {
+              "name": "Ove Grahn",
+              "short": "Grahn"
+            },
+            {
+              "name": "Örjan Persson",
+              "short": "Persson"
+            },
+            {
+              "name": "Roland Sandberg",
+              "short": "Sandberg"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jurica Jerkovic",
+              "short": "Jerkovic"
+            },
+            {
+              "name": "Enver Maric",
+              "short": "Maric"
+            },
+            {
+              "name": "Ognjan Petrovic",
+              "short": "Petrovic"
+            },
+            {
+              "name": "Vladislav Bogicevic",
+              "short": "Bogicevic"
+            },
+            {
+              "name": "Ivan Buljan",
+              "short": "Buljan"
+            },
+            {
+              "name": "Enver Hadziabdic",
+              "short": "Hadziabdic"
+            },
+            {
+              "name": "Josip Katalinski",
+              "short": "Katalinski"
+            },
+            {
+              "name": "Ivica Surjak",
+              "short": "Surjak"
+            },
+            {
+              "name": "Jovan Acimovic",
+              "short": "Acimovic"
+            },
+            {
+              "name": "Miroslav Pavlovic",
+              "short": "Pavlovic"
+            },
+            {
+              "name": "Dragan Dzajic",
+              "short": "Dzajic"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197831",
+      "competition": "mondiali",
+      "season": "1974",
+      "stage": "third_place",
+      "title": "Brasile - Polonia",
+      "session": "match",
+      "startsAt": "1974-07-06T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "homeScore": 0,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 77,
+            "type": "goal",
+            "side": "away",
+            "player": "Grzegorz Lato",
+            "short": "Lato"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": "Chagas Francisco Marinho",
+              "short": "Francisco Marinho"
+            },
+            {
+              "name": "Alfredo Mostard",
+              "short": "Mostard"
+            },
+            {
+              "name": "Mario Marinho Peres Ulibarri",
+              "short": "Peres Ulibarri"
+            },
+            {
+              "name": "Ze María Rodrigues",
+              "short": "Rodrigues"
+            },
+            {
+              "name": "Paulo Carpeggiani",
+              "short": "Carpeggiani"
+            },
+            {
+              "name": "Roberto Rivelino",
+              "short": "Rivelino"
+            },
+            {
+              "name": "Jairzinho"
+            },
+            {
+              "name": "Ademir De Guia",
+              "short": "De Guia"
+            },
+            {
+              "name": "José Dirceu",
+              "short": "Dirceu"
+            },
+            {
+              "name": "Vaz Valdomiro",
+              "short": "Valdomiro"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jan Tomaszewski",
+              "short": "Tomaszewski"
+            },
+            {
+              "name": "Jerzy Gorgon",
+              "short": "Gorgon"
+            },
+            {
+              "name": "Adam Musial",
+              "short": "Musial"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Henryk Kasperczak",
+              "short": "Kasperczak"
+            },
+            {
+              "name": "Zygmunt Maszczyk",
+              "short": "Maszczyk"
+            },
+            {
+              "name": "Robert Gadocha",
+              "short": "Gadocha"
+            },
+            {
+              "name": "Andrzej Szarmach",
+              "short": "Szarmach"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1974-197832",
+      "competition": "mondiali",
+      "season": "1974",
+      "stage": "final",
+      "title": "Olanda - Germania Ovest",
+      "session": "match",
+      "startsAt": "1974-07-07T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "awayTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "homeScore": 1,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 3,
+            "type": "penalty",
+            "side": "home",
+            "player": "Johan Neeskens",
+            "short": "Neeskens"
+          },
+          {
+            "minute": 26,
+            "type": "penalty",
+            "side": "away",
+            "player": "Paul Breitner",
+            "short": "Breitner"
+          },
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "away",
+            "player": "Gerhard Müller",
+            "short": "Müller"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Jan Jongbloed",
+              "short": "Jongbloed"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Wilhelmus Rijsbergen",
+              "short": "Rijsbergen"
+            },
+            {
+              "name": "Wilhelmus Suurbier",
+              "short": "Suurbier"
+            },
+            {
+              "name": "Johan Neeskens",
+              "short": "Neeskens"
+            },
+            {
+              "name": "Johan Cruyff",
+              "short": "Cruyff"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Wilhelmus Van Hanegem",
+              "short": "Van Hanegem"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Hans Schwarzenbeck",
+              "short": "Schwarzenbeck"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Paul Breitner",
+              "short": "Breitner"
+            },
+            {
+              "name": "Rainer Bonhof",
+              "short": "Bonhof"
+            },
+            {
+              "name": "Ulrich Hoeness",
+              "short": "Hoeness"
+            },
+            {
+              "name": "Guenter Netzer",
+              "short": "Netzer"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            },
+            {
+              "name": "Juergen Grabowski",
+              "short": "Grabowski"
+            },
+            {
+              "name": "Bernd Hoelzenbein",
+              "short": "Hoelzenbein"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "table",
+      "title": "Gironi",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Olanda",
+          "code": "NED",
+          "points": 6,
+          "wins": 3,
+          "played": 3,
+          "draws": 0,
+          "losses": 0,
+          "goalDifference": 8,
+          "zone": "qualified",
+          "group": "Secondo turno, gruppo A"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Brasile",
+          "code": "BRA",
+          "points": 4,
+          "wins": 2,
+          "played": 3,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 0,
+          "group": "Secondo turno, gruppo A"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Germania Est",
+          "code": "GDR",
+          "points": 1,
+          "wins": 0,
+          "played": 3,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": -3,
+          "group": "Secondo turno, gruppo A"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Argentina",
+          "code": "ARG",
+          "points": 1,
+          "wins": 0,
+          "played": 3,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": -5,
+          "group": "Secondo turno, gruppo A"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Germania Ovest",
+          "code": "GFR",
+          "points": 6,
+          "wins": 3,
+          "played": 3,
+          "draws": 0,
+          "losses": 0,
+          "goalDifference": 5,
+          "zone": "qualified",
+          "group": "Secondo turno, gruppo B"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Polonia",
+          "code": "POL",
+          "points": 4,
+          "wins": 2,
+          "played": 3,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 1,
+          "group": "Secondo turno, gruppo B"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Svezia",
+          "code": "SWE",
+          "points": 2,
+          "wins": 1,
+          "played": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -2,
+          "group": "Secondo turno, gruppo B"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Jugoslavia",
+          "code": "YUG",
+          "points": 0,
+          "wins": 0,
+          "played": 3,
+          "draws": 0,
+          "losses": 3,
+          "goalDifference": -4,
+          "group": "Secondo turno, gruppo B"
+        }
+      ]
+    },
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Grzegorz Lato",
+          "team": "Polonia",
+          "points": 7
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Johan Neeskens",
+          "team": "Olanda",
+          "points": 5
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Andrzej Szarmach",
+          "team": "Polonia",
+          "points": 5
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Johny Rep",
+          "team": "Olanda",
+          "points": 4
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Ralf Edstroem",
+          "team": "Svezia",
+          "points": 4
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Gerhard Müller",
+          "team": "Germania Ovest",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Johan Cruyff",
+          "team": "Olanda",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Kazimierz Deyna",
+          "team": "Polonia",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Paul Breitner",
+          "team": "Germania Ovest",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Roberto Rivelino",
+          "team": "Brasile",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "René Houseman",
+          "team": "Argentina",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Dusan Bajevic",
+          "team": "Jugoslavia",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

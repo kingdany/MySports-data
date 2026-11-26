@@ -1,0 +1,3615 @@
+{
+  "competition": "mondiali",
+  "season": "1950",
+  "generatedAt": "2026-11-26T16:16:37.8331833+00:00",
+  "events": [
+    {
+      "id": "mondiali-1950-197556",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 1,
+      "title": "Brasile - Messico",
+      "session": "match",
+      "startsAt": "1950-06-24T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 4,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Marques Ademir",
+            "short": "Ademir"
+          },
+          {
+            "minute": 66,
+            "type": "goal",
+            "side": "home",
+            "player": "da Jair",
+            "short": "Jair"
+          },
+          {
+            "minute": 72,
+            "type": "goal",
+            "side": "home",
+            "player": "Oswaldo Baltazar",
+            "short": "Baltazar"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Marques Ademir",
+            "short": "Ademir"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Moacyr Barbosa",
+              "short": "Barbosa"
+            },
+            {
+              "name": "Da Augusto",
+              "short": "Augusto"
+            },
+            {
+              "name": "Amarijo Juvenal",
+              "short": "Juvenal"
+            },
+            {
+              "name": "Joao Bigode",
+              "short": "Bigode"
+            },
+            {
+              "name": "do Eli",
+              "short": "Eli"
+            },
+            {
+              "name": "Manoel Maneca",
+              "short": "Maneca"
+            },
+            {
+              "name": "Marques Ademir",
+              "short": "Ademir"
+            },
+            {
+              "name": "Oswaldo Baltazar",
+              "short": "Baltazar"
+            },
+            {
+              "name": "Alvim Danilo",
+              "short": "Danilo"
+            },
+            {
+              "name": "Albino Friaca",
+              "short": "Friaca"
+            },
+            {
+              "name": "da Jair",
+              "short": "Jair"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Carbajal",
+              "short": "Carbajal"
+            },
+            {
+              "name": "Alfonso Montemayor",
+              "short": "Montemayor"
+            },
+            {
+              "name": "Felipe Zetter",
+              "short": "Zetter"
+            },
+            {
+              "name": "Mario Ochoa",
+              "short": "Ochoa"
+            },
+            {
+              "name": "José Roca",
+              "short": "Roca"
+            },
+            {
+              "name": "Rodrigo Ruiz",
+              "short": "Ruiz"
+            },
+            {
+              "name": "Carlos Septien",
+              "short": "Septien"
+            },
+            {
+              "name": "Horacio Casarin",
+              "short": "Casarin"
+            },
+            {
+              "name": "Héctor Ortiz",
+              "short": "Ortiz"
+            },
+            {
+              "name": "Mario Pérez",
+              "short": "Pérez"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197562",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 1,
+      "title": "Inghilterra - Cile",
+      "session": "match",
+      "startsAt": "1950-06-25T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "awayTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 28,
+            "type": "goal",
+            "side": "home",
+            "player": "Stanley Mortensen",
+            "short": "Mortensen"
+          },
+          {
+            "minute": 52,
+            "type": "goal",
+            "side": "home",
+            "player": "Wilf Mannion",
+            "short": "Mannion"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Bert Williams",
+              "short": "Williams"
+            },
+            {
+              "name": "John Aston",
+              "short": "Aston"
+            },
+            {
+              "name": "Alf Ramsey",
+              "short": "Ramsey"
+            },
+            {
+              "name": "Jimmy Dickinson",
+              "short": "Dickinson"
+            },
+            {
+              "name": "Laurie Hughes",
+              "short": "Hughes"
+            },
+            {
+              "name": "Tommy Wright",
+              "short": "Wright"
+            },
+            {
+              "name": "Roy Bentley",
+              "short": "Bentley"
+            },
+            {
+              "name": "Thomas Finney",
+              "short": "Finney"
+            },
+            {
+              "name": "Wilf Mannion",
+              "short": "Mannion"
+            },
+            {
+              "name": "Stanley Mortensen",
+              "short": "Mortensen"
+            },
+            {
+              "name": "Jimmy Mullen",
+              "short": "Mullen"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Sergio Livingstone",
+              "short": "Livingstone"
+            },
+            {
+              "name": "Arturo Farías",
+              "short": "Farías"
+            },
+            {
+              "name": "Fernando Roldán",
+              "short": "Roldán"
+            },
+            {
+              "name": "Manuel Alvarez",
+              "short": "Alvarez"
+            },
+            {
+              "name": "Miguel Busquets",
+              "short": "Busquets"
+            },
+            {
+              "name": "Hernán Carvallo",
+              "short": "Carvallo"
+            },
+            {
+              "name": "Atilio Cremaschi",
+              "short": "Cremaschi"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Luis Mayanes",
+              "short": "Mayanes"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jorge Robledo",
+              "short": "Robledo"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197563",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 1,
+      "title": "Spagna - Stati Uniti",
+      "session": "match",
+      "startsAt": "1950-06-25T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "awayTeam": {
+        "id": "espn-660",
+        "name": "United States",
+        "shortName": "Stati Uniti",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "away",
+            "player": "John Souza",
+            "short": "Souza"
+          },
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "home",
+            "player": "Estanislao Basora",
+            "short": "Basora"
+          },
+          {
+            "minute": 79,
+            "type": "goal",
+            "side": "home",
+            "player": "Estanislao Basora",
+            "short": "Basora"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "home",
+            "player": "Telmo Zarra",
+            "short": "Zarra"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Inaky"
+            },
+            {
+              "name": "Gabriel Alonso",
+              "short": "Alonso"
+            },
+            {
+              "name": "José Gonzalvo",
+              "short": "Gonzalvo"
+            },
+            {
+              "name": "Francisco Antúñez",
+              "short": "Antúñez"
+            },
+            {
+              "name": "Mariano Gonzalvo",
+              "short": "Gonzalvo"
+            },
+            {
+              "name": "Antonio Puchades",
+              "short": "Puchades"
+            },
+            {
+              "name": "Estanislao Basora",
+              "short": "Basora"
+            },
+            {
+              "name": "Rosendo Hernández",
+              "short": "Hernández"
+            },
+            {
+              "name": "Silvestre Igoa",
+              "short": "Igoa"
+            },
+            {
+              "name": "Piru"
+            },
+            {
+              "name": "Telmo Zarra",
+              "short": "Zarra"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Frank Borghi",
+              "short": "Borghi"
+            },
+            {
+              "name": "Harry Keough",
+              "short": "Keough"
+            },
+            {
+              "name": "Joseph Maca",
+              "short": "Maca"
+            },
+            {
+              "name": "Walter Bahr",
+              "short": "Bahr"
+            },
+            {
+              "name": "Charles Colombo",
+              "short": "Colombo"
+            },
+            {
+              "name": "Eddie Mc Ilvenny",
+              "short": "Mc Ilvenny"
+            },
+            {
+              "name": "Antonello Valentini",
+              "short": "Valentini"
+            },
+            {
+              "name": "Robert Craddock",
+              "short": "Craddock"
+            },
+            {
+              "name": "Joseph Gaetjens",
+              "short": "Gaetjens"
+            },
+            {
+              "name": "Gino Pariani",
+              "short": "Pariani"
+            },
+            {
+              "name": "John Souza",
+              "short": "Souza"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197568",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 1,
+      "title": "Svezia - Italia",
+      "session": "match",
+      "startsAt": "1950-06-25T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 8,
+            "type": "goal",
+            "side": "away",
+            "player": "Riccardo Carapellese",
+            "short": "Carapellese"
+          },
+          {
+            "minute": 26,
+            "type": "goal",
+            "side": "home",
+            "player": "Hans Jeppson",
+            "short": "Jeppson"
+          },
+          {
+            "minute": 34,
+            "type": "goal",
+            "side": "home",
+            "player": "Sune Andersson",
+            "short": "Andersson"
+          },
+          {
+            "minute": 69,
+            "type": "goal",
+            "side": "home",
+            "player": "Hans Jeppson",
+            "short": "Jeppson"
+          },
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "away",
+            "player": "Hermes Muccinelli",
+            "short": "Muccinelli"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Karl Svensson",
+              "short": "Svensson"
+            },
+            {
+              "name": "Erik Nilsson",
+              "short": "Nilsson"
+            },
+            {
+              "name": "Lennart Samuelsson",
+              "short": "Samuelsson"
+            },
+            {
+              "name": "Sune Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Ingvar Gaerd",
+              "short": "Gaerd"
+            },
+            {
+              "name": "Knut Nordahl",
+              "short": "Nordahl"
+            },
+            {
+              "name": "Hans Jeppson",
+              "short": "Jeppson"
+            },
+            {
+              "name": "Stellan Nilsson",
+              "short": "Nilsson"
+            },
+            {
+              "name": "Karl Palmer",
+              "short": "Palmer"
+            },
+            {
+              "name": "Lennart Skoglund",
+              "short": "Skoglund"
+            },
+            {
+              "name": "Stig Sundqvist",
+              "short": "Sundqvist"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Lucidio Sentimenti",
+              "short": "Sentimenti"
+            },
+            {
+              "name": "Zeffiro Furiassi",
+              "short": "Furiassi"
+            },
+            {
+              "name": "Attilio Giovannini",
+              "short": "Giovannini"
+            },
+            {
+              "name": "Carlo Annovazzi",
+              "short": "Annovazzi"
+            },
+            {
+              "name": "Augusto Magli",
+              "short": "Magli"
+            },
+            {
+              "name": "Carlo Parola",
+              "short": "Parola"
+            },
+            {
+              "name": "Gianpiero Boniperti",
+              "short": "Boniperti"
+            },
+            {
+              "name": "Aldo Campatelli",
+              "short": "Campatelli"
+            },
+            {
+              "name": "Gino Cappello",
+              "short": "Cappello"
+            },
+            {
+              "name": "Riccardo Carapellese",
+              "short": "Carapellese"
+            },
+            {
+              "name": "Hermes Muccinelli",
+              "short": "Muccinelli"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197557",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 1,
+      "title": "Jugoslavia - Svizzera",
+      "session": "match",
+      "startsAt": "1950-06-25T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "awayTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Kosta Tomasevic",
+            "short": "Tomasevic"
+          },
+          {
+            "minute": 71,
+            "type": "goal",
+            "side": "home",
+            "player": "Kosta Tomasevic",
+            "short": "Tomasevic"
+          },
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "home",
+            "player": "Tihomir Ognjanov",
+            "short": "Ognjanov"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Srdjan Mrkusic",
+              "short": "Mrkusic"
+            },
+            {
+              "name": "Ivan Horvat",
+              "short": "Horvat"
+            },
+            {
+              "name": "Branislav Stankovic",
+              "short": "Stankovic"
+            },
+            {
+              "name": "Zlatko Cajkovski",
+              "short": "Cajkovski"
+            },
+            {
+              "name": "Predrag Djajic",
+              "short": "Djajic"
+            },
+            {
+              "name": "Miodrag Jovanovic",
+              "short": "Jovanovic"
+            },
+            {
+              "name": "Stjepan Bobek",
+              "short": "Bobek"
+            },
+            {
+              "name": "Rajko Mitic",
+              "short": "Mitic"
+            },
+            {
+              "name": "Tihomir Ognjanov",
+              "short": "Ognjanov"
+            },
+            {
+              "name": "Kosta Tomasevic",
+              "short": "Tomasevic"
+            },
+            {
+              "name": "Bernard Vukas",
+              "short": "Vukas"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Georges Stuber",
+              "short": "Stuber"
+            },
+            {
+              "name": "Roger Bocquet",
+              "short": "Bocquet"
+            },
+            {
+              "name": "Andre Neury",
+              "short": "Neury"
+            },
+            {
+              "name": "Oliver Eggiman",
+              "short": "Eggiman"
+            },
+            {
+              "name": "Gerhard Lusenti",
+              "short": "Lusenti"
+            },
+            {
+              "name": "Roger Quinche",
+              "short": "Quinche"
+            },
+            {
+              "name": "Charles Antenen",
+              "short": "Antenen"
+            },
+            {
+              "name": "Rene Bader",
+              "short": "Bader"
+            },
+            {
+              "name": "Alfred Bickel",
+              "short": "Bickel"
+            },
+            {
+              "name": "Jacques Fatton",
+              "short": "Fatton"
+            },
+            {
+              "name": "Jean Tamini",
+              "short": "Tamini"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197559",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 2,
+      "title": "Brasile - Svizzera",
+      "session": "match",
+      "startsAt": "1950-06-28T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 4,
+            "type": "goal",
+            "side": "home",
+            "player": "dos Alfredo",
+            "short": "Alfredo"
+          },
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "away",
+            "player": "Jacques Fatton",
+            "short": "Fatton"
+          },
+          {
+            "minute": 33,
+            "type": "goal",
+            "side": "home",
+            "player": "Oswaldo Baltazar",
+            "short": "Baltazar"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "away",
+            "player": "Jacques Fatton",
+            "short": "Fatton"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Moacyr Barbosa",
+              "short": "Barbosa"
+            },
+            {
+              "name": "Da Augusto",
+              "short": "Augusto"
+            },
+            {
+              "name": "Amarijo Juvenal",
+              "short": "Juvenal"
+            },
+            {
+              "name": "José Bauer",
+              "short": "Bauer"
+            },
+            {
+              "name": "Manoel Maneca",
+              "short": "Maneca"
+            },
+            {
+              "name": "Alfredo Noronha",
+              "short": "Noronha"
+            },
+            {
+              "name": "Campos Rui",
+              "short": "Rui"
+            },
+            {
+              "name": "Marques Ademir",
+              "short": "Ademir"
+            },
+            {
+              "name": "dos Alfredo",
+              "short": "Alfredo"
+            },
+            {
+              "name": "Oswaldo Baltazar",
+              "short": "Baltazar"
+            },
+            {
+              "name": "Albino Friaca",
+              "short": "Friaca"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Georges Stuber",
+              "short": "Stuber"
+            },
+            {
+              "name": "Roger Bocquet",
+              "short": "Bocquet"
+            },
+            {
+              "name": "Andre Neury",
+              "short": "Neury"
+            },
+            {
+              "name": "Oliver Eggiman",
+              "short": "Eggiman"
+            },
+            {
+              "name": "Gerhard Lusenti",
+              "short": "Lusenti"
+            },
+            {
+              "name": "Roger Quinche",
+              "short": "Quinche"
+            },
+            {
+              "name": "Rene Bader",
+              "short": "Bader"
+            },
+            {
+              "name": "Alfred Bickel",
+              "short": "Bickel"
+            },
+            {
+              "name": "Jacques Fatton",
+              "short": "Fatton"
+            },
+            {
+              "name": "Hans Friedlander",
+              "short": "Friedlander"
+            },
+            {
+              "name": "Jean Tamini",
+              "short": "Tamini"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197558",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 2,
+      "title": "Jugoslavia - Messico",
+      "session": "match",
+      "startsAt": "1950-06-28T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 4,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 20,
+            "type": "goal",
+            "side": "home",
+            "player": "Stjepan Bobek",
+            "short": "Bobek"
+          },
+          {
+            "minute": 24,
+            "type": "goal",
+            "side": "home",
+            "player": "Zeljko Cajkovski",
+            "short": "Cajkovski"
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "home",
+            "player": "Zeljko Cajkovski",
+            "short": "Cajkovski"
+          },
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "home",
+            "player": "Kosta Tomasevic",
+            "short": "Tomasevic"
+          },
+          {
+            "minute": 90,
+            "type": "penalty",
+            "side": "away",
+            "player": "Héctor Ortiz",
+            "short": "Ortiz"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Srdjan Mrkusic",
+              "short": "Mrkusic"
+            },
+            {
+              "name": "Ivan Horvat",
+              "short": "Horvat"
+            },
+            {
+              "name": "Branislav Stankovic",
+              "short": "Stankovic"
+            },
+            {
+              "name": "Zlatko Cajkovski",
+              "short": "Cajkovski"
+            },
+            {
+              "name": "Predrag Djajic",
+              "short": "Djajic"
+            },
+            {
+              "name": "Miodrag Jovanovic",
+              "short": "Jovanovic"
+            },
+            {
+              "name": "Stjepan Bobek",
+              "short": "Bobek"
+            },
+            {
+              "name": "Zeljko Cajkovski",
+              "short": "Cajkovski"
+            },
+            {
+              "name": "Prvoslav Mihajlovic",
+              "short": "Mihajlovic"
+            },
+            {
+              "name": "Rajko Mitic",
+              "short": "Mitic"
+            },
+            {
+              "name": "Kosta Tomasevic",
+              "short": "Tomasevic"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Carbajal",
+              "short": "Carbajal"
+            },
+            {
+              "name": "Samuel Cuburu",
+              "short": "Cuburu"
+            },
+            {
+              "name": "Gregorio Gómez",
+              "short": "Gómez"
+            },
+            {
+              "name": "Manuel Gutiérrez",
+              "short": "Gutiérrez"
+            },
+            {
+              "name": "José Roca",
+              "short": "Roca"
+            },
+            {
+              "name": "Rodrigo Ruiz",
+              "short": "Ruiz"
+            },
+            {
+              "name": "Carlos Septien",
+              "short": "Septien"
+            },
+            {
+              "name": "Horacio Casarin",
+              "short": "Casarin"
+            },
+            {
+              "name": "Héctor Ortiz",
+              "short": "Ortiz"
+            },
+            {
+              "name": "Mario Pérez",
+              "short": "Pérez"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197564",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 2,
+      "title": "Spagna - Cile",
+      "session": "match",
+      "startsAt": "1950-06-29T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "awayTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "home",
+            "player": "Estanislao Basora",
+            "short": "Basora"
+          },
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Telmo Zarra",
+            "short": "Zarra"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Antonio Ramallets",
+              "short": "Ramallets"
+            },
+            {
+              "name": "Gabriel Alonso",
+              "short": "Alonso"
+            },
+            {
+              "name": "José Gonzalvo",
+              "short": "Gonzalvo"
+            },
+            {
+              "name": "Mariano Gonzalvo",
+              "short": "Gonzalvo"
+            },
+            {
+              "name": "José Parra",
+              "short": "Parra"
+            },
+            {
+              "name": "Antonio Puchades",
+              "short": "Puchades"
+            },
+            {
+              "name": "Estanislao Basora",
+              "short": "Basora"
+            },
+            {
+              "name": "Silvestre Igoa",
+              "short": "Igoa"
+            },
+            {
+              "name": "José Panizo",
+              "short": "Panizo"
+            },
+            {
+              "name": "Piru"
+            },
+            {
+              "name": "Telmo Zarra",
+              "short": "Zarra"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Sergio Livingstone",
+              "short": "Livingstone"
+            },
+            {
+              "name": "Arturo Farías",
+              "short": "Farías"
+            },
+            {
+              "name": "Manuel Machuca Berrios",
+              "short": "Machuca Berrios"
+            },
+            {
+              "name": "Manuel Alvarez",
+              "short": "Alvarez"
+            },
+            {
+              "name": "Miguel Busquets",
+              "short": "Busquets"
+            },
+            {
+              "name": "Hernán Carvallo",
+              "short": "Carvallo"
+            },
+            {
+              "name": "Atilio Cremaschi",
+              "short": "Cremaschi"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Andrés Prieto",
+              "short": "Prieto"
+            },
+            {
+              "name": "Fernando Riera",
+              "short": "Riera"
+            },
+            {
+              "name": "Jorge Robledo",
+              "short": "Robledo"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197569",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 2,
+      "title": "Svezia - Paraguay",
+      "session": "match",
+      "startsAt": "1950-06-29T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-210",
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/par.png"
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 25,
+            "type": "goal",
+            "side": "home",
+            "player": "Stig Sundqvist",
+            "short": "Sundqvist"
+          },
+          {
+            "minute": 27,
+            "type": "goal",
+            "side": "home",
+            "player": "Karl Palmer",
+            "short": "Palmer"
+          },
+          {
+            "minute": 33,
+            "type": "goal",
+            "side": "away",
+            "player": "Atilio López",
+            "short": "López"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "away",
+            "player": ""
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Karl Svensson",
+              "short": "Svensson"
+            },
+            {
+              "name": "Erik Nilsson",
+              "short": "Nilsson"
+            },
+            {
+              "name": "Lennart Samuelsson",
+              "short": "Samuelsson"
+            },
+            {
+              "name": "Sune Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Ingvar Gaerd",
+              "short": "Gaerd"
+            },
+            {
+              "name": "Gunnar Johansson",
+              "short": "Johansson"
+            },
+            {
+              "name": "Knut Nordahl",
+              "short": "Nordahl"
+            },
+            {
+              "name": "Hans Jeppson",
+              "short": "Jeppson"
+            },
+            {
+              "name": "Karl Palmer",
+              "short": "Palmer"
+            },
+            {
+              "name": "Lennart Skoglund",
+              "short": "Skoglund"
+            },
+            {
+              "name": "Stig Sundqvist",
+              "short": "Sundqvist"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "Casiano Céspedes",
+              "short": "Céspedes"
+            },
+            {
+              "name": "Alberto Gonzalito",
+              "short": "Gonzalito"
+            },
+            {
+              "name": "Sixto Cantero",
+              "short": "Cantero"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Victoriano Leguizamón",
+              "short": "Leguizamón"
+            },
+            {
+              "name": "Marcial Avalos",
+              "short": "Avalos"
+            },
+            {
+              "name": "Darío Jara",
+              "short": "Jara"
+            },
+            {
+              "name": "Atilio López",
+              "short": "López"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Leon Unzain",
+              "short": "Unzain"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197565",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 2,
+      "title": "Stati Uniti - Inghilterra",
+      "session": "match",
+      "startsAt": "1950-06-29T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-660",
+        "name": "United States",
+        "shortName": "Stati Uniti",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
+      },
+      "awayTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "Joseph Gaetjens",
+            "short": "Gaetjens"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Frank Borghi",
+              "short": "Borghi"
+            },
+            {
+              "name": "Harry Keough",
+              "short": "Keough"
+            },
+            {
+              "name": "Joseph Maca",
+              "short": "Maca"
+            },
+            {
+              "name": "Walter Bahr",
+              "short": "Bahr"
+            },
+            {
+              "name": "Charles Colombo",
+              "short": "Colombo"
+            },
+            {
+              "name": "Eddie Mc Ilvenny",
+              "short": "Mc Ilvenny"
+            },
+            {
+              "name": "Joseph Gaetjens",
+              "short": "Gaetjens"
+            },
+            {
+              "name": "Gino Pariani",
+              "short": "Pariani"
+            },
+            {
+              "name": "Edward Souza",
+              "short": "Souza"
+            },
+            {
+              "name": "John Souza",
+              "short": "Souza"
+            },
+            {
+              "name": "Frank Wallace",
+              "short": "Wallace"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Bert Williams",
+              "short": "Williams"
+            },
+            {
+              "name": "John Aston",
+              "short": "Aston"
+            },
+            {
+              "name": "Alf Ramsey",
+              "short": "Ramsey"
+            },
+            {
+              "name": "Jimmy Dickinson",
+              "short": "Dickinson"
+            },
+            {
+              "name": "Laurie Hughes",
+              "short": "Hughes"
+            },
+            {
+              "name": "Tommy Wright",
+              "short": "Wright"
+            },
+            {
+              "name": "Roy Bentley",
+              "short": "Bentley"
+            },
+            {
+              "name": "Thomas Finney",
+              "short": "Finney"
+            },
+            {
+              "name": "Wilf Mannion",
+              "short": "Mannion"
+            },
+            {
+              "name": "Stanley Mortensen",
+              "short": "Mortensen"
+            },
+            {
+              "name": "Jimmy Mullen",
+              "short": "Mullen"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197560",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 3,
+      "title": "Brasile - Jugoslavia",
+      "session": "match",
+      "startsAt": "1950-07-01T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 5,
+            "type": "goal",
+            "side": "home",
+            "player": "Marques Ademir",
+            "short": "Ademir"
+          },
+          {
+            "minute": 70,
+            "type": "goal",
+            "side": "home",
+            "player": "Zizinho"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Moacyr Barbosa",
+              "short": "Barbosa"
+            },
+            {
+              "name": "Da Augusto",
+              "short": "Augusto"
+            },
+            {
+              "name": "Amarijo Juvenal",
+              "short": "Juvenal"
+            },
+            {
+              "name": "José Bauer",
+              "short": "Bauer"
+            },
+            {
+              "name": "Joao Bigode",
+              "short": "Bigode"
+            },
+            {
+              "name": "Manoel Maneca",
+              "short": "Maneca"
+            },
+            {
+              "name": "Zizinho"
+            },
+            {
+              "name": "Marques Ademir",
+              "short": "Ademir"
+            },
+            {
+              "name": "Francisco Chico",
+              "short": "Chico"
+            },
+            {
+              "name": "Alvim Danilo",
+              "short": "Danilo"
+            },
+            {
+              "name": "da Jair",
+              "short": "Jair"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Srdjan Mrkusic",
+              "short": "Mrkusic"
+            },
+            {
+              "name": "Ivan Horvat",
+              "short": "Horvat"
+            },
+            {
+              "name": "Branislav Stankovic",
+              "short": "Stankovic"
+            },
+            {
+              "name": "Zlatko Cajkovski",
+              "short": "Cajkovski"
+            },
+            {
+              "name": "Predrag Djajic",
+              "short": "Djajic"
+            },
+            {
+              "name": "Miodrag Jovanovic",
+              "short": "Jovanovic"
+            },
+            {
+              "name": "Stjepan Bobek",
+              "short": "Bobek"
+            },
+            {
+              "name": "Zeljko Cajkovski",
+              "short": "Cajkovski"
+            },
+            {
+              "name": "Rajko Mitic",
+              "short": "Mitic"
+            },
+            {
+              "name": "Kosta Tomasevic",
+              "short": "Tomasevic"
+            },
+            {
+              "name": "Bernard Vukas",
+              "short": "Vukas"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197567",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 3,
+      "title": "Cile - Stati Uniti",
+      "session": "match",
+      "startsAt": "1950-07-02T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "awayTeam": {
+        "id": "espn-660",
+        "name": "United States",
+        "shortName": "Stati Uniti",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
+      },
+      "homeScore": 5,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 17,
+            "type": "goal",
+            "side": "home",
+            "player": "Jorge Robledo",
+            "short": "Robledo"
+          },
+          {
+            "minute": 33,
+            "type": "goal",
+            "side": "home",
+            "player": "Fernando Riera",
+            "short": "Riera"
+          },
+          {
+            "minute": 48,
+            "type": "goal",
+            "side": "away",
+            "player": "Frank Wallace",
+            "short": "Wallace"
+          },
+          {
+            "minute": 49,
+            "type": "penalty",
+            "side": "away",
+            "player": "John Souza",
+            "short": "Souza"
+          },
+          {
+            "minute": 55,
+            "type": "goal",
+            "side": "home",
+            "player": "Atilio Cremaschi",
+            "short": "Cremaschi"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Andrés Prieto",
+            "short": "Prieto"
+          },
+          {
+            "minute": 83,
+            "type": "goal",
+            "side": "home",
+            "player": "Atilio Cremaschi",
+            "short": "Cremaschi"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Sergio Livingstone",
+              "short": "Livingstone"
+            },
+            {
+              "name": "Arturo Farías",
+              "short": "Farías"
+            },
+            {
+              "name": "Manuel Machuca Berrios",
+              "short": "Machuca Berrios"
+            },
+            {
+              "name": "Manuel Alvarez",
+              "short": "Alvarez"
+            },
+            {
+              "name": "Miguel Busquets",
+              "short": "Busquets"
+            },
+            {
+              "name": "Carlos Rojas",
+              "short": "Rojas"
+            },
+            {
+              "name": "Atilio Cremaschi",
+              "short": "Cremaschi"
+            },
+            {
+              "name": "Carlos Ibañez",
+              "short": "Ibañez"
+            },
+            {
+              "name": "Andrés Prieto",
+              "short": "Prieto"
+            },
+            {
+              "name": "Fernando Riera",
+              "short": "Riera"
+            },
+            {
+              "name": "Jorge Robledo",
+              "short": "Robledo"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Frank Borghi",
+              "short": "Borghi"
+            },
+            {
+              "name": "Harry Keough",
+              "short": "Keough"
+            },
+            {
+              "name": "Joseph Maca",
+              "short": "Maca"
+            },
+            {
+              "name": "Walter Bahr",
+              "short": "Bahr"
+            },
+            {
+              "name": "Charles Colombo",
+              "short": "Colombo"
+            },
+            {
+              "name": "Eddie Mc Ilvenny",
+              "short": "Mc Ilvenny"
+            },
+            {
+              "name": "Joseph Gaetjens",
+              "short": "Gaetjens"
+            },
+            {
+              "name": "Gino Pariani",
+              "short": "Pariani"
+            },
+            {
+              "name": "Edward Souza",
+              "short": "Souza"
+            },
+            {
+              "name": "John Souza",
+              "short": "Souza"
+            },
+            {
+              "name": "Frank Wallace",
+              "short": "Wallace"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197570",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 2,
+      "title": "Italia - Paraguay",
+      "session": "match",
+      "startsAt": "1950-07-02T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-210",
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/par.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Riccardo Carapellese",
+            "short": "Carapellese"
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "home",
+            "player": "Egisto Pandolfini",
+            "short": "Pandolfini"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Giuseppe Moro",
+              "short": "Moro"
+            },
+            {
+              "name": "Ivano Blason",
+              "short": "Blason"
+            },
+            {
+              "name": "Zeffiro Furiassi",
+              "short": "Furiassi"
+            },
+            {
+              "name": "Osvaldo Fattori",
+              "short": "Fattori"
+            },
+            {
+              "name": "Giacomo Mari",
+              "short": "Mari"
+            },
+            {
+              "name": "Leandro Remondini",
+              "short": "Remondini"
+            },
+            {
+              "name": "Amadeo Amadei",
+              "short": "Amadei"
+            },
+            {
+              "name": "Gino Cappello",
+              "short": "Cappello"
+            },
+            {
+              "name": "Riccardo Carapellese",
+              "short": "Carapellese"
+            },
+            {
+              "name": "Hermes Muccinelli",
+              "short": "Muccinelli"
+            },
+            {
+              "name": "Egisto Pandolfini",
+              "short": "Pandolfini"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "Casiano Céspedes",
+              "short": "Céspedes"
+            },
+            {
+              "name": "Alberto Gonzalito",
+              "short": "Gonzalito"
+            },
+            {
+              "name": "Sixto Cantero",
+              "short": "Cantero"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Victoriano Leguizamón",
+              "short": "Leguizamón"
+            },
+            {
+              "name": "Marcial Avalos",
+              "short": "Avalos"
+            },
+            {
+              "name": "Darío Jara",
+              "short": "Jara"
+            },
+            {
+              "name": "Atilio López",
+              "short": "López"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Leon Unzain",
+              "short": "Unzain"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197566",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 3,
+      "title": "Spagna - Inghilterra",
+      "session": "match",
+      "startsAt": "1950-07-02T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "awayTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 49,
+            "type": "goal",
+            "side": "home",
+            "player": "Telmo Zarra",
+            "short": "Zarra"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Antonio Ramallets",
+              "short": "Ramallets"
+            },
+            {
+              "name": "Gabriel Alonso",
+              "short": "Alonso"
+            },
+            {
+              "name": "José Gonzalvo",
+              "short": "Gonzalvo"
+            },
+            {
+              "name": "Mariano Gonzalvo",
+              "short": "Gonzalvo"
+            },
+            {
+              "name": "José Parra",
+              "short": "Parra"
+            },
+            {
+              "name": "Antonio Puchades",
+              "short": "Puchades"
+            },
+            {
+              "name": "Estanislao Basora",
+              "short": "Basora"
+            },
+            {
+              "name": "Silvestre Igoa",
+              "short": "Igoa"
+            },
+            {
+              "name": "José Panizo",
+              "short": "Panizo"
+            },
+            {
+              "name": "Piru"
+            },
+            {
+              "name": "Telmo Zarra",
+              "short": "Zarra"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Ramallets",
+              "short": "Ramallets"
+            },
+            {
+              "name": "Bert Williams",
+              "short": "Williams"
+            },
+            {
+              "name": "Gabriel Alonso",
+              "short": "Alonso"
+            },
+            {
+              "name": "José Gonzalvo",
+              "short": "Gonzalvo"
+            },
+            {
+              "name": "Bill Eckersley",
+              "short": "Eckersley"
+            },
+            {
+              "name": "Alf Ramsey",
+              "short": "Ramsey"
+            },
+            {
+              "name": "Mariano Gonzalvo",
+              "short": "Gonzalvo"
+            },
+            {
+              "name": "José Parra",
+              "short": "Parra"
+            },
+            {
+              "name": "Antonio Puchades",
+              "short": "Puchades"
+            },
+            {
+              "name": "Jimmy Dickinson",
+              "short": "Dickinson"
+            },
+            {
+              "name": "Laurie Hughes",
+              "short": "Hughes"
+            },
+            {
+              "name": "Tommy Wright",
+              "short": "Wright"
+            },
+            {
+              "name": "Estanislao Basora",
+              "short": "Basora"
+            },
+            {
+              "name": "Silvestre Igoa",
+              "short": "Igoa"
+            },
+            {
+              "name": "José Panizo",
+              "short": "Panizo"
+            },
+            {
+              "name": "Piru"
+            },
+            {
+              "name": "Telmo Zarra",
+              "short": "Zarra"
+            },
+            {
+              "name": "Eddie Bailey",
+              "short": "Bailey"
+            },
+            {
+              "name": "Thomas Finney",
+              "short": "Finney"
+            },
+            {
+              "name": "Stanley Matthews",
+              "short": "Matthews"
+            },
+            {
+              "name": "Jackie Milburn",
+              "short": "Milburn"
+            },
+            {
+              "name": "Stanley Mortensen",
+              "short": "Mortensen"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197561",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 3,
+      "title": "Svizzera - Messico",
+      "session": "match",
+      "startsAt": "1950-07-02T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 11,
+            "type": "goal",
+            "side": "home",
+            "player": "Rene Bader",
+            "short": "Bader"
+          },
+          {
+            "minute": 38,
+            "type": "goal",
+            "side": "home",
+            "player": "Jean Tamini",
+            "short": "Tamini"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "away",
+            "player": "Horacio Casarin",
+            "short": "Casarin"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Adolph Hug",
+              "short": "Hug"
+            },
+            {
+              "name": "Roger Bocquet",
+              "short": "Bocquet"
+            },
+            {
+              "name": "Andre Neury",
+              "short": "Neury"
+            },
+            {
+              "name": "Oliver Eggiman",
+              "short": "Eggiman"
+            },
+            {
+              "name": "Gerhard Lusenti",
+              "short": "Lusenti"
+            },
+            {
+              "name": "Roger Quinche",
+              "short": "Quinche"
+            },
+            {
+              "name": "Charles Antenen",
+              "short": "Antenen"
+            },
+            {
+              "name": "Rene Bader",
+              "short": "Bader"
+            },
+            {
+              "name": "Jacques Fatton",
+              "short": "Fatton"
+            },
+            {
+              "name": "Hans Friedlander",
+              "short": "Friedlander"
+            },
+            {
+              "name": "Jean Tamini",
+              "short": "Tamini"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Carbajal",
+              "short": "Carbajal"
+            },
+            {
+              "name": "Gregorio Gómez",
+              "short": "Gómez"
+            },
+            {
+              "name": "Manuel Gutiérrez",
+              "short": "Gutiérrez"
+            },
+            {
+              "name": "Antonio Flores",
+              "short": "Flores"
+            },
+            {
+              "name": "Carlos Guevara",
+              "short": "Guevara"
+            },
+            {
+              "name": "Mario Ochoa",
+              "short": "Ochoa"
+            },
+            {
+              "name": "José Roca",
+              "short": "Roca"
+            },
+            {
+              "name": "Horacio Casarin",
+              "short": "Casarin"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Héctor Ortiz",
+              "short": "Ortiz"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197571",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 1,
+      "title": "Uruguay - Bolivia",
+      "session": "match",
+      "startsAt": "1950-07-02T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-204",
+        "name": "Bolivia",
+        "shortName": "Bolivia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bol.png"
+      },
+      "homeScore": 8,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "home",
+            "player": "Omar Míguez",
+            "short": "Míguez"
+          },
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Ernesto Vidal",
+            "short": "Vidal"
+          },
+          {
+            "minute": 24,
+            "type": "goal",
+            "side": "home",
+            "player": "Juan Schiaffino",
+            "short": "Schiaffino"
+          },
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Omar Míguez",
+            "short": "Míguez"
+          },
+          {
+            "minute": 57,
+            "type": "goal",
+            "side": "home",
+            "player": "Omar Míguez",
+            "short": "Míguez"
+          },
+          {
+            "minute": 60,
+            "type": "goal",
+            "side": "home",
+            "player": "Juan Schiaffino",
+            "short": "Schiaffino"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 84,
+            "type": "goal",
+            "side": "home",
+            "player": "Alcides Ghiggia",
+            "short": "Ghiggia"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Roque Máspoli",
+              "short": "Máspoli"
+            },
+            {
+              "name": "Matias Gonzales",
+              "short": "Gonzales"
+            },
+            {
+              "name": "Eusebio Tejera",
+              "short": "Tejera"
+            },
+            {
+              "name": "Víctor Andrade",
+              "short": "Andrade"
+            },
+            {
+              "name": "Obdulio Varela",
+              "short": "Varela"
+            },
+            {
+              "name": "Alcides Ghiggia",
+              "short": "Ghiggia"
+            },
+            {
+              "name": "Omar Míguez",
+              "short": "Míguez"
+            },
+            {
+              "name": "Rubén Morán",
+              "short": "Morán"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Juan Schiaffino",
+              "short": "Schiaffino"
+            },
+            {
+              "name": "Ernesto Vidal",
+              "short": "Vidal"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Edmundo Gutiérrez",
+              "short": "Gutiérrez"
+            },
+            {
+              "name": "Alberto Acha",
+              "short": "Acha"
+            },
+            {
+              "name": "Leon Ferrel",
+              "short": "Ferrel"
+            },
+            {
+              "name": "Antonio Grecco",
+              "short": "Grecco"
+            },
+            {
+              "name": "Antonio Valencia",
+              "short": "Valencia"
+            },
+            {
+              "name": "Víctor Algaranaz",
+              "short": "Algaranaz"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Roberto Caparelli",
+              "short": "Caparelli"
+            },
+            {
+              "name": "Benigno Gutiérrez",
+              "short": "Gutiérrez"
+            },
+            {
+              "name": "Benjamino Maldonado",
+              "short": "Maldonado"
+            },
+            {
+              "name": "Víctor Ugarte",
+              "short": "Ugarte"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197572",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 4,
+      "title": "Brasile - Svezia",
+      "session": "match",
+      "startsAt": "1950-07-09T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "homeScore": 7,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "home",
+            "player": "Marques Ademir",
+            "short": "Ademir"
+          },
+          {
+            "minute": 37,
+            "type": "goal",
+            "side": "home",
+            "player": "Marques Ademir",
+            "short": "Ademir"
+          },
+          {
+            "minute": 40,
+            "type": "goal",
+            "side": "home",
+            "player": "Francisco Chico",
+            "short": "Chico"
+          },
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "home",
+            "player": "Marques Ademir",
+            "short": "Ademir"
+          },
+          {
+            "minute": 59,
+            "type": "goal",
+            "side": "home",
+            "player": "Marques Ademir",
+            "short": "Ademir"
+          },
+          {
+            "minute": 68,
+            "type": "penalty",
+            "side": "away",
+            "player": "Sune Andersson",
+            "short": "Andersson"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "home",
+            "player": "Manoel Maneca",
+            "short": "Maneca"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Francisco Chico",
+            "short": "Chico"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Moacyr Barbosa",
+              "short": "Barbosa"
+            },
+            {
+              "name": "Da Augusto",
+              "short": "Augusto"
+            },
+            {
+              "name": "Amarijo Juvenal",
+              "short": "Juvenal"
+            },
+            {
+              "name": "José Bauer",
+              "short": "Bauer"
+            },
+            {
+              "name": "Joao Bigode",
+              "short": "Bigode"
+            },
+            {
+              "name": "Manoel Maneca",
+              "short": "Maneca"
+            },
+            {
+              "name": "Zizinho"
+            },
+            {
+              "name": "Marques Ademir",
+              "short": "Ademir"
+            },
+            {
+              "name": "Francisco Chico",
+              "short": "Chico"
+            },
+            {
+              "name": "Alvim Danilo",
+              "short": "Danilo"
+            },
+            {
+              "name": "da Jair",
+              "short": "Jair"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Karl Svensson",
+              "short": "Svensson"
+            },
+            {
+              "name": "Erik Nilsson",
+              "short": "Nilsson"
+            },
+            {
+              "name": "Lennart Samuelsson",
+              "short": "Samuelsson"
+            },
+            {
+              "name": "Sune Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Ingvar Gaerd",
+              "short": "Gaerd"
+            },
+            {
+              "name": "Knut Nordahl",
+              "short": "Nordahl"
+            },
+            {
+              "name": "Hans Jeppson",
+              "short": "Jeppson"
+            },
+            {
+              "name": "Stellan Nilsson",
+              "short": "Nilsson"
+            },
+            {
+              "name": "Karl Palmer",
+              "short": "Palmer"
+            },
+            {
+              "name": "Lennart Skoglund",
+              "short": "Skoglund"
+            },
+            {
+              "name": "Stig Sundqvist",
+              "short": "Sundqvist"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197573",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 4,
+      "title": "Spagna - Uruguay",
+      "session": "match",
+      "startsAt": "1950-07-09T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "awayTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 30,
+            "type": "goal",
+            "side": "away",
+            "player": "Alcides Ghiggia",
+            "short": "Ghiggia"
+          },
+          {
+            "minute": 33,
+            "type": "goal",
+            "side": "home",
+            "player": "Estanislao Basora",
+            "short": "Basora"
+          },
+          {
+            "minute": 40,
+            "type": "goal",
+            "side": "home",
+            "player": "Estanislao Basora",
+            "short": "Basora"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "away",
+            "player": "Obdulio Varela",
+            "short": "Varela"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Antonio Ramallets",
+              "short": "Ramallets"
+            },
+            {
+              "name": "Gabriel Alonso",
+              "short": "Alonso"
+            },
+            {
+              "name": "José Gonzalvo",
+              "short": "Gonzalvo"
+            },
+            {
+              "name": "Mariano Gonzalvo",
+              "short": "Gonzalvo"
+            },
+            {
+              "name": "José Parra",
+              "short": "Parra"
+            },
+            {
+              "name": "Antonio Puchades",
+              "short": "Puchades"
+            },
+            {
+              "name": "Estanislao Basora",
+              "short": "Basora"
+            },
+            {
+              "name": "Silvestre Igoa",
+              "short": "Igoa"
+            },
+            {
+              "name": "José Panizo",
+              "short": "Panizo"
+            },
+            {
+              "name": "Piru"
+            },
+            {
+              "name": "Telmo Zarra",
+              "short": "Zarra"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Roque Máspoli",
+              "short": "Máspoli"
+            },
+            {
+              "name": "Matias Gonzales",
+              "short": "Gonzales"
+            },
+            {
+              "name": "Eusebio Tejera",
+              "short": "Tejera"
+            },
+            {
+              "name": "Víctor Andrade",
+              "short": "Andrade"
+            },
+            {
+              "name": "Obdulio Varela",
+              "short": "Varela"
+            },
+            {
+              "name": "Alcides Ghiggia",
+              "short": "Ghiggia"
+            },
+            {
+              "name": "Omar Míguez",
+              "short": "Míguez"
+            },
+            {
+              "name": "Rubén Morán",
+              "short": "Morán"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Juan Schiaffino",
+              "short": "Schiaffino"
+            },
+            {
+              "name": "Ernesto Vidal",
+              "short": "Vidal"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197574",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 5,
+      "title": "Brasile - Spagna",
+      "session": "match",
+      "startsAt": "1950-07-13T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "homeScore": 6,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": "Marques Ademir",
+            "short": "Ademir"
+          },
+          {
+            "minute": 22,
+            "type": "goal",
+            "side": "home",
+            "player": "da Jair",
+            "short": "Jair"
+          },
+          {
+            "minute": 32,
+            "type": "goal",
+            "side": "home",
+            "player": "Francisco Chico",
+            "short": "Chico"
+          },
+          {
+            "minute": 56,
+            "type": "goal",
+            "side": "home",
+            "player": "Francisco Chico",
+            "short": "Chico"
+          },
+          {
+            "minute": 58,
+            "type": "goal",
+            "side": "home",
+            "player": "Marques Ademir",
+            "short": "Ademir"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Zizinho"
+          },
+          {
+            "minute": 72,
+            "type": "goal",
+            "side": "away",
+            "player": "Silvestre Igoa",
+            "short": "Igoa"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Moacyr Barbosa",
+              "short": "Barbosa"
+            },
+            {
+              "name": "Da Augusto",
+              "short": "Augusto"
+            },
+            {
+              "name": "Amarijo Juvenal",
+              "short": "Juvenal"
+            },
+            {
+              "name": "José Bauer",
+              "short": "Bauer"
+            },
+            {
+              "name": "Joao Bigode",
+              "short": "Bigode"
+            },
+            {
+              "name": "Zizinho"
+            },
+            {
+              "name": "Marques Ademir",
+              "short": "Ademir"
+            },
+            {
+              "name": "Francisco Chico",
+              "short": "Chico"
+            },
+            {
+              "name": "Alvim Danilo",
+              "short": "Danilo"
+            },
+            {
+              "name": "Albino Friaca",
+              "short": "Friaca"
+            },
+            {
+              "name": "da Jair",
+              "short": "Jair"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Ramallets",
+              "short": "Ramallets"
+            },
+            {
+              "name": "Gabriel Alonso",
+              "short": "Alonso"
+            },
+            {
+              "name": "José Gonzalvo",
+              "short": "Gonzalvo"
+            },
+            {
+              "name": "Mariano Gonzalvo",
+              "short": "Gonzalvo"
+            },
+            {
+              "name": "José Parra",
+              "short": "Parra"
+            },
+            {
+              "name": "Antonio Puchades",
+              "short": "Puchades"
+            },
+            {
+              "name": "Estanislao Basora",
+              "short": "Basora"
+            },
+            {
+              "name": "Silvestre Igoa",
+              "short": "Igoa"
+            },
+            {
+              "name": "José Panizo",
+              "short": "Panizo"
+            },
+            {
+              "name": "Piru"
+            },
+            {
+              "name": "Telmo Zarra",
+              "short": "Zarra"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197575",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 4,
+      "title": "Uruguay - Svezia",
+      "session": "match",
+      "startsAt": "1950-07-13T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 6,
+            "type": "goal",
+            "side": "away",
+            "player": "Karl Palmer",
+            "short": "Palmer"
+          },
+          {
+            "minute": 40,
+            "type": "goal",
+            "side": "home",
+            "player": "Alcides Ghiggia",
+            "short": "Ghiggia"
+          },
+          {
+            "minute": 41,
+            "type": "goal",
+            "side": "away",
+            "player": "Stig Sundqvist",
+            "short": "Sundqvist"
+          },
+          {
+            "minute": 78,
+            "type": "goal",
+            "side": "home",
+            "player": "Omar Míguez",
+            "short": "Míguez"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "home",
+            "player": "Omar Míguez",
+            "short": "Míguez"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "Matias Gonzales",
+              "short": "Gonzales"
+            },
+            {
+              "name": "Eusebio Tejera",
+              "short": "Tejera"
+            },
+            {
+              "name": "Víctor Andrade",
+              "short": "Andrade"
+            },
+            {
+              "name": "Schubert Gambetta",
+              "short": "Gambetta"
+            },
+            {
+              "name": "Obdulio Varela",
+              "short": "Varela"
+            },
+            {
+              "name": "Alcides Ghiggia",
+              "short": "Ghiggia"
+            },
+            {
+              "name": "Omar Míguez",
+              "short": "Míguez"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Juan Schiaffino",
+              "short": "Schiaffino"
+            },
+            {
+              "name": "Ernesto Vidal",
+              "short": "Vidal"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Karl Svensson",
+              "short": "Svensson"
+            },
+            {
+              "name": "Erik Nilsson",
+              "short": "Nilsson"
+            },
+            {
+              "name": "Lennart Samuelsson",
+              "short": "Samuelsson"
+            },
+            {
+              "name": "Sune Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Ingvar Gaerd",
+              "short": "Gaerd"
+            },
+            {
+              "name": "Gunnar Johansson",
+              "short": "Johansson"
+            },
+            {
+              "name": "Hans Jeppson",
+              "short": "Jeppson"
+            },
+            {
+              "name": "Egon Jonsson",
+              "short": "Jonsson"
+            },
+            {
+              "name": "Bror Mellberg",
+              "short": "Mellberg"
+            },
+            {
+              "name": "Karl Palmer",
+              "short": "Palmer"
+            },
+            {
+              "name": "Stig Sundqvist",
+              "short": "Sundqvist"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197577",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 6,
+      "title": "Svezia - Spagna",
+      "session": "match",
+      "startsAt": "1950-07-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": "Stig Sundqvist",
+            "short": "Sundqvist"
+          },
+          {
+            "minute": 34,
+            "type": "goal",
+            "side": "home",
+            "player": "Bror Mellberg",
+            "short": "Mellberg"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "home",
+            "player": "Karl Palmer",
+            "short": "Palmer"
+          },
+          {
+            "minute": 83,
+            "type": "goal",
+            "side": "away",
+            "player": "Telmo Zarra",
+            "short": "Zarra"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Karl Svensson",
+              "short": "Svensson"
+            },
+            {
+              "name": "Erik Nilsson",
+              "short": "Nilsson"
+            },
+            {
+              "name": "Lennart Samuelsson",
+              "short": "Samuelsson"
+            },
+            {
+              "name": "Sune Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Ingvar Gaerd",
+              "short": "Gaerd"
+            },
+            {
+              "name": "Gunnar Johansson",
+              "short": "Johansson"
+            },
+            {
+              "name": "Egon Jonsson",
+              "short": "Jonsson"
+            },
+            {
+              "name": "Bror Mellberg",
+              "short": "Mellberg"
+            },
+            {
+              "name": "Karl Palmer",
+              "short": "Palmer"
+            },
+            {
+              "name": "Ingvar Rydell",
+              "short": "Rydell"
+            },
+            {
+              "name": "Stig Sundqvist",
+              "short": "Sundqvist"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Inaky"
+            },
+            {
+              "name": "Gabriel Alonso",
+              "short": "Alonso"
+            },
+            {
+              "name": "Vicente Asensi",
+              "short": "Asensi"
+            },
+            {
+              "name": "José Parra",
+              "short": "Parra"
+            },
+            {
+              "name": "Antonio Puchades",
+              "short": "Puchades"
+            },
+            {
+              "name": "Alfonso Silva",
+              "short": "Silva"
+            },
+            {
+              "name": "Estanislao Basora",
+              "short": "Basora"
+            },
+            {
+              "name": "Rosendo Hernández",
+              "short": "Hernández"
+            },
+            {
+              "name": "José Juncosa",
+              "short": "Juncosa"
+            },
+            {
+              "name": "José Panizo",
+              "short": "Panizo"
+            },
+            {
+              "name": "Telmo Zarra",
+              "short": "Zarra"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1950-197576",
+      "competition": "mondiali",
+      "season": "1950",
+      "round": 6,
+      "title": "Uruguay - Brasile",
+      "session": "match",
+      "startsAt": "1950-07-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 48,
+            "type": "goal",
+            "side": "away",
+            "player": "Albino Friaca",
+            "short": "Friaca"
+          },
+          {
+            "minute": 67,
+            "type": "goal",
+            "side": "home",
+            "player": "Juan Schiaffino",
+            "short": "Schiaffino"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Alcides Ghiggia",
+            "short": "Ghiggia"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Roque Máspoli",
+              "short": "Máspoli"
+            },
+            {
+              "name": "Matias Gonzales",
+              "short": "Gonzales"
+            },
+            {
+              "name": "Eusebio Tejera",
+              "short": "Tejera"
+            },
+            {
+              "name": "Víctor Andrade",
+              "short": "Andrade"
+            },
+            {
+              "name": "Schubert Gambetta",
+              "short": "Gambetta"
+            },
+            {
+              "name": "Obdulio Varela",
+              "short": "Varela"
+            },
+            {
+              "name": "Alcides Ghiggia",
+              "short": "Ghiggia"
+            },
+            {
+              "name": "Omar Míguez",
+              "short": "Míguez"
+            },
+            {
+              "name": "Rubén Morán",
+              "short": "Morán"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Juan Schiaffino",
+              "short": "Schiaffino"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Moacyr Barbosa",
+              "short": "Barbosa"
+            },
+            {
+              "name": "Da Augusto",
+              "short": "Augusto"
+            },
+            {
+              "name": "Amarijo Juvenal",
+              "short": "Juvenal"
+            },
+            {
+              "name": "José Bauer",
+              "short": "Bauer"
+            },
+            {
+              "name": "Joao Bigode",
+              "short": "Bigode"
+            },
+            {
+              "name": "Zizinho"
+            },
+            {
+              "name": "Marques Ademir",
+              "short": "Ademir"
+            },
+            {
+              "name": "Francisco Chico",
+              "short": "Chico"
+            },
+            {
+              "name": "Alvim Danilo",
+              "short": "Danilo"
+            },
+            {
+              "name": "Albino Friaca",
+              "short": "Friaca"
+            },
+            {
+              "name": "da Jair",
+              "short": "Jair"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "table",
+      "title": "Classifica",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Uruguay",
+          "code": "URU",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 2
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Brasile",
+          "code": "BRA",
+          "points": 4,
+          "wins": 2,
+          "played": 3,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 10
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Svezia",
+          "code": "SWE",
+          "points": 2,
+          "wins": 1,
+          "played": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -5
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Spagna",
+          "code": "ESP",
+          "points": 1,
+          "wins": 0,
+          "played": 3,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": -7
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Inghilterra",
+          "code": "ENG",
+          "points": 1,
+          "wins": 0,
+          "played": 3,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": -7
+        }
+      ]
+    },
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Marques Ademir",
+          "team": "Brasile",
+          "points": 9
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Estanislao Basora",
+          "team": "Spagna",
+          "points": 5
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Omar Míguez",
+          "team": "Uruguay",
+          "points": 5
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Telmo Zarra",
+          "team": "Spagna",
+          "points": 4
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Alcides Ghiggia",
+          "team": "Uruguay",
+          "points": 4
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Francisco Chico",
+          "team": "Brasile",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Stig Sundqvist",
+          "team": "Svezia",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Karl Palmer",
+          "team": "Svezia",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Juan Schiaffino",
+          "team": "Uruguay",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Kosta Tomasevic",
+          "team": "Jugoslavia",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

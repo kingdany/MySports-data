@@ -1,0 +1,2743 @@
+{
+  "competition": "mondiali",
+  "season": "1934",
+  "generatedAt": "2026-11-26T16:16:37.8331833+00:00",
+  "events": [
+    {
+      "id": "mondiali-1934-197544",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "last_16",
+      "title": "Austria - Francia",
+      "session": "match",
+      "startsAt": "1934-05-27T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "awayTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "away",
+            "player": "Jean Nicolas",
+            "short": "Nicolas"
+          },
+          {
+            "minute": 35,
+            "type": "goal",
+            "side": "home",
+            "player": "Mathias Sindelar",
+            "short": "Sindelar"
+          },
+          {
+            "minute": 101,
+            "type": "goal",
+            "side": "home",
+            "player": "Anton Schall",
+            "short": "Schall"
+          },
+          {
+            "minute": 113,
+            "type": "goal",
+            "side": "home",
+            "player": "Josef Bican",
+            "short": "Bican"
+          },
+          {
+            "minute": 118,
+            "type": "penalty",
+            "side": "away",
+            "player": "Georges Verriest",
+            "short": "Verriest"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Peter Platzer",
+              "short": "Platzer"
+            },
+            {
+              "name": "Franz Cisar",
+              "short": "Cisar"
+            },
+            {
+              "name": "Karl Sesta",
+              "short": "Sesta"
+            },
+            {
+              "name": "Josef Smistek",
+              "short": "Smistek"
+            },
+            {
+              "name": "Hans Urbanek",
+              "short": "Urbanek"
+            },
+            {
+              "name": "Franz Wagner",
+              "short": "Wagner"
+            },
+            {
+              "name": "Josef Bican",
+              "short": "Bican"
+            },
+            {
+              "name": "Anton Schall",
+              "short": "Schall"
+            },
+            {
+              "name": "Mathias Sindelar",
+              "short": "Sindelar"
+            },
+            {
+              "name": "Rudolf Viertl",
+              "short": "Viertl"
+            },
+            {
+              "name": "Karl Zischek",
+              "short": "Zischek"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Alexis Thépot",
+              "short": "Thépot"
+            },
+            {
+              "name": "Jacques Mairesse",
+              "short": "Mairesse"
+            },
+            {
+              "name": "Etienne Mattler",
+              "short": "Mattler"
+            },
+            {
+              "name": "Noel Lietaer",
+              "short": "Lietaer"
+            },
+            {
+              "name": "Georges Verriest",
+              "short": "Verriest"
+            },
+            {
+              "name": "Joseph Alcazar",
+              "short": "Alcazar"
+            },
+            {
+              "name": "Alfred Aston",
+              "short": "Aston"
+            },
+            {
+              "name": "Edmond Delfour",
+              "short": "Delfour"
+            },
+            {
+              "name": "Fritz Keller",
+              "short": "Keller"
+            },
+            {
+              "name": "Jean Nicolas",
+              "short": "Nicolas"
+            },
+            {
+              "name": "Roger Rio",
+              "short": "Rio"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197543",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "last_16",
+      "title": "Cecoslovacchia - Romania",
+      "session": "match",
+      "startsAt": "1934-05-27T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "awayTeam": {
+        "id": "espn-473",
+        "name": "Romania",
+        "shortName": "Romania",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 38,
+            "type": "goal",
+            "side": "away",
+            "player": "Stefan Dobay",
+            "short": "Dobay"
+          },
+          {
+            "minute": 62,
+            "type": "goal",
+            "side": "home",
+            "player": "Antonin Puc",
+            "short": "Puc"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "home",
+            "player": "Oldrich Nejedly",
+            "short": "Nejedly"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Frantisek Planicka",
+              "short": "Planicka"
+            },
+            {
+              "name": "Josef Ctyroky",
+              "short": "Ctyroky"
+            },
+            {
+              "name": "Ladislav Zenisek",
+              "short": "Zenisek"
+            },
+            {
+              "name": "Stefan Cambal",
+              "short": "Cambal"
+            },
+            {
+              "name": "Josef Kostalek",
+              "short": "Kostalek"
+            },
+            {
+              "name": "Rudolf Krcil",
+              "short": "Krcil"
+            },
+            {
+              "name": "Frantisek Junek",
+              "short": "Junek"
+            },
+            {
+              "name": "Oldrich Nejedly",
+              "short": "Nejedly"
+            },
+            {
+              "name": "Antonin Puc",
+              "short": "Puc"
+            },
+            {
+              "name": "Josef Silny",
+              "short": "Silny"
+            },
+            {
+              "name": "Jiri Sobotka",
+              "short": "Sobotka"
+            },
+            {
+              "name": "Oldrich Nejedly",
+              "short": "Nejedly"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "William Zombory",
+              "short": "Zombory"
+            },
+            {
+              "name": "Gheorghe Albu",
+              "short": "Albu"
+            },
+            {
+              "name": "Vasile Deheleanu",
+              "short": "Deheleanu"
+            },
+            {
+              "name": "Rudolf Kotormany",
+              "short": "Kotormany"
+            },
+            {
+              "name": "Iosif Moravetz",
+              "short": "Moravetz"
+            },
+            {
+              "name": "Emerich Vogl",
+              "short": "Vogl"
+            },
+            {
+              "name": "Silviu Bindea",
+              "short": "Bindea"
+            },
+            {
+              "name": "Iuliu Bodola",
+              "short": "Bodola"
+            },
+            {
+              "name": "Stefan Dobay",
+              "short": "Dobay"
+            },
+            {
+              "name": "Niculae Kovacs",
+              "short": "Kovacs"
+            },
+            {
+              "name": "Gratian Sepi",
+              "short": "Sepi"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197540",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "last_16",
+      "title": "Germania - Belgio",
+      "session": "match",
+      "startsAt": "1934-05-27T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-481",
+        "name": "Germany",
+        "shortName": "Germania",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+      },
+      "awayTeam": {
+        "id": "espn-459",
+        "name": "Belgium",
+        "shortName": "Belgio",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png"
+      },
+      "homeScore": 5,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Stanislaus Kobierski",
+            "short": "Kobierski"
+          },
+          {
+            "minute": 25,
+            "type": "goal",
+            "side": "away",
+            "player": "Bernard Voorhhof",
+            "short": "Voorhhof"
+          },
+          {
+            "minute": 35,
+            "type": "goal",
+            "side": "away",
+            "player": "Bernard Voorhhof",
+            "short": "Voorhhof"
+          },
+          {
+            "minute": 57,
+            "type": "goal",
+            "side": "home",
+            "player": "Otto Siffling",
+            "short": "Siffling"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "home",
+            "player": "Edmond Conen",
+            "short": "Conen"
+          },
+          {
+            "minute": 78,
+            "type": "goal",
+            "side": "home",
+            "player": "Edmond Conen",
+            "short": "Conen"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Edmond Conen",
+            "short": "Conen"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Willibald Kress",
+              "short": "Kress"
+            },
+            {
+              "name": "Siggi Haringer",
+              "short": "Haringer"
+            },
+            {
+              "name": "Hans Schwartz",
+              "short": "Schwartz"
+            },
+            {
+              "name": "Paul Janes",
+              "short": "Janes"
+            },
+            {
+              "name": "Fritz Szepan",
+              "short": "Szepan"
+            },
+            {
+              "name": "Paul Zielinski",
+              "short": "Zielinski"
+            },
+            {
+              "name": "Edmond Conen",
+              "short": "Conen"
+            },
+            {
+              "name": "Karl Hofmann",
+              "short": "Hofmann"
+            },
+            {
+              "name": "Stanislaus Kobierski",
+              "short": "Kobierski"
+            },
+            {
+              "name": "Ernst Lehner",
+              "short": "Lehner"
+            },
+            {
+              "name": "Otto Siffling",
+              "short": "Siffling"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Andre Van de Weyer",
+              "short": "Van de Weyer"
+            },
+            {
+              "name": "Stan Joacim",
+              "short": "Joacim"
+            },
+            {
+              "name": "Philibert Smellinckx",
+              "short": "Smellinckx"
+            },
+            {
+              "name": "Jean Claessens",
+              "short": "Claessens"
+            },
+            {
+              "name": "Frans Peeraer",
+              "short": "Peeraer"
+            },
+            {
+              "name": "Felix Welkenhuyzen",
+              "short": "Welkenhuyzen"
+            },
+            {
+              "name": "Jean Capelle",
+              "short": "Capelle"
+            },
+            {
+              "name": "Francois Devries",
+              "short": "Devries"
+            },
+            {
+              "name": "Laurent Grimmonprez",
+              "short": "Grimmonprez"
+            },
+            {
+              "name": "Albert Heremans",
+              "short": "Heremans"
+            },
+            {
+              "name": "Bernard Voorhhof",
+              "short": "Voorhhof"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197545",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "last_16",
+      "title": "Ungheria - Egitto",
+      "session": "match",
+      "startsAt": "1934-05-27T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-2620",
+        "name": "Egypt",
+        "shortName": "Egitto",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png"
+      },
+      "homeScore": 4,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 8,
+            "type": "goal",
+            "side": "home",
+            "player": "Pal Teleky",
+            "short": "Teleky"
+          },
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Geza Toldi",
+            "short": "Toldi"
+          },
+          {
+            "minute": 27,
+            "type": "goal",
+            "side": "away",
+            "player": "Abdel Fawzy",
+            "short": "Fawzy"
+          },
+          {
+            "minute": 43,
+            "type": "goal",
+            "side": "away",
+            "player": "Abdel Fawzy",
+            "short": "Fawzy"
+          },
+          {
+            "minute": 59,
+            "type": "goal",
+            "side": "home",
+            "player": "Jeno Vincze",
+            "short": "Vincze"
+          },
+          {
+            "minute": 88,
+            "type": "goal",
+            "side": "home",
+            "player": "Geza Toldi",
+            "short": "Toldi"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Antal Szabó",
+              "short": "Szabó"
+            },
+            {
+              "name": "Gyula Futó",
+              "short": "Futó"
+            },
+            {
+              "name": "Laszlo Sternberg",
+              "short": "Sternberg"
+            },
+            {
+              "name": "Gyula Lázar",
+              "short": "Lázar"
+            },
+            {
+              "name": "Istvan Palotás",
+              "short": "Palotás"
+            },
+            {
+              "name": "Gyorgy Szücs",
+              "short": "Szücs"
+            },
+            {
+              "name": "Imre Markos",
+              "short": "Markos"
+            },
+            {
+              "name": "Gábor Szabó",
+              "short": "Szabó"
+            },
+            {
+              "name": "Pal Teleky",
+              "short": "Teleky"
+            },
+            {
+              "name": "Geza Toldi",
+              "short": "Toldi"
+            },
+            {
+              "name": "Jeno Vincze",
+              "short": "Vincze"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Mansour Mostafa Kamel",
+              "short": "Mostafa Kamel"
+            },
+            {
+              "name": "Aly El Kaf",
+              "short": "El Kaf"
+            },
+            {
+              "name": "Abdel Hamido",
+              "short": "Hamido"
+            },
+            {
+              "name": "Hassan El Far",
+              "short": "El Far"
+            },
+            {
+              "name": "Ismail Rafaat",
+              "short": "Rafaat"
+            },
+            {
+              "name": "Hassan Raghab",
+              "short": "Raghab"
+            },
+            {
+              "name": "Abdel Fawzy",
+              "short": "Fawzy"
+            },
+            {
+              "name": "Mohammed Latif",
+              "short": "Latif"
+            },
+            {
+              "name": "Helmy Mohammed Hassan",
+              "short": "Mohammed Hassan"
+            },
+            {
+              "name": "Mohmoud Mokhtar",
+              "short": "Mokhtar"
+            },
+            {
+              "name": "Taha Mostafa Kamel",
+              "short": "Mostafa Kamel"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197539",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "last_16",
+      "title": "Italia - Stati Uniti",
+      "session": "match",
+      "startsAt": "1934-05-27T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-660",
+        "name": "United States",
+        "shortName": "Stati Uniti",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
+      },
+      "homeScore": 7,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Angelo Schiavio",
+            "short": "Schiavio"
+          },
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "home",
+            "player": "Raymundo Orsi",
+            "short": "Orsi"
+          },
+          {
+            "minute": 29,
+            "type": "goal",
+            "side": "home",
+            "player": "Angelo Schiavio",
+            "short": "Schiavio"
+          },
+          {
+            "minute": 58,
+            "type": "goal",
+            "side": "away",
+            "player": "Aldo Donelli",
+            "short": "Donelli"
+          },
+          {
+            "minute": 64,
+            "type": "goal",
+            "side": "home",
+            "player": "Giovanni Ferrari",
+            "short": "Ferrari"
+          },
+          {
+            "minute": 65,
+            "type": "goal",
+            "side": "home",
+            "player": "Angelo Schiavio",
+            "short": "Schiavio"
+          },
+          {
+            "minute": 70,
+            "type": "goal",
+            "side": "home",
+            "player": "Raymundo Orsi",
+            "short": "Orsi"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Giuseppe Meazza",
+            "short": "Meazza"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Giampiero Combi",
+              "short": "Combi"
+            },
+            {
+              "name": "Luigi Allemandi",
+              "short": "Allemandi"
+            },
+            {
+              "name": "Virginio Rosetta",
+              "short": "Rosetta"
+            },
+            {
+              "name": "Luigi Bertolini",
+              "short": "Bertolini"
+            },
+            {
+              "name": "Luis Monti",
+              "short": "Monti"
+            },
+            {
+              "name": "Mario Pizziolo",
+              "short": "Pizziolo"
+            },
+            {
+              "name": "Giovanni Ferrari",
+              "short": "Ferrari"
+            },
+            {
+              "name": "Anfilogino Guarisi",
+              "short": "Guarisi"
+            },
+            {
+              "name": "Giuseppe Meazza",
+              "short": "Meazza"
+            },
+            {
+              "name": "Raymundo Orsi",
+              "short": "Orsi"
+            },
+            {
+              "name": "Angelo Schiavio",
+              "short": "Schiavio"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Julius Hjulian",
+              "short": "Hjulian"
+            },
+            {
+              "name": "Edward Czerkiewicz",
+              "short": "Czerkiewicz"
+            },
+            {
+              "name": "George Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Aldo Donelli",
+              "short": "Donelli"
+            },
+            {
+              "name": "Bill Mc Lean",
+              "short": "Mc Lean"
+            },
+            {
+              "name": "Peter Pietras",
+              "short": "Pietras"
+            },
+            {
+              "name": "Walter Dick",
+              "short": "Dick"
+            },
+            {
+              "name": "Thomas Florie",
+              "short": "Florie"
+            },
+            {
+              "name": "William Gonsalves",
+              "short": "Gonsalves"
+            },
+            {
+              "name": "Verner Nilsen",
+              "short": "Nilsen"
+            },
+            {
+              "name": "Francis Ryan",
+              "short": "Ryan"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197546",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "last_16",
+      "title": "Spagna - Brasile",
+      "session": "match",
+      "startsAt": "1934-05-27T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 17,
+            "type": "penalty",
+            "side": "home",
+            "player": "José Iraragorri",
+            "short": "Iraragorri"
+          },
+          {
+            "minute": 27,
+            "type": "goal",
+            "side": "home",
+            "player": "José Iraragorri",
+            "short": "Iraragorri"
+          },
+          {
+            "minute": 42,
+            "type": "goal",
+            "side": "home",
+            "player": "Isidro Lángara",
+            "short": "Lángara"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "away",
+            "player": "Leonidas"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ricardo Zamora",
+              "short": "Zamora"
+            },
+            {
+              "name": "Errasti Ciriaco",
+              "short": "Ciriaco"
+            },
+            {
+              "name": "Jacinto Quincoces",
+              "short": "Quincoces"
+            },
+            {
+              "name": "Leonardo Cilauren",
+              "short": "Cilauren"
+            },
+            {
+              "name": "Martín Marculeta",
+              "short": "Marculeta"
+            },
+            {
+              "name": "Martín Muguerza",
+              "short": "Muguerza"
+            },
+            {
+              "name": "Guillermo Gorostiza",
+              "short": "Gorostiza"
+            },
+            {
+              "name": "José Iraragorri",
+              "short": "Iraragorri"
+            },
+            {
+              "name": "Isidro Lángara",
+              "short": "Lángara"
+            },
+            {
+              "name": "Ramón Lafuente",
+              "short": "Lafuente"
+            },
+            {
+              "name": "Simón Lecue",
+              "short": "Lecue"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Roberto Pedrosa",
+              "short": "Pedrosa"
+            },
+            {
+              "name": "Luis Luz"
+            },
+            {
+              "name": "Hoffman Silvio",
+              "short": "Silvio"
+            },
+            {
+              "name": "Heitor Canalli",
+              "short": "Canalli"
+            },
+            {
+              "name": "Mercio Martim",
+              "short": "Martim"
+            },
+            {
+              "name": "Alfredo Tinoco",
+              "short": "Tinoco"
+            },
+            {
+              "name": "Leonidas"
+            },
+            {
+              "name": "Waldemar"
+            },
+            {
+              "name": "Armado Armadinho",
+              "short": "Armadinho"
+            },
+            {
+              "name": "Luiz Luizinho",
+              "short": "Luizinho"
+            },
+            {
+              "name": "Rodolfo Patesko",
+              "short": "Patesko"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197541",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "last_16",
+      "title": "Svezia - Argentina",
+      "session": "match",
+      "startsAt": "1934-05-27T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 17,
+            "type": "goal",
+            "side": "away",
+            "player": "Ernesto Belis",
+            "short": "Belis"
+          },
+          {
+            "minute": 37,
+            "type": "goal",
+            "side": "home",
+            "player": "Sven Jonasson",
+            "short": "Jonasson"
+          },
+          {
+            "minute": 50,
+            "type": "goal",
+            "side": "away",
+            "player": "Alberto Galateo",
+            "short": "Galateo"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Sven Jonasson",
+            "short": "Jonasson"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "home",
+            "player": "Kurt Kroon",
+            "short": "Kroon"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Anders Rydberg",
+              "short": "Rydberg"
+            },
+            {
+              "name": "Steve Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Nils Axelsson",
+              "short": "Axelsson"
+            },
+            {
+              "name": "Ernst Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Rune Carlsson",
+              "short": "Carlsson"
+            },
+            {
+              "name": "Nils Rosen",
+              "short": "Rosen"
+            },
+            {
+              "name": "Gosta Dunker",
+              "short": "Dunker"
+            },
+            {
+              "name": "Ragnar Gustavsson",
+              "short": "Gustavsson"
+            },
+            {
+              "name": "Sven Jonasson",
+              "short": "Jonasson"
+            },
+            {
+              "name": "Tore Keller",
+              "short": "Keller"
+            },
+            {
+              "name": "Kurt Kroon",
+              "short": "Kroon"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Héctor Freschi",
+              "short": "Freschi"
+            },
+            {
+              "name": "Ernesto Belis",
+              "short": "Belis"
+            },
+            {
+              "name": "Juan Pedevila",
+              "short": "Pedevila"
+            },
+            {
+              "name": "Arcadio López",
+              "short": "López"
+            },
+            {
+              "name": "José Nehín",
+              "short": "Nehín"
+            },
+            {
+              "name": "Constantino Urbieta Sosa",
+              "short": "Urbieta Sosa"
+            },
+            {
+              "name": "Alfredo De Vincenzi",
+              "short": "De Vincenzi"
+            },
+            {
+              "name": "Alberto Galateo",
+              "short": "Galateo"
+            },
+            {
+              "name": "Robert Irañeta",
+              "short": "Irañeta"
+            },
+            {
+              "name": "Francisco Rúa",
+              "short": "Rúa"
+            },
+            {
+              "name": "Federico Wilde",
+              "short": "Wilde"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197542",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "last_16",
+      "title": "Svizzera - Olanda",
+      "session": "match",
+      "startsAt": "1934-05-27T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "awayTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 11,
+            "type": "goal",
+            "side": "home",
+            "player": "Leopold Kielholz",
+            "short": "Kielholz"
+          },
+          {
+            "minute": 24,
+            "type": "goal",
+            "side": "away",
+            "player": "Kick Smit",
+            "short": "Smit"
+          },
+          {
+            "minute": 37,
+            "type": "goal",
+            "side": "home",
+            "player": "Leopold Kielholz",
+            "short": "Kielholz"
+          },
+          {
+            "minute": 58,
+            "type": "goal",
+            "side": "home",
+            "player": "Andre Abegglen",
+            "short": "Abegglen"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "away",
+            "player": "Leen Vente",
+            "short": "Vente"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Franky Séchehaye",
+              "short": "Séchehaye"
+            },
+            {
+              "name": "Severino Minelli",
+              "short": "Minelli"
+            },
+            {
+              "name": "Albert Guinchard",
+              "short": "Guinchard"
+            },
+            {
+              "name": "Paul Hufschmid",
+              "short": "Hufschmid"
+            },
+            {
+              "name": "Fernand Jaccard",
+              "short": "Jaccard"
+            },
+            {
+              "name": "Andre Abegglen",
+              "short": "Abegglen"
+            },
+            {
+              "name": "Joseph Bossi",
+              "short": "Bossi"
+            },
+            {
+              "name": "Willy Jaeggi",
+              "short": "Jaeggi"
+            },
+            {
+              "name": "Leopold Kielholz",
+              "short": "Kielholz"
+            },
+            {
+              "name": "Raymond Passello",
+              "short": "Passello"
+            },
+            {
+              "name": "Willy Von Kaenel",
+              "short": "Von Kaenel"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Gejus Van der Muelen",
+              "short": "Van der Muelen"
+            },
+            {
+              "name": "Sjef Van Run",
+              "short": "Van Run"
+            },
+            {
+              "name": "Mauk Weber",
+              "short": "Weber"
+            },
+            {
+              "name": "Wim Anderiesen",
+              "short": "Anderiesen"
+            },
+            {
+              "name": "Henk Pelikaan",
+              "short": "Pelikaan"
+            },
+            {
+              "name": "Puck Van Heel",
+              "short": "Van Heel"
+            },
+            {
+              "name": "Bep Bakhuys",
+              "short": "Bakhuys"
+            },
+            {
+              "name": "Kick Smit",
+              "short": "Smit"
+            },
+            {
+              "name": "Noud Van Nellen",
+              "short": "Van Nellen"
+            },
+            {
+              "name": "Leen Vente",
+              "short": "Vente"
+            },
+            {
+              "name": "Frank Wels",
+              "short": "Wels"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197549",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "quarter_finals",
+      "title": "Austria - Ungheria",
+      "session": "match",
+      "startsAt": "1934-05-31T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "awayTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 28,
+            "type": "goal",
+            "side": "home",
+            "player": "Hans Horvath",
+            "short": "Horvath"
+          },
+          {
+            "minute": 72,
+            "type": "goal",
+            "side": "home",
+            "player": "Karl Zischek",
+            "short": "Zischek"
+          },
+          {
+            "minute": 81,
+            "type": "penalty",
+            "side": "away",
+            "player": "Gyorgy Sarosi",
+            "short": "Sarosi"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Peter Platzer",
+              "short": "Platzer"
+            },
+            {
+              "name": "Franz Cisar",
+              "short": "Cisar"
+            },
+            {
+              "name": "Karl Sesta",
+              "short": "Sesta"
+            },
+            {
+              "name": "Josef Smistek",
+              "short": "Smistek"
+            },
+            {
+              "name": "Hans Urbanek",
+              "short": "Urbanek"
+            },
+            {
+              "name": "Franz Wagner",
+              "short": "Wagner"
+            },
+            {
+              "name": "Josef Bican",
+              "short": "Bican"
+            },
+            {
+              "name": "Hans Horvath",
+              "short": "Horvath"
+            },
+            {
+              "name": "Mathias Sindelar",
+              "short": "Sindelar"
+            },
+            {
+              "name": "Rudolf Viertl",
+              "short": "Viertl"
+            },
+            {
+              "name": "Karl Zischek",
+              "short": "Zischek"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antal Szabó",
+              "short": "Szabó"
+            },
+            {
+              "name": "Laszlo Sternberg",
+              "short": "Sternberg"
+            },
+            {
+              "name": "Jozsef Vago",
+              "short": "Vago"
+            },
+            {
+              "name": "Istvan Palotás",
+              "short": "Palotás"
+            },
+            {
+              "name": "Antal Szalay",
+              "short": "Szalay"
+            },
+            {
+              "name": "Gyorgy Szücs",
+              "short": "Szücs"
+            },
+            {
+              "name": "Istvan Avar",
+              "short": "Avar"
+            },
+            {
+              "name": "Tibor Kemeny",
+              "short": "Kemeny"
+            },
+            {
+              "name": "Imre Markos",
+              "short": "Markos"
+            },
+            {
+              "name": "Gyorgy Sarosi",
+              "short": "Sarosi"
+            },
+            {
+              "name": "Geza Toldi",
+              "short": "Toldi"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197548",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "quarter_finals",
+      "title": "Cecoslovacchia - Svizzera",
+      "session": "match",
+      "startsAt": "1934-05-31T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "awayTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "away",
+            "player": "Leopold Kielholz",
+            "short": "Kielholz"
+          },
+          {
+            "minute": 37,
+            "type": "goal",
+            "side": "home",
+            "player": "Frantisek Svoboda",
+            "short": "Svoboda"
+          },
+          {
+            "minute": 56,
+            "type": "goal",
+            "side": "home",
+            "player": "Frantisek Svoboda",
+            "short": "Svoboda"
+          },
+          {
+            "minute": 65,
+            "type": "goal",
+            "side": "away",
+            "player": "Willy Jaeggi",
+            "short": "Jaeggi"
+          },
+          {
+            "minute": 85,
+            "type": "goal",
+            "side": "home",
+            "player": "Oldrich Nejedly",
+            "short": "Nejedly"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Frantisek Planicka",
+              "short": "Planicka"
+            },
+            {
+              "name": "Josef Ctyroky",
+              "short": "Ctyroky"
+            },
+            {
+              "name": "Ladislav Zenisek",
+              "short": "Zenisek"
+            },
+            {
+              "name": "Stefan Cambal",
+              "short": "Cambal"
+            },
+            {
+              "name": "Josef Kostalek",
+              "short": "Kostalek"
+            },
+            {
+              "name": "Rudolf Krcil",
+              "short": "Krcil"
+            },
+            {
+              "name": "Frantisek Junek",
+              "short": "Junek"
+            },
+            {
+              "name": "Oldrich Nejedly",
+              "short": "Nejedly"
+            },
+            {
+              "name": "Antonin Puc",
+              "short": "Puc"
+            },
+            {
+              "name": "Jiri Sobotka",
+              "short": "Sobotka"
+            },
+            {
+              "name": "Frantisek Svoboda",
+              "short": "Svoboda"
+            },
+            {
+              "name": "Oldrich Nejedly",
+              "short": "Nejedly"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Franky Séchehaye",
+              "short": "Séchehaye"
+            },
+            {
+              "name": "Severino Minelli",
+              "short": "Minelli"
+            },
+            {
+              "name": "Walter Weiler",
+              "short": "Weiler"
+            },
+            {
+              "name": "Albert Guinchard",
+              "short": "Guinchard"
+            },
+            {
+              "name": "Paul Hufschmid",
+              "short": "Hufschmid"
+            },
+            {
+              "name": "Fernand Jaccard",
+              "short": "Jaccard"
+            },
+            {
+              "name": "Andre Abegglen",
+              "short": "Abegglen"
+            },
+            {
+              "name": "Willy Jaeggi",
+              "short": "Jaeggi"
+            },
+            {
+              "name": "Alfred Jaek",
+              "short": "Jaek"
+            },
+            {
+              "name": "Leopold Kielholz",
+              "short": "Kielholz"
+            },
+            {
+              "name": "Willy Von Kaenel",
+              "short": "Von Kaenel"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197547",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "quarter_finals",
+      "title": "Germania - Svezia",
+      "session": "match",
+      "startsAt": "1934-05-31T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-481",
+        "name": "Germany",
+        "shortName": "Germania",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+      },
+      "awayTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 58,
+            "type": "goal",
+            "side": "home",
+            "player": "Karl Hofmann",
+            "short": "Hofmann"
+          },
+          {
+            "minute": 75,
+            "type": "goal",
+            "side": "home",
+            "player": "Karl Hofmann",
+            "short": "Hofmann"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "away",
+            "player": "Gosta Dunker",
+            "short": "Dunker"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Willibald Kress",
+              "short": "Kress"
+            },
+            {
+              "name": "Willi Busch",
+              "short": "Busch"
+            },
+            {
+              "name": "Siggi Haringer",
+              "short": "Haringer"
+            },
+            {
+              "name": "Rudi Gramlich",
+              "short": "Gramlich"
+            },
+            {
+              "name": "Fritz Szepan",
+              "short": "Szepan"
+            },
+            {
+              "name": "Paul Zielinski",
+              "short": "Zielinski"
+            },
+            {
+              "name": "Edmond Conen",
+              "short": "Conen"
+            },
+            {
+              "name": "Karl Hofmann",
+              "short": "Hofmann"
+            },
+            {
+              "name": "Stanislaus Kobierski",
+              "short": "Kobierski"
+            },
+            {
+              "name": "Ernst Lehner",
+              "short": "Lehner"
+            },
+            {
+              "name": "Otto Siffling",
+              "short": "Siffling"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Anders Rydberg",
+              "short": "Rydberg"
+            },
+            {
+              "name": "Steve Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Nils Axelsson",
+              "short": "Axelsson"
+            },
+            {
+              "name": "Ernst Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Rune Carlsson",
+              "short": "Carlsson"
+            },
+            {
+              "name": "Nils Rosen",
+              "short": "Rosen"
+            },
+            {
+              "name": "Gosta Dunker",
+              "short": "Dunker"
+            },
+            {
+              "name": "Ragnar Gustavsson",
+              "short": "Gustavsson"
+            },
+            {
+              "name": "Sven Jonasson",
+              "short": "Jonasson"
+            },
+            {
+              "name": "Tore Keller",
+              "short": "Keller"
+            },
+            {
+              "name": "Kurt Kroon",
+              "short": "Kroon"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197550",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "quarter_finals",
+      "title": "Italia - Spagna",
+      "session": "match",
+      "startsAt": "1934-05-31T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 32,
+            "type": "goal",
+            "side": "away",
+            "player": "Luis Regueiro",
+            "short": "Regueiro"
+          },
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Giovanni Ferrari",
+            "short": "Ferrari"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Giampiero Combi",
+              "short": "Combi"
+            },
+            {
+              "name": "Luigi Allemandi",
+              "short": "Allemandi"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Armando Castellazzi",
+              "short": "Castellazzi"
+            },
+            {
+              "name": "Luis Monti",
+              "short": "Monti"
+            },
+            {
+              "name": "Mario Pizziolo",
+              "short": "Pizziolo"
+            },
+            {
+              "name": "Luigi Bertolini",
+              "short": "Bertolini"
+            },
+            {
+              "name": "Attilio Ferraris IV",
+              "short": "Ferraris IV"
+            },
+            {
+              "name": "Giovanni Ferrari",
+              "short": "Ferrari"
+            },
+            {
+              "name": "Enrique Guaita",
+              "short": "Guaita"
+            },
+            {
+              "name": "Giuseppe Meazza",
+              "short": "Meazza"
+            },
+            {
+              "name": "Raymundo Orsi",
+              "short": "Orsi"
+            },
+            {
+              "name": "Angelo Schiavio",
+              "short": "Schiavio"
+            },
+            {
+              "name": "Felice Borel II",
+              "short": "Borel II"
+            },
+            {
+              "name": "Atilio Demaría",
+              "short": "Demaría"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ricardo Zamora",
+              "short": "Zamora"
+            },
+            {
+              "name": "Juan Nogues",
+              "short": "Nogues"
+            },
+            {
+              "name": "Errasti Ciriaco",
+              "short": "Ciriaco"
+            },
+            {
+              "name": "Jacinto Quincoces",
+              "short": "Quincoces"
+            },
+            {
+              "name": "Ramón Zabalo",
+              "short": "Zabalo"
+            },
+            {
+              "name": "Leonardo Cilauren",
+              "short": "Cilauren"
+            },
+            {
+              "name": "Federico Fede",
+              "short": "Fede"
+            },
+            {
+              "name": "Martín Muguerza",
+              "short": "Muguerza"
+            },
+            {
+              "name": "Crisanto Bosch",
+              "short": "Bosch"
+            },
+            {
+              "name": "Guillermo Gorostiza",
+              "short": "Gorostiza"
+            },
+            {
+              "name": "José Iraragorri",
+              "short": "Iraragorri"
+            },
+            {
+              "name": "Isidro Lángara",
+              "short": "Lángara"
+            },
+            {
+              "name": "Ramón Lafuente",
+              "short": "Lafuente"
+            },
+            {
+              "name": "Luis Regueiro",
+              "short": "Regueiro"
+            },
+            {
+              "name": "Marcelino Campanal",
+              "short": "Campanal"
+            },
+            {
+              "name": "Eduardo Chacho",
+              "short": "Chacho"
+            },
+            {
+              "name": "Simón Lecue",
+              "short": "Lecue"
+            },
+            {
+              "name": "Martín Vantolra",
+              "short": "Vantolra"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197578",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "quarter_finals",
+      "title": "Italia - Spagna",
+      "session": "match",
+      "startsAt": "1934-06-01T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Giuseppe Meazza",
+            "short": "Meazza"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Giampiero Combi",
+              "short": "Combi"
+            },
+            {
+              "name": "Luigi Allemandi",
+              "short": "Allemandi"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Luigi Bertolini",
+              "short": "Bertolini"
+            },
+            {
+              "name": "Attilio Ferraris IV",
+              "short": "Ferraris IV"
+            },
+            {
+              "name": "Luis Monti",
+              "short": "Monti"
+            },
+            {
+              "name": "Felice Borel II",
+              "short": "Borel II"
+            },
+            {
+              "name": "Atilio Demaría",
+              "short": "Demaría"
+            },
+            {
+              "name": "Enrique Guaita",
+              "short": "Guaita"
+            },
+            {
+              "name": "Giuseppe Meazza",
+              "short": "Meazza"
+            },
+            {
+              "name": "Raymundo Orsi",
+              "short": "Orsi"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Juan Nogues",
+              "short": "Nogues"
+            },
+            {
+              "name": "Jacinto Quincoces",
+              "short": "Quincoces"
+            },
+            {
+              "name": "Ramón Zabalo",
+              "short": "Zabalo"
+            },
+            {
+              "name": "Crisanto Bosch",
+              "short": "Bosch"
+            },
+            {
+              "name": "Leonardo Cilauren",
+              "short": "Cilauren"
+            },
+            {
+              "name": "Martín Muguerza",
+              "short": "Muguerza"
+            },
+            {
+              "name": "Marcelino Campanal",
+              "short": "Campanal"
+            },
+            {
+              "name": "Eduardo Chacho",
+              "short": "Chacho"
+            },
+            {
+              "name": "Simón Lecue",
+              "short": "Lecue"
+            },
+            {
+              "name": "Luis Regueiro",
+              "short": "Regueiro"
+            },
+            {
+              "name": "Martín Vantolra",
+              "short": "Vantolra"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197551",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "semi_finals",
+      "title": "Cecoslovacchia - Germania",
+      "session": "match",
+      "startsAt": "1934-06-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "awayTeam": {
+        "id": "espn-481",
+        "name": "Germany",
+        "shortName": "Germania",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 20,
+            "type": "goal",
+            "side": "home",
+            "player": "Oldrich Nejedly",
+            "short": "Nejedly"
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "away",
+            "player": "Rudi Noak",
+            "short": "Noak"
+          },
+          {
+            "minute": 72,
+            "type": "goal",
+            "side": "home",
+            "player": "Rudolf Krcil",
+            "short": "Krcil"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "home",
+            "player": "Oldrich Nejedly",
+            "short": "Nejedly"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Frantisek Planicka",
+              "short": "Planicka"
+            },
+            {
+              "name": "Jaroslav Bürgr",
+              "short": "Bürgr"
+            },
+            {
+              "name": "Josef Ctyroky",
+              "short": "Ctyroky"
+            },
+            {
+              "name": "Stefan Cambal",
+              "short": "Cambal"
+            },
+            {
+              "name": "Josef Kostalek",
+              "short": "Kostalek"
+            },
+            {
+              "name": "Rudolf Krcil",
+              "short": "Krcil"
+            },
+            {
+              "name": "Frantisek Junek",
+              "short": "Junek"
+            },
+            {
+              "name": "Oldrich Nejedly",
+              "short": "Nejedly"
+            },
+            {
+              "name": "Antonin Puc",
+              "short": "Puc"
+            },
+            {
+              "name": "Jiri Sobotka",
+              "short": "Sobotka"
+            },
+            {
+              "name": "Frantisek Svoboda",
+              "short": "Svoboda"
+            },
+            {
+              "name": "Oldrich Nejedly",
+              "short": "Nejedly"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Willibald Kress",
+              "short": "Kress"
+            },
+            {
+              "name": "Willi Busch",
+              "short": "Busch"
+            },
+            {
+              "name": "Siggi Haringer",
+              "short": "Haringer"
+            },
+            {
+              "name": "Jakob Bender",
+              "short": "Bender"
+            },
+            {
+              "name": "Fritz Szepan",
+              "short": "Szepan"
+            },
+            {
+              "name": "Paul Zielinski",
+              "short": "Zielinski"
+            },
+            {
+              "name": "Edmond Conen",
+              "short": "Conen"
+            },
+            {
+              "name": "Stanislaus Kobierski",
+              "short": "Kobierski"
+            },
+            {
+              "name": "Ernst Lehner",
+              "short": "Lehner"
+            },
+            {
+              "name": "Rudi Noak",
+              "short": "Noak"
+            },
+            {
+              "name": "Otto Siffling",
+              "short": "Siffling"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197552",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "semi_finals",
+      "title": "Italia - Austria",
+      "session": "match",
+      "startsAt": "1934-06-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 11,
+            "type": "goal",
+            "side": "home",
+            "player": "Enrique Guaita",
+            "short": "Guaita"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Giampiero Combi",
+              "short": "Combi"
+            },
+            {
+              "name": "Luigi Allemandi",
+              "short": "Allemandi"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Luigi Bertolini",
+              "short": "Bertolini"
+            },
+            {
+              "name": "Attilio Ferraris IV",
+              "short": "Ferraris IV"
+            },
+            {
+              "name": "Luis Monti",
+              "short": "Monti"
+            },
+            {
+              "name": "Giovanni Ferrari",
+              "short": "Ferrari"
+            },
+            {
+              "name": "Enrique Guaita",
+              "short": "Guaita"
+            },
+            {
+              "name": "Giuseppe Meazza",
+              "short": "Meazza"
+            },
+            {
+              "name": "Raymundo Orsi",
+              "short": "Orsi"
+            },
+            {
+              "name": "Angelo Schiavio",
+              "short": "Schiavio"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Peter Platzer",
+              "short": "Platzer"
+            },
+            {
+              "name": "Franz Cisar",
+              "short": "Cisar"
+            },
+            {
+              "name": "Karl Sesta",
+              "short": "Sesta"
+            },
+            {
+              "name": "Josef Smistek",
+              "short": "Smistek"
+            },
+            {
+              "name": "Hans Urbanek",
+              "short": "Urbanek"
+            },
+            {
+              "name": "Franz Wagner",
+              "short": "Wagner"
+            },
+            {
+              "name": "Josef Bican",
+              "short": "Bican"
+            },
+            {
+              "name": "Anton Schall",
+              "short": "Schall"
+            },
+            {
+              "name": "Mathias Sindelar",
+              "short": "Sindelar"
+            },
+            {
+              "name": "Rudolf Viertl",
+              "short": "Viertl"
+            },
+            {
+              "name": "Karl Zischek",
+              "short": "Zischek"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197553",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "third_place",
+      "title": "Germania - Austria",
+      "session": "match",
+      "startsAt": "1934-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-481",
+        "name": "Germany",
+        "shortName": "Germania",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+      },
+      "awayTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 2,
+            "type": "goal",
+            "side": "home",
+            "player": "Ernst Lehner",
+            "short": "Lehner"
+          },
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": "Edmond Conen",
+            "short": "Conen"
+          },
+          {
+            "minute": 36,
+            "type": "goal",
+            "side": "away",
+            "player": "Hans Horvath",
+            "short": "Horvath"
+          },
+          {
+            "minute": 41,
+            "type": "goal",
+            "side": "home",
+            "player": "Ernst Lehner",
+            "short": "Lehner"
+          },
+          {
+            "minute": 64,
+            "type": "goal",
+            "side": "away",
+            "player": "Karl Sesta",
+            "short": "Sesta"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Hans Jakob",
+              "short": "Jakob"
+            },
+            {
+              "name": "Willi Busch",
+              "short": "Busch"
+            },
+            {
+              "name": "Jakob Bender",
+              "short": "Bender"
+            },
+            {
+              "name": "Paul Janes",
+              "short": "Janes"
+            },
+            {
+              "name": "Fritz Szepan",
+              "short": "Szepan"
+            },
+            {
+              "name": "Paul Zielinski",
+              "short": "Zielinski"
+            },
+            {
+              "name": "Edmond Conen",
+              "short": "Conen"
+            },
+            {
+              "name": "Mathias Heidemann",
+              "short": "Heidemann"
+            },
+            {
+              "name": "Ernst Lehner",
+              "short": "Lehner"
+            },
+            {
+              "name": "Reinhold Munzenberg",
+              "short": "Munzenberg"
+            },
+            {
+              "name": "Otto Siffling",
+              "short": "Siffling"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Peter Platzer",
+              "short": "Platzer"
+            },
+            {
+              "name": "Franz Cisar",
+              "short": "Cisar"
+            },
+            {
+              "name": "Karl Sesta",
+              "short": "Sesta"
+            },
+            {
+              "name": "Josef Smistek",
+              "short": "Smistek"
+            },
+            {
+              "name": "Hans Urbanek",
+              "short": "Urbanek"
+            },
+            {
+              "name": "Franz Wagner",
+              "short": "Wagner"
+            },
+            {
+              "name": "Josef Bican",
+              "short": "Bican"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Hans Horvath",
+              "short": "Horvath"
+            },
+            {
+              "name": "Rudolf Viertl",
+              "short": "Viertl"
+            },
+            {
+              "name": "Karl Zischek",
+              "short": "Zischek"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1934-197554",
+      "competition": "mondiali",
+      "season": "1934",
+      "stage": "final",
+      "title": "Italia - Cecoslovacchia",
+      "session": "match",
+      "startsAt": "1934-06-10T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 77,
+            "type": "goal",
+            "side": "away",
+            "player": "Antonin Puc",
+            "short": "Puc"
+          },
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "home",
+            "player": "Raymundo Orsi",
+            "short": "Orsi"
+          },
+          {
+            "minute": 96,
+            "type": "goal",
+            "side": "home",
+            "player": "Angelo Schiavio",
+            "short": "Schiavio"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Giampiero Combi",
+              "short": "Combi"
+            },
+            {
+              "name": "Luigi Allemandi",
+              "short": "Allemandi"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Luigi Bertolini",
+              "short": "Bertolini"
+            },
+            {
+              "name": "Attilio Ferraris IV",
+              "short": "Ferraris IV"
+            },
+            {
+              "name": "Luis Monti",
+              "short": "Monti"
+            },
+            {
+              "name": "Giovanni Ferrari",
+              "short": "Ferrari"
+            },
+            {
+              "name": "Enrique Guaita",
+              "short": "Guaita"
+            },
+            {
+              "name": "Giuseppe Meazza",
+              "short": "Meazza"
+            },
+            {
+              "name": "Raymundo Orsi",
+              "short": "Orsi"
+            },
+            {
+              "name": "Angelo Schiavio",
+              "short": "Schiavio"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Frantisek Planicka",
+              "short": "Planicka"
+            },
+            {
+              "name": "Josef Ctyroky",
+              "short": "Ctyroky"
+            },
+            {
+              "name": "Ladislav Zenisek",
+              "short": "Zenisek"
+            },
+            {
+              "name": "Stefan Cambal",
+              "short": "Cambal"
+            },
+            {
+              "name": "Josef Kostalek",
+              "short": "Kostalek"
+            },
+            {
+              "name": "Rudolf Krcil",
+              "short": "Krcil"
+            },
+            {
+              "name": "Frantisek Junek",
+              "short": "Junek"
+            },
+            {
+              "name": "Oldrich Nejedly",
+              "short": "Nejedly"
+            },
+            {
+              "name": "Antonin Puc",
+              "short": "Puc"
+            },
+            {
+              "name": "Jiri Sobotka",
+              "short": "Sobotka"
+            },
+            {
+              "name": "Frantisek Svoboda",
+              "short": "Svoboda"
+            },
+            {
+              "name": "Oldrich Nejedly",
+              "short": "Nejedly"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    }
+  ],
+  "standings": []
+}

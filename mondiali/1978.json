@@ -1,0 +1,5793 @@
+{
+  "competition": "mondiali",
+  "season": "1978",
+  "generatedAt": "2026-11-26T16:16:37.8331833+00:00",
+  "events": [
+    {
+      "id": "mondiali-1978-197839",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 1,
+      "title": "Germania Ovest - Polonia",
+      "session": "match",
+      "startsAt": "1978-06-01T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Manfred Kaltz",
+              "short": "Kaltz"
+            },
+            {
+              "name": "Rolf Ruessmann",
+              "short": "Ruessmann"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Herbert Zimmermann",
+              "short": "Zimmermann"
+            },
+            {
+              "name": "Erich Beer",
+              "short": "Beer"
+            },
+            {
+              "name": "Rainer Bonhof",
+              "short": "Bonhof"
+            },
+            {
+              "name": "Heinz Flohe",
+              "short": "Flohe"
+            },
+            {
+              "name": "Hansi Mueller",
+              "short": "Mueller"
+            },
+            {
+              "name": "Ruediger Abramczik",
+              "short": "Abramczik"
+            },
+            {
+              "name": "Klaus Fischer",
+              "short": "Fischer"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jan Tomaszewski",
+              "short": "Tomaszewski"
+            },
+            {
+              "name": "Jerzy Gorgon",
+              "short": "Gorgon"
+            },
+            {
+              "name": "Henrik Maculewicz",
+              "short": "Maculewicz"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Bohdan Masztaler",
+              "short": "Masztaler"
+            },
+            {
+              "name": "Adam Nawalka",
+              "short": "Nawalka"
+            },
+            {
+              "name": "Wlodzimierz Lubanski",
+              "short": "Lubanski"
+            },
+            {
+              "name": "Andrzej Szarmach",
+              "short": "Szarmach"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197833",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 1,
+      "title": "Argentina - Ungheria",
+      "session": "match",
+      "startsAt": "1978-06-02T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 11,
+            "type": "goal",
+            "side": "away",
+            "player": "Raroly Csapo",
+            "short": "Csapo"
+          },
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": "Leopoldo Luque",
+            "short": "Luque"
+          },
+          {
+            "minute": 84,
+            "type": "goal",
+            "side": "home",
+            "player": "Ricardo Bertoni",
+            "short": "Bertoni"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ubaldo Fillol",
+              "short": "Fillol"
+            },
+            {
+              "name": "Luis Galván",
+              "short": "Galván"
+            },
+            {
+              "name": "Jorge Olguín",
+              "short": "Olguín"
+            },
+            {
+              "name": "Daniel Alberto Passarella",
+              "short": "Passarella"
+            },
+            {
+              "name": "Alberto Tarantini",
+              "short": "Tarantini"
+            },
+            {
+              "name": "Osvaldo Ardiles",
+              "short": "Ardiles"
+            },
+            {
+              "name": "Américo Gallego",
+              "short": "Gallego"
+            },
+            {
+              "name": "José Valencia",
+              "short": "Valencia"
+            },
+            {
+              "name": "Leopoldo Luque",
+              "short": "Luque"
+            },
+            {
+              "name": "René Houseman",
+              "short": "Houseman"
+            },
+            {
+              "name": "Mario Kempes",
+              "short": "Kempes"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Raroly Csapo",
+              "short": "Csapo"
+            },
+            {
+              "name": "Sandor Gujdar",
+              "short": "Gujdar"
+            },
+            {
+              "name": "Itsvan Kocsis",
+              "short": "Kocsis"
+            },
+            {
+              "name": "Peter Torok",
+              "short": "Torok"
+            },
+            {
+              "name": "Zoltan Kereki",
+              "short": "Kereki"
+            },
+            {
+              "name": "Tibor Nyilasi",
+              "short": "Nyilasi"
+            },
+            {
+              "name": "Sandor Pinter",
+              "short": "Pinter"
+            },
+            {
+              "name": "Sandor Zombori",
+              "short": "Zombori"
+            },
+            {
+              "name": "Lazlo Nagy",
+              "short": "Nagy"
+            },
+            {
+              "name": "Andreas Torocsik",
+              "short": "Torocsik"
+            },
+            {
+              "name": "Andreas Toth",
+              "short": "Toth"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197834",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 1,
+      "title": "Italia - Francia",
+      "session": "match",
+      "startsAt": "1978-06-02T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 2,
+            "type": "goal",
+            "side": "away",
+            "player": "Benard Lacombe",
+            "short": "Lacombe"
+          },
+          {
+            "minute": 30,
+            "type": "goal",
+            "side": "home",
+            "player": "Paolo Rossi",
+            "short": "Rossi"
+          },
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "home",
+            "player": "Renato Zaccarelli",
+            "short": "Zaccarelli"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Dino Zoff",
+              "short": "Zoff"
+            },
+            {
+              "name": "Antonio Cabrini",
+              "short": "Cabrini"
+            },
+            {
+              "name": "Claudio Gentile",
+              "short": "Gentile"
+            },
+            {
+              "name": "Gaetano Scirea",
+              "short": "Scirea"
+            },
+            {
+              "name": "Renato Zaccarelli",
+              "short": "Zaccarelli"
+            },
+            {
+              "name": "Giancarlo Antognoni",
+              "short": "Antognoni"
+            },
+            {
+              "name": "Romeo Benetti",
+              "short": "Benetti"
+            },
+            {
+              "name": "Marco Tardelli",
+              "short": "Tardelli"
+            },
+            {
+              "name": "Paolo Rossi",
+              "short": "Rossi"
+            },
+            {
+              "name": "Roberto Bettega",
+              "short": "Bettega"
+            },
+            {
+              "name": "Franco Causio",
+              "short": "Causio"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jean Bertrand Demanes",
+              "short": "Bertrand Demanes"
+            },
+            {
+              "name": "Maxime Bossis",
+              "short": "Bossis"
+            },
+            {
+              "name": "Gérard Janvion",
+              "short": "Janvion"
+            },
+            {
+              "name": "Didier Six",
+              "short": "Six"
+            },
+            {
+              "name": "Marius Tresor",
+              "short": "Tresor"
+            },
+            {
+              "name": "Jean Guillou",
+              "short": "Guillou"
+            },
+            {
+              "name": "Henri Michel",
+              "short": "Michel"
+            },
+            {
+              "name": "Michel Platini",
+              "short": "Platini"
+            },
+            {
+              "name": "Patrice Rio",
+              "short": "Rio"
+            },
+            {
+              "name": "Benard Lacombe",
+              "short": "Lacombe"
+            },
+            {
+              "name": "Christian Dalger",
+              "short": "Dalger"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197840",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 1,
+      "title": "Tunisia - Messico",
+      "session": "match",
+      "startsAt": "1978-06-02T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-659",
+        "name": "Tunisia",
+        "shortName": "Tunisia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "penalty",
+            "side": "away",
+            "player": "Arturo Vásquez Ayala",
+            "short": "Vásquez Ayala"
+          },
+          {
+            "minute": 56,
+            "type": "goal",
+            "side": "home",
+            "player": "Ali Kaabi",
+            "short": "Kaabi"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Nejib Ghommidh",
+            "short": "Ghommidh"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Moktar Dhouieb",
+            "short": "Dhouieb"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Moktar Naili",
+              "short": "Naili"
+            },
+            {
+              "name": "Moktar Dhouieb",
+              "short": "Dhouieb"
+            },
+            {
+              "name": "Ali Kaabi",
+              "short": "Kaabi"
+            },
+            {
+              "name": "Amor Jebali",
+              "short": "Jebali"
+            },
+            {
+              "name": "Khemais Labidi",
+              "short": "Labidi"
+            },
+            {
+              "name": "Nejib Ghommidh",
+              "short": "Ghommidh"
+            },
+            {
+              "name": "Mohammed Akid",
+              "short": "Akid"
+            },
+            {
+              "name": "Mohamed Ben Rehalem",
+              "short": "Ben Rehalem"
+            },
+            {
+              "name": "Temine Lahzami",
+              "short": "Lahzami"
+            },
+            {
+              "name": "Raouf Ben Aziza",
+              "short": "Ben Aziza"
+            },
+            {
+              "name": "Tarak Dhiab",
+              "short": "Dhiab"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "José Reyes",
+              "short": "Reyes"
+            },
+            {
+              "name": "Arturo Vásquez Ayala",
+              "short": "Vásquez Ayala"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Eduardo Ramos",
+              "short": "Ramos"
+            },
+            {
+              "name": "Alfredo Tena",
+              "short": "Tena"
+            },
+            {
+              "name": "Leonardo Cuellar",
+              "short": "Cuellar"
+            },
+            {
+              "name": "Antonio De La Torre",
+              "short": "De La Torre"
+            },
+            {
+              "name": "Guillermo Mendizábal",
+              "short": "Mendizábal"
+            },
+            {
+              "name": "Hugo Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Raúl Isiorda",
+              "short": "Isiorda"
+            },
+            {
+              "name": "Víctor Rangel",
+              "short": "Rangel"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197846",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 1,
+      "title": "Austria - Spagna",
+      "session": "match",
+      "startsAt": "1978-06-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "awayTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 10,
+            "type": "goal",
+            "side": "home",
+            "player": "Walter Schachner",
+            "short": "Schachner"
+          },
+          {
+            "minute": 22,
+            "type": "goal",
+            "side": "away",
+            "player": "Ruiz Dani",
+            "short": "Dani"
+          },
+          {
+            "minute": 77,
+            "type": "goal",
+            "side": "home",
+            "player": "Hans Krankl",
+            "short": "Krankl"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Friedrich Koncilia",
+              "short": "Koncilia"
+            },
+            {
+              "name": "Gerhard Breitenberger",
+              "short": "Breitenberger"
+            },
+            {
+              "name": "Erich Obermayer",
+              "short": "Obermayer"
+            },
+            {
+              "name": "Bruno Pezzey",
+              "short": "Pezzey"
+            },
+            {
+              "name": "Robert Sara",
+              "short": "Sara"
+            },
+            {
+              "name": "Josef Hickersberger",
+              "short": "Hickersberger"
+            },
+            {
+              "name": "Kurt Jara",
+              "short": "Jara"
+            },
+            {
+              "name": "Herbert Prohaska",
+              "short": "Prohaska"
+            },
+            {
+              "name": "Hans Krankl",
+              "short": "Krankl"
+            },
+            {
+              "name": "Walter Schachner",
+              "short": "Schachner"
+            },
+            {
+              "name": "Wilhelm Kreuz",
+              "short": "Kreuz"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "Vicente Asensi",
+              "short": "Asensi"
+            },
+            {
+              "name": "Pérez Marcelino",
+              "short": "Marcelino"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Carlos Rexach",
+              "short": "Rexach"
+            },
+            {
+              "name": "Isidoro San José",
+              "short": "San José"
+            },
+            {
+              "name": "Jesús De La Cruz",
+              "short": "De La Cruz"
+            },
+            {
+              "name": "José Pirri",
+              "short": "Pirri"
+            },
+            {
+              "name": "Andrés Ruben Cano",
+              "short": "Ruben Cano"
+            },
+            {
+              "name": "Ruiz Dani",
+              "short": "Dani"
+            },
+            {
+              "name": "Julio Cardenosa",
+              "short": "Cardenosa"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197852",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 1,
+      "title": "Olanda - Iran",
+      "session": "match",
+      "startsAt": "1978-06-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "awayTeam": {
+        "id": "espn-469",
+        "name": "Iran",
+        "shortName": "Iran",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 41,
+            "type": "penalty",
+            "side": "home",
+            "player": "Robert Rensenbrink",
+            "short": "Rensenbrink"
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "home",
+            "player": "Robert Rensenbrink",
+            "short": "Rensenbrink"
+          },
+          {
+            "minute": 80,
+            "type": "penalty",
+            "side": "home",
+            "player": "Robert Rensenbrink",
+            "short": "Rensenbrink"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Jan Jongbloed",
+              "short": "Jongbloed"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Wilhelmus Rijsbergen",
+              "short": "Rijsbergen"
+            },
+            {
+              "name": "Wilhelmus Suurbier",
+              "short": "Suurbier"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Johan Neeskens",
+              "short": "Neeskens"
+            },
+            {
+              "name": "Wilhelmus Van De Kerkhof",
+              "short": "Van De Kerkhof"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            },
+            {
+              "name": "Rene van de Kerkhof",
+              "short": "van de Kerkhof"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Nasser Hejazi",
+              "short": "Hejazi"
+            },
+            {
+              "name": "Nasrollah Abdollahie",
+              "short": "Abdollahie"
+            },
+            {
+              "name": "Hossein Kazerani",
+              "short": "Kazerani"
+            },
+            {
+              "name": "Hassan Nazari",
+              "short": "Nazari"
+            },
+            {
+              "name": "Ali Parvin",
+              "short": "Parvin"
+            },
+            {
+              "name": "Andaranik Eskandarian",
+              "short": "Eskandarian"
+            },
+            {
+              "name": "Ebrahim Ghassinpour",
+              "short": "Ghassinpour"
+            },
+            {
+              "name": "Ghafoor Jahani",
+              "short": "Jahani"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Hossein Faraki",
+              "short": "Faraki"
+            },
+            {
+              "name": "Hassan Nayeb Agha",
+              "short": "Nayeb Agha"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197851",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 1,
+      "title": "Perù - Scozia",
+      "session": "match",
+      "startsAt": "1978-06-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-211",
+        "name": "Peru",
+        "shortName": "Perù",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/per.png"
+      },
+      "awayTeam": {
+        "id": "espn-580",
+        "name": "Scotland",
+        "shortName": "Scozia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "away",
+            "player": "Joe Jordan",
+            "short": "Jordan"
+          },
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "home",
+            "player": "César Cueto",
+            "short": "Cueto"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "home",
+            "player": "Teofilo Cubillas",
+            "short": "Cubillas"
+          },
+          {
+            "minute": 78,
+            "type": "goal",
+            "side": "home",
+            "player": "Teofilo Cubillas",
+            "short": "Cubillas"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ramón Quiroga",
+              "short": "Quiroga"
+            },
+            {
+              "name": "Héctor Chumpitaz",
+              "short": "Chumpitaz"
+            },
+            {
+              "name": "Rubén Díaz",
+              "short": "Díaz"
+            },
+            {
+              "name": "Jaime Duarte",
+              "short": "Duarte"
+            },
+            {
+              "name": "Rodolfo Manzo",
+              "short": "Manzo"
+            },
+            {
+              "name": "Teofilo Cubillas",
+              "short": "Cubillas"
+            },
+            {
+              "name": "César Cueto",
+              "short": "Cueto"
+            },
+            {
+              "name": "Guillermo La Rosa",
+              "short": "La Rosa"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Juan Munante",
+              "short": "Munante"
+            },
+            {
+              "name": "Juan Oblitas",
+              "short": "Oblitas"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Alan Rough",
+              "short": "Rough"
+            },
+            {
+              "name": "Martin Buchan",
+              "short": "Buchan"
+            },
+            {
+              "name": "Kenneth Burns",
+              "short": "Burns"
+            },
+            {
+              "name": "Thomas Forsyth",
+              "short": "Forsyth"
+            },
+            {
+              "name": "Robert Kennedy",
+              "short": "Kennedy"
+            },
+            {
+              "name": "Asa Hartford",
+              "short": "Hartford"
+            },
+            {
+              "name": "Donald Masson",
+              "short": "Masson"
+            },
+            {
+              "name": "Bruce Rioch",
+              "short": "Rioch"
+            },
+            {
+              "name": "Joe Jordan",
+              "short": "Jordan"
+            },
+            {
+              "name": "Kenny Dalglish",
+              "short": "Dalglish"
+            },
+            {
+              "name": "William Johnston",
+              "short": "Johnston"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197845",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 1,
+      "title": "Svezia - Brasile",
+      "session": "match",
+      "startsAt": "1978-06-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 38,
+            "type": "goal",
+            "side": "home",
+            "player": "Thomas Sjoeberg",
+            "short": "Sjoeberg"
+          },
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "away",
+            "player": ""
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Benny Wendt",
+              "short": "Wendt"
+            },
+            {
+              "name": "Ingemar Erlandsson",
+              "short": "Erlandsson"
+            },
+            {
+              "name": "Ronnie Hellstroem",
+              "short": "Hellstroem"
+            },
+            {
+              "name": "Anders Linderoth",
+              "short": "Linderoth"
+            },
+            {
+              "name": "Björn Nordqvist",
+              "short": "Nordqvist"
+            },
+            {
+              "name": "Ake Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Bo Larsson",
+              "short": "Larsson"
+            },
+            {
+              "name": "Lennart Larsson",
+              "short": "Larsson"
+            },
+            {
+              "name": "Steffan Tapper",
+              "short": "Tapper"
+            },
+            {
+              "name": "Thomas Sjoeberg",
+              "short": "Sjoeberg"
+            },
+            {
+              "name": "Hasse Borg",
+              "short": "Borg"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Nazareth Edinho",
+              "short": "Edinho"
+            },
+            {
+              "name": "Bernardi Oscar",
+              "short": "Oscar"
+            },
+            {
+              "name": "Antonio Toninho",
+              "short": "Toninho"
+            },
+            {
+              "name": "Zico"
+            },
+            {
+              "name": "Joao Batista",
+              "short": "Batista"
+            },
+            {
+              "name": "Alves Gil",
+              "short": "Gil"
+            },
+            {
+              "name": "Roberto Rivelino",
+              "short": "Rivelino"
+            },
+            {
+              "name": "Antonio Toninho Cerezo",
+              "short": "Toninho Cerezo"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197835",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 2,
+      "title": "Argentina - Francia",
+      "session": "match",
+      "startsAt": "1978-06-06T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "penalty",
+            "side": "home",
+            "player": "Daniel Alberto Passarella",
+            "short": "Passarella"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "away",
+            "player": "Michel Platini",
+            "short": "Platini"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "home",
+            "player": "Leopoldo Luque",
+            "short": "Luque"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ubaldo Fillol",
+              "short": "Fillol"
+            },
+            {
+              "name": "Daniel Passarella",
+              "short": "Passarella"
+            },
+            {
+              "name": "Luis Galván",
+              "short": "Galván"
+            },
+            {
+              "name": "Jorge Olguín",
+              "short": "Olguín"
+            },
+            {
+              "name": "Daniel Alberto Passarella",
+              "short": "Passarella"
+            },
+            {
+              "name": "Alberto Tarantini",
+              "short": "Tarantini"
+            },
+            {
+              "name": "Osvaldo Ardiles",
+              "short": "Ardiles"
+            },
+            {
+              "name": "Américo Gallego",
+              "short": "Gallego"
+            },
+            {
+              "name": "José Valencia",
+              "short": "Valencia"
+            },
+            {
+              "name": "Leopoldo Luque",
+              "short": "Luque"
+            },
+            {
+              "name": "René Houseman",
+              "short": "Houseman"
+            },
+            {
+              "name": "Mario Kempes",
+              "short": "Kempes"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jean Bertrand Demanes",
+              "short": "Bertrand Demanes"
+            },
+            {
+              "name": "Maxime Bossis",
+              "short": "Bossis"
+            },
+            {
+              "name": "Christian Lopez",
+              "short": "Lopez"
+            },
+            {
+              "name": "Didier Six",
+              "short": "Six"
+            },
+            {
+              "name": "Marius Tresor",
+              "short": "Tresor"
+            },
+            {
+              "name": "Michel Platini",
+              "short": "Platini"
+            },
+            {
+              "name": "Dominique Bathenay",
+              "short": "Bathenay"
+            },
+            {
+              "name": "Patrick Battiston",
+              "short": "Battiston"
+            },
+            {
+              "name": "Henri Michel",
+              "short": "Michel"
+            },
+            {
+              "name": "Benard Lacombe",
+              "short": "Lacombe"
+            },
+            {
+              "name": "Dominique Rocheteau",
+              "short": "Rocheteau"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197842",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 2,
+      "title": "Germania Ovest - Messico",
+      "session": "match",
+      "startsAt": "1978-06-06T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 6,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": "Dieter Mueller",
+            "short": "Mueller"
+          },
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Hansi Mueller",
+            "short": "Mueller"
+          },
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "Karl-Heinz Rummenigge",
+            "short": "Rummenigge"
+          },
+          {
+            "minute": 45,
+            "type": "goal",
+            "side": "home",
+            "player": "Heinz Flohe",
+            "short": "Flohe"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "home",
+            "player": "Karl-Heinz Rummenigge",
+            "short": "Rummenigge"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "home",
+            "player": "Heinz Flohe",
+            "short": "Flohe"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Bernard Dietz",
+              "short": "Dietz"
+            },
+            {
+              "name": "Manfred Kaltz",
+              "short": "Kaltz"
+            },
+            {
+              "name": "Rolf Ruessmann",
+              "short": "Ruessmann"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Heinz Flohe",
+              "short": "Flohe"
+            },
+            {
+              "name": "Hansi Mueller",
+              "short": "Mueller"
+            },
+            {
+              "name": "Rainer Bonhof",
+              "short": "Bonhof"
+            },
+            {
+              "name": "Dieter Mueller",
+              "short": "Mueller"
+            },
+            {
+              "name": "Karl-Heinz Rummenigge",
+              "short": "Rummenigge"
+            },
+            {
+              "name": "Klaus Fischer",
+              "short": "Fischer"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "José Reyes",
+              "short": "Reyes"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Eduardo Ramos",
+              "short": "Ramos"
+            },
+            {
+              "name": "Alfredo Tena",
+              "short": "Tena"
+            },
+            {
+              "name": "Arturo Vásquez Ayala",
+              "short": "Vásquez Ayala"
+            },
+            {
+              "name": "Leonardo Cuellar",
+              "short": "Cuellar"
+            },
+            {
+              "name": "Antonio De La Torre",
+              "short": "De La Torre"
+            },
+            {
+              "name": "Enrique López",
+              "short": "López"
+            },
+            {
+              "name": "Guillermo Mendizábal",
+              "short": "Mendizábal"
+            },
+            {
+              "name": "Hugo Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Víctor Rangel",
+              "short": "Rangel"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197836",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 2,
+      "title": "Italia - Ungheria",
+      "session": "match",
+      "startsAt": "1978-06-06T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 35,
+            "type": "goal",
+            "side": "home",
+            "player": "Paolo Rossi",
+            "short": "Rossi"
+          },
+          {
+            "minute": 37,
+            "type": "goal",
+            "side": "home",
+            "player": "Roberto Bettega",
+            "short": "Bettega"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Romeo Benetti",
+            "short": "Benetti"
+          },
+          {
+            "minute": 82,
+            "type": "penalty",
+            "side": "away",
+            "player": "Andreas Toth",
+            "short": "Toth"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Dino Zoff",
+              "short": "Zoff"
+            },
+            {
+              "name": "Mauro Bellugi",
+              "short": "Bellugi"
+            },
+            {
+              "name": "Antonio Cabrini",
+              "short": "Cabrini"
+            },
+            {
+              "name": "Claudio Gentile",
+              "short": "Gentile"
+            },
+            {
+              "name": "Gaetano Scirea",
+              "short": "Scirea"
+            },
+            {
+              "name": "Romeo Benetti",
+              "short": "Benetti"
+            },
+            {
+              "name": "Giancarlo Antognoni",
+              "short": "Antognoni"
+            },
+            {
+              "name": "Marco Tardelli",
+              "short": "Tardelli"
+            },
+            {
+              "name": "Roberto Bettega",
+              "short": "Bettega"
+            },
+            {
+              "name": "Paolo Rossi",
+              "short": "Rossi"
+            },
+            {
+              "name": "Franco Causio",
+              "short": "Causio"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Laszlo Bálint",
+              "short": "Bálint"
+            },
+            {
+              "name": "Itsvan Kocsis",
+              "short": "Kocsis"
+            },
+            {
+              "name": "Gyoyo Martos",
+              "short": "Martos"
+            },
+            {
+              "name": "Zoltan Kereki",
+              "short": "Kereki"
+            },
+            {
+              "name": "Sandor Pinter",
+              "short": "Pinter"
+            },
+            {
+              "name": "Sandor Zombori",
+              "short": "Zombori"
+            },
+            {
+              "name": "Andreas Toth",
+              "short": "Toth"
+            },
+            {
+              "name": "Raroly Csapo",
+              "short": "Csapo"
+            },
+            {
+              "name": "Lazlo Nagy",
+              "short": "Nagy"
+            },
+            {
+              "name": "Laszlo Pusztai",
+              "short": "Pusztai"
+            },
+            {
+              "name": "Andreas Torocsik",
+              "short": "Torocsik"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197841",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 2,
+      "title": "Polonia - Tunisia",
+      "session": "match",
+      "startsAt": "1978-06-06T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "awayTeam": {
+        "id": "espn-659",
+        "name": "Tunisia",
+        "shortName": "Tunisia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "home",
+            "player": "Grzegorz Lato",
+            "short": "Lato"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Jan Tomaszewski",
+              "short": "Tomaszewski"
+            },
+            {
+              "name": "Jerzy Gorgon",
+              "short": "Gorgon"
+            },
+            {
+              "name": "Henrik Maculewicz",
+              "short": "Maculewicz"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Henryk Kasperczak",
+              "short": "Kasperczak"
+            },
+            {
+              "name": "Adam Nawalka",
+              "short": "Nawalka"
+            },
+            {
+              "name": "Wlodzimierz Lubanski",
+              "short": "Lubanski"
+            },
+            {
+              "name": "Andrzej Szarmach",
+              "short": "Szarmach"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Moktar Naili",
+              "short": "Naili"
+            },
+            {
+              "name": "Moktar Dhouieb",
+              "short": "Dhouieb"
+            },
+            {
+              "name": "Khaled Gasmi",
+              "short": "Gasmi"
+            },
+            {
+              "name": "Amor Jebali",
+              "short": "Jebali"
+            },
+            {
+              "name": "Ali Kaabi",
+              "short": "Kaabi"
+            },
+            {
+              "name": "Khemais Labidi",
+              "short": "Labidi"
+            },
+            {
+              "name": "Mohammed Akid",
+              "short": "Akid"
+            },
+            {
+              "name": "Mohamed Ben Rehalem",
+              "short": "Ben Rehalem"
+            },
+            {
+              "name": "Nejib Ghommidh",
+              "short": "Ghommidh"
+            },
+            {
+              "name": "Temine Lahzami",
+              "short": "Lahzami"
+            },
+            {
+              "name": "Tarak Dhiab",
+              "short": "Dhiab"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197848",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 2,
+      "title": "Austria - Svezia",
+      "session": "match",
+      "startsAt": "1978-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "awayTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 43,
+            "type": "penalty",
+            "side": "home",
+            "player": "Hans Krankl",
+            "short": "Krankl"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Friedrich Koncilia",
+              "short": "Koncilia"
+            },
+            {
+              "name": "Gerhard Breitenberger",
+              "short": "Breitenberger"
+            },
+            {
+              "name": "Eduard Krieger",
+              "short": "Krieger"
+            },
+            {
+              "name": "Erich Obermayer",
+              "short": "Obermayer"
+            },
+            {
+              "name": "Bruno Pezzey",
+              "short": "Pezzey"
+            },
+            {
+              "name": "Robert Sara",
+              "short": "Sara"
+            },
+            {
+              "name": "Josef Hickersberger",
+              "short": "Hickersberger"
+            },
+            {
+              "name": "Kurt Jara",
+              "short": "Jara"
+            },
+            {
+              "name": "Herbert Prohaska",
+              "short": "Prohaska"
+            },
+            {
+              "name": "Hans Krankl",
+              "short": "Krankl"
+            },
+            {
+              "name": "Wilhelm Kreuz",
+              "short": "Kreuz"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Benny Wendt",
+              "short": "Wendt"
+            },
+            {
+              "name": "Roland Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Ingemar Erlandsson",
+              "short": "Erlandsson"
+            },
+            {
+              "name": "Ronnie Hellstroem",
+              "short": "Hellstroem"
+            },
+            {
+              "name": "Anders Linderoth",
+              "short": "Linderoth"
+            },
+            {
+              "name": "Björn Nordqvist",
+              "short": "Nordqvist"
+            },
+            {
+              "name": "Bo Larsson",
+              "short": "Larsson"
+            },
+            {
+              "name": "Lennart Larsson",
+              "short": "Larsson"
+            },
+            {
+              "name": "Steffan Tapper",
+              "short": "Tapper"
+            },
+            {
+              "name": "Hasse Borg",
+              "short": "Borg"
+            },
+            {
+              "name": "Thomas Sjoeberg",
+              "short": "Sjoeberg"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197847",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 2,
+      "title": "Brasile - Spagna",
+      "session": "match",
+      "startsAt": "1978-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Nazareth Edinho",
+              "short": "Edinho"
+            },
+            {
+              "name": "Rezende Nelinho",
+              "short": "Nelinho"
+            },
+            {
+              "name": "Bernardi Oscar",
+              "short": "Oscar"
+            },
+            {
+              "name": "Antonio Toninho",
+              "short": "Toninho"
+            },
+            {
+              "name": "Zico"
+            },
+            {
+              "name": "Joao Batista",
+              "short": "Batista"
+            },
+            {
+              "name": "Antonio Toninho Cerezo",
+              "short": "Toninho Cerezo"
+            },
+            {
+              "name": "José Dirceu",
+              "short": "Dirceu"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "Vicente Asensi",
+              "short": "Asensi"
+            },
+            {
+              "name": "Pérez Marcelino",
+              "short": "Marcelino"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Antonio Olmo",
+              "short": "Olmo"
+            },
+            {
+              "name": "Isidoro San José",
+              "short": "San José"
+            },
+            {
+              "name": "Francisco Uría",
+              "short": "Uría"
+            },
+            {
+              "name": "Eugenio Leal",
+              "short": "Leal"
+            },
+            {
+              "name": "Carlos Santillana",
+              "short": "Santillana"
+            },
+            {
+              "name": "Julio Cardenosa",
+              "short": "Cardenosa"
+            },
+            {
+              "name": "Juan Juanito",
+              "short": "Juanito"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197854",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 2,
+      "title": "Olanda - Perù",
+      "session": "match",
+      "startsAt": "1978-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "awayTeam": {
+        "id": "espn-211",
+        "name": "Peru",
+        "shortName": "Perù",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/per.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Jan Jongbloed",
+              "short": "Jongbloed"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Jan Poortvliet",
+              "short": "Poortvliet"
+            },
+            {
+              "name": "Wilhelmus Rijsbergen",
+              "short": "Rijsbergen"
+            },
+            {
+              "name": "Wilhelmus Suurbier",
+              "short": "Suurbier"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Johan Neeskens",
+              "short": "Neeskens"
+            },
+            {
+              "name": "Wilhelmus Van De Kerkhof",
+              "short": "Van De Kerkhof"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Rene van de Kerkhof",
+              "short": "van de Kerkhof"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ramón Quiroga",
+              "short": "Quiroga"
+            },
+            {
+              "name": "Héctor Chumpitaz",
+              "short": "Chumpitaz"
+            },
+            {
+              "name": "Rubén Díaz",
+              "short": "Díaz"
+            },
+            {
+              "name": "Jaime Duarte",
+              "short": "Duarte"
+            },
+            {
+              "name": "Rodolfo Manzo",
+              "short": "Manzo"
+            },
+            {
+              "name": "Teofilo Cubillas",
+              "short": "Cubillas"
+            },
+            {
+              "name": "César Cueto",
+              "short": "Cueto"
+            },
+            {
+              "name": "Guillermo La Rosa",
+              "short": "La Rosa"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Juan Munante",
+              "short": "Munante"
+            },
+            {
+              "name": "Juan Oblitas",
+              "short": "Oblitas"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197853",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 2,
+      "title": "Scozia - Iran",
+      "session": "match",
+      "startsAt": "1978-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-580",
+        "name": "Scotland",
+        "shortName": "Scozia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png"
+      },
+      "awayTeam": {
+        "id": "espn-469",
+        "name": "Iran",
+        "shortName": "Iran",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 44,
+            "type": "ownGoal",
+            "side": "home",
+            "player": "Andaranik Eskandarian",
+            "short": "Eskandarian"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "away",
+            "player": "Iraj Danaifar",
+            "short": "Danaifar"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Alan Rough",
+              "short": "Rough"
+            },
+            {
+              "name": "Martin Buchan",
+              "short": "Buchan"
+            },
+            {
+              "name": "Kenneth Burns",
+              "short": "Burns"
+            },
+            {
+              "name": "William Donachie",
+              "short": "Donachie"
+            },
+            {
+              "name": "William Jardine",
+              "short": "Jardine"
+            },
+            {
+              "name": "Archibald Gemmill",
+              "short": "Gemmill"
+            },
+            {
+              "name": "Asa Hartford",
+              "short": "Hartford"
+            },
+            {
+              "name": "Luigi Macari",
+              "short": "Macari"
+            },
+            {
+              "name": "Kenny Dalglish",
+              "short": "Dalglish"
+            },
+            {
+              "name": "Joe Jordan",
+              "short": "Jordan"
+            },
+            {
+              "name": "John Robertson",
+              "short": "Robertson"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Nasser Hejazi",
+              "short": "Hejazi"
+            },
+            {
+              "name": "Iraj Danaifar",
+              "short": "Danaifar"
+            },
+            {
+              "name": "Nasrollah Abdollahie",
+              "short": "Abdollahie"
+            },
+            {
+              "name": "Hossein Kazerani",
+              "short": "Kazerani"
+            },
+            {
+              "name": "Hassan Nazari",
+              "short": "Nazari"
+            },
+            {
+              "name": "Ali Parvin",
+              "short": "Parvin"
+            },
+            {
+              "name": "Andaranik Eskandarian",
+              "short": "Eskandarian"
+            },
+            {
+              "name": "Ebrahim Ghassinpour",
+              "short": "Ghassinpour"
+            },
+            {
+              "name": "Ghafoor Jahani",
+              "short": "Jahani"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Hossein Faraki",
+              "short": "Faraki"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197837",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 3,
+      "title": "Francia - Ungheria",
+      "session": "match",
+      "startsAt": "1978-06-10T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "awayTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 23,
+            "type": "goal",
+            "side": "home",
+            "player": "Christian Lopez",
+            "short": "Lopez"
+          },
+          {
+            "minute": 38,
+            "type": "goal",
+            "side": "home",
+            "player": "Marc Berdoll",
+            "short": "Berdoll"
+          },
+          {
+            "minute": 42,
+            "type": "goal",
+            "side": "away",
+            "player": "Sandor Zombori",
+            "short": "Zombori"
+          },
+          {
+            "minute": 43,
+            "type": "goal",
+            "side": "home",
+            "player": "Dominique Rocheteau",
+            "short": "Rocheteau"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Dominique Dropsy",
+              "short": "Dropsy"
+            },
+            {
+              "name": "Christian Lopez",
+              "short": "Lopez"
+            },
+            {
+              "name": "Francois Bracci",
+              "short": "Bracci"
+            },
+            {
+              "name": "Gérard Janvion",
+              "short": "Janvion"
+            },
+            {
+              "name": "Marius Tresor",
+              "short": "Tresor"
+            },
+            {
+              "name": "Dominique Bathenay",
+              "short": "Bathenay"
+            },
+            {
+              "name": "Claude Papi",
+              "short": "Papi"
+            },
+            {
+              "name": "Jean Pettit",
+              "short": "Pettit"
+            },
+            {
+              "name": "Marc Berdoll",
+              "short": "Berdoll"
+            },
+            {
+              "name": "Dominique Rocheteau",
+              "short": "Rocheteau"
+            },
+            {
+              "name": "Oliver Rouyer",
+              "short": "Rouyer"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Sandor Gujdar",
+              "short": "Gujdar"
+            },
+            {
+              "name": "Laszlo Bálint",
+              "short": "Bálint"
+            },
+            {
+              "name": "Gyoyo Martos",
+              "short": "Martos"
+            },
+            {
+              "name": "Sandor Zombori",
+              "short": "Zombori"
+            },
+            {
+              "name": "Zoltan Kereki",
+              "short": "Kereki"
+            },
+            {
+              "name": "Tibor Nyilasi",
+              "short": "Nyilasi"
+            },
+            {
+              "name": "Sandor Pinter",
+              "short": "Pinter"
+            },
+            {
+              "name": "Lazlo Nagy",
+              "short": "Nagy"
+            },
+            {
+              "name": "Laszlo Pusztai",
+              "short": "Pusztai"
+            },
+            {
+              "name": "Andreas Torocsik",
+              "short": "Torocsik"
+            },
+            {
+              "name": "Andreas Toth",
+              "short": "Toth"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197844",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 3,
+      "title": "Germania Ovest - Tunisia",
+      "session": "match",
+      "startsAt": "1978-06-10T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-659",
+        "name": "Tunisia",
+        "shortName": "Tunisia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Bernard Dietz",
+              "short": "Dietz"
+            },
+            {
+              "name": "Manfred Kaltz",
+              "short": "Kaltz"
+            },
+            {
+              "name": "Rolf Ruessmann",
+              "short": "Ruessmann"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Rainer Bonhof",
+              "short": "Bonhof"
+            },
+            {
+              "name": "Heinz Flohe",
+              "short": "Flohe"
+            },
+            {
+              "name": "Hansi Mueller",
+              "short": "Mueller"
+            },
+            {
+              "name": "Klaus Fischer",
+              "short": "Fischer"
+            },
+            {
+              "name": "Dieter Mueller",
+              "short": "Mueller"
+            },
+            {
+              "name": "Karl-Heinz Rummenigge",
+              "short": "Rummenigge"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Moktar Naili",
+              "short": "Naili"
+            },
+            {
+              "name": "Moktar Dhouieb",
+              "short": "Dhouieb"
+            },
+            {
+              "name": "Khaled Gasmi",
+              "short": "Gasmi"
+            },
+            {
+              "name": "Amor Jebali",
+              "short": "Jebali"
+            },
+            {
+              "name": "Ali Kaabi",
+              "short": "Kaabi"
+            },
+            {
+              "name": "Khemais Labidi",
+              "short": "Labidi"
+            },
+            {
+              "name": "Mohammed Akid",
+              "short": "Akid"
+            },
+            {
+              "name": "Mohamed Ben Rehalem",
+              "short": "Ben Rehalem"
+            },
+            {
+              "name": "Nejib Ghommidh",
+              "short": "Ghommidh"
+            },
+            {
+              "name": "Temine Lahzami",
+              "short": "Lahzami"
+            },
+            {
+              "name": "Tarak Dhiab",
+              "short": "Dhiab"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197838",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 3,
+      "title": "Italia - Argentina",
+      "session": "match",
+      "startsAt": "1978-06-10T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Roberto Bettega",
+            "short": "Bettega"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Dino Zoff",
+              "short": "Zoff"
+            },
+            {
+              "name": "Mauro Bellugi",
+              "short": "Bellugi"
+            },
+            {
+              "name": "Antonio Cabrini",
+              "short": "Cabrini"
+            },
+            {
+              "name": "Claudio Gentile",
+              "short": "Gentile"
+            },
+            {
+              "name": "Gaetano Scirea",
+              "short": "Scirea"
+            },
+            {
+              "name": "Giancarlo Antognoni",
+              "short": "Antognoni"
+            },
+            {
+              "name": "Romeo Benetti",
+              "short": "Benetti"
+            },
+            {
+              "name": "Marco Tardelli",
+              "short": "Tardelli"
+            },
+            {
+              "name": "Roberto Bettega",
+              "short": "Bettega"
+            },
+            {
+              "name": "Franco Causio",
+              "short": "Causio"
+            },
+            {
+              "name": "Paolo Rossi",
+              "short": "Rossi"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ubaldo Fillol",
+              "short": "Fillol"
+            },
+            {
+              "name": "Luis Galván",
+              "short": "Galván"
+            },
+            {
+              "name": "Jorge Olguín",
+              "short": "Olguín"
+            },
+            {
+              "name": "Daniel Alberto Passarella",
+              "short": "Passarella"
+            },
+            {
+              "name": "Alberto Tarantini",
+              "short": "Tarantini"
+            },
+            {
+              "name": "Osvaldo Ardiles",
+              "short": "Ardiles"
+            },
+            {
+              "name": "Américo Gallego",
+              "short": "Gallego"
+            },
+            {
+              "name": "José Valencia",
+              "short": "Valencia"
+            },
+            {
+              "name": "Ricardo Bertoni",
+              "short": "Bertoni"
+            },
+            {
+              "name": "Mario Kempes",
+              "short": "Kempes"
+            },
+            {
+              "name": "Oscar Ortiz",
+              "short": "Ortiz"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197843",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 3,
+      "title": "Polonia - Messico",
+      "session": "match",
+      "startsAt": "1978-06-10T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "home",
+            "player": "Zbigniew Boniek",
+            "short": "Boniek"
+          },
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "away",
+            "player": "Víctor Rangel",
+            "short": "Rangel"
+          },
+          {
+            "minute": 57,
+            "type": "goal",
+            "side": "home",
+            "player": "Kazimierz Deyna",
+            "short": "Deyna"
+          },
+          {
+            "minute": 85,
+            "type": "goal",
+            "side": "home",
+            "player": "Zbigniew Boniek",
+            "short": "Boniek"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Jan Tomaszewski",
+              "short": "Tomaszewski"
+            },
+            {
+              "name": "Jerzy Gorgon",
+              "short": "Gorgon"
+            },
+            {
+              "name": "Wojciech Rudy",
+              "short": "Rudy"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Henryk Kasperczak",
+              "short": "Kasperczak"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Bohdan Masztaler",
+              "short": "Masztaler"
+            },
+            {
+              "name": "Zbigniew Boniek",
+              "short": "Boniek"
+            },
+            {
+              "name": "Andrzej Iwan",
+              "short": "Iwan"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Pedro Soto",
+              "short": "Soto"
+            },
+            {
+              "name": "Rigoberto Cisneros",
+              "short": "Cisneros"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Arturo Vásquez Ayala",
+              "short": "Vásquez Ayala"
+            },
+            {
+              "name": "Javier Cárdenas",
+              "short": "Cárdenas"
+            },
+            {
+              "name": "Leonardo Cuellar",
+              "short": "Cuellar"
+            },
+            {
+              "name": "Antonio De La Torre",
+              "short": "De La Torre"
+            },
+            {
+              "name": "Gerardo Lugo Gómez",
+              "short": "Lugo Gómez"
+            },
+            {
+              "name": "Cristóbal Ortega",
+              "short": "Ortega"
+            },
+            {
+              "name": "Hugo Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Víctor Rangel",
+              "short": "Rangel"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197849",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 3,
+      "title": "Brasile - Austria",
+      "session": "match",
+      "startsAt": "1978-06-11T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 40,
+            "type": "goal",
+            "side": "home",
+            "player": "Enilio Roberto",
+            "short": "Roberto"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Rodríguez Netto",
+              "short": "Netto"
+            },
+            {
+              "name": "Bernardi Oscar",
+              "short": "Oscar"
+            },
+            {
+              "name": "Antonio Toninho",
+              "short": "Toninho"
+            },
+            {
+              "name": "Joao Batista",
+              "short": "Batista"
+            },
+            {
+              "name": "Alves Gil",
+              "short": "Gil"
+            },
+            {
+              "name": "Antonio Toninho Cerezo",
+              "short": "Toninho Cerezo"
+            },
+            {
+              "name": "Enilio Roberto",
+              "short": "Roberto"
+            },
+            {
+              "name": "José Dirceu",
+              "short": "Dirceu"
+            },
+            {
+              "name": "Jorge Mendonca",
+              "short": "Mendonca"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Friedrich Koncilia",
+              "short": "Koncilia"
+            },
+            {
+              "name": "Gerhard Breitenberger",
+              "short": "Breitenberger"
+            },
+            {
+              "name": "Eduard Krieger",
+              "short": "Krieger"
+            },
+            {
+              "name": "Erich Obermayer",
+              "short": "Obermayer"
+            },
+            {
+              "name": "Bruno Pezzey",
+              "short": "Pezzey"
+            },
+            {
+              "name": "Robert Sara",
+              "short": "Sara"
+            },
+            {
+              "name": "Josef Hickersberger",
+              "short": "Hickersberger"
+            },
+            {
+              "name": "Kurt Jara",
+              "short": "Jara"
+            },
+            {
+              "name": "Herbert Prohaska",
+              "short": "Prohaska"
+            },
+            {
+              "name": "Hans Krankl",
+              "short": "Krankl"
+            },
+            {
+              "name": "Wilhelm Kreuz",
+              "short": "Kreuz"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197856",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 3,
+      "title": "Perù - Iran",
+      "session": "match",
+      "startsAt": "1978-06-11T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-211",
+        "name": "Peru",
+        "shortName": "Perù",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/per.png"
+      },
+      "awayTeam": {
+        "id": "espn-469",
+        "name": "Iran",
+        "shortName": "Iran",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png"
+      },
+      "homeScore": 4,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 3,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 37,
+            "type": "penalty",
+            "side": "home",
+            "player": "Teofilo Cubillas",
+            "short": "Cubillas"
+          },
+          {
+            "minute": 40,
+            "type": "penalty",
+            "side": "home",
+            "player": "Teofilo Cubillas",
+            "short": "Cubillas"
+          },
+          {
+            "minute": 42,
+            "type": "goal",
+            "side": "away",
+            "player": "Hassan Rowshan",
+            "short": "Rowshan"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Teofilo Cubillas",
+            "short": "Cubillas"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ramón Quiroga",
+              "short": "Quiroga"
+            },
+            {
+              "name": "Héctor Chumpitaz",
+              "short": "Chumpitaz"
+            },
+            {
+              "name": "Rubén Díaz",
+              "short": "Díaz"
+            },
+            {
+              "name": "Jaime Duarte",
+              "short": "Duarte"
+            },
+            {
+              "name": "Rodolfo Manzo",
+              "short": "Manzo"
+            },
+            {
+              "name": "Teofilo Cubillas",
+              "short": "Cubillas"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "César Cueto",
+              "short": "Cueto"
+            },
+            {
+              "name": "Guillermo La Rosa",
+              "short": "La Rosa"
+            },
+            {
+              "name": "Juan Munante",
+              "short": "Munante"
+            },
+            {
+              "name": "Juan Oblitas",
+              "short": "Oblitas"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Nasser Hejazi",
+              "short": "Hejazi"
+            },
+            {
+              "name": "Nasrollah Abdollahie",
+              "short": "Abdollahie"
+            },
+            {
+              "name": "Iraj Danaifar",
+              "short": "Danaifar"
+            },
+            {
+              "name": "Hossein Kazerani",
+              "short": "Kazerani"
+            },
+            {
+              "name": "Hassan Nazari",
+              "short": "Nazari"
+            },
+            {
+              "name": "Ali Parvin",
+              "short": "Parvin"
+            },
+            {
+              "name": "Javad Allahvardi",
+              "short": "Allahvardi"
+            },
+            {
+              "name": "Ebrahim Ghassinpour",
+              "short": "Ghassinpour"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Hassan Rowshan",
+              "short": "Rowshan"
+            },
+            {
+              "name": "Hossein Faraki",
+              "short": "Faraki"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197855",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 3,
+      "title": "Scozia - Olanda",
+      "session": "match",
+      "startsAt": "1978-06-11T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-580",
+        "name": "Scotland",
+        "shortName": "Scozia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png"
+      },
+      "awayTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 35,
+            "type": "penalty",
+            "side": "away",
+            "player": "Robert Rensenbrink",
+            "short": "Rensenbrink"
+          },
+          {
+            "minute": 45,
+            "type": "goal",
+            "side": "home",
+            "player": "Kenny Dalglish",
+            "short": "Dalglish"
+          },
+          {
+            "minute": 48,
+            "type": "penalty",
+            "side": "home",
+            "player": "Archibald Gemmill",
+            "short": "Gemmill"
+          },
+          {
+            "minute": 69,
+            "type": "goal",
+            "side": "home",
+            "player": "Archibald Gemmill",
+            "short": "Gemmill"
+          },
+          {
+            "minute": 72,
+            "type": "goal",
+            "side": "away",
+            "player": "Johny Rep",
+            "short": "Rep"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Alan Rough",
+              "short": "Rough"
+            },
+            {
+              "name": "Martin Buchan",
+              "short": "Buchan"
+            },
+            {
+              "name": "William Donachie",
+              "short": "Donachie"
+            },
+            {
+              "name": "Thomas Forsyth",
+              "short": "Forsyth"
+            },
+            {
+              "name": "Robert Kennedy",
+              "short": "Kennedy"
+            },
+            {
+              "name": "Archibald Gemmill",
+              "short": "Gemmill"
+            },
+            {
+              "name": "Asa Hartford",
+              "short": "Hartford"
+            },
+            {
+              "name": "Bruce Rioch",
+              "short": "Rioch"
+            },
+            {
+              "name": "Graeme Souness",
+              "short": "Souness"
+            },
+            {
+              "name": "Kenny Dalglish",
+              "short": "Dalglish"
+            },
+            {
+              "name": "Joe Jordan",
+              "short": "Jordan"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jan Jongbloed",
+              "short": "Jongbloed"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Jan Poortvliet",
+              "short": "Poortvliet"
+            },
+            {
+              "name": "Wilhelmus Rijsbergen",
+              "short": "Rijsbergen"
+            },
+            {
+              "name": "Wilhelmus Suurbier",
+              "short": "Suurbier"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Johan Neeskens",
+              "short": "Neeskens"
+            },
+            {
+              "name": "Wilhelmus Van De Kerkhof",
+              "short": "Van De Kerkhof"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            },
+            {
+              "name": "Rene van de Kerkhof",
+              "short": "van de Kerkhof"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197850",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 3,
+      "title": "Spagna - Svezia",
+      "session": "match",
+      "startsAt": "1978-06-11T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "awayTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "home",
+            "player": "Vicente Asensi",
+            "short": "Asensi"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "Vicente Asensi",
+              "short": "Asensi"
+            },
+            {
+              "name": "Antonio Biosca",
+              "short": "Biosca"
+            },
+            {
+              "name": "Pérez Marcelino",
+              "short": "Marcelino"
+            },
+            {
+              "name": "Antonio Olmo",
+              "short": "Olmo"
+            },
+            {
+              "name": "Isidoro San José",
+              "short": "San José"
+            },
+            {
+              "name": "Francisco Uría",
+              "short": "Uría"
+            },
+            {
+              "name": "Eugenio Leal",
+              "short": "Leal"
+            },
+            {
+              "name": "Carlos Santillana",
+              "short": "Santillana"
+            },
+            {
+              "name": "Julio Cardenosa",
+              "short": "Cardenosa"
+            },
+            {
+              "name": "Juan Juanito",
+              "short": "Juanito"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ronnie Hellstroem",
+              "short": "Hellstroem"
+            },
+            {
+              "name": "Roland Andersson",
+              "short": "Andersson"
+            },
+            {
+              "name": "Ingemar Erlandsson",
+              "short": "Erlandsson"
+            },
+            {
+              "name": "Björn Nordqvist",
+              "short": "Nordqvist"
+            },
+            {
+              "name": "Bo Larsson",
+              "short": "Larsson"
+            },
+            {
+              "name": "Lennart Larsson",
+              "short": "Larsson"
+            },
+            {
+              "name": "Olle Nordin",
+              "short": "Nordin"
+            },
+            {
+              "name": "Hasse Borg",
+              "short": "Borg"
+            },
+            {
+              "name": "Ralf Edstroem",
+              "short": "Edstroem"
+            },
+            {
+              "name": "Torbjorn Nilsson",
+              "short": "Nilsson"
+            },
+            {
+              "name": "Thomas Sjoeberg",
+              "short": "Sjoeberg"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197863",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 4,
+      "title": "Argentina - Polonia",
+      "session": "match",
+      "startsAt": "1978-06-14T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 17,
+            "type": "goal",
+            "side": "home",
+            "player": "Mario Kempes",
+            "short": "Kempes"
+          },
+          {
+            "minute": 72,
+            "type": "goal",
+            "side": "home",
+            "player": "Mario Kempes",
+            "short": "Kempes"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ubaldo Fillol",
+              "short": "Fillol"
+            },
+            {
+              "name": "Luis Galván",
+              "short": "Galván"
+            },
+            {
+              "name": "Jorge Olguín",
+              "short": "Olguín"
+            },
+            {
+              "name": "Daniel Alberto Passarella",
+              "short": "Passarella"
+            },
+            {
+              "name": "Alberto Tarantini",
+              "short": "Tarantini"
+            },
+            {
+              "name": "Osvaldo Ardiles",
+              "short": "Ardiles"
+            },
+            {
+              "name": "Américo Gallego",
+              "short": "Gallego"
+            },
+            {
+              "name": "José Valencia",
+              "short": "Valencia"
+            },
+            {
+              "name": "Mario Kempes",
+              "short": "Kempes"
+            },
+            {
+              "name": "Ricardo Bertoni",
+              "short": "Bertoni"
+            },
+            {
+              "name": "René Houseman",
+              "short": "Houseman"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jan Tomaszewski",
+              "short": "Tomaszewski"
+            },
+            {
+              "name": "Henrik Maculewicz",
+              "short": "Maculewicz"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Henryk Kasperczak",
+              "short": "Kasperczak"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Bohdan Masztaler",
+              "short": "Masztaler"
+            },
+            {
+              "name": "Adam Nawalka",
+              "short": "Nawalka"
+            },
+            {
+              "name": "Zbigniew Boniek",
+              "short": "Boniek"
+            },
+            {
+              "name": "Andrzej Szarmach",
+              "short": "Szarmach"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197864",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 4,
+      "title": "Brasile - Perù",
+      "session": "match",
+      "startsAt": "1978-06-14T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-211",
+        "name": "Peru",
+        "shortName": "Perù",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/per.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": "José Dirceu",
+            "short": "Dirceu"
+          },
+          {
+            "minute": 29,
+            "type": "goal",
+            "side": "home",
+            "player": "José Dirceu",
+            "short": "Dirceu"
+          },
+          {
+            "minute": 74,
+            "type": "penalty",
+            "side": "home",
+            "player": "Zico"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Rodríguez Netto",
+              "short": "Netto"
+            },
+            {
+              "name": "Bernardi Oscar",
+              "short": "Oscar"
+            },
+            {
+              "name": "Antonio Toninho",
+              "short": "Toninho"
+            },
+            {
+              "name": "Joao Batista",
+              "short": "Batista"
+            },
+            {
+              "name": "Alves Gil",
+              "short": "Gil"
+            },
+            {
+              "name": "Antonio Toninho Cerezo",
+              "short": "Toninho Cerezo"
+            },
+            {
+              "name": "José Dirceu",
+              "short": "Dirceu"
+            },
+            {
+              "name": "Jorge Mendonca",
+              "short": "Mendonca"
+            },
+            {
+              "name": "Enilio Roberto",
+              "short": "Roberto"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ramón Quiroga",
+              "short": "Quiroga"
+            },
+            {
+              "name": "Héctor Chumpitaz",
+              "short": "Chumpitaz"
+            },
+            {
+              "name": "Rubén Díaz",
+              "short": "Díaz"
+            },
+            {
+              "name": "Jaime Duarte",
+              "short": "Duarte"
+            },
+            {
+              "name": "Rodolfo Manzo",
+              "short": "Manzo"
+            },
+            {
+              "name": "Teofilo Cubillas",
+              "short": "Cubillas"
+            },
+            {
+              "name": "César Cueto",
+              "short": "Cueto"
+            },
+            {
+              "name": "Guillermo La Rosa",
+              "short": "La Rosa"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Juan Munante",
+              "short": "Munante"
+            },
+            {
+              "name": "Juan Oblitas",
+              "short": "Oblitas"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197857",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 4,
+      "title": "Germania Ovest - Italia",
+      "session": "match",
+      "startsAt": "1978-06-14T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Bernard Dietz",
+              "short": "Dietz"
+            },
+            {
+              "name": "Manfred Kaltz",
+              "short": "Kaltz"
+            },
+            {
+              "name": "Rolf Ruessmann",
+              "short": "Ruessmann"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Herbert Zimmermann",
+              "short": "Zimmermann"
+            },
+            {
+              "name": "Rainer Bonhof",
+              "short": "Bonhof"
+            },
+            {
+              "name": "Heinz Flohe",
+              "short": "Flohe"
+            },
+            {
+              "name": "Klaus Fischer",
+              "short": "Fischer"
+            },
+            {
+              "name": "Bernd Hoelzenbein",
+              "short": "Hoelzenbein"
+            },
+            {
+              "name": "Karl-Heinz Rummenigge",
+              "short": "Rummenigge"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Dino Zoff",
+              "short": "Zoff"
+            },
+            {
+              "name": "Mauro Bellugi",
+              "short": "Bellugi"
+            },
+            {
+              "name": "Antonio Cabrini",
+              "short": "Cabrini"
+            },
+            {
+              "name": "Claudio Gentile",
+              "short": "Gentile"
+            },
+            {
+              "name": "Gaetano Scirea",
+              "short": "Scirea"
+            },
+            {
+              "name": "Giancarlo Antognoni",
+              "short": "Antognoni"
+            },
+            {
+              "name": "Romeo Benetti",
+              "short": "Benetti"
+            },
+            {
+              "name": "Marco Tardelli",
+              "short": "Tardelli"
+            },
+            {
+              "name": "Roberto Bettega",
+              "short": "Bettega"
+            },
+            {
+              "name": "Franco Causio",
+              "short": "Causio"
+            },
+            {
+              "name": "Paolo Rossi",
+              "short": "Rossi"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197858",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 4,
+      "title": "Olanda - Austria",
+      "session": "match",
+      "startsAt": "1978-06-14T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "awayTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "homeScore": 5,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 7,
+            "type": "goal",
+            "side": "home",
+            "player": "Erny Brandts",
+            "short": "Brandts"
+          },
+          {
+            "minute": 36,
+            "type": "penalty",
+            "side": "home",
+            "player": "Robert Rensenbrink",
+            "short": "Rensenbrink"
+          },
+          {
+            "minute": 37,
+            "type": "goal",
+            "side": "home",
+            "player": "Johny Rep",
+            "short": "Rep"
+          },
+          {
+            "minute": 54,
+            "type": "goal",
+            "side": "home",
+            "player": "Johny Rep",
+            "short": "Rep"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "away",
+            "player": "Erich Obermayer",
+            "short": "Obermayer"
+          },
+          {
+            "minute": 83,
+            "type": "goal",
+            "side": "home",
+            "player": "Wilhelmus Van De Kerkhof",
+            "short": "Van De Kerkhof"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Peter Schrijvers",
+              "short": "Schrijvers"
+            },
+            {
+              "name": "Erny Brandts",
+              "short": "Brandts"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Jan Poortvliet",
+              "short": "Poortvliet"
+            },
+            {
+              "name": "Pieter Wildschut",
+              "short": "Wildschut"
+            },
+            {
+              "name": "Wilhelmus Van De Kerkhof",
+              "short": "Van De Kerkhof"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            },
+            {
+              "name": "Rene van de Kerkhof",
+              "short": "van de Kerkhof"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Friedrich Koncilia",
+              "short": "Koncilia"
+            },
+            {
+              "name": "Erich Obermayer",
+              "short": "Obermayer"
+            },
+            {
+              "name": "Gerhard Breitenberger",
+              "short": "Breitenberger"
+            },
+            {
+              "name": "Eduard Krieger",
+              "short": "Krieger"
+            },
+            {
+              "name": "Bruno Pezzey",
+              "short": "Pezzey"
+            },
+            {
+              "name": "Robert Sara",
+              "short": "Sara"
+            },
+            {
+              "name": "Josef Hickersberger",
+              "short": "Hickersberger"
+            },
+            {
+              "name": "Kurt Jara",
+              "short": "Jara"
+            },
+            {
+              "name": "Herbert Prohaska",
+              "short": "Prohaska"
+            },
+            {
+              "name": "Hans Krankl",
+              "short": "Krankl"
+            },
+            {
+              "name": "Wilhelm Kreuz",
+              "short": "Kreuz"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197865",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 5,
+      "title": "Argentina - Brasile",
+      "session": "match",
+      "startsAt": "1978-06-18T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Ubaldo Fillol",
+              "short": "Fillol"
+            },
+            {
+              "name": "Luis Galván",
+              "short": "Galván"
+            },
+            {
+              "name": "Jorge Olguín",
+              "short": "Olguín"
+            },
+            {
+              "name": "Daniel Alberto Passarella",
+              "short": "Passarella"
+            },
+            {
+              "name": "Alberto Tarantini",
+              "short": "Tarantini"
+            },
+            {
+              "name": "Osvaldo Ardiles",
+              "short": "Ardiles"
+            },
+            {
+              "name": "Américo Gallego",
+              "short": "Gallego"
+            },
+            {
+              "name": "Ricardo Bertoni",
+              "short": "Bertoni"
+            },
+            {
+              "name": "Mario Kempes",
+              "short": "Kempes"
+            },
+            {
+              "name": "Leopoldo Luque",
+              "short": "Luque"
+            },
+            {
+              "name": "Oscar Ortiz",
+              "short": "Ortiz"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Rodríguez Netto",
+              "short": "Netto"
+            },
+            {
+              "name": "Bernardi Oscar",
+              "short": "Oscar"
+            },
+            {
+              "name": "Antonio Toninho",
+              "short": "Toninho"
+            },
+            {
+              "name": "Joao Batista",
+              "short": "Batista"
+            },
+            {
+              "name": "Francisco Chicao",
+              "short": "Chicao"
+            },
+            {
+              "name": "Alves Gil",
+              "short": "Gil"
+            },
+            {
+              "name": "José Dirceu",
+              "short": "Dirceu"
+            },
+            {
+              "name": "Jorge Mendonca",
+              "short": "Mendonca"
+            },
+            {
+              "name": "Enilio Roberto",
+              "short": "Roberto"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197860",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 5,
+      "title": "Germania Ovest - Olanda",
+      "session": "match",
+      "startsAt": "1978-06-18T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 4,
+            "type": "goal",
+            "side": "home",
+            "player": "Ruediger Abramczik",
+            "short": "Abramczik"
+          },
+          {
+            "minute": 28,
+            "type": "goal",
+            "side": "away",
+            "player": "Adrianus Haan",
+            "short": "Haan"
+          },
+          {
+            "minute": 71,
+            "type": "goal",
+            "side": "home",
+            "player": "Dieter Mueller",
+            "short": "Mueller"
+          },
+          {
+            "minute": 85,
+            "type": "goal",
+            "side": "away",
+            "player": "Wilhelmus Van De Kerkhof",
+            "short": "Van De Kerkhof"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Bernard Dietz",
+              "short": "Dietz"
+            },
+            {
+              "name": "Manfred Kaltz",
+              "short": "Kaltz"
+            },
+            {
+              "name": "Rolf Ruessmann",
+              "short": "Ruessmann"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Erich Beer",
+              "short": "Beer"
+            },
+            {
+              "name": "Rainer Bonhof",
+              "short": "Bonhof"
+            },
+            {
+              "name": "Ruediger Abramczik",
+              "short": "Abramczik"
+            },
+            {
+              "name": "Dieter Mueller",
+              "short": "Mueller"
+            },
+            {
+              "name": "Bernd Hoelzenbein",
+              "short": "Hoelzenbein"
+            },
+            {
+              "name": "Karl-Heinz Rummenigge",
+              "short": "Rummenigge"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Peter Schrijvers",
+              "short": "Schrijvers"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Erny Brandts",
+              "short": "Brandts"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Jan Poortvliet",
+              "short": "Poortvliet"
+            },
+            {
+              "name": "Pieter Wildschut",
+              "short": "Wildschut"
+            },
+            {
+              "name": "Wilhelmus Van De Kerkhof",
+              "short": "Van De Kerkhof"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            },
+            {
+              "name": "Rene van de Kerkhof",
+              "short": "van de Kerkhof"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197859",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 5,
+      "title": "Italia - Austria",
+      "session": "match",
+      "startsAt": "1978-06-18T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "home",
+            "player": "Paolo Rossi",
+            "short": "Rossi"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Dino Zoff",
+              "short": "Zoff"
+            },
+            {
+              "name": "Mauro Bellugi",
+              "short": "Bellugi"
+            },
+            {
+              "name": "Antonio Cabrini",
+              "short": "Cabrini"
+            },
+            {
+              "name": "Claudio Gentile",
+              "short": "Gentile"
+            },
+            {
+              "name": "Gaetano Scirea",
+              "short": "Scirea"
+            },
+            {
+              "name": "Romeo Benetti",
+              "short": "Benetti"
+            },
+            {
+              "name": "Marco Tardelli",
+              "short": "Tardelli"
+            },
+            {
+              "name": "Renato Zaccarelli",
+              "short": "Zaccarelli"
+            },
+            {
+              "name": "Paolo Rossi",
+              "short": "Rossi"
+            },
+            {
+              "name": "Roberto Bettega",
+              "short": "Bettega"
+            },
+            {
+              "name": "Franco Causio",
+              "short": "Causio"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Friedrich Koncilia",
+              "short": "Koncilia"
+            },
+            {
+              "name": "Eduard Krieger",
+              "short": "Krieger"
+            },
+            {
+              "name": "Erich Obermayer",
+              "short": "Obermayer"
+            },
+            {
+              "name": "Bruno Pezzey",
+              "short": "Pezzey"
+            },
+            {
+              "name": "Robert Sara",
+              "short": "Sara"
+            },
+            {
+              "name": "Josef Hickersberger",
+              "short": "Hickersberger"
+            },
+            {
+              "name": "Herbert Prohaska",
+              "short": "Prohaska"
+            },
+            {
+              "name": "Heinrich Strasser",
+              "short": "Strasser"
+            },
+            {
+              "name": "Hans Krankl",
+              "short": "Krankl"
+            },
+            {
+              "name": "Wilhelm Kreuz",
+              "short": "Kreuz"
+            },
+            {
+              "name": "Walter Schachner",
+              "short": "Schachner"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197866",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 5,
+      "title": "Polonia - Perù",
+      "session": "match",
+      "startsAt": "1978-06-18T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "awayTeam": {
+        "id": "espn-211",
+        "name": "Peru",
+        "shortName": "Perù",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/per.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 66,
+            "type": "goal",
+            "side": "home",
+            "player": "Andrzej Szarmach",
+            "short": "Szarmach"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Zygmunt Kukla",
+              "short": "Kukla"
+            },
+            {
+              "name": "Jerzy Gorgon",
+              "short": "Gorgon"
+            },
+            {
+              "name": "Henrik Maculewicz",
+              "short": "Maculewicz"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Bohdan Masztaler",
+              "short": "Masztaler"
+            },
+            {
+              "name": "Adam Nawalka",
+              "short": "Nawalka"
+            },
+            {
+              "name": "Andrzej Szarmach",
+              "short": "Szarmach"
+            },
+            {
+              "name": "Zbigniew Boniek",
+              "short": "Boniek"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ramón Quiroga",
+              "short": "Quiroga"
+            },
+            {
+              "name": "Héctor Chumpitaz",
+              "short": "Chumpitaz"
+            },
+            {
+              "name": "Jaime Duarte",
+              "short": "Duarte"
+            },
+            {
+              "name": "Rodolfo Manzo",
+              "short": "Manzo"
+            },
+            {
+              "name": "Alfredo Quesada",
+              "short": "Quesada"
+            },
+            {
+              "name": "Teofilo Cubillas",
+              "short": "Cubillas"
+            },
+            {
+              "name": "César Cueto",
+              "short": "Cueto"
+            },
+            {
+              "name": "Guillermo La Rosa",
+              "short": "La Rosa"
+            },
+            {
+              "name": "José Navarro",
+              "short": "Navarro"
+            },
+            {
+              "name": "Juan Munante",
+              "short": "Munante"
+            },
+            {
+              "name": "Juan Oblitas",
+              "short": "Oblitas"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197868",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 6,
+      "title": "Argentina - Perù",
+      "session": "match",
+      "startsAt": "1978-06-21T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-211",
+        "name": "Peru",
+        "shortName": "Perù",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/per.png"
+      },
+      "homeScore": 6,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 22,
+            "type": "goal",
+            "side": "home",
+            "player": "Mario Kempes",
+            "short": "Kempes"
+          },
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "home",
+            "player": "Alberto Tarantini",
+            "short": "Tarantini"
+          },
+          {
+            "minute": 47,
+            "type": "goal",
+            "side": "home",
+            "player": "Mario Kempes",
+            "short": "Kempes"
+          },
+          {
+            "minute": 51,
+            "type": "goal",
+            "side": "home",
+            "player": "Leopoldo Luque",
+            "short": "Luque"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "René Houseman",
+            "short": "Houseman"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "home",
+            "player": "Leopoldo Luque",
+            "short": "Luque"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ubaldo Fillol",
+              "short": "Fillol"
+            },
+            {
+              "name": "Alberto Tarantini",
+              "short": "Tarantini"
+            },
+            {
+              "name": "Luis Galván",
+              "short": "Galván"
+            },
+            {
+              "name": "Jorge Olguín",
+              "short": "Olguín"
+            },
+            {
+              "name": "Daniel Alberto Passarella",
+              "short": "Passarella"
+            },
+            {
+              "name": "Américo Gallego",
+              "short": "Gallego"
+            },
+            {
+              "name": "Omar Larrosa",
+              "short": "Larrosa"
+            },
+            {
+              "name": "Mario Kempes",
+              "short": "Kempes"
+            },
+            {
+              "name": "Leopoldo Luque",
+              "short": "Luque"
+            },
+            {
+              "name": "Ricardo Bertoni",
+              "short": "Bertoni"
+            },
+            {
+              "name": "Oscar Ortiz",
+              "short": "Ortiz"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ramón Quiroga",
+              "short": "Quiroga"
+            },
+            {
+              "name": "Héctor Chumpitaz",
+              "short": "Chumpitaz"
+            },
+            {
+              "name": "Jaime Duarte",
+              "short": "Duarte"
+            },
+            {
+              "name": "Rodolfo Manzo",
+              "short": "Manzo"
+            },
+            {
+              "name": "Alfredo Quesada",
+              "short": "Quesada"
+            },
+            {
+              "name": "Teofilo Cubillas",
+              "short": "Cubillas"
+            },
+            {
+              "name": "César Cueto",
+              "short": "Cueto"
+            },
+            {
+              "name": "Roberto Rojas",
+              "short": "Rojas"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Juan Munante",
+              "short": "Munante"
+            },
+            {
+              "name": "Juan Oblitas",
+              "short": "Oblitas"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197862",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 6,
+      "title": "Austria - Germania Ovest",
+      "session": "match",
+      "startsAt": "1978-06-21T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "awayTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 20,
+            "type": "goal",
+            "side": "away",
+            "player": "Karl-Heinz Rummenigge",
+            "short": "Rummenigge"
+          },
+          {
+            "minute": 60,
+            "type": "ownGoal",
+            "side": "home",
+            "player": "Berti Vogts",
+            "short": "Vogts"
+          },
+          {
+            "minute": 67,
+            "type": "goal",
+            "side": "home",
+            "player": "Hans Krankl",
+            "short": "Krankl"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "away",
+            "player": "Bernd Hoelzenbein",
+            "short": "Hoelzenbein"
+          },
+          {
+            "minute": 88,
+            "type": "goal",
+            "side": "home",
+            "player": "Hans Krankl",
+            "short": "Krankl"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Friedrich Koncilia",
+              "short": "Koncilia"
+            },
+            {
+              "name": "Eduard Krieger",
+              "short": "Krieger"
+            },
+            {
+              "name": "Erich Obermayer",
+              "short": "Obermayer"
+            },
+            {
+              "name": "Bruno Pezzey",
+              "short": "Pezzey"
+            },
+            {
+              "name": "Robert Sara",
+              "short": "Sara"
+            },
+            {
+              "name": "Josef Hickersberger",
+              "short": "Hickersberger"
+            },
+            {
+              "name": "Herbert Prohaska",
+              "short": "Prohaska"
+            },
+            {
+              "name": "Heinrich Strasser",
+              "short": "Strasser"
+            },
+            {
+              "name": "Hans Krankl",
+              "short": "Krankl"
+            },
+            {
+              "name": "Wilhelm Kreuz",
+              "short": "Kreuz"
+            },
+            {
+              "name": "Walter Schachner",
+              "short": "Schachner"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Sepp Maier",
+              "short": "Maier"
+            },
+            {
+              "name": "Berti Vogts",
+              "short": "Vogts"
+            },
+            {
+              "name": "Bernard Dietz",
+              "short": "Dietz"
+            },
+            {
+              "name": "Manfred Kaltz",
+              "short": "Kaltz"
+            },
+            {
+              "name": "Rolf Ruessmann",
+              "short": "Ruessmann"
+            },
+            {
+              "name": "Erich Beer",
+              "short": "Beer"
+            },
+            {
+              "name": "Rainer Bonhof",
+              "short": "Bonhof"
+            },
+            {
+              "name": "Bernd Hoelzenbein",
+              "short": "Hoelzenbein"
+            },
+            {
+              "name": "Karl-Heinz Rummenigge",
+              "short": "Rummenigge"
+            },
+            {
+              "name": "Ruediger Abramczik",
+              "short": "Abramczik"
+            },
+            {
+              "name": "Dieter Mueller",
+              "short": "Mueller"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197867",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 6,
+      "title": "Brasile - Polonia",
+      "session": "match",
+      "startsAt": "1978-06-21T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-471",
+        "name": "Poland",
+        "shortName": "Polonia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Rezende Nelinho",
+            "short": "Nelinho"
+          },
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "away",
+            "player": "Grzegorz Lato",
+            "short": "Lato"
+          },
+          {
+            "minute": 58,
+            "type": "goal",
+            "side": "home",
+            "player": "Enilio Roberto",
+            "short": "Roberto"
+          },
+          {
+            "minute": 64,
+            "type": "goal",
+            "side": "home",
+            "player": "Enilio Roberto",
+            "short": "Roberto"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": "Rezende Nelinho",
+              "short": "Nelinho"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Bernardi Oscar",
+              "short": "Oscar"
+            },
+            {
+              "name": "Antonio Toninho",
+              "short": "Toninho"
+            },
+            {
+              "name": "Zico"
+            },
+            {
+              "name": "Joao Batista",
+              "short": "Batista"
+            },
+            {
+              "name": "Alves Gil",
+              "short": "Gil"
+            },
+            {
+              "name": "Antonio Toninho Cerezo",
+              "short": "Toninho Cerezo"
+            },
+            {
+              "name": "Enilio Roberto",
+              "short": "Roberto"
+            },
+            {
+              "name": "José Dirceu",
+              "short": "Dirceu"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Zygmunt Kukla",
+              "short": "Kukla"
+            },
+            {
+              "name": "Jerzy Gorgon",
+              "short": "Gorgon"
+            },
+            {
+              "name": "Henrik Maculewicz",
+              "short": "Maculewicz"
+            },
+            {
+              "name": "Antoni Szymanowski",
+              "short": "Szymanowski"
+            },
+            {
+              "name": "Wladyslaw Zmuda",
+              "short": "Zmuda"
+            },
+            {
+              "name": "Grzegorz Lato",
+              "short": "Lato"
+            },
+            {
+              "name": "Kazimierz Deyna",
+              "short": "Deyna"
+            },
+            {
+              "name": "Henryk Kasperczak",
+              "short": "Kasperczak"
+            },
+            {
+              "name": "Adam Nawalka",
+              "short": "Nawalka"
+            },
+            {
+              "name": "Zbigniew Boniek",
+              "short": "Boniek"
+            },
+            {
+              "name": "Andrzej Szarmach",
+              "short": "Szarmach"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197861",
+      "competition": "mondiali",
+      "season": "1978",
+      "round": 6,
+      "title": "Olanda - Italia",
+      "session": "match",
+      "startsAt": "1978-06-21T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "awayTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 19,
+            "type": "ownGoal",
+            "side": "away",
+            "player": "Erny Brandts",
+            "short": "Brandts"
+          },
+          {
+            "minute": 51,
+            "type": "goal",
+            "side": "home",
+            "player": "Erny Brandts",
+            "short": "Brandts"
+          },
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "home",
+            "player": "Adrianus Haan",
+            "short": "Haan"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Peter Schrijvers",
+              "short": "Schrijvers"
+            },
+            {
+              "name": "Erny Brandts",
+              "short": "Brandts"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Jan Poortvliet",
+              "short": "Poortvliet"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Johan Neeskens",
+              "short": "Neeskens"
+            },
+            {
+              "name": "Wilhelmus Van De Kerkhof",
+              "short": "Van De Kerkhof"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            },
+            {
+              "name": "Rene van de Kerkhof",
+              "short": "van de Kerkhof"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Dino Zoff",
+              "short": "Zoff"
+            },
+            {
+              "name": "Antonio Cabrini",
+              "short": "Cabrini"
+            },
+            {
+              "name": "Antonello Cuccureddu",
+              "short": "Cuccureddu"
+            },
+            {
+              "name": "Claudio Gentile",
+              "short": "Gentile"
+            },
+            {
+              "name": "Gaetano Scirea",
+              "short": "Scirea"
+            },
+            {
+              "name": "Romeo Benetti",
+              "short": "Benetti"
+            },
+            {
+              "name": "Marco Tardelli",
+              "short": "Tardelli"
+            },
+            {
+              "name": "Renato Zaccarelli",
+              "short": "Zaccarelli"
+            },
+            {
+              "name": "Roberto Bettega",
+              "short": "Bettega"
+            },
+            {
+              "name": "Franco Causio",
+              "short": "Causio"
+            },
+            {
+              "name": "Paolo Rossi",
+              "short": "Rossi"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197869",
+      "competition": "mondiali",
+      "season": "1978",
+      "stage": "third_place",
+      "title": "Brasile - Italia",
+      "session": "match",
+      "startsAt": "1978-06-24T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "away",
+            "player": "Franco Causio",
+            "short": "Causio"
+          },
+          {
+            "minute": 65,
+            "type": "goal",
+            "side": "home",
+            "player": "Rezende Nelinho",
+            "short": "Nelinho"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "home",
+            "player": "José Dirceu",
+            "short": "Dirceu"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Emerson Leao",
+              "short": "Leao"
+            },
+            {
+              "name": "Rezende Nelinho",
+              "short": "Nelinho"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Rodríguez Netto",
+              "short": "Netto"
+            },
+            {
+              "name": "Bernardi Oscar",
+              "short": "Oscar"
+            },
+            {
+              "name": "Joao Batista",
+              "short": "Batista"
+            },
+            {
+              "name": "Alves Gil",
+              "short": "Gil"
+            },
+            {
+              "name": "Antonio Toninho Cerezo",
+              "short": "Toninho Cerezo"
+            },
+            {
+              "name": "José Dirceu",
+              "short": "Dirceu"
+            },
+            {
+              "name": "Jorge Mendonca",
+              "short": "Mendonca"
+            },
+            {
+              "name": "Enilio Roberto",
+              "short": "Roberto"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Dino Zoff",
+              "short": "Zoff"
+            },
+            {
+              "name": "Antonio Cabrini",
+              "short": "Cabrini"
+            },
+            {
+              "name": "Antonello Cuccureddu",
+              "short": "Cuccureddu"
+            },
+            {
+              "name": "Claudio Gentile",
+              "short": "Gentile"
+            },
+            {
+              "name": "Aldo Maldera",
+              "short": "Maldera"
+            },
+            {
+              "name": "Gaetano Scirea",
+              "short": "Scirea"
+            },
+            {
+              "name": "Giancarlo Antognoni",
+              "short": "Antognoni"
+            },
+            {
+              "name": "Patrizio Sala",
+              "short": "Sala"
+            },
+            {
+              "name": "Franco Causio",
+              "short": "Causio"
+            },
+            {
+              "name": "Roberto Bettega",
+              "short": "Bettega"
+            },
+            {
+              "name": "Paolo Rossi",
+              "short": "Rossi"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1978-197870",
+      "competition": "mondiali",
+      "season": "1978",
+      "stage": "final",
+      "title": "Argentina - Olanda",
+      "session": "match",
+      "startsAt": "1978-06-25T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-449",
+        "name": "Netherlands",
+        "shortName": "Olanda",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "Mario Kempes",
+            "short": "Kempes"
+          },
+          {
+            "minute": 83,
+            "type": "goal",
+            "side": "away",
+            "player": "Dirk Nanninga",
+            "short": "Nanninga"
+          },
+          {
+            "minute": 105,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Mario Kempes",
+            "short": "Kempes"
+          },
+          {
+            "minute": 117,
+            "type": "goal",
+            "side": "home",
+            "player": "Ricardo Bertoni",
+            "short": "Bertoni"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ubaldo Fillol",
+              "short": "Fillol"
+            },
+            {
+              "name": "Luis Galván",
+              "short": "Galván"
+            },
+            {
+              "name": "Jorge Olguín",
+              "short": "Olguín"
+            },
+            {
+              "name": "Daniel Alberto Passarella",
+              "short": "Passarella"
+            },
+            {
+              "name": "Alberto Tarantini",
+              "short": "Tarantini"
+            },
+            {
+              "name": "Osvaldo Ardiles",
+              "short": "Ardiles"
+            },
+            {
+              "name": "Américo Gallego",
+              "short": "Gallego"
+            },
+            {
+              "name": "Ricardo Bertoni",
+              "short": "Bertoni"
+            },
+            {
+              "name": "Mario Kempes",
+              "short": "Kempes"
+            },
+            {
+              "name": "Leopoldo Luque",
+              "short": "Luque"
+            },
+            {
+              "name": "Oscar Ortiz",
+              "short": "Ortiz"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jan Jongbloed",
+              "short": "Jongbloed"
+            },
+            {
+              "name": "Erny Brandts",
+              "short": "Brandts"
+            },
+            {
+              "name": "Adrianus Haan",
+              "short": "Haan"
+            },
+            {
+              "name": "Ruud Krol",
+              "short": "Krol"
+            },
+            {
+              "name": "Jan Poortvliet",
+              "short": "Poortvliet"
+            },
+            {
+              "name": "Wilhelmus Jansen",
+              "short": "Jansen"
+            },
+            {
+              "name": "Johan Neeskens",
+              "short": "Neeskens"
+            },
+            {
+              "name": "Wilhelmus Van De Kerkhof",
+              "short": "Van De Kerkhof"
+            },
+            {
+              "name": "Robert Rensenbrink",
+              "short": "Rensenbrink"
+            },
+            {
+              "name": "Johny Rep",
+              "short": "Rep"
+            },
+            {
+              "name": "Rene van de Kerkhof",
+              "short": "van de Kerkhof"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "table",
+      "title": "Gironi",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Olanda",
+          "code": "NED",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 5,
+          "zone": "qualified",
+          "group": "Secondo turno, gruppo A"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Italia",
+          "code": "ITA",
+          "points": 3,
+          "wins": 1,
+          "played": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalDifference": 0,
+          "group": "Secondo turno, gruppo A"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Germania Ovest",
+          "code": "GFR",
+          "points": 2,
+          "wins": 0,
+          "played": 3,
+          "draws": 2,
+          "losses": 1,
+          "goalDifference": -1,
+          "group": "Secondo turno, gruppo A"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Austria",
+          "code": "AUT",
+          "points": 2,
+          "wins": 1,
+          "played": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -4,
+          "group": "Secondo turno, gruppo A"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Argentina",
+          "code": "ARG",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 8,
+          "zone": "qualified",
+          "group": "Secondo turno, gruppo B"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Brasile",
+          "code": "BRA",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 5,
+          "group": "Secondo turno, gruppo B"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Polonia",
+          "code": "POL",
+          "points": 2,
+          "wins": 1,
+          "played": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -3,
+          "group": "Secondo turno, gruppo B"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Perù",
+          "code": "PER",
+          "points": 0,
+          "wins": 0,
+          "played": 3,
+          "draws": 0,
+          "losses": 3,
+          "goalDifference": -10,
+          "group": "Secondo turno, gruppo B"
+        }
+      ]
+    },
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Mario Kempes",
+          "team": "Argentina",
+          "points": 6
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Robert Rensenbrink",
+          "team": "Olanda",
+          "points": 5
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Teofilo Cubillas",
+          "team": "Perù",
+          "points": 5
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Hans Krankl",
+          "team": "Austria",
+          "points": 4
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Leopoldo Luque",
+          "team": "Argentina",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Paolo Rossi",
+          "team": "Italia",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Johny Rep",
+          "team": "Olanda",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "José Dirceu",
+          "team": "Brasile",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Enilio Roberto",
+          "team": "Brasile",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Karl-Heinz Rummenigge",
+          "team": "Germania Ovest",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

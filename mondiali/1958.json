@@ -1,0 +1,5251 @@
+{
+  "competition": "mondiali",
+  "season": "1958",
+  "generatedAt": "2026-11-26T16:16:37.8331833+00:00",
+  "events": [
+    {
+      "id": "mondiali-1958-197623",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 1,
+      "title": "Brasile - Austria",
+      "session": "match",
+      "startsAt": "1958-06-08T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "José Altafini",
+            "short": "Altafini"
+          },
+          {
+            "minute": 50,
+            "type": "goal",
+            "side": "home",
+            "player": "Dos Nilton Santos",
+            "short": "Nilton Santos"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "home",
+            "player": "José Altafini",
+            "short": "Altafini"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gilmar"
+            },
+            {
+              "name": "Dos Nilton Santos",
+              "short": "Nilton Santos"
+            },
+            {
+              "name": "Hideraldo Bellini"
+            },
+            {
+              "name": "Nilton De Sordi",
+              "short": "De Sordi"
+            },
+            {
+              "name": "Sani Dino",
+              "short": "Dino"
+            },
+            {
+              "name": "Antonio Joel",
+              "short": "Joel"
+            },
+            {
+              "name": "Pecanha Orlando",
+              "short": "Orlando"
+            },
+            {
+              "name": "José Altafini",
+              "short": "Altafini"
+            },
+            {
+              "name": "Didí"
+            },
+            {
+              "name": "Edvaldo Dida",
+              "short": "Dida"
+            },
+            {
+              "name": "Mario Zagallo",
+              "short": "Zagallo"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Rudolf Szanwald",
+              "short": "Szanwald"
+            },
+            {
+              "name": "Ernst Happel",
+              "short": "Happel"
+            },
+            {
+              "name": "Franz Swoboda",
+              "short": "Swoboda"
+            },
+            {
+              "name": "Paul Halla",
+              "short": "Halla"
+            },
+            {
+              "name": "Gerhard Hanappi",
+              "short": "Hanappi"
+            },
+            {
+              "name": "Walter Horak",
+              "short": "Horak"
+            },
+            {
+              "name": "Karl Koller",
+              "short": "Koller"
+            },
+            {
+              "name": "Johann Buzek",
+              "short": "Buzek"
+            },
+            {
+              "name": "Alfred Korner",
+              "short": "Korner"
+            },
+            {
+              "name": "Walter Schleger",
+              "short": "Schleger"
+            },
+            {
+              "name": "Helmut Senekowitsch",
+              "short": "Senekowitsch"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197611",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 1,
+      "title": "Francia - Paraguay",
+      "session": "match",
+      "startsAt": "1958-06-08T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "awayTeam": {
+        "id": "espn-210",
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/par.png"
+      },
+      "homeScore": 7,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "away",
+            "player": "Florencio Amarilla",
+            "short": "Amarilla"
+          },
+          {
+            "minute": 25,
+            "type": "goal",
+            "side": "home",
+            "player": "Just Fontaine",
+            "short": "Fontaine"
+          },
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Just Fontaine",
+            "short": "Fontaine"
+          },
+          {
+            "minute": 45,
+            "type": "penalty",
+            "side": "away",
+            "player": "Florencio Amarilla",
+            "short": "Amarilla"
+          },
+          {
+            "minute": 51,
+            "type": "goal",
+            "side": "away",
+            "player": "Jorgelino Romero",
+            "short": "Romero"
+          },
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "home",
+            "player": "Roger Piantoni",
+            "short": "Piantoni"
+          },
+          {
+            "minute": 62,
+            "type": "goal",
+            "side": "home",
+            "player": "Maryan Wisnieski",
+            "short": "Wisnieski"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Just Fontaine",
+            "short": "Fontaine"
+          },
+          {
+            "minute": 71,
+            "type": "goal",
+            "side": "home",
+            "player": "Raymond Kopa",
+            "short": "Kopa"
+          },
+          {
+            "minute": 84,
+            "type": "goal",
+            "side": "home",
+            "player": "Jean Vincent",
+            "short": "Vincent"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Claude Abbes",
+              "short": "Abbes"
+            },
+            {
+              "name": "Andre Lerond",
+              "short": "Lerond"
+            },
+            {
+              "name": "Jean Marcel",
+              "short": "Marcel"
+            },
+            {
+              "name": "Maryan Wisnieski",
+              "short": "Wisnieski"
+            },
+            {
+              "name": "Armand Penverne",
+              "short": "Penverne"
+            },
+            {
+              "name": "Francois Remetter",
+              "short": "Remetter"
+            },
+            {
+              "name": "Just Fontaine",
+              "short": "Fontaine"
+            },
+            {
+              "name": "Raymond Kopa",
+              "short": "Kopa"
+            },
+            {
+              "name": "Roger Piantoni",
+              "short": "Piantoni"
+            },
+            {
+              "name": "Jean Vincent",
+              "short": "Vincent"
+            },
+            {
+              "name": "Raymond Kaelbel",
+              "short": "Kaelbel"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ramón Mayeregger",
+              "short": "Mayeregger"
+            },
+            {
+              "name": "Ignacio Achucarro",
+              "short": "Achucarro"
+            },
+            {
+              "name": "Edelmiro Arévalo",
+              "short": "Arévalo"
+            },
+            {
+              "name": "Juan Lezcano",
+              "short": "Lezcano"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Salvador Villalba",
+              "short": "Villalba"
+            },
+            {
+              "name": "Florencio Amarilla",
+              "short": "Amarilla"
+            },
+            {
+              "name": "Jorgelino Romero",
+              "short": "Romero"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Cayetano Ré",
+              "short": "Ré"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197605",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 1,
+      "title": "Germania Ovest - Argentina",
+      "session": "match",
+      "startsAt": "1958-06-08T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 3,
+            "type": "goal",
+            "side": "away",
+            "player": "Orestes Corbatta",
+            "short": "Corbatta"
+          },
+          {
+            "minute": 33,
+            "type": "goal",
+            "side": "home",
+            "player": "Helmut Rahn",
+            "short": "Rahn"
+          },
+          {
+            "minute": 41,
+            "type": "goal",
+            "side": "home",
+            "player": "Uwe Seeler",
+            "short": "Seeler"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Helmut Rahn",
+            "short": "Rahn"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Fritz Herkenrath",
+              "short": "Herkenrath"
+            },
+            {
+              "name": "Herbert Erhardt",
+              "short": "Erhardt"
+            },
+            {
+              "name": "Erich Juskowiak",
+              "short": "Juskowiak"
+            },
+            {
+              "name": "Georg Stollenwerk",
+              "short": "Stollenwerk"
+            },
+            {
+              "name": "Horst Eckel",
+              "short": "Eckel"
+            },
+            {
+              "name": "Horst Szymaniak",
+              "short": "Szymaniak"
+            },
+            {
+              "name": "Helmut Rahn",
+              "short": "Rahn"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            },
+            {
+              "name": "Alfred Schmidt",
+              "short": "Schmidt"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Amadeo Carrizo",
+              "short": "Carrizo"
+            },
+            {
+              "name": "Pedro Dellacha",
+              "short": "Dellacha"
+            },
+            {
+              "name": "Federico Vairo",
+              "short": "Vairo"
+            },
+            {
+              "name": "José Varacka",
+              "short": "Varacka"
+            },
+            {
+              "name": "Francisco Lombardo",
+              "short": "Lombardo"
+            },
+            {
+              "name": "Eliseo Prado",
+              "short": "Prado"
+            },
+            {
+              "name": "Néstor Rossi",
+              "short": "Rossi"
+            },
+            {
+              "name": "Orestes Corbatta",
+              "short": "Corbatta"
+            },
+            {
+              "name": "Osvaldo Cruz",
+              "short": "Cruz"
+            },
+            {
+              "name": "Norberto Menéndez",
+              "short": "Menéndez"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197618",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 1,
+      "title": "Ungheria - Galles",
+      "session": "match",
+      "startsAt": "1958-06-08T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-578",
+        "name": "Wales",
+        "shortName": "Galles",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 6,
+            "type": "goal",
+            "side": "home",
+            "player": "Joszef Bozsik",
+            "short": "Bozsik"
+          },
+          {
+            "minute": 28,
+            "type": "goal",
+            "side": "away",
+            "player": "John Charles",
+            "short": "Charles"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gyula Grosics",
+              "short": "Grosics"
+            },
+            {
+              "name": "Sandor Matrai",
+              "short": "Matrai"
+            },
+            {
+              "name": "Lazlo Sarosi",
+              "short": "Sarosi"
+            },
+            {
+              "name": "Ferenc Sipos",
+              "short": "Sipos"
+            },
+            {
+              "name": "Joszef Bozsik",
+              "short": "Bozsik"
+            },
+            {
+              "name": "Pal Berendi",
+              "short": "Berendi"
+            },
+            {
+              "name": "Lajos Tichy",
+              "short": "Tichy"
+            },
+            {
+              "name": "Dezso Bundzsak",
+              "short": "Bundzsak"
+            },
+            {
+              "name": "Máté Fenyvesi",
+              "short": "Fenyvesi"
+            },
+            {
+              "name": "Nandor Hidegkuti",
+              "short": "Hidegkuti"
+            },
+            {
+              "name": "Karoly Sandor",
+              "short": "Sandor"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jack Kelsey",
+              "short": "Kelsey"
+            },
+            {
+              "name": "Mel Charles",
+              "short": "Charles"
+            },
+            {
+              "name": "Mel Hopkins",
+              "short": "Hopkins"
+            },
+            {
+              "name": "Derek Sullivan",
+              "short": "Sullivan"
+            },
+            {
+              "name": "Stuart Williams",
+              "short": "Williams"
+            },
+            {
+              "name": "Dave Bowen",
+              "short": "Bowen"
+            },
+            {
+              "name": "Colin Webster",
+              "short": "Webster"
+            },
+            {
+              "name": "John Charles",
+              "short": "Charles"
+            },
+            {
+              "name": "Ivor Allchurch",
+              "short": "Allchurch"
+            },
+            {
+              "name": "Cliff Jones",
+              "short": "Jones"
+            },
+            {
+              "name": "Terry Medwin",
+              "short": "Medwin"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197606",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 1,
+      "title": "Irlanda del Nord - Cecoslovacchia",
+      "session": "match",
+      "startsAt": "1958-06-08T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-586",
+        "name": "Northern Ireland",
+        "shortName": "Irlanda del Nord",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png"
+      },
+      "awayTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 17,
+            "type": "goal",
+            "side": "home",
+            "player": "Wilbur Cush",
+            "short": "Cush"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Harry Gregg",
+              "short": "Gregg"
+            },
+            {
+              "name": "Danny Blanchflower",
+              "short": "Blanchflower"
+            },
+            {
+              "name": "William Cunningham",
+              "short": "Cunningham"
+            },
+            {
+              "name": "Dick Keith",
+              "short": "Keith"
+            },
+            {
+              "name": "Alf Mc Michael",
+              "short": "Mc Michael"
+            },
+            {
+              "name": "Wilbur Cush",
+              "short": "Cush"
+            },
+            {
+              "name": "William Bingham",
+              "short": "Bingham"
+            },
+            {
+              "name": "Bertie Peacock",
+              "short": "Peacock"
+            },
+            {
+              "name": "Derek Dougan",
+              "short": "Dougan"
+            },
+            {
+              "name": "Jimmy Mc Ilroy",
+              "short": "Mc Ilroy"
+            },
+            {
+              "name": "Peter Mc Parland",
+              "short": "Mc Parland"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Bretislav Dolejsi",
+              "short": "Dolejsi"
+            },
+            {
+              "name": "Jiri Cadek",
+              "short": "Cadek"
+            },
+            {
+              "name": "Gustav Mraz",
+              "short": "Mraz"
+            },
+            {
+              "name": "Jan Popluhar",
+              "short": "Popluhar"
+            },
+            {
+              "name": "Jaroslav Borovicka",
+              "short": "Borovicka"
+            },
+            {
+              "name": "Milan Dvorak",
+              "short": "Dvorak"
+            },
+            {
+              "name": "Jan Hertl",
+              "short": "Hertl"
+            },
+            {
+              "name": "Vaclav Hovorka",
+              "short": "Hovorka"
+            },
+            {
+              "name": "Tadeus Kraus",
+              "short": "Kraus"
+            },
+            {
+              "name": "Josef Masopust",
+              "short": "Masopust"
+            },
+            {
+              "name": "Ladislav Novak",
+              "short": "Novak"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197624",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 1,
+      "title": "Unione Sovietica - Inghilterra",
+      "session": "match",
+      "startsAt": "1958-06-08T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "awayTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 14,
+            "type": "goal",
+            "side": "home",
+            "player": "Nikita Simonyan",
+            "short": "Simonyan"
+          },
+          {
+            "minute": 56,
+            "type": "goal",
+            "side": "home",
+            "player": "Alexander Ivanov",
+            "short": "Ivanov"
+          },
+          {
+            "minute": 67,
+            "type": "goal",
+            "side": "away",
+            "player": "Derek Kevan",
+            "short": "Kevan"
+          },
+          {
+            "minute": 86,
+            "type": "penalty",
+            "side": "away",
+            "player": "Thomas Finney",
+            "short": "Finney"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Vladimir Kesarev",
+              "short": "Kesarev"
+            },
+            {
+              "name": "Konstantin Khrizhevski",
+              "short": "Khrizhevski"
+            },
+            {
+              "name": "Boris Kuznetsov",
+              "short": "Kuznetsov"
+            },
+            {
+              "name": "Yuri Voinov",
+              "short": "Voinov"
+            },
+            {
+              "name": "Alexander Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Valentin Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Viktor Tsarev",
+              "short": "Tsarev"
+            },
+            {
+              "name": "Nikita Simonyan",
+              "short": "Simonyan"
+            },
+            {
+              "name": "Anatoli Ilyin",
+              "short": "Ilyin"
+            },
+            {
+              "name": "Sergei Salnikov",
+              "short": "Salnikov"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Colin Mc Donald",
+              "short": "Mc Donald"
+            },
+            {
+              "name": "Derek Kevan",
+              "short": "Kevan"
+            },
+            {
+              "name": "Tommy Banks",
+              "short": "Banks"
+            },
+            {
+              "name": "Eddie Clamp",
+              "short": "Clamp"
+            },
+            {
+              "name": "Robert Robson",
+              "short": "Robson"
+            },
+            {
+              "name": "Bryan Douglas",
+              "short": "Douglas"
+            },
+            {
+              "name": "Don Howe",
+              "short": "Howe"
+            },
+            {
+              "name": "Bill Slater",
+              "short": "Slater"
+            },
+            {
+              "name": "Tommy Wright",
+              "short": "Wright"
+            },
+            {
+              "name": "Thomas Finney",
+              "short": "Finney"
+            },
+            {
+              "name": "Johnny Haynes",
+              "short": "Haynes"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197617",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 1,
+      "title": "Svezia - Messico",
+      "session": "match",
+      "startsAt": "1958-06-08T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "home",
+            "player": "Agne Simonsson",
+            "short": "Simonsson"
+          },
+          {
+            "minute": 58,
+            "type": "penalty",
+            "side": "home",
+            "player": "Nils Liedholm",
+            "short": "Liedholm"
+          },
+          {
+            "minute": 65,
+            "type": "goal",
+            "side": "home",
+            "player": "Agne Simonsson",
+            "short": "Simonsson"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Karl Svensson",
+              "short": "Svensson"
+            },
+            {
+              "name": "Sven Axbom",
+              "short": "Axbom"
+            },
+            {
+              "name": "Orvar Bergmark",
+              "short": "Bergmark"
+            },
+            {
+              "name": "Bengt Gustavsson",
+              "short": "Gustavsson"
+            },
+            {
+              "name": "Nils Liedholm",
+              "short": "Liedholm"
+            },
+            {
+              "name": "Kurt Hamrin",
+              "short": "Hamrin"
+            },
+            {
+              "name": "Sigvard Parling",
+              "short": "Parling"
+            },
+            {
+              "name": "Agne Simonsson",
+              "short": "Simonsson"
+            },
+            {
+              "name": "Gunnar Gren",
+              "short": "Gren"
+            },
+            {
+              "name": "Bror Mellberg",
+              "short": "Mellberg"
+            },
+            {
+              "name": "Lennart Skoglund",
+              "short": "Skoglund"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Carbajal",
+              "short": "Carbajal"
+            },
+            {
+              "name": "Jesús Del Muro",
+              "short": "Del Muro"
+            },
+            {
+              "name": "Alfonso Portugal",
+              "short": "Portugal"
+            },
+            {
+              "name": "José Villegas",
+              "short": "Villegas"
+            },
+            {
+              "name": "Francisco Flores",
+              "short": "Flores"
+            },
+            {
+              "name": "Alfredo Hernández",
+              "short": "Hernández"
+            },
+            {
+              "name": "Salvador Reyes",
+              "short": "Reyes"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Crescencio Gutiérrez",
+              "short": "Gutiérrez"
+            },
+            {
+              "name": "Enrique Sesma",
+              "short": "Sesma"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197612",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 1,
+      "title": "Jugoslavia - Scozia",
+      "session": "match",
+      "startsAt": "1958-06-08T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "awayTeam": {
+        "id": "espn-580",
+        "name": "Scotland",
+        "shortName": "Scozia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 7,
+            "type": "goal",
+            "side": "home",
+            "player": "Aleksander Petakovic",
+            "short": "Petakovic"
+          },
+          {
+            "minute": 50,
+            "type": "goal",
+            "side": "away",
+            "player": "Jimmy Murray",
+            "short": "Murray"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Vladimir Beara",
+              "short": "Beara"
+            },
+            {
+              "name": "Tomislav Crnkovic",
+              "short": "Crnkovic"
+            },
+            {
+              "name": "Dobrosav Krstec",
+              "short": "Krstec"
+            },
+            {
+              "name": "Vujadin Boskov",
+              "short": "Boskov"
+            },
+            {
+              "name": "Dragoslav Sekularac",
+              "short": "Sekularac"
+            },
+            {
+              "name": "Vasilije Sijakovic",
+              "short": "Sijakovic"
+            },
+            {
+              "name": "Aleksander Petakovic",
+              "short": "Petakovic"
+            },
+            {
+              "name": "Milos Milutinovic",
+              "short": "Milutinovic"
+            },
+            {
+              "name": "Zdravko Rajkov",
+              "short": "Rajkov"
+            },
+            {
+              "name": "Todor Veselinovic",
+              "short": "Veselinovic"
+            },
+            {
+              "name": "Branko Zebec",
+              "short": "Zebec"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Tommy Younger",
+              "short": "Younger"
+            },
+            {
+              "name": "Eric Caldow",
+              "short": "Caldow"
+            },
+            {
+              "name": "John Hewie",
+              "short": "Hewie"
+            },
+            {
+              "name": "Eddie Turnbull",
+              "short": "Turnbull"
+            },
+            {
+              "name": "Jimmy Murray",
+              "short": "Murray"
+            },
+            {
+              "name": "Doug Cowie",
+              "short": "Cowie"
+            },
+            {
+              "name": "Bobby Evans",
+              "short": "Evans"
+            },
+            {
+              "name": "Graham Leggat",
+              "short": "Leggat"
+            },
+            {
+              "name": "Bobby Collins",
+              "short": "Collins"
+            },
+            {
+              "name": "Stuart Imlach",
+              "short": "Imlach"
+            },
+            {
+              "name": "Jackie Mudie",
+              "short": "Mudie"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197608",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 2,
+      "title": "Argentina - Irlanda del Nord",
+      "session": "match",
+      "startsAt": "1958-06-11T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-586",
+        "name": "Northern Ireland",
+        "shortName": "Irlanda del Nord",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 4,
+            "type": "goal",
+            "side": "away",
+            "player": "Peter Mc Parland",
+            "short": "Mc Parland"
+          },
+          {
+            "minute": 39,
+            "type": "penalty",
+            "side": "home",
+            "player": "Orestes Corbatta",
+            "short": "Corbatta"
+          },
+          {
+            "minute": 56,
+            "type": "goal",
+            "side": "home",
+            "player": "Norberto Menéndez",
+            "short": "Menéndez"
+          },
+          {
+            "minute": 60,
+            "type": "goal",
+            "side": "home",
+            "player": "Ludovico Avio",
+            "short": "Avio"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Amadeo Carrizo",
+              "short": "Carrizo"
+            },
+            {
+              "name": "Pedro Dellacha",
+              "short": "Dellacha"
+            },
+            {
+              "name": "Federico Vairo",
+              "short": "Vairo"
+            },
+            {
+              "name": "José Varacka",
+              "short": "Varacka"
+            },
+            {
+              "name": "Ludovico Avio",
+              "short": "Avio"
+            },
+            {
+              "name": "Francisco Lombardo",
+              "short": "Lombardo"
+            },
+            {
+              "name": "Néstor Rossi",
+              "short": "Rossi"
+            },
+            {
+              "name": "Orestes Corbatta",
+              "short": "Corbatta"
+            },
+            {
+              "name": "Norberto Menéndez",
+              "short": "Menéndez"
+            },
+            {
+              "name": "Norberto Boggio",
+              "short": "Boggio"
+            },
+            {
+              "name": "Angel Labruna",
+              "short": "Labruna"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Harry Gregg",
+              "short": "Gregg"
+            },
+            {
+              "name": "Danny Blanchflower",
+              "short": "Blanchflower"
+            },
+            {
+              "name": "William Cunningham",
+              "short": "Cunningham"
+            },
+            {
+              "name": "Dick Keith",
+              "short": "Keith"
+            },
+            {
+              "name": "Alf Mc Michael",
+              "short": "Mc Michael"
+            },
+            {
+              "name": "William Bingham",
+              "short": "Bingham"
+            },
+            {
+              "name": "Wilbur Cush",
+              "short": "Cush"
+            },
+            {
+              "name": "Bertie Peacock",
+              "short": "Peacock"
+            },
+            {
+              "name": "Peter Mc Parland",
+              "short": "Mc Parland"
+            },
+            {
+              "name": "Fay Coyle",
+              "short": "Coyle"
+            },
+            {
+              "name": "Jimmy Mc Ilroy",
+              "short": "Mc Ilroy"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197626",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 2,
+      "title": "Brasile - Inghilterra",
+      "session": "match",
+      "startsAt": "1958-06-11T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Gilmar"
+            },
+            {
+              "name": "Hideraldo Bellini"
+            },
+            {
+              "name": "Nilton De Sordi",
+              "short": "De Sordi"
+            },
+            {
+              "name": "Sani Dino",
+              "short": "Dino"
+            },
+            {
+              "name": "Dos Nilton Santos",
+              "short": "Nilton Santos"
+            },
+            {
+              "name": "Antonio Joel",
+              "short": "Joel"
+            },
+            {
+              "name": "Pecanha Orlando",
+              "short": "Orlando"
+            },
+            {
+              "name": "Didí"
+            },
+            {
+              "name": "José Altafini",
+              "short": "Altafini"
+            },
+            {
+              "name": "Vava",
+              "short": "Neto"
+            },
+            {
+              "name": "Mario Zagallo",
+              "short": "Zagallo"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Colin Mc Donald",
+              "short": "Mc Donald"
+            },
+            {
+              "name": "Tommy Banks",
+              "short": "Banks"
+            },
+            {
+              "name": "Eddie Clamp",
+              "short": "Clamp"
+            },
+            {
+              "name": "Derek Kevan",
+              "short": "Kevan"
+            },
+            {
+              "name": "Robert Robson",
+              "short": "Robson"
+            },
+            {
+              "name": "Bryan Douglas",
+              "short": "Douglas"
+            },
+            {
+              "name": "Don Howe",
+              "short": "Howe"
+            },
+            {
+              "name": "Bill Slater",
+              "short": "Slater"
+            },
+            {
+              "name": "Tommy Wright",
+              "short": "Wright"
+            },
+            {
+              "name": "Alan A´Court",
+              "short": "A´Court"
+            },
+            {
+              "name": "Johnny Haynes",
+              "short": "Haynes"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197607",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 2,
+      "title": "Germania Ovest - Cecoslovacchia",
+      "session": "match",
+      "startsAt": "1958-06-11T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 25,
+            "type": "penalty",
+            "side": "away",
+            "player": "Milan Dvorak",
+            "short": "Dvorak"
+          },
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "away",
+            "player": "Zdenek Zikan",
+            "short": "Zikan"
+          },
+          {
+            "minute": 60,
+            "type": "goal",
+            "side": "home",
+            "player": "Hans Schafer",
+            "short": "Schafer"
+          },
+          {
+            "minute": 71,
+            "type": "goal",
+            "side": "home",
+            "player": "Helmut Rahn",
+            "short": "Rahn"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Fritz Herkenrath",
+              "short": "Herkenrath"
+            },
+            {
+              "name": "Herbert Erhardt",
+              "short": "Erhardt"
+            },
+            {
+              "name": "Erich Juskowiak",
+              "short": "Juskowiak"
+            },
+            {
+              "name": "Karl Schnellinger",
+              "short": "Schnellinger"
+            },
+            {
+              "name": "Georg Stollenwerk",
+              "short": "Stollenwerk"
+            },
+            {
+              "name": "Horst Szymaniak",
+              "short": "Szymaniak"
+            },
+            {
+              "name": "Helmut Rahn",
+              "short": "Rahn"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            },
+            {
+              "name": "Berni Klodt",
+              "short": "Klodt"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Bretislav Dolejsi",
+              "short": "Dolejsi"
+            },
+            {
+              "name": "Pavol Molnar",
+              "short": "Molnar"
+            },
+            {
+              "name": "Gustav Mraz",
+              "short": "Mraz"
+            },
+            {
+              "name": "Jan Popluhar",
+              "short": "Popluhar"
+            },
+            {
+              "name": "Milan Dvorak",
+              "short": "Dvorak"
+            },
+            {
+              "name": "Vaclav Hovorka",
+              "short": "Hovorka"
+            },
+            {
+              "name": "Josef Masopust",
+              "short": "Masopust"
+            },
+            {
+              "name": "Zdenek Zikan",
+              "short": "Zikan"
+            },
+            {
+              "name": "Jiri Feureisl",
+              "short": "Feureisl"
+            },
+            {
+              "name": "Ladislav Novak",
+              "short": "Novak"
+            },
+            {
+              "name": "Svatopluk Pluskal",
+              "short": "Pluskal"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197619",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 2,
+      "title": "Messico - Galles",
+      "session": "match",
+      "startsAt": "1958-06-11T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "awayTeam": {
+        "id": "espn-578",
+        "name": "Wales",
+        "shortName": "Galles",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 33,
+            "type": "goal",
+            "side": "away",
+            "player": "Ivor Allchurch",
+            "short": "Allchurch"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "home",
+            "player": "Jaime Belmonte",
+            "short": "Belmonte"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Antonio Carbajal",
+              "short": "Carbajal"
+            },
+            {
+              "name": "Jesús Del Muro",
+              "short": "Del Muro"
+            },
+            {
+              "name": "Jaime Belmonte",
+              "short": "Belmonte"
+            },
+            {
+              "name": "Javier Cárdenas",
+              "short": "Cárdenas"
+            },
+            {
+              "name": "Francisco Flores",
+              "short": "Flores"
+            },
+            {
+              "name": "Miguel Gutiérrez",
+              "short": "Gutiérrez"
+            },
+            {
+              "name": "Salvador Reyes",
+              "short": "Reyes"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Enrique Sesma",
+              "short": "Sesma"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jack Kelsey",
+              "short": "Kelsey"
+            },
+            {
+              "name": "Colin Baker",
+              "short": "Baker"
+            },
+            {
+              "name": "Mel Charles",
+              "short": "Charles"
+            },
+            {
+              "name": "Mel Hopkins",
+              "short": "Hopkins"
+            },
+            {
+              "name": "Stuart Williams",
+              "short": "Williams"
+            },
+            {
+              "name": "Dave Bowen",
+              "short": "Bowen"
+            },
+            {
+              "name": "Colin Webster",
+              "short": "Webster"
+            },
+            {
+              "name": "Ivor Allchurch",
+              "short": "Allchurch"
+            },
+            {
+              "name": "John Charles",
+              "short": "Charles"
+            },
+            {
+              "name": "Cliff Jones",
+              "short": "Jones"
+            },
+            {
+              "name": "Terry Medwin",
+              "short": "Medwin"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197613",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 2,
+      "title": "Paraguay - Scozia",
+      "session": "match",
+      "startsAt": "1958-06-11T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-210",
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/par.png"
+      },
+      "awayTeam": {
+        "id": "espn-580",
+        "name": "Scotland",
+        "shortName": "Scozia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 5,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 25,
+            "type": "goal",
+            "side": "away",
+            "player": "Jackie Mudie",
+            "short": "Mudie"
+          },
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Cayetano Ré",
+            "short": "Ré"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 75,
+            "type": "goal",
+            "side": "away",
+            "player": "Bobby Collins",
+            "short": "Collins"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Samuel Aguilar",
+              "short": "Aguilar"
+            },
+            {
+              "name": "Ignacio Achucarro",
+              "short": "Achucarro"
+            },
+            {
+              "name": "Edelmiro Arévalo",
+              "short": "Arévalo"
+            },
+            {
+              "name": "Eligio Echagüe",
+              "short": "Echagüe"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Claudio Lezcano",
+              "short": "Lezcano"
+            },
+            {
+              "name": "Salvador Villalba",
+              "short": "Villalba"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Cayetano Ré",
+              "short": "Ré"
+            },
+            {
+              "name": "Florencio Amarilla",
+              "short": "Amarilla"
+            },
+            {
+              "name": "Jorgelino Romero",
+              "short": "Romero"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Tommy Younger",
+              "short": "Younger"
+            },
+            {
+              "name": "Eric Caldow",
+              "short": "Caldow"
+            },
+            {
+              "name": "Alex Parker",
+              "short": "Parker"
+            },
+            {
+              "name": "Eddie Turnbull",
+              "short": "Turnbull"
+            },
+            {
+              "name": "Doug Cowie",
+              "short": "Cowie"
+            },
+            {
+              "name": "Bobby Evans",
+              "short": "Evans"
+            },
+            {
+              "name": "Willie Fernie",
+              "short": "Fernie"
+            },
+            {
+              "name": "Graham Leggat",
+              "short": "Leggat"
+            },
+            {
+              "name": "Bobby Collins",
+              "short": "Collins"
+            },
+            {
+              "name": "Jackie Mudie",
+              "short": "Mudie"
+            },
+            {
+              "name": "Archie Robertson",
+              "short": "Robertson"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197625",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 2,
+      "title": "Unione Sovietica - Austria",
+      "session": "match",
+      "startsAt": "1958-06-11T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "awayTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": "Anatoli Ilyin",
+            "short": "Ilyin"
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "home",
+            "player": "Alexander Ivanov",
+            "short": "Ivanov"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Vladimir Kesarev",
+              "short": "Kesarev"
+            },
+            {
+              "name": "Konstantin Khrizhevski",
+              "short": "Khrizhevski"
+            },
+            {
+              "name": "Boris Kuznetsov",
+              "short": "Kuznetsov"
+            },
+            {
+              "name": "Yuri Voinov",
+              "short": "Voinov"
+            },
+            {
+              "name": "Alexander Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Valentin Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Viktor Tsarev",
+              "short": "Tsarev"
+            },
+            {
+              "name": "Anatoli Ilyin",
+              "short": "Ilyin"
+            },
+            {
+              "name": "Sergei Salnikov",
+              "short": "Salnikov"
+            },
+            {
+              "name": "Nikita Simonyan",
+              "short": "Simonyan"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Kurt Schmied",
+              "short": "Schmied"
+            },
+            {
+              "name": "Ernst Kozlicek",
+              "short": "Kozlicek"
+            },
+            {
+              "name": "Franz Swoboda",
+              "short": "Swoboda"
+            },
+            {
+              "name": "Gerhard Hanappi",
+              "short": "Hanappi"
+            },
+            {
+              "name": "Walter Horak",
+              "short": "Horak"
+            },
+            {
+              "name": "Karl Koller",
+              "short": "Koller"
+            },
+            {
+              "name": "Karl Stotz",
+              "short": "Stotz"
+            },
+            {
+              "name": "Johann Buzek",
+              "short": "Buzek"
+            },
+            {
+              "name": "Alfred Korner",
+              "short": "Korner"
+            },
+            {
+              "name": "Walter Schleger",
+              "short": "Schleger"
+            },
+            {
+              "name": "Helmut Senekowitsch",
+              "short": "Senekowitsch"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197614",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 2,
+      "title": "Jugoslavia - Francia",
+      "session": "match",
+      "startsAt": "1958-06-11T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "awayTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 5,
+            "type": "goal",
+            "side": "away",
+            "player": "Just Fontaine",
+            "short": "Fontaine"
+          },
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "home",
+            "player": "Aleksander Petakovic",
+            "short": "Petakovic"
+          },
+          {
+            "minute": 64,
+            "type": "goal",
+            "side": "home",
+            "player": "Todor Veselinovic",
+            "short": "Veselinovic"
+          },
+          {
+            "minute": 86,
+            "type": "penalty",
+            "side": "away",
+            "player": "Just Fontaine",
+            "short": "Fontaine"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Todor Veselinovic",
+            "short": "Veselinovic"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Vladimir Beara",
+              "short": "Beara"
+            },
+            {
+              "name": "Dobrosav Krstec",
+              "short": "Krstec"
+            },
+            {
+              "name": "Novak Tomic",
+              "short": "Tomic"
+            },
+            {
+              "name": "Vujadin Boskov",
+              "short": "Boskov"
+            },
+            {
+              "name": "Milorad Milutinovic",
+              "short": "Milutinovic"
+            },
+            {
+              "name": "Dragoslav Sekularac",
+              "short": "Sekularac"
+            },
+            {
+              "name": "Vasilije Sijakovic",
+              "short": "Sijakovic"
+            },
+            {
+              "name": "Aleksander Petakovic",
+              "short": "Petakovic"
+            },
+            {
+              "name": "Todor Veselinovic",
+              "short": "Veselinovic"
+            },
+            {
+              "name": "Zdravko Rajkov",
+              "short": "Rajkov"
+            },
+            {
+              "name": "Branko Zebec",
+              "short": "Zebec"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Francois Remetter",
+              "short": "Remetter"
+            },
+            {
+              "name": "Robert Jonquet",
+              "short": "Jonquet"
+            },
+            {
+              "name": "Jean Marcel",
+              "short": "Marcel"
+            },
+            {
+              "name": "Roger Marche",
+              "short": "Marche"
+            },
+            {
+              "name": "Armand Penverne",
+              "short": "Penverne"
+            },
+            {
+              "name": "Maryan Wisnieski",
+              "short": "Wisnieski"
+            },
+            {
+              "name": "Just Fontaine",
+              "short": "Fontaine"
+            },
+            {
+              "name": "Raymond Kaelbel",
+              "short": "Kaelbel"
+            },
+            {
+              "name": "Raymond Kopa",
+              "short": "Kopa"
+            },
+            {
+              "name": "Roger Piantoni",
+              "short": "Piantoni"
+            },
+            {
+              "name": "Jean Vincent",
+              "short": "Vincent"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197620",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 2,
+      "title": "Svezia - Ungheria",
+      "session": "match",
+      "startsAt": "1958-06-12T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 35,
+            "type": "goal",
+            "side": "home",
+            "player": "Kurt Hamrin",
+            "short": "Hamrin"
+          },
+          {
+            "minute": 56,
+            "type": "goal",
+            "side": "home",
+            "player": "Kurt Hamrin",
+            "short": "Hamrin"
+          },
+          {
+            "minute": 78,
+            "type": "goal",
+            "side": "away",
+            "player": "Lajos Tichy",
+            "short": "Tichy"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Karl Svensson",
+              "short": "Svensson"
+            },
+            {
+              "name": "Sven Axbom",
+              "short": "Axbom"
+            },
+            {
+              "name": "Orvar Bergmark",
+              "short": "Bergmark"
+            },
+            {
+              "name": "Bengt Gustavsson",
+              "short": "Gustavsson"
+            },
+            {
+              "name": "Kurt Hamrin",
+              "short": "Hamrin"
+            },
+            {
+              "name": "Nils Liedholm",
+              "short": "Liedholm"
+            },
+            {
+              "name": "Sigvard Parling",
+              "short": "Parling"
+            },
+            {
+              "name": "Gunnar Gren",
+              "short": "Gren"
+            },
+            {
+              "name": "Bror Mellberg",
+              "short": "Mellberg"
+            },
+            {
+              "name": "Agne Simonsson",
+              "short": "Simonsson"
+            },
+            {
+              "name": "Lennart Skoglund",
+              "short": "Skoglund"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Gyula Grosics",
+              "short": "Grosics"
+            },
+            {
+              "name": "Sandor Matrai",
+              "short": "Matrai"
+            },
+            {
+              "name": "Lazlo Sarosi",
+              "short": "Sarosi"
+            },
+            {
+              "name": "Ferenc Sipos",
+              "short": "Sipos"
+            },
+            {
+              "name": "Lajos Tichy",
+              "short": "Tichy"
+            },
+            {
+              "name": "Pal Berendi",
+              "short": "Berendi"
+            },
+            {
+              "name": "Joszef Bozsik",
+              "short": "Bozsik"
+            },
+            {
+              "name": "Ferenc Szojka",
+              "short": "Szojka"
+            },
+            {
+              "name": "Dezso Bundzsak",
+              "short": "Bundzsak"
+            },
+            {
+              "name": "Máté Fenyvesi",
+              "short": "Fenyvesi"
+            },
+            {
+              "name": "Karoly Sandor",
+              "short": "Sandor"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197627",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 3,
+      "title": "Brasile - Unione Sovietica",
+      "session": "match",
+      "startsAt": "1958-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 3,
+            "type": "goal",
+            "side": "home",
+            "player": "Izidio Vavá"
+          },
+          {
+            "minute": 66,
+            "type": "goal",
+            "side": "home",
+            "player": "Izidio Vavá"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gilmar"
+            },
+            {
+              "name": "Hideraldo Bellini"
+            },
+            {
+              "name": "Nilton De Sordi",
+              "short": "De Sordi"
+            },
+            {
+              "name": "Dos Nilton Santos",
+              "short": "Nilton Santos"
+            },
+            {
+              "name": "Zito"
+            },
+            {
+              "name": "Pecanha Orlando",
+              "short": "Orlando"
+            },
+            {
+              "name": "Vava",
+              "short": "Neto"
+            },
+            {
+              "name": "Garrincha"
+            },
+            {
+              "name": "Pele",
+              "short": "Arantes do Nascimento"
+            },
+            {
+              "name": "Didí"
+            },
+            {
+              "name": "Mario Zagallo",
+              "short": "Zagallo"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Vladimir Kesarev",
+              "short": "Kesarev"
+            },
+            {
+              "name": "Konstantin Khrizhevski",
+              "short": "Khrizhevski"
+            },
+            {
+              "name": "Boris Kuznetsov",
+              "short": "Kuznetsov"
+            },
+            {
+              "name": "Yuri Voinov",
+              "short": "Voinov"
+            },
+            {
+              "name": "Alexander Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Valentin Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Igor Netto",
+              "short": "Netto"
+            },
+            {
+              "name": "Viktor Tsarev",
+              "short": "Tsarev"
+            },
+            {
+              "name": "Anatoli Ilyin",
+              "short": "Ilyin"
+            },
+            {
+              "name": "Nikita Simonyan",
+              "short": "Simonyan"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197610",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 3,
+      "title": "Cecoslovacchia - Argentina",
+      "session": "match",
+      "startsAt": "1958-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "awayTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "homeScore": 6,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 9,
+            "type": "goal",
+            "side": "home",
+            "player": "Milan Dvorak",
+            "short": "Dvorak"
+          },
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "home",
+            "player": "Zdenek Zikan",
+            "short": "Zikan"
+          },
+          {
+            "minute": 41,
+            "type": "goal",
+            "side": "home",
+            "player": "Zdenek Zikan",
+            "short": "Zikan"
+          },
+          {
+            "minute": 66,
+            "type": "penalty",
+            "side": "away",
+            "player": "Orestes Corbatta",
+            "short": "Corbatta"
+          },
+          {
+            "minute": 70,
+            "type": "goal",
+            "side": "home",
+            "player": "Jiri Feureisl",
+            "short": "Feureisl"
+          },
+          {
+            "minute": 83,
+            "type": "goal",
+            "side": "home",
+            "player": "Vaclav Hovorka",
+            "short": "Hovorka"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "home",
+            "player": "Vaclav Hovorka",
+            "short": "Hovorka"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Bretislav Dolejsi",
+              "short": "Dolejsi"
+            },
+            {
+              "name": "Pavol Molnar",
+              "short": "Molnar"
+            },
+            {
+              "name": "Gustav Mraz",
+              "short": "Mraz"
+            },
+            {
+              "name": "Jan Popluhar",
+              "short": "Popluhar"
+            },
+            {
+              "name": "Milan Dvorak",
+              "short": "Dvorak"
+            },
+            {
+              "name": "Vaclav Hovorka",
+              "short": "Hovorka"
+            },
+            {
+              "name": "Titus Bubernik",
+              "short": "Bubernik"
+            },
+            {
+              "name": "Josef Masopust",
+              "short": "Masopust"
+            },
+            {
+              "name": "Jiri Feureisl",
+              "short": "Feureisl"
+            },
+            {
+              "name": "Zdenek Zikan",
+              "short": "Zikan"
+            },
+            {
+              "name": "Ladislav Novak",
+              "short": "Novak"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Amadeo Carrizo",
+              "short": "Carrizo"
+            },
+            {
+              "name": "Pedro Dellacha",
+              "short": "Dellacha"
+            },
+            {
+              "name": "Federico Vairo",
+              "short": "Vairo"
+            },
+            {
+              "name": "José Varacka",
+              "short": "Varacka"
+            },
+            {
+              "name": "Ludovico Avio",
+              "short": "Avio"
+            },
+            {
+              "name": "Francisco Lombardo",
+              "short": "Lombardo"
+            },
+            {
+              "name": "Néstor Rossi",
+              "short": "Rossi"
+            },
+            {
+              "name": "Orestes Corbatta",
+              "short": "Corbatta"
+            },
+            {
+              "name": "Osvaldo Cruz",
+              "short": "Cruz"
+            },
+            {
+              "name": "Angel Labruna",
+              "short": "Labruna"
+            },
+            {
+              "name": "Norberto Menéndez",
+              "short": "Menéndez"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197628",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 3,
+      "title": "Inghilterra - Austria",
+      "session": "match",
+      "startsAt": "1958-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "awayTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 17,
+            "type": "goal",
+            "side": "away",
+            "player": "Karl Koller",
+            "short": "Koller"
+          },
+          {
+            "minute": 57,
+            "type": "goal",
+            "side": "home",
+            "player": "Johnny Haynes",
+            "short": "Haynes"
+          },
+          {
+            "minute": 71,
+            "type": "goal",
+            "side": "away",
+            "player": "Alfred Korner",
+            "short": "Korner"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "home",
+            "player": "Derek Kevan",
+            "short": "Kevan"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Colin Mc Donald",
+              "short": "Mc Donald"
+            },
+            {
+              "name": "Derek Kevan",
+              "short": "Kevan"
+            },
+            {
+              "name": "Tommy Banks",
+              "short": "Banks"
+            },
+            {
+              "name": "Eddie Clamp",
+              "short": "Clamp"
+            },
+            {
+              "name": "Robert Robson",
+              "short": "Robson"
+            },
+            {
+              "name": "Bryan Douglas",
+              "short": "Douglas"
+            },
+            {
+              "name": "Don Howe",
+              "short": "Howe"
+            },
+            {
+              "name": "Bill Slater",
+              "short": "Slater"
+            },
+            {
+              "name": "Tommy Wright",
+              "short": "Wright"
+            },
+            {
+              "name": "Johnny Haynes",
+              "short": "Haynes"
+            },
+            {
+              "name": "Alan A´Court",
+              "short": "A´Court"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Rudolf Szanwald",
+              "short": "Szanwald"
+            },
+            {
+              "name": "Ernst Happel",
+              "short": "Happel"
+            },
+            {
+              "name": "Walter Kollmann",
+              "short": "Kollmann"
+            },
+            {
+              "name": "Ernst Kozlicek",
+              "short": "Kozlicek"
+            },
+            {
+              "name": "Franz Swoboda",
+              "short": "Swoboda"
+            },
+            {
+              "name": "Karl Koller",
+              "short": "Koller"
+            },
+            {
+              "name": "Gerhard Hanappi",
+              "short": "Hanappi"
+            },
+            {
+              "name": "Alfred Korner",
+              "short": "Korner"
+            },
+            {
+              "name": "Johann Buzek",
+              "short": "Buzek"
+            },
+            {
+              "name": "Walter Schleger",
+              "short": "Schleger"
+            },
+            {
+              "name": "Helmut Senekowitsch",
+              "short": "Senekowitsch"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197615",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 3,
+      "title": "Francia - Scozia",
+      "session": "match",
+      "startsAt": "1958-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "awayTeam": {
+        "id": "espn-580",
+        "name": "Scotland",
+        "shortName": "Scozia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 23,
+            "type": "goal",
+            "side": "home",
+            "player": "Roger Piantoni",
+            "short": "Piantoni"
+          },
+          {
+            "minute": 45,
+            "type": "goal",
+            "side": "home",
+            "player": "Just Fontaine",
+            "short": "Fontaine"
+          },
+          {
+            "minute": 59,
+            "type": "goal",
+            "side": "away",
+            "player": "Sam Baird",
+            "short": "Baird"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Claude Abbes",
+              "short": "Abbes"
+            },
+            {
+              "name": "Robert Jonquet",
+              "short": "Jonquet"
+            },
+            {
+              "name": "Andre Lerond",
+              "short": "Lerond"
+            },
+            {
+              "name": "Jean Marcel",
+              "short": "Marcel"
+            },
+            {
+              "name": "Armand Penverne",
+              "short": "Penverne"
+            },
+            {
+              "name": "Maryan Wisnieski",
+              "short": "Wisnieski"
+            },
+            {
+              "name": "Just Fontaine",
+              "short": "Fontaine"
+            },
+            {
+              "name": "Roger Piantoni",
+              "short": "Piantoni"
+            },
+            {
+              "name": "Raymond Kaelbel",
+              "short": "Kaelbel"
+            },
+            {
+              "name": "Raymond Kopa",
+              "short": "Kopa"
+            },
+            {
+              "name": "Jean Vincent",
+              "short": "Vincent"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Billy Brown",
+              "short": "Brown"
+            },
+            {
+              "name": "Eric Caldow",
+              "short": "Caldow"
+            },
+            {
+              "name": "John Hewie",
+              "short": "Hewie"
+            },
+            {
+              "name": "Eddie Turnbull",
+              "short": "Turnbull"
+            },
+            {
+              "name": "Bobby Evans",
+              "short": "Evans"
+            },
+            {
+              "name": "Dave Mackay",
+              "short": "Mackay"
+            },
+            {
+              "name": "Jimmy Murray",
+              "short": "Murray"
+            },
+            {
+              "name": "Sam Baird",
+              "short": "Baird"
+            },
+            {
+              "name": "Bobby Collins",
+              "short": "Collins"
+            },
+            {
+              "name": "Stuart Imlach",
+              "short": "Imlach"
+            },
+            {
+              "name": "Jackie Mudie",
+              "short": "Mudie"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197609",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 3,
+      "title": "Germania Ovest - Irlanda del Nord",
+      "session": "match",
+      "startsAt": "1958-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-586",
+        "name": "Northern Ireland",
+        "shortName": "Irlanda del Nord",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png"
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "away",
+            "player": "Peter Mc Parland",
+            "short": "Mc Parland"
+          },
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "home",
+            "player": "Helmut Rahn",
+            "short": "Rahn"
+          },
+          {
+            "minute": 59,
+            "type": "goal",
+            "side": "away",
+            "player": "Peter Mc Parland",
+            "short": "Mc Parland"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Uwe Seeler",
+            "short": "Seeler"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Fritz Herkenrath",
+              "short": "Herkenrath"
+            },
+            {
+              "name": "Herbert Erhardt",
+              "short": "Erhardt"
+            },
+            {
+              "name": "Erich Juskowiak",
+              "short": "Juskowiak"
+            },
+            {
+              "name": "Georg Stollenwerk",
+              "short": "Stollenwerk"
+            },
+            {
+              "name": "Horst Eckel",
+              "short": "Eckel"
+            },
+            {
+              "name": "Horst Szymaniak",
+              "short": "Szymaniak"
+            },
+            {
+              "name": "Helmut Rahn",
+              "short": "Rahn"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            },
+            {
+              "name": "Berni Klodt",
+              "short": "Klodt"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Harry Gregg",
+              "short": "Gregg"
+            },
+            {
+              "name": "Danny Blanchflower",
+              "short": "Blanchflower"
+            },
+            {
+              "name": "William Cunningham",
+              "short": "Cunningham"
+            },
+            {
+              "name": "Dick Keith",
+              "short": "Keith"
+            },
+            {
+              "name": "Alf Mc Michael",
+              "short": "Mc Michael"
+            },
+            {
+              "name": "William Bingham",
+              "short": "Bingham"
+            },
+            {
+              "name": "Wilbur Cush",
+              "short": "Cush"
+            },
+            {
+              "name": "Bertie Peacock",
+              "short": "Peacock"
+            },
+            {
+              "name": "Peter Mc Parland",
+              "short": "Mc Parland"
+            },
+            {
+              "name": "Derek Dougan",
+              "short": "Dougan"
+            },
+            {
+              "name": "Jimmy Mc Ilroy",
+              "short": "Mc Ilroy"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197622",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 3,
+      "title": "Ungheria - Messico",
+      "session": "match",
+      "startsAt": "1958-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 4,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 20,
+            "type": "goal",
+            "side": "home",
+            "player": "Lajos Tichy",
+            "short": "Tichy"
+          },
+          {
+            "minute": 47,
+            "type": "goal",
+            "side": "home",
+            "player": "Lajos Tichy",
+            "short": "Tichy"
+          },
+          {
+            "minute": 55,
+            "type": "goal",
+            "side": "home",
+            "player": "Karoly Sandor",
+            "short": "Sandor"
+          },
+          {
+            "minute": 70,
+            "type": "goal",
+            "side": "home",
+            "player": "Joszef Bencsics",
+            "short": "Bencsics"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Itsvan Ilku",
+              "short": "Ilku"
+            },
+            {
+              "name": "Sandor Matrai",
+              "short": "Matrai"
+            },
+            {
+              "name": "Lazlo Sarosi",
+              "short": "Sarosi"
+            },
+            {
+              "name": "Ferenc Sipos",
+              "short": "Sipos"
+            },
+            {
+              "name": "Lajos Tichy",
+              "short": "Tichy"
+            },
+            {
+              "name": "Antal Kotasz",
+              "short": "Kotasz"
+            },
+            {
+              "name": "Ferenc Szojka",
+              "short": "Szojka"
+            },
+            {
+              "name": "Joszef Bencsics",
+              "short": "Bencsics"
+            },
+            {
+              "name": "Karoly Sandor",
+              "short": "Sandor"
+            },
+            {
+              "name": "Laszlo Budai",
+              "short": "Budai"
+            },
+            {
+              "name": "Nandor Hidegkuti",
+              "short": "Hidegkuti"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Carbajal",
+              "short": "Carbajal"
+            },
+            {
+              "name": "Jesús Del Muro",
+              "short": "Del Muro"
+            },
+            {
+              "name": "Guillermo Sepúlveda",
+              "short": "Sepúlveda"
+            },
+            {
+              "name": "Jaime Belmonte",
+              "short": "Belmonte"
+            },
+            {
+              "name": "Raúl Cardenas",
+              "short": "Cardenas"
+            },
+            {
+              "name": "Francisco Flores",
+              "short": "Flores"
+            },
+            {
+              "name": "Miguel Gutiérrez",
+              "short": "Gutiérrez"
+            },
+            {
+              "name": "Salvador Reyes",
+              "short": "Reyes"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Enrique Sesma",
+              "short": "Sesma"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197616",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 3,
+      "title": "Paraguay - Jugoslavia",
+      "session": "match",
+      "startsAt": "1958-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-210",
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/par.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 3,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "away",
+            "player": "Radovoje Ognjanovic",
+            "short": "Ognjanovic"
+          },
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 22,
+            "type": "goal",
+            "side": "away",
+            "player": "Todor Veselinovic",
+            "short": "Veselinovic"
+          },
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "away",
+            "player": "Zdravko Rajkov",
+            "short": "Rajkov"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "home",
+            "player": "Jorgelino Romero",
+            "short": "Romero"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Samuel Aguilar",
+              "short": "Aguilar"
+            },
+            {
+              "name": "Ignacio Achucarro",
+              "short": "Achucarro"
+            },
+            {
+              "name": "Edelmiro Arévalo",
+              "short": "Arévalo"
+            },
+            {
+              "name": "Eligio Echagüe",
+              "short": "Echagüe"
+            },
+            {
+              "name": "Juan Lezcano",
+              "short": "Lezcano"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Salvador Villalba",
+              "short": "Villalba"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jorgelino Romero",
+              "short": "Romero"
+            },
+            {
+              "name": "Florencio Amarilla",
+              "short": "Amarilla"
+            },
+            {
+              "name": "Cayetano Ré",
+              "short": "Ré"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Vladimir Beara",
+              "short": "Beara"
+            },
+            {
+              "name": "Tomislav Crnkovic",
+              "short": "Crnkovic"
+            },
+            {
+              "name": "Dobrosav Krstec",
+              "short": "Krstec"
+            },
+            {
+              "name": "Novak Tomic",
+              "short": "Tomic"
+            },
+            {
+              "name": "Vujadin Boskov",
+              "short": "Boskov"
+            },
+            {
+              "name": "Dragoslav Sekularac",
+              "short": "Sekularac"
+            },
+            {
+              "name": "Radovoje Ognjanovic",
+              "short": "Ognjanovic"
+            },
+            {
+              "name": "Zdravko Rajkov",
+              "short": "Rajkov"
+            },
+            {
+              "name": "Todor Veselinovic",
+              "short": "Veselinovic"
+            },
+            {
+              "name": "Aleksander Petakovic",
+              "short": "Petakovic"
+            },
+            {
+              "name": "Branko Zebec",
+              "short": "Zebec"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197621",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 3,
+      "title": "Svezia - Galles",
+      "session": "match",
+      "startsAt": "1958-06-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-578",
+        "name": "Wales",
+        "shortName": "Galles",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Karl Svensson",
+              "short": "Svensson"
+            },
+            {
+              "name": "Sven Axbom",
+              "short": "Axbom"
+            },
+            {
+              "name": "Orvar Bergmark",
+              "short": "Bergmark"
+            },
+            {
+              "name": "Reino Börjesson",
+              "short": "Börjesson"
+            },
+            {
+              "name": "Bengt Gustavsson",
+              "short": "Gustavsson"
+            },
+            {
+              "name": "Bengt Berndtsson",
+              "short": "Berndtsson"
+            },
+            {
+              "name": "Sigvard Parling",
+              "short": "Parling"
+            },
+            {
+              "name": "Arne Selmosson",
+              "short": "Selmosson"
+            },
+            {
+              "name": "Henry Källgren",
+              "short": "Källgren"
+            },
+            {
+              "name": "Gosta Löfgren",
+              "short": "Löfgren"
+            },
+            {
+              "name": "Lennart Skoglund",
+              "short": "Skoglund"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jack Kelsey",
+              "short": "Kelsey"
+            },
+            {
+              "name": "Mel Charles",
+              "short": "Charles"
+            },
+            {
+              "name": "Mel Hopkins",
+              "short": "Hopkins"
+            },
+            {
+              "name": "Derek Sullivan",
+              "short": "Sullivan"
+            },
+            {
+              "name": "Stuart Williams",
+              "short": "Williams"
+            },
+            {
+              "name": "Dave Bowen",
+              "short": "Bowen"
+            },
+            {
+              "name": "Roy Vernon",
+              "short": "Vernon"
+            },
+            {
+              "name": "Ivor Allchurch",
+              "short": "Allchurch"
+            },
+            {
+              "name": "John Charles",
+              "short": "Charles"
+            },
+            {
+              "name": "Ron Hewitt",
+              "short": "Hewitt"
+            },
+            {
+              "name": "Cliff Jones",
+              "short": "Jones"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197629",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 4,
+      "title": "Irlanda del Nord - Cecoslovacchia",
+      "session": "match",
+      "startsAt": "1958-06-17T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-586",
+        "name": "Northern Ireland",
+        "shortName": "Irlanda del Nord",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png"
+      },
+      "awayTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 20,
+            "type": "goal",
+            "side": "away",
+            "player": "Zdenek Zikan",
+            "short": "Zikan"
+          },
+          {
+            "minute": 45,
+            "type": "goal",
+            "side": "home",
+            "player": "Peter Mc Parland",
+            "short": "Mc Parland"
+          },
+          {
+            "minute": 90,
+            "addedTime": 2,
+            "type": "goal",
+            "side": "home",
+            "player": "Peter Mc Parland",
+            "short": "Mc Parland"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Norman Uprichard",
+              "short": "Uprichard"
+            },
+            {
+              "name": "Danny Blanchflower",
+              "short": "Blanchflower"
+            },
+            {
+              "name": "William Cunningham",
+              "short": "Cunningham"
+            },
+            {
+              "name": "Dick Keith",
+              "short": "Keith"
+            },
+            {
+              "name": "Alf Mc Michael",
+              "short": "Mc Michael"
+            },
+            {
+              "name": "William Bingham",
+              "short": "Bingham"
+            },
+            {
+              "name": "Wilbur Cush",
+              "short": "Cush"
+            },
+            {
+              "name": "Bertie Peacock",
+              "short": "Peacock"
+            },
+            {
+              "name": "Peter Mc Parland",
+              "short": "Mc Parland"
+            },
+            {
+              "name": "Jimmy Mc Ilroy",
+              "short": "Mc Ilroy"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Bretislav Dolejsi",
+              "short": "Dolejsi"
+            },
+            {
+              "name": "Pavol Molnar",
+              "short": "Molnar"
+            },
+            {
+              "name": "Gustav Mraz",
+              "short": "Mraz"
+            },
+            {
+              "name": "Jan Popluhar",
+              "short": "Popluhar"
+            },
+            {
+              "name": "Jaroslav Borovicka",
+              "short": "Borovicka"
+            },
+            {
+              "name": "Titus Bubernik",
+              "short": "Bubernik"
+            },
+            {
+              "name": "Milan Dvorak",
+              "short": "Dvorak"
+            },
+            {
+              "name": "Josef Masopust",
+              "short": "Masopust"
+            },
+            {
+              "name": "Zdenek Zikan",
+              "short": "Zikan"
+            },
+            {
+              "name": "Jiri Feureisl",
+              "short": "Feureisl"
+            },
+            {
+              "name": "Ladislav Novak",
+              "short": "Novak"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197631",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 4,
+      "title": "Unione Sovietica - Inghilterra",
+      "session": "match",
+      "startsAt": "1958-06-17T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "awayTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 69,
+            "type": "goal",
+            "side": "home",
+            "player": "Anatoli Ilyin",
+            "short": "Ilyin"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Vladimir Kesarev",
+              "short": "Kesarev"
+            },
+            {
+              "name": "Konstantin Khrizhevski",
+              "short": "Khrizhevski"
+            },
+            {
+              "name": "Boris Kuznetsov",
+              "short": "Kuznetsov"
+            },
+            {
+              "name": "Yuri Voinov",
+              "short": "Voinov"
+            },
+            {
+              "name": "German Apukhtin",
+              "short": "Apukhtin"
+            },
+            {
+              "name": "Valentin Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Viktor Tsarev",
+              "short": "Tsarev"
+            },
+            {
+              "name": "Anatoli Ilyin",
+              "short": "Ilyin"
+            },
+            {
+              "name": "Yuri Falin",
+              "short": "Falin"
+            },
+            {
+              "name": "Nikita Simonyan",
+              "short": "Simonyan"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Colin Mc Donald",
+              "short": "Mc Donald"
+            },
+            {
+              "name": "Tommy Banks",
+              "short": "Banks"
+            },
+            {
+              "name": "Derek Kevan",
+              "short": "Kevan"
+            },
+            {
+              "name": "Peter Brabrook",
+              "short": "Brabrook"
+            },
+            {
+              "name": "Peter Broadbent",
+              "short": "Broadbent"
+            },
+            {
+              "name": "Ronnie Clayton",
+              "short": "Clayton"
+            },
+            {
+              "name": "Don Howe",
+              "short": "Howe"
+            },
+            {
+              "name": "Bill Slater",
+              "short": "Slater"
+            },
+            {
+              "name": "Tommy Wright",
+              "short": "Wright"
+            },
+            {
+              "name": "Alan A´Court",
+              "short": "A´Court"
+            },
+            {
+              "name": "Johnny Haynes",
+              "short": "Haynes"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197630",
+      "competition": "mondiali",
+      "season": "1958",
+      "round": 4,
+      "title": "Galles - Ungheria",
+      "session": "match",
+      "startsAt": "1958-06-17T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-578",
+        "name": "Wales",
+        "shortName": "Galles",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png"
+      },
+      "awayTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 34,
+            "type": "goal",
+            "side": "away",
+            "player": "Lajos Tichy",
+            "short": "Tichy"
+          },
+          {
+            "minute": 56,
+            "type": "goal",
+            "side": "home",
+            "player": "Ivor Allchurch",
+            "short": "Allchurch"
+          },
+          {
+            "minute": 77,
+            "type": "goal",
+            "side": "home",
+            "player": "Terry Medwin",
+            "short": "Medwin"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Jack Kelsey",
+              "short": "Kelsey"
+            },
+            {
+              "name": "Mel Charles",
+              "short": "Charles"
+            },
+            {
+              "name": "Mel Hopkins",
+              "short": "Hopkins"
+            },
+            {
+              "name": "Derek Sullivan",
+              "short": "Sullivan"
+            },
+            {
+              "name": "Stuart Williams",
+              "short": "Williams"
+            },
+            {
+              "name": "Dave Bowen",
+              "short": "Bowen"
+            },
+            {
+              "name": "Ivor Allchurch",
+              "short": "Allchurch"
+            },
+            {
+              "name": "Terry Medwin",
+              "short": "Medwin"
+            },
+            {
+              "name": "John Charles",
+              "short": "Charles"
+            },
+            {
+              "name": "Ron Hewitt",
+              "short": "Hewitt"
+            },
+            {
+              "name": "Cliff Jones",
+              "short": "Jones"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Gyula Grosics",
+              "short": "Grosics"
+            },
+            {
+              "name": "Sandor Matrai",
+              "short": "Matrai"
+            },
+            {
+              "name": "Lazlo Sarosi",
+              "short": "Sarosi"
+            },
+            {
+              "name": "Ferenc Sipos",
+              "short": "Sipos"
+            },
+            {
+              "name": "Lajos Tichy",
+              "short": "Tichy"
+            },
+            {
+              "name": "Joszef Bozsik",
+              "short": "Bozsik"
+            },
+            {
+              "name": "Antal Kotasz",
+              "short": "Kotasz"
+            },
+            {
+              "name": "Joszef Bencsics",
+              "short": "Bencsics"
+            },
+            {
+              "name": "Laszlo Budai",
+              "short": "Budai"
+            },
+            {
+              "name": "Dezso Bundzsak",
+              "short": "Bundzsak"
+            },
+            {
+              "name": "Máté Fenyvesi",
+              "short": "Fenyvesi"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197635",
+      "competition": "mondiali",
+      "season": "1958",
+      "stage": "quarter_finals",
+      "title": "Brasile - Galles",
+      "session": "match",
+      "startsAt": "1958-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-578",
+        "name": "Wales",
+        "shortName": "Galles",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": []
+    },
+    {
+      "id": "mondiali-1958-197634",
+      "competition": "mondiali",
+      "season": "1958",
+      "stage": "quarter_finals",
+      "title": "Francia - Irlanda del Nord",
+      "session": "match",
+      "startsAt": "1958-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "awayTeam": {
+        "id": "espn-586",
+        "name": "Northern Ireland",
+        "shortName": "Irlanda del Nord",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png"
+      },
+      "homeScore": 4,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 23,
+            "type": "goal",
+            "side": "home",
+            "player": "Maryan Wisnieski",
+            "short": "Wisnieski"
+          },
+          {
+            "minute": 56,
+            "type": "goal",
+            "side": "home",
+            "player": "Just Fontaine",
+            "short": "Fontaine"
+          },
+          {
+            "minute": 64,
+            "type": "goal",
+            "side": "home",
+            "player": "Just Fontaine",
+            "short": "Fontaine"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Roger Piantoni",
+            "short": "Piantoni"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Claude Abbes",
+              "short": "Abbes"
+            },
+            {
+              "name": "Robert Jonquet",
+              "short": "Jonquet"
+            },
+            {
+              "name": "Andre Lerond",
+              "short": "Lerond"
+            },
+            {
+              "name": "Jean Marcel",
+              "short": "Marcel"
+            },
+            {
+              "name": "Maryan Wisnieski",
+              "short": "Wisnieski"
+            },
+            {
+              "name": "Armand Penverne",
+              "short": "Penverne"
+            },
+            {
+              "name": "Just Fontaine",
+              "short": "Fontaine"
+            },
+            {
+              "name": "Roger Piantoni",
+              "short": "Piantoni"
+            },
+            {
+              "name": "Raymond Kaelbel",
+              "short": "Kaelbel"
+            },
+            {
+              "name": "Raymond Kopa",
+              "short": "Kopa"
+            },
+            {
+              "name": "Jean Vincent",
+              "short": "Vincent"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Harry Gregg",
+              "short": "Gregg"
+            },
+            {
+              "name": "Danny Blanchflower",
+              "short": "Blanchflower"
+            },
+            {
+              "name": "William Cunningham",
+              "short": "Cunningham"
+            },
+            {
+              "name": "Dick Keith",
+              "short": "Keith"
+            },
+            {
+              "name": "Alf Mc Michael",
+              "short": "Mc Michael"
+            },
+            {
+              "name": "William Bingham",
+              "short": "Bingham"
+            },
+            {
+              "name": "Wilbur Cush",
+              "short": "Cush"
+            },
+            {
+              "name": "Tommy Casey",
+              "short": "Casey"
+            },
+            {
+              "name": "Jimmy Mc Ilroy",
+              "short": "Mc Ilroy"
+            },
+            {
+              "name": "Peter Mc Parland",
+              "short": "Mc Parland"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197633",
+      "competition": "mondiali",
+      "season": "1958",
+      "stage": "quarter_finals",
+      "title": "Germania Ovest - Jugoslavia",
+      "session": "match",
+      "startsAt": "1958-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Helmut Rahn",
+            "short": "Rahn"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Fritz Herkenrath",
+              "short": "Herkenrath"
+            },
+            {
+              "name": "Herbert Erhardt",
+              "short": "Erhardt"
+            },
+            {
+              "name": "Erich Juskowiak",
+              "short": "Juskowiak"
+            },
+            {
+              "name": "Georg Stollenwerk",
+              "short": "Stollenwerk"
+            },
+            {
+              "name": "Horst Eckel",
+              "short": "Eckel"
+            },
+            {
+              "name": "Horst Szymaniak",
+              "short": "Szymaniak"
+            },
+            {
+              "name": "Helmut Rahn",
+              "short": "Rahn"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            },
+            {
+              "name": "Alfred Schmidt",
+              "short": "Schmidt"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Srboljub Krivokuca",
+              "short": "Krivokuca"
+            },
+            {
+              "name": "Tomislav Crnkovic",
+              "short": "Crnkovic"
+            },
+            {
+              "name": "Dobrosav Krstec",
+              "short": "Krstec"
+            },
+            {
+              "name": "Vujadin Boskov",
+              "short": "Boskov"
+            },
+            {
+              "name": "Dragoslav Sekularac",
+              "short": "Sekularac"
+            },
+            {
+              "name": "Vasilije Sijakovic",
+              "short": "Sijakovic"
+            },
+            {
+              "name": "Radovoje Ognjanovic",
+              "short": "Ognjanovic"
+            },
+            {
+              "name": "Aleksander Petakovic",
+              "short": "Petakovic"
+            },
+            {
+              "name": "Zdravko Rajkov",
+              "short": "Rajkov"
+            },
+            {
+              "name": "Todor Veselinovic",
+              "short": "Veselinovic"
+            },
+            {
+              "name": "Branko Zebec",
+              "short": "Zebec"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197632",
+      "competition": "mondiali",
+      "season": "1958",
+      "stage": "quarter_finals",
+      "title": "Svezia - Unione Sovietica",
+      "session": "match",
+      "startsAt": "1958-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 50,
+            "type": "goal",
+            "side": "home",
+            "player": "Kurt Hamrin",
+            "short": "Hamrin"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Agne Simonsson",
+            "short": "Simonsson"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Karl Svensson",
+              "short": "Svensson"
+            },
+            {
+              "name": "Sven Axbom",
+              "short": "Axbom"
+            },
+            {
+              "name": "Orvar Bergmark",
+              "short": "Bergmark"
+            },
+            {
+              "name": "Reino Börjesson",
+              "short": "Börjesson"
+            },
+            {
+              "name": "Bengt Gustavsson",
+              "short": "Gustavsson"
+            },
+            {
+              "name": "Kurt Hamrin",
+              "short": "Hamrin"
+            },
+            {
+              "name": "Nils Liedholm",
+              "short": "Liedholm"
+            },
+            {
+              "name": "Sigvard Parling",
+              "short": "Parling"
+            },
+            {
+              "name": "Agne Simonsson",
+              "short": "Simonsson"
+            },
+            {
+              "name": "Gunnar Gren",
+              "short": "Gren"
+            },
+            {
+              "name": "Lennart Skoglund",
+              "short": "Skoglund"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Vladimir Kesarev",
+              "short": "Kesarev"
+            },
+            {
+              "name": "Konstantin Khrizhevski",
+              "short": "Khrizhevski"
+            },
+            {
+              "name": "Boris Kuznetsov",
+              "short": "Kuznetsov"
+            },
+            {
+              "name": "Yuri Voinov",
+              "short": "Voinov"
+            },
+            {
+              "name": "Alexander Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Valentin Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Viktor Tsarev",
+              "short": "Tsarev"
+            },
+            {
+              "name": "Anatoli Ilyin",
+              "short": "Ilyin"
+            },
+            {
+              "name": "Sergei Salnikov",
+              "short": "Salnikov"
+            },
+            {
+              "name": "Nikita Simonyan",
+              "short": "Simonyan"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197636",
+      "competition": "mondiali",
+      "season": "1958",
+      "stage": "semi_finals",
+      "title": "Brasile - Francia",
+      "session": "match",
+      "startsAt": "1958-06-24T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "homeScore": 5,
+      "awayScore": 2,
+      "videos": []
+    },
+    {
+      "id": "mondiali-1958-197637",
+      "competition": "mondiali",
+      "season": "1958",
+      "stage": "semi_finals",
+      "title": "Svezia - Germania Ovest",
+      "session": "match",
+      "startsAt": "1958-06-24T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "awayTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 11,
+            "type": "goal",
+            "side": "home",
+            "player": "Lennart Skoglund",
+            "short": "Skoglund"
+          },
+          {
+            "minute": 29,
+            "type": "goal",
+            "side": "away",
+            "player": "Hans Schafer",
+            "short": "Schafer"
+          },
+          {
+            "minute": 32,
+            "type": "goal",
+            "side": "home",
+            "player": "Gunnar Gren",
+            "short": "Gren"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Kurt Hamrin",
+            "short": "Hamrin"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Karl Svensson",
+              "short": "Svensson"
+            },
+            {
+              "name": "Sven Axbom",
+              "short": "Axbom"
+            },
+            {
+              "name": "Orvar Bergmark",
+              "short": "Bergmark"
+            },
+            {
+              "name": "Reino Börjesson",
+              "short": "Börjesson"
+            },
+            {
+              "name": "Bengt Gustavsson",
+              "short": "Gustavsson"
+            },
+            {
+              "name": "Kurt Hamrin",
+              "short": "Hamrin"
+            },
+            {
+              "name": "Nils Liedholm",
+              "short": "Liedholm"
+            },
+            {
+              "name": "Sigvard Parling",
+              "short": "Parling"
+            },
+            {
+              "name": "Gunnar Gren",
+              "short": "Gren"
+            },
+            {
+              "name": "Lennart Skoglund",
+              "short": "Skoglund"
+            },
+            {
+              "name": "Agne Simonsson",
+              "short": "Simonsson"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Fritz Herkenrath",
+              "short": "Herkenrath"
+            },
+            {
+              "name": "Herbert Erhardt",
+              "short": "Erhardt"
+            },
+            {
+              "name": "Erich Juskowiak",
+              "short": "Juskowiak"
+            },
+            {
+              "name": "Georg Stollenwerk",
+              "short": "Stollenwerk"
+            },
+            {
+              "name": "Horst Eckel",
+              "short": "Eckel"
+            },
+            {
+              "name": "Horst Szymaniak",
+              "short": "Szymaniak"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            },
+            {
+              "name": "Hans Cieslarczyk",
+              "short": "Cieslarczyk"
+            },
+            {
+              "name": "Helmut Rahn",
+              "short": "Rahn"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197638",
+      "competition": "mondiali",
+      "season": "1958",
+      "stage": "third_place",
+      "title": "Francia - Germania Ovest",
+      "session": "match",
+      "startsAt": "1958-06-28T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "awayTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "homeScore": 6,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 17,
+            "type": "goal",
+            "side": "home",
+            "player": "Just Fontaine",
+            "short": "Fontaine"
+          },
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "away",
+            "player": "Hans Cieslarczyk",
+            "short": "Cieslarczyk"
+          },
+          {
+            "minute": 28,
+            "type": "penalty",
+            "side": "home",
+            "player": "Raymond Kopa",
+            "short": "Kopa"
+          },
+          {
+            "minute": 37,
+            "type": "goal",
+            "side": "home",
+            "player": "Just Fontaine",
+            "short": "Fontaine"
+          },
+          {
+            "minute": 51,
+            "type": "goal",
+            "side": "home",
+            "player": "Yvonne Douis",
+            "short": "Douis"
+          },
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "away",
+            "player": "Helmut Rahn",
+            "short": "Rahn"
+          },
+          {
+            "minute": 79,
+            "type": "goal",
+            "side": "home",
+            "player": "Just Fontaine",
+            "short": "Fontaine"
+          },
+          {
+            "minute": 85,
+            "type": "goal",
+            "side": "away",
+            "player": "Hans Schafer",
+            "short": "Schafer"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "home",
+            "player": "Just Fontaine",
+            "short": "Fontaine"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Claude Abbes",
+              "short": "Abbes"
+            },
+            {
+              "name": "Maurice Lafont",
+              "short": "Lafont"
+            },
+            {
+              "name": "Andre Lerond",
+              "short": "Lerond"
+            },
+            {
+              "name": "Roger Marche",
+              "short": "Marche"
+            },
+            {
+              "name": "Armand Penverne",
+              "short": "Penverne"
+            },
+            {
+              "name": "Maryan Wisnieski",
+              "short": "Wisnieski"
+            },
+            {
+              "name": "Yvonne Douis",
+              "short": "Douis"
+            },
+            {
+              "name": "Just Fontaine",
+              "short": "Fontaine"
+            },
+            {
+              "name": "Raymond Kopa",
+              "short": "Kopa"
+            },
+            {
+              "name": "Roger Piantoni",
+              "short": "Piantoni"
+            },
+            {
+              "name": "Raymond Kaelbel",
+              "short": "Kaelbel"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Heiner Kwiatkowski",
+              "short": "Kwiatkowski"
+            },
+            {
+              "name": "Herbert Erhardt",
+              "short": "Erhardt"
+            },
+            {
+              "name": "Karl Schnellinger",
+              "short": "Schnellinger"
+            },
+            {
+              "name": "Georg Stollenwerk",
+              "short": "Stollenwerk"
+            },
+            {
+              "name": "Hans Sturm",
+              "short": "Sturm"
+            },
+            {
+              "name": "Horst Szymaniak",
+              "short": "Szymaniak"
+            },
+            {
+              "name": "Heinz Wewers",
+              "short": "Wewers"
+            },
+            {
+              "name": "Hans Cieslarczyk",
+              "short": "Cieslarczyk"
+            },
+            {
+              "name": "Helmut Rahn",
+              "short": "Rahn"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            },
+            {
+              "name": "Fred Kelbassa",
+              "short": "Kelbassa"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1958-197639",
+      "competition": "mondiali",
+      "season": "1958",
+      "stage": "final",
+      "title": "Brasile - Svezia",
+      "session": "match",
+      "startsAt": "1958-06-29T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-466",
+        "name": "Sweden",
+        "shortName": "Svezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+      },
+      "homeScore": 5,
+      "awayScore": 2,
+      "videos": []
+    }
+  ],
+  "standings": [
+    {
+      "id": "table",
+      "title": "Gironi",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Germania Ovest",
+          "code": "GFR",
+          "points": 4,
+          "wins": 1,
+          "played": 3,
+          "draws": 2,
+          "losses": 0,
+          "goalDifference": 2,
+          "zone": "qualified",
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Cecoslovacchia",
+          "code": "CZK",
+          "points": 3,
+          "wins": 1,
+          "played": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalDifference": 4,
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Irlanda del Nord",
+          "code": "NIR",
+          "points": 3,
+          "wins": 1,
+          "played": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalDifference": -1,
+          "zone": "qualified",
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Argentina",
+          "code": "ARG",
+          "points": 2,
+          "wins": 1,
+          "played": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -5,
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Francia",
+          "code": "FRA",
+          "points": 4,
+          "wins": 2,
+          "played": 3,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 4,
+          "zone": "qualified",
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Jugoslavia",
+          "code": "YUG",
+          "points": 4,
+          "wins": 1,
+          "played": 3,
+          "draws": 2,
+          "losses": 0,
+          "goalDifference": 1,
+          "zone": "qualified",
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Paraguay",
+          "code": "PAR",
+          "points": 3,
+          "wins": 1,
+          "played": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalDifference": -3,
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Scozia",
+          "code": "SCO",
+          "points": 1,
+          "wins": 0,
+          "played": 3,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": -2,
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Svezia",
+          "code": "SWE",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 4,
+          "zone": "qualified",
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Ungheria",
+          "code": "HUN",
+          "points": 3,
+          "wins": 1,
+          "played": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalDifference": 3,
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Galles",
+          "code": "WAL",
+          "points": 3,
+          "wins": 0,
+          "played": 3,
+          "draws": 3,
+          "losses": 0,
+          "goalDifference": 0,
+          "zone": "qualified",
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Messico",
+          "code": "MEX",
+          "points": 1,
+          "wins": 0,
+          "played": 3,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": -7,
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Brasile",
+          "code": "BRA",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 5,
+          "zone": "qualified",
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Unione Sovietica",
+          "code": "USSR",
+          "points": 3,
+          "wins": 1,
+          "played": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalDifference": 0,
+          "zone": "qualified",
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Inghilterra",
+          "code": "ENG",
+          "points": 3,
+          "wins": 0,
+          "played": 3,
+          "draws": 3,
+          "losses": 0,
+          "goalDifference": 0,
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Austria",
+          "code": "AUT",
+          "points": 1,
+          "wins": 0,
+          "played": 3,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": -5,
+          "group": "Gruppo 4"
+        }
+      ]
+    },
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Just Fontaine",
+          "team": "Francia",
+          "points": 13
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Helmut Rahn",
+          "team": "Germania Ovest",
+          "points": 6
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Pele",
+          "team": "Brasile",
+          "points": 6
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Peter Mc Parland",
+          "team": "Irlanda del Nord",
+          "points": 5
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Vava",
+          "team": "Brasile",
+          "points": 5
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Roger Piantoni",
+          "team": "Francia",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Kurt Hamrin",
+          "team": "Svezia",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Agne Simonsson",
+          "team": "Svezia",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Lajos Tichy",
+          "team": "Ungheria",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Zdenek Zikan",
+          "team": "Cecoslovacchia",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

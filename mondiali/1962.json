@@ -1,0 +1,4875 @@
+{
+  "competition": "mondiali",
+  "season": "1962",
+  "generatedAt": "2026-11-26T16:16:37.8331833+00:00",
+  "events": [
+    {
+      "id": "mondiali-1962-197717",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 1,
+      "title": "Argentina - Bulgaria",
+      "session": "match",
+      "startsAt": "1962-05-30T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-462",
+        "name": "Bulgaria",
+        "shortName": "Bulgaria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 5,
+            "type": "goal",
+            "side": "home",
+            "player": "Héctor Facundo",
+            "short": "Facundo"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Antonio Roma",
+              "short": "Roma"
+            },
+            {
+              "name": "Rubén Navarro",
+              "short": "Navarro"
+            },
+            {
+              "name": "Raúl Páez",
+              "short": "Páez"
+            },
+            {
+              "name": "Alberto Sainz",
+              "short": "Sainz"
+            },
+            {
+              "name": "Silvio Marzolini",
+              "short": "Marzolini"
+            },
+            {
+              "name": "Federico Sacchi",
+              "short": "Sacchi"
+            },
+            {
+              "name": "Héctor Facundo",
+              "short": "Facundo"
+            },
+            {
+              "name": "Raúl Belén",
+              "short": "Belén"
+            },
+            {
+              "name": "Marcelo Pagani",
+              "short": "Pagani"
+            },
+            {
+              "name": "Oscar Rossi",
+              "short": "Rossi"
+            },
+            {
+              "name": "José Sanfilippo",
+              "short": "Sanfilippo"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Georgy Naydenov",
+              "short": "Naydenov"
+            },
+            {
+              "name": "Ivan Dimitrov",
+              "short": "Dimitrov"
+            },
+            {
+              "name": "Nikola Kovachev",
+              "short": "Kovachev"
+            },
+            {
+              "name": "Kiril Rakarov",
+              "short": "Rakarov"
+            },
+            {
+              "name": "Dimitar Dimov",
+              "short": "Dimov"
+            },
+            {
+              "name": "Sojan Kitov",
+              "short": "Kitov"
+            },
+            {
+              "name": "Todor Diev",
+              "short": "Diev"
+            },
+            {
+              "name": "Hristo Iliev",
+              "short": "Iliev"
+            },
+            {
+              "name": "Dimiter Jakimov",
+              "short": "Jakimov"
+            },
+            {
+              "name": "Ivan Kolev",
+              "short": "Kolev"
+            },
+            {
+              "name": "Petar Velichkov",
+              "short": "Velichkov"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197711",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 1,
+      "title": "Brasile - Messico",
+      "session": "match",
+      "startsAt": "1962-05-30T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": []
+    },
+    {
+      "id": "mondiali-1962-197705",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 1,
+      "title": "Cile - Svizzera",
+      "session": "match",
+      "startsAt": "1962-05-30T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "awayTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 7,
+            "type": "goal",
+            "side": "away",
+            "player": "Rolf Wuthrich",
+            "short": "Wuthrich"
+          },
+          {
+            "minute": 45,
+            "type": "goal",
+            "side": "home",
+            "player": "Leonel Sánchez",
+            "short": "Sánchez"
+          },
+          {
+            "minute": 52,
+            "type": "goal",
+            "side": "home",
+            "player": "Leonel Sánchez",
+            "short": "Sánchez"
+          },
+          {
+            "minute": 56,
+            "type": "goal",
+            "side": "home",
+            "player": "Jaime Ramirez",
+            "short": "Ramirez"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Carlos Toro",
+              "short": "Toro"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Misael Escuti",
+              "short": "Escuti"
+            },
+            {
+              "name": "Luis Eyzaguirre",
+              "short": "Eyzaguirre"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Raúl Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Jaime Ramirez",
+              "short": "Ramirez"
+            },
+            {
+              "name": "Eladio Rojas",
+              "short": "Rojas"
+            },
+            {
+              "name": "Leonel Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Alberto Fouilloux",
+              "short": "Fouilloux"
+            },
+            {
+              "name": "Honorino Landa",
+              "short": "Landa"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Karl Elsner",
+              "short": "Elsner"
+            },
+            {
+              "name": "André Grobéty",
+              "short": "Grobéty"
+            },
+            {
+              "name": "Fritz Morf",
+              "short": "Morf"
+            },
+            {
+              "name": "Heinz Schneiter",
+              "short": "Schneiter"
+            },
+            {
+              "name": "Ely Tachella",
+              "short": "Tachella"
+            },
+            {
+              "name": "Charles Antenen",
+              "short": "Antenen"
+            },
+            {
+              "name": "Norbert Eschmann",
+              "short": "Eschmann"
+            },
+            {
+              "name": "Hans Weber",
+              "short": "Weber"
+            },
+            {
+              "name": "Rolf Wuthrich",
+              "short": "Wuthrich"
+            },
+            {
+              "name": "Toni Allemann",
+              "short": "Allemann"
+            },
+            {
+              "name": "Philippe Pottier",
+              "short": "Pottier"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197699",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 1,
+      "title": "Uruguay - Colombia",
+      "session": "match",
+      "startsAt": "1962-05-30T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-208",
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/col.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 20,
+            "type": "penalty",
+            "side": "away",
+            "player": "Francisco Zuluaga",
+            "short": "Zuluaga"
+          },
+          {
+            "minute": 57,
+            "type": "goal",
+            "side": "home",
+            "player": "José Sassia",
+            "short": "Sassia"
+          },
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "home",
+            "player": "Luis Cubilla",
+            "short": "Cubilla"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Roberto Sosa",
+              "short": "Sosa"
+            },
+            {
+              "name": "Emilio Álvarez",
+              "short": "Álvarez"
+            },
+            {
+              "name": "Néstor Goncalvez",
+              "short": "Goncalvez"
+            },
+            {
+              "name": "Mario Méndez",
+              "short": "Méndez"
+            },
+            {
+              "name": "Horacio Troche",
+              "short": "Troche"
+            },
+            {
+              "name": "Eliseo Álvarez",
+              "short": "Álvarez"
+            },
+            {
+              "name": "Ronald Langon",
+              "short": "Langon"
+            },
+            {
+              "name": "Pedro Rocha",
+              "short": "Rocha"
+            },
+            {
+              "name": "Luis Cubilla",
+              "short": "Cubilla"
+            },
+            {
+              "name": "José Sassia",
+              "short": "Sassia"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Efraim Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Francisco Zuluaga",
+              "short": "Zuluaga"
+            },
+            {
+              "name": "Héctor Echeverry",
+              "short": "Echeverry"
+            },
+            {
+              "name": "Jaime González",
+              "short": "González"
+            },
+            {
+              "name": "Oscar López",
+              "short": "López"
+            },
+            {
+              "name": "Germán Aceros",
+              "short": "Aceros"
+            },
+            {
+              "name": "Marcos Coll",
+              "short": "Coll"
+            },
+            {
+              "name": "Jaime Silva",
+              "short": "Silva"
+            },
+            {
+              "name": "Jairo Arias",
+              "short": "Arias"
+            },
+            {
+              "name": "Delio Gamboa",
+              "short": "Gamboa"
+            },
+            {
+              "name": "Marino Klinger",
+              "short": "Klinger"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197712",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 1,
+      "title": "Cecoslovacchia - Spagna",
+      "session": "match",
+      "startsAt": "1962-05-31T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "awayTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "home",
+            "player": "Josef Stibranyi",
+            "short": "Stibranyi"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Villiam Schroif",
+              "short": "Schroif"
+            },
+            {
+              "name": "Jan Lala",
+              "short": "Lala"
+            },
+            {
+              "name": "Ladislav Novak",
+              "short": "Novak"
+            },
+            {
+              "name": "Jan Popluhar",
+              "short": "Popluhar"
+            },
+            {
+              "name": "Svatopluk Pluskal",
+              "short": "Pluskal"
+            },
+            {
+              "name": "Adolf Scherer",
+              "short": "Scherer"
+            },
+            {
+              "name": "Josef Stibranyi",
+              "short": "Stibranyi"
+            },
+            {
+              "name": "Josef Adamec",
+              "short": "Adamec"
+            },
+            {
+              "name": "Josef Jelinek",
+              "short": "Jelinek"
+            },
+            {
+              "name": "Andrei Kvasnak",
+              "short": "Kvasnak"
+            },
+            {
+              "name": "Josef Masopust",
+              "short": "Masopust"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Sedrum Carmelo",
+              "short": "Carmelo"
+            },
+            {
+              "name": "Feliciano Revilla",
+              "short": "Revilla"
+            },
+            {
+              "name": "José Santamaría",
+              "short": "Santamaría"
+            },
+            {
+              "name": "Juan Zegarra",
+              "short": "Zegarra"
+            },
+            {
+              "name": "Eulogio Martínez",
+              "short": "Martínez"
+            },
+            {
+              "name": "Severino Reija",
+              "short": "Reija"
+            },
+            {
+              "name": "Luis Del Sol",
+              "short": "Del Sol"
+            },
+            {
+              "name": "Jesús Garay",
+              "short": "Garay"
+            },
+            {
+              "name": "Francisco Gento",
+              "short": "Gento"
+            },
+            {
+              "name": "Ferenc Puskas",
+              "short": "Puskas"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197706",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 1,
+      "title": "Germania Ovest - Italia",
+      "session": "match",
+      "startsAt": "1962-05-31T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Wolfgang Fahrian",
+              "short": "Fahrian"
+            },
+            {
+              "name": "Herbert Erhardt",
+              "short": "Erhardt"
+            },
+            {
+              "name": "Willi Koslowski",
+              "short": "Koslowski"
+            },
+            {
+              "name": "Hans Nowak",
+              "short": "Nowak"
+            },
+            {
+              "name": "Karl Schnellinger",
+              "short": "Schnellinger"
+            },
+            {
+              "name": "Willi Schulz",
+              "short": "Schulz"
+            },
+            {
+              "name": "Helmut Haller",
+              "short": "Haller"
+            },
+            {
+              "name": "Horst Szymaniak",
+              "short": "Szymaniak"
+            },
+            {
+              "name": "Albert Brulls",
+              "short": "Brulls"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Lorenzo Buffon",
+              "short": "Buffon"
+            },
+            {
+              "name": "Giacomo Losi",
+              "short": "Losi"
+            },
+            {
+              "name": "Cesare Maldini",
+              "short": "Maldini"
+            },
+            {
+              "name": "Enzo Robotti",
+              "short": "Robotti"
+            },
+            {
+              "name": "Sandro Salvadore",
+              "short": "Salvadore"
+            },
+            {
+              "name": "Giorgio Ferrini",
+              "short": "Ferrini"
+            },
+            {
+              "name": "Luigi Radice",
+              "short": "Radice"
+            },
+            {
+              "name": "Gianni Rivera",
+              "short": "Rivera"
+            },
+            {
+              "name": "José Altafini",
+              "short": "Altafini"
+            },
+            {
+              "name": "Giampaolo Menichelli",
+              "short": "Menichelli"
+            },
+            {
+              "name": "Omar Sívori",
+              "short": "Sívori"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197718",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 1,
+      "title": "Ungheria - Inghilterra",
+      "session": "match",
+      "startsAt": "1962-05-31T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "home",
+            "player": "Lajos Tichy",
+            "short": "Tichy"
+          },
+          {
+            "minute": 61,
+            "type": "penalty",
+            "side": "away",
+            "player": "Ron Flowers",
+            "short": "Flowers"
+          },
+          {
+            "minute": 62,
+            "type": "goal",
+            "side": "home",
+            "player": "Florian Albert",
+            "short": "Albert"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gyula Grosics",
+              "short": "Grosics"
+            },
+            {
+              "name": "Kalman Meszoly",
+              "short": "Meszoly"
+            },
+            {
+              "name": "Lazlo Sarosi",
+              "short": "Sarosi"
+            },
+            {
+              "name": "Ferenc Sipos",
+              "short": "Sipos"
+            },
+            {
+              "name": "Sandor Matrai",
+              "short": "Matrai"
+            },
+            {
+              "name": "Erno Solymosi",
+              "short": "Solymosi"
+            },
+            {
+              "name": "Lajos Tichy",
+              "short": "Tichy"
+            },
+            {
+              "name": "Florian Albert",
+              "short": "Albert"
+            },
+            {
+              "name": "Máté Fenyvesi",
+              "short": "Fenyvesi"
+            },
+            {
+              "name": "Gyula Rakosi",
+              "short": "Rakosi"
+            },
+            {
+              "name": "Karoly Sandor",
+              "short": "Sandor"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ron Springett",
+              "short": "Springett"
+            },
+            {
+              "name": "Jimmy Armfield",
+              "short": "Armfield"
+            },
+            {
+              "name": "Bobby Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Ray Wilson",
+              "short": "Wilson"
+            },
+            {
+              "name": "Ron Flowers",
+              "short": "Flowers"
+            },
+            {
+              "name": "Bryan Douglas",
+              "short": "Douglas"
+            },
+            {
+              "name": "Bobby Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "Jimmy Greaves",
+              "short": "Greaves"
+            },
+            {
+              "name": "Johnny Haynes",
+              "short": "Haynes"
+            },
+            {
+              "name": "Gerry Hitchens",
+              "short": "Hitchens"
+            },
+            {
+              "name": "Maurice Norman",
+              "short": "Norman"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197700",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 1,
+      "title": "Unione Sovietica - Jugoslavia",
+      "session": "match",
+      "startsAt": "1962-05-31T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 52,
+            "type": "goal",
+            "side": "home",
+            "player": "Valentin Ivanov",
+            "short": "Ivanov"
+          },
+          {
+            "minute": 84,
+            "type": "goal",
+            "side": "home",
+            "player": "Viktor Ponedelnik",
+            "short": "Ponedelnik"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Eduard Dubinski",
+              "short": "Dubinski"
+            },
+            {
+              "name": "Anatoli Maslenkin",
+              "short": "Maslenkin"
+            },
+            {
+              "name": "Leonid Ostrovski",
+              "short": "Ostrovski"
+            },
+            {
+              "name": "Valeri Voronin",
+              "short": "Voronin"
+            },
+            {
+              "name": "Valentin Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Slava Metreveli",
+              "short": "Metreveli"
+            },
+            {
+              "name": "Igor Netto",
+              "short": "Netto"
+            },
+            {
+              "name": "Viktor Ponedelnik",
+              "short": "Ponedelnik"
+            },
+            {
+              "name": "Victor Kanevski",
+              "short": "Kanevski"
+            },
+            {
+              "name": "Mikhail Meshki",
+              "short": "Meshki"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Milutin Soskic",
+              "short": "Soskic"
+            },
+            {
+              "name": "Vladimir Durkovic",
+              "short": "Durkovic"
+            },
+            {
+              "name": "Fahrudin Jusufi",
+              "short": "Jusufi"
+            },
+            {
+              "name": "Vladimir Markovic",
+              "short": "Markovic"
+            },
+            {
+              "name": "Zeljko Matus",
+              "short": "Matus"
+            },
+            {
+              "name": "Muhamed Mujic",
+              "short": "Mujic"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Dragoslav Sekularac",
+              "short": "Sekularac"
+            },
+            {
+              "name": "Milan Galic",
+              "short": "Galic"
+            },
+            {
+              "name": "Dragan Jerkovic",
+              "short": "Jerkovic"
+            },
+            {
+              "name": "Josip Skoblar",
+              "short": "Skoblar"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197713",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 2,
+      "title": "Brasile - Cecoslovacchia",
+      "session": "match",
+      "startsAt": "1962-06-02T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Gilmar"
+            },
+            {
+              "name": "Djalma Djalma Santos",
+              "short": "Djalma Santos"
+            },
+            {
+              "name": "Dos Nilton Santos",
+              "short": "Nilton Santos"
+            },
+            {
+              "name": "Alves Zózimo",
+              "short": "Zózimo"
+            },
+            {
+              "name": "Zito"
+            },
+            {
+              "name": "Ramos Mauro",
+              "short": "Mauro"
+            },
+            {
+              "name": "Garrincha"
+            },
+            {
+              "name": "Pele",
+              "short": "Arantes do Nascimento"
+            },
+            {
+              "name": "Didí"
+            },
+            {
+              "name": "Vava",
+              "short": "Neto"
+            },
+            {
+              "name": "Mario Zagallo",
+              "short": "Zagallo"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Villiam Schroif",
+              "short": "Schroif"
+            },
+            {
+              "name": "Jan Lala",
+              "short": "Lala"
+            },
+            {
+              "name": "Jan Popluhar",
+              "short": "Popluhar"
+            },
+            {
+              "name": "Svatopluk Pluskal",
+              "short": "Pluskal"
+            },
+            {
+              "name": "Adolf Scherer",
+              "short": "Scherer"
+            },
+            {
+              "name": "Josef Adamec",
+              "short": "Adamec"
+            },
+            {
+              "name": "Josef Jelinek",
+              "short": "Jelinek"
+            },
+            {
+              "name": "Andrei Kvasnak",
+              "short": "Kvasnak"
+            },
+            {
+              "name": "Josef Masopust",
+              "short": "Masopust"
+            },
+            {
+              "name": "Ladislav Novak",
+              "short": "Novak"
+            },
+            {
+              "name": "Josef Stibranyi",
+              "short": "Stibranyi"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197707",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 2,
+      "title": "Cile - Italia",
+      "session": "match",
+      "startsAt": "1962-06-02T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "awayTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "home",
+            "player": "Jaime Ramirez",
+            "short": "Ramirez"
+          },
+          {
+            "minute": 88,
+            "type": "goal",
+            "side": "home",
+            "player": "Carlos Toro",
+            "short": "Toro"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Misael Escuti",
+              "short": "Escuti"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Luis Eyzaguirre",
+              "short": "Eyzaguirre"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Raúl Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Jaime Ramirez",
+              "short": "Ramirez"
+            },
+            {
+              "name": "Carlos Toro",
+              "short": "Toro"
+            },
+            {
+              "name": "Eladio Rojas",
+              "short": "Rojas"
+            },
+            {
+              "name": "Alberto Fouilloux",
+              "short": "Fouilloux"
+            },
+            {
+              "name": "Honorino Landa",
+              "short": "Landa"
+            },
+            {
+              "name": "Leonel Sánchez",
+              "short": "Sánchez"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Carlo Mattrel",
+              "short": "Mattrel"
+            },
+            {
+              "name": "Francesco Janich",
+              "short": "Janich"
+            },
+            {
+              "name": "Bruno Mora",
+              "short": "Mora"
+            },
+            {
+              "name": "Enzo Robotti",
+              "short": "Robotti"
+            },
+            {
+              "name": "Sandro Salvadore",
+              "short": "Salvadore"
+            },
+            {
+              "name": "Mario David",
+              "short": "David"
+            },
+            {
+              "name": "Giorgio Ferrini",
+              "short": "Ferrini"
+            },
+            {
+              "name": "José Altafini",
+              "short": "Altafini"
+            },
+            {
+              "name": "Humberto Maschio",
+              "short": "Maschio"
+            },
+            {
+              "name": "Giampaolo Menichelli",
+              "short": "Menichelli"
+            },
+            {
+              "name": "Paride Tumburus",
+              "short": "Tumburus"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197701",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 2,
+      "title": "Jugoslavia - Uruguay",
+      "session": "match",
+      "startsAt": "1962-06-02T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "awayTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 20,
+            "type": "goal",
+            "side": "away",
+            "player": "Angel Cabrera",
+            "short": "Cabrera"
+          },
+          {
+            "minute": 26,
+            "type": "penalty",
+            "side": "home",
+            "player": "Josip Skoblar",
+            "short": "Skoblar"
+          },
+          {
+            "minute": 30,
+            "type": "goal",
+            "side": "home",
+            "player": "Milan Galic",
+            "short": "Galic"
+          },
+          {
+            "minute": 50,
+            "type": "goal",
+            "side": "home",
+            "player": "Dragan Jerkovic",
+            "short": "Jerkovic"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Milutin Soskic",
+              "short": "Soskic"
+            },
+            {
+              "name": "Vladimir Durkovic",
+              "short": "Durkovic"
+            },
+            {
+              "name": "Fahrudin Jusufi",
+              "short": "Jusufi"
+            },
+            {
+              "name": "Vladimir Markovic",
+              "short": "Markovic"
+            },
+            {
+              "name": "Voislav Melic",
+              "short": "Melic"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Petar Radakovic",
+              "short": "Radakovic"
+            },
+            {
+              "name": "Dragoslav Sekularac",
+              "short": "Sekularac"
+            },
+            {
+              "name": "Milan Galic",
+              "short": "Galic"
+            },
+            {
+              "name": "Dragan Jerkovic",
+              "short": "Jerkovic"
+            },
+            {
+              "name": "Josip Skoblar",
+              "short": "Skoblar"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Roberto Sosa",
+              "short": "Sosa"
+            },
+            {
+              "name": "Emilio Álvarez",
+              "short": "Álvarez"
+            },
+            {
+              "name": "Néstor Goncalvez",
+              "short": "Goncalvez"
+            },
+            {
+              "name": "Mario Méndez",
+              "short": "Méndez"
+            },
+            {
+              "name": "Horacio Troche",
+              "short": "Troche"
+            },
+            {
+              "name": "Eliseo Álvarez",
+              "short": "Álvarez"
+            },
+            {
+              "name": "Mario Bergara",
+              "short": "Bergara"
+            },
+            {
+              "name": "Pedro Rocha",
+              "short": "Rocha"
+            },
+            {
+              "name": "Angel Cabrera",
+              "short": "Cabrera"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "José Sassia",
+              "short": "Sassia"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197719",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 2,
+      "title": "Inghilterra - Argentina",
+      "session": "match",
+      "startsAt": "1962-06-02T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "awayTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 18,
+            "type": "penalty",
+            "side": "home",
+            "player": "Ron Flowers",
+            "short": "Flowers"
+          },
+          {
+            "minute": 43,
+            "type": "goal",
+            "side": "home",
+            "player": "Bobby Charlton",
+            "short": "Charlton"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Jimmy Greaves",
+            "short": "Greaves"
+          },
+          {
+            "minute": 83,
+            "type": "goal",
+            "side": "away",
+            "player": "José Sanfilippo",
+            "short": "Sanfilippo"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ron Springett",
+              "short": "Springett"
+            },
+            {
+              "name": "Jimmy Armfield",
+              "short": "Armfield"
+            },
+            {
+              "name": "Bobby Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Alan Peacock",
+              "short": "Peacock"
+            },
+            {
+              "name": "Ron Flowers",
+              "short": "Flowers"
+            },
+            {
+              "name": "Ray Wilson",
+              "short": "Wilson"
+            },
+            {
+              "name": "Bobby Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "Jimmy Greaves",
+              "short": "Greaves"
+            },
+            {
+              "name": "Bryan Douglas",
+              "short": "Douglas"
+            },
+            {
+              "name": "Johnny Haynes",
+              "short": "Haynes"
+            },
+            {
+              "name": "Maurice Norman",
+              "short": "Norman"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Roma",
+              "short": "Roma"
+            },
+            {
+              "name": "Silvio Marzolini",
+              "short": "Marzolini"
+            },
+            {
+              "name": "Rubén Navarro",
+              "short": "Navarro"
+            },
+            {
+              "name": "Raúl Páez",
+              "short": "Páez"
+            },
+            {
+              "name": "Antonio Rattín",
+              "short": "Rattín"
+            },
+            {
+              "name": "Federico Sacchi",
+              "short": "Sacchi"
+            },
+            {
+              "name": "José Sanfilippo",
+              "short": "Sanfilippo"
+            },
+            {
+              "name": "Raúl Belén",
+              "short": "Belén"
+            },
+            {
+              "name": "Vladislao Cap",
+              "short": "Cap"
+            },
+            {
+              "name": "Juan Oleniak",
+              "short": "Oleniak"
+            },
+            {
+              "name": "Rubén Sosa",
+              "short": "Sosa"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197708",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 2,
+      "title": "Germania Ovest - Svizzera",
+      "session": "match",
+      "startsAt": "1962-06-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Albert Brulls",
+            "short": "Brulls"
+          },
+          {
+            "minute": 60,
+            "type": "goal",
+            "side": "home",
+            "player": "Uwe Seeler",
+            "short": "Seeler"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "away",
+            "player": "Heinz Schneiter",
+            "short": "Schneiter"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Wolfgang Fahrian",
+              "short": "Fahrian"
+            },
+            {
+              "name": "Herbert Erhardt",
+              "short": "Erhardt"
+            },
+            {
+              "name": "Willi Koslowski",
+              "short": "Koslowski"
+            },
+            {
+              "name": "Hans Nowak",
+              "short": "Nowak"
+            },
+            {
+              "name": "Karl Schnellinger",
+              "short": "Schnellinger"
+            },
+            {
+              "name": "Willi Schulz",
+              "short": "Schulz"
+            },
+            {
+              "name": "Helmut Haller",
+              "short": "Haller"
+            },
+            {
+              "name": "Horst Szymaniak",
+              "short": "Szymaniak"
+            },
+            {
+              "name": "Albert Brulls",
+              "short": "Brulls"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Karl Elsner",
+              "short": "Elsner"
+            },
+            {
+              "name": "Heinz Schneiter",
+              "short": "Schneiter"
+            },
+            {
+              "name": "André Grobéty",
+              "short": "Grobéty"
+            },
+            {
+              "name": "Ely Tachella",
+              "short": "Tachella"
+            },
+            {
+              "name": "Charles Antenen",
+              "short": "Antenen"
+            },
+            {
+              "name": "Norbert Eschmann",
+              "short": "Eschmann"
+            },
+            {
+              "name": "Hans Weber",
+              "short": "Weber"
+            },
+            {
+              "name": "Toni Allemann",
+              "short": "Allemann"
+            },
+            {
+              "name": "Richard Dürr",
+              "short": "Dürr"
+            },
+            {
+              "name": "Roger Vonlanthen",
+              "short": "Vonlanthen"
+            },
+            {
+              "name": "Rolf Wuthrich",
+              "short": "Wuthrich"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197720",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 2,
+      "title": "Ungheria - Bulgaria",
+      "session": "match",
+      "startsAt": "1962-06-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-462",
+        "name": "Bulgaria",
+        "shortName": "Bulgaria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png"
+      },
+      "homeScore": 6,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 2,
+            "type": "goal",
+            "side": "home",
+            "player": "Florian Albert",
+            "short": "Albert"
+          },
+          {
+            "minute": 7,
+            "type": "goal",
+            "side": "home",
+            "player": "Florian Albert",
+            "short": "Albert"
+          },
+          {
+            "minute": 9,
+            "type": "goal",
+            "side": "home",
+            "player": "Lajos Tichy",
+            "short": "Tichy"
+          },
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Erno Solymosi",
+            "short": "Solymosi"
+          },
+          {
+            "minute": 54,
+            "type": "goal",
+            "side": "home",
+            "player": "Florian Albert",
+            "short": "Albert"
+          },
+          {
+            "minute": 65,
+            "type": "goal",
+            "side": "away",
+            "player": "Georgi Sokolov",
+            "short": "Sokolov"
+          },
+          {
+            "minute": 71,
+            "type": "goal",
+            "side": "home",
+            "player": "Lajos Tichy",
+            "short": "Tichy"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Itsvan Ilku",
+              "short": "Ilku"
+            },
+            {
+              "name": "Kalman Meszoly",
+              "short": "Meszoly"
+            },
+            {
+              "name": "Lazlo Sarosi",
+              "short": "Sarosi"
+            },
+            {
+              "name": "Ferenc Sipos",
+              "short": "Sipos"
+            },
+            {
+              "name": "Erno Solymosi",
+              "short": "Solymosi"
+            },
+            {
+              "name": "Sandor Matrai",
+              "short": "Matrai"
+            },
+            {
+              "name": "Lajos Tichy",
+              "short": "Tichy"
+            },
+            {
+              "name": "Florian Albert",
+              "short": "Albert"
+            },
+            {
+              "name": "Máté Fenyvesi",
+              "short": "Fenyvesi"
+            },
+            {
+              "name": "Janos Gorocs",
+              "short": "Gorocs"
+            },
+            {
+              "name": "Karoly Sandor",
+              "short": "Sandor"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Georgy Naydenov",
+              "short": "Naydenov"
+            },
+            {
+              "name": "Ivan Dimitrov",
+              "short": "Dimitrov"
+            },
+            {
+              "name": "Nikola Kovachev",
+              "short": "Kovachev"
+            },
+            {
+              "name": "Kiril Rakarov",
+              "short": "Rakarov"
+            },
+            {
+              "name": "Sojan Kitov",
+              "short": "Kitov"
+            },
+            {
+              "name": "Alexander Kostov",
+              "short": "Kostov"
+            },
+            {
+              "name": "Georgi Sokolov",
+              "short": "Sokolov"
+            },
+            {
+              "name": "Dinko Dermendjiev",
+              "short": "Dermendjiev"
+            },
+            {
+              "name": "Ivan Kolev",
+              "short": "Kolev"
+            },
+            {
+              "name": "Dimitar Kostov",
+              "short": "Kostov"
+            },
+            {
+              "name": "Petar Velichkov",
+              "short": "Velichkov"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197702",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 2,
+      "title": "Unione Sovietica - Colombia",
+      "session": "match",
+      "startsAt": "1962-06-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "awayTeam": {
+        "id": "espn-208",
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/col.png"
+      },
+      "homeScore": 4,
+      "awayScore": 4,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 9,
+            "type": "goal",
+            "side": "home",
+            "player": "Valentin Ivanov",
+            "short": "Ivanov"
+          },
+          {
+            "minute": 11,
+            "type": "goal",
+            "side": "home",
+            "player": "Igor Chislenko",
+            "short": "Chislenko"
+          },
+          {
+            "minute": 12,
+            "type": "goal",
+            "side": "home",
+            "player": "Valentin Ivanov",
+            "short": "Ivanov"
+          },
+          {
+            "minute": 22,
+            "type": "goal",
+            "side": "away",
+            "player": "Germán Aceros",
+            "short": "Aceros"
+          },
+          {
+            "minute": 57,
+            "type": "goal",
+            "side": "home",
+            "player": "Viktor Ponedelnik",
+            "short": "Ponedelnik"
+          },
+          {
+            "minute": 69,
+            "type": "goal",
+            "side": "away",
+            "player": "Marcos Coll",
+            "short": "Coll"
+          },
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "away",
+            "player": "Antonio Rada",
+            "short": "Rada"
+          },
+          {
+            "minute": 87,
+            "type": "goal",
+            "side": "away",
+            "player": "Marino Klinger",
+            "short": "Klinger"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Givi Chokeli",
+              "short": "Chokeli"
+            },
+            {
+              "name": "Anatoli Maslenkin",
+              "short": "Maslenkin"
+            },
+            {
+              "name": "Leonid Ostrovski",
+              "short": "Ostrovski"
+            },
+            {
+              "name": "Valeri Voronin",
+              "short": "Voronin"
+            },
+            {
+              "name": "Valentin Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Igor Netto",
+              "short": "Netto"
+            },
+            {
+              "name": "Igor Chislenko",
+              "short": "Chislenko"
+            },
+            {
+              "name": "Viktor Ponedelnik",
+              "short": "Ponedelnik"
+            },
+            {
+              "name": "Victor Kanevski",
+              "short": "Kanevski"
+            },
+            {
+              "name": "Mikhail Meshki",
+              "short": "Meshki"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Efraim Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Aníbal Alzate",
+              "short": "Alzate"
+            },
+            {
+              "name": "Héctor Echeverry",
+              "short": "Echeverry"
+            },
+            {
+              "name": "Jaime González",
+              "short": "González"
+            },
+            {
+              "name": "Oscar López",
+              "short": "López"
+            },
+            {
+              "name": "Germán Aceros",
+              "short": "Aceros"
+            },
+            {
+              "name": "Marcos Coll",
+              "short": "Coll"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Marino Klinger",
+              "short": "Klinger"
+            },
+            {
+              "name": "Antonio Rada",
+              "short": "Rada"
+            },
+            {
+              "name": "Héctor González",
+              "short": "González"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197714",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 2,
+      "title": "Spagna - Messico",
+      "session": "match",
+      "startsAt": "1962-06-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 90,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Joaquín Peiró",
+            "short": "Peiró"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Sedrum Carmelo",
+              "short": "Carmelo"
+            },
+            {
+              "name": "Joaquín Peiró",
+              "short": "Peiró"
+            },
+            {
+              "name": "Enrique Pérez",
+              "short": "Pérez"
+            },
+            {
+              "name": "José Santamaría",
+              "short": "Santamaría"
+            },
+            {
+              "name": "Luis Del Sol",
+              "short": "Del Sol"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Francisco Gento",
+              "short": "Gento"
+            },
+            {
+              "name": "Sigfrido Gracia",
+              "short": "Gracia"
+            },
+            {
+              "name": "Ferenc Puskas",
+              "short": "Puskas"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Martín Verges",
+              "short": "Verges"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Carbajal",
+              "short": "Carbajal"
+            },
+            {
+              "name": "Jesús Del Muro",
+              "short": "Del Muro"
+            },
+            {
+              "name": "Ignacio Jauregui",
+              "short": "Jauregui"
+            },
+            {
+              "name": "Guillermo Sepúlveda",
+              "short": "Sepúlveda"
+            },
+            {
+              "name": "Raúl Cardenas",
+              "short": "Cardenas"
+            },
+            {
+              "name": "Alfredo Del Aguila",
+              "short": "Del Aguila"
+            },
+            {
+              "name": "Isidoro Díaz"
+            },
+            {
+              "name": "Héctor Hernández",
+              "short": "Hernández"
+            },
+            {
+              "name": "Antonio Jasso",
+              "short": "Jasso"
+            },
+            {
+              "name": "Pedro Najera",
+              "short": "Najera"
+            },
+            {
+              "name": "Salvador Reyes",
+              "short": "Reyes"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197715",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 3,
+      "title": "Brasile - Spagna",
+      "session": "match",
+      "startsAt": "1962-06-06T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "home",
+            "player": "Amarildo"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "away",
+            "player": "Adelardo Rodriguez",
+            "short": "Rodriguez"
+          },
+          {
+            "minute": 87,
+            "type": "goal",
+            "side": "home",
+            "player": "Amarildo"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gilmar"
+            },
+            {
+              "name": "Djalma Djalma Santos",
+              "short": "Djalma Santos"
+            },
+            {
+              "name": "Dos Nilton Santos",
+              "short": "Nilton Santos"
+            },
+            {
+              "name": "Alves Zózimo",
+              "short": "Zózimo"
+            },
+            {
+              "name": "Zito"
+            },
+            {
+              "name": "Ramos Mauro",
+              "short": "Mauro"
+            },
+            {
+              "name": "Amarildo"
+            },
+            {
+              "name": "Garrincha"
+            },
+            {
+              "name": "Didí"
+            },
+            {
+              "name": "Vava",
+              "short": "Neto"
+            },
+            {
+              "name": "Mario Zagallo",
+              "short": "Zagallo"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "José Araquistain",
+              "short": "Araquistain"
+            },
+            {
+              "name": "Enrique Collar",
+              "short": "Collar"
+            },
+            {
+              "name": "Enrique Pérez",
+              "short": "Pérez"
+            },
+            {
+              "name": "Joaquín Peiró",
+              "short": "Peiró"
+            },
+            {
+              "name": "Adelardo Rodriguez",
+              "short": "Rodriguez"
+            },
+            {
+              "name": "Luis Echevarría",
+              "short": "Echevarría"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Francisco Gento",
+              "short": "Gento"
+            },
+            {
+              "name": "Sigfrido Gracia",
+              "short": "Gracia"
+            },
+            {
+              "name": "Ferenc Puskas",
+              "short": "Puskas"
+            },
+            {
+              "name": "Martín Verges",
+              "short": "Verges"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197709",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 3,
+      "title": "Germania Ovest - Cile",
+      "session": "match",
+      "startsAt": "1962-06-06T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 21,
+            "type": "penalty",
+            "side": "home",
+            "player": "Horst Szymaniak",
+            "short": "Szymaniak"
+          },
+          {
+            "minute": 83,
+            "type": "goal",
+            "side": "home",
+            "player": "Uwe Seeler",
+            "short": "Seeler"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Wolfgang Fahrian",
+              "short": "Fahrian"
+            },
+            {
+              "name": "Herbert Erhardt",
+              "short": "Erhardt"
+            },
+            {
+              "name": "Hans Nowak",
+              "short": "Nowak"
+            },
+            {
+              "name": "Karl Schnellinger",
+              "short": "Schnellinger"
+            },
+            {
+              "name": "Willi Schulz",
+              "short": "Schulz"
+            },
+            {
+              "name": "Horst Szymaniak",
+              "short": "Szymaniak"
+            },
+            {
+              "name": "Willi Geisemann",
+              "short": "Geisemann"
+            },
+            {
+              "name": "Engelbert Kraus",
+              "short": "Kraus"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            },
+            {
+              "name": "Albert Brulls",
+              "short": "Brulls"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Misael Escuti",
+              "short": "Escuti"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Luis Eyzaguirre",
+              "short": "Eyzaguirre"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Raúl Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Mario Moreno",
+              "short": "Moreno"
+            },
+            {
+              "name": "Jaime Ramirez",
+              "short": "Ramirez"
+            },
+            {
+              "name": "Eladio Rojas",
+              "short": "Rojas"
+            },
+            {
+              "name": "Honorino Landa",
+              "short": "Landa"
+            },
+            {
+              "name": "Leonel Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Armando Tobar",
+              "short": "Tobar"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197721",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 3,
+      "title": "Ungheria - Argentina",
+      "session": "match",
+      "startsAt": "1962-06-06T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Gyula Grosics",
+              "short": "Grosics"
+            },
+            {
+              "name": "Kalman Meszoly",
+              "short": "Meszoly"
+            },
+            {
+              "name": "Lazlo Sarosi",
+              "short": "Sarosi"
+            },
+            {
+              "name": "Ferenc Sipos",
+              "short": "Sipos"
+            },
+            {
+              "name": "Sandor Matrai",
+              "short": "Matrai"
+            },
+            {
+              "name": "Erno Solymosi",
+              "short": "Solymosi"
+            },
+            {
+              "name": "Lajos Tichy",
+              "short": "Tichy"
+            },
+            {
+              "name": "Janos Gorocs",
+              "short": "Gorocs"
+            },
+            {
+              "name": "Bela Kucharzki",
+              "short": "Kucharzki"
+            },
+            {
+              "name": "Tivador Monostori",
+              "short": "Monostori"
+            },
+            {
+              "name": "Gyula Rakosi",
+              "short": "Rakosi"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Rogelio Domínguez",
+              "short": "Domínguez"
+            },
+            {
+              "name": "Silvio Marzolini",
+              "short": "Marzolini"
+            },
+            {
+              "name": "José Ramos",
+              "short": "Ramos"
+            },
+            {
+              "name": "Alberto Sainz",
+              "short": "Sainz"
+            },
+            {
+              "name": "Martín Pando",
+              "short": "Pando"
+            },
+            {
+              "name": "Federico Sacchi",
+              "short": "Sacchi"
+            },
+            {
+              "name": "Vladislao Cap",
+              "short": "Cap"
+            },
+            {
+              "name": "Héctor Facundo",
+              "short": "Facundo"
+            },
+            {
+              "name": "Alberto González",
+              "short": "González"
+            },
+            {
+              "name": "Juan Oleniak",
+              "short": "Oleniak"
+            },
+            {
+              "name": "Marcelo Pagani",
+              "short": "Pagani"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197703",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 3,
+      "title": "Unione Sovietica - Uruguay",
+      "session": "match",
+      "startsAt": "1962-06-06T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "awayTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "Alexei Mamykin",
+            "short": "Mamykin"
+          },
+          {
+            "minute": 55,
+            "type": "goal",
+            "side": "away",
+            "player": "José Sassia",
+            "short": "Sassia"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "home",
+            "player": "Valentin Ivanov",
+            "short": "Ivanov"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Givi Chokeli",
+              "short": "Chokeli"
+            },
+            {
+              "name": "Anatoli Maslenkin",
+              "short": "Maslenkin"
+            },
+            {
+              "name": "Leonid Ostrovski",
+              "short": "Ostrovski"
+            },
+            {
+              "name": "Valeri Voronin",
+              "short": "Voronin"
+            },
+            {
+              "name": "Valentin Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Alexei Mamykin",
+              "short": "Mamykin"
+            },
+            {
+              "name": "Igor Netto",
+              "short": "Netto"
+            },
+            {
+              "name": "Igor Chislenko",
+              "short": "Chislenko"
+            },
+            {
+              "name": "Galimzian Khusianov",
+              "short": "Khusianov"
+            },
+            {
+              "name": "Viktor Ponedelnik",
+              "short": "Ponedelnik"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Roberto Sosa",
+              "short": "Sosa"
+            },
+            {
+              "name": "Emilio Álvarez",
+              "short": "Álvarez"
+            },
+            {
+              "name": "Néstor Goncalvez",
+              "short": "Goncalvez"
+            },
+            {
+              "name": "Mario Méndez",
+              "short": "Méndez"
+            },
+            {
+              "name": "Horacio Troche",
+              "short": "Troche"
+            },
+            {
+              "name": "Eliseo Álvarez",
+              "short": "Álvarez"
+            },
+            {
+              "name": "Julio Cortés",
+              "short": "Cortés"
+            },
+            {
+              "name": "José Sassia",
+              "short": "Sassia"
+            },
+            {
+              "name": "Angel Cabrera",
+              "short": "Cabrera"
+            },
+            {
+              "name": "Luis Cubilla",
+              "short": "Cubilla"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197722",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 3,
+      "title": "Inghilterra - Bulgaria",
+      "session": "match",
+      "startsAt": "1962-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "awayTeam": {
+        "id": "espn-462",
+        "name": "Bulgaria",
+        "shortName": "Bulgaria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Ron Springett",
+              "short": "Springett"
+            },
+            {
+              "name": "Jimmy Armfield",
+              "short": "Armfield"
+            },
+            {
+              "name": "Bobby Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Alan Peacock",
+              "short": "Peacock"
+            },
+            {
+              "name": "Ron Flowers",
+              "short": "Flowers"
+            },
+            {
+              "name": "Ray Wilson",
+              "short": "Wilson"
+            },
+            {
+              "name": "Bobby Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "Bryan Douglas",
+              "short": "Douglas"
+            },
+            {
+              "name": "Jimmy Greaves",
+              "short": "Greaves"
+            },
+            {
+              "name": "Johnny Haynes",
+              "short": "Haynes"
+            },
+            {
+              "name": "Maurice Norman",
+              "short": "Norman"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Georgy Naydenov",
+              "short": "Naydenov"
+            },
+            {
+              "name": "Ivan Dimitrov",
+              "short": "Dimitrov"
+            },
+            {
+              "name": "Dimitar Dimov",
+              "short": "Dimov"
+            },
+            {
+              "name": "Dobromir Jetchev",
+              "short": "Jetchev"
+            },
+            {
+              "name": "Alexander Kostov",
+              "short": "Kostov"
+            },
+            {
+              "name": "Nikola Kovachev",
+              "short": "Kovachev"
+            },
+            {
+              "name": "Georgi Asparukhov",
+              "short": "Asparukhov"
+            },
+            {
+              "name": "Dinko Dermendjiev",
+              "short": "Dermendjiev"
+            },
+            {
+              "name": "Ivan Kolev",
+              "short": "Kolev"
+            },
+            {
+              "name": "Dimitar Kostov",
+              "short": "Kostov"
+            },
+            {
+              "name": "Petar Velichkov",
+              "short": "Velichkov"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197710",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 3,
+      "title": "Italia - Svizzera",
+      "session": "match",
+      "startsAt": "1962-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 2,
+            "type": "goal",
+            "side": "home",
+            "player": "Bruno Mora",
+            "short": "Mora"
+          },
+          {
+            "minute": 66,
+            "type": "goal",
+            "side": "home",
+            "player": "Giacomo Bulgarelli",
+            "short": "Bulgarelli"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Giacomo Bulgarelli",
+            "short": "Bulgarelli"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Lorenzo Buffon",
+              "short": "Buffon"
+            },
+            {
+              "name": "Bruno Mora",
+              "short": "Mora"
+            },
+            {
+              "name": "Giacomo Losi",
+              "short": "Losi"
+            },
+            {
+              "name": "Cesare Maldini",
+              "short": "Maldini"
+            },
+            {
+              "name": "Enzo Robotti",
+              "short": "Robotti"
+            },
+            {
+              "name": "Sandro Salvadore",
+              "short": "Salvadore"
+            },
+            {
+              "name": "Angelo Sormani",
+              "short": "Sormani"
+            },
+            {
+              "name": "Luigi Radice",
+              "short": "Radice"
+            },
+            {
+              "name": "Giacomo Bulgarelli",
+              "short": "Bulgarelli"
+            },
+            {
+              "name": "Ezio Pascutti",
+              "short": "Pascutti"
+            },
+            {
+              "name": "Omar Sívori",
+              "short": "Sívori"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Karl Elsner",
+              "short": "Elsner"
+            },
+            {
+              "name": "André Grobéty",
+              "short": "Grobéty"
+            },
+            {
+              "name": "Heinz Schneiter",
+              "short": "Schneiter"
+            },
+            {
+              "name": "Ely Tachella",
+              "short": "Tachella"
+            },
+            {
+              "name": "Charles Antenen",
+              "short": "Antenen"
+            },
+            {
+              "name": "Eugen Meier",
+              "short": "Meier"
+            },
+            {
+              "name": "Hans Weber",
+              "short": "Weber"
+            },
+            {
+              "name": "Toni Allemann",
+              "short": "Allemann"
+            },
+            {
+              "name": "Richard Dürr",
+              "short": "Dürr"
+            },
+            {
+              "name": "Marcel Vonlanthen",
+              "short": "Vonlanthen"
+            },
+            {
+              "name": "Rolf Wuthrich",
+              "short": "Wuthrich"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197716",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 3,
+      "title": "Messico - Cecoslovacchia",
+      "session": "match",
+      "startsAt": "1962-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "awayTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 2,
+            "type": "goal",
+            "side": "away",
+            "player": "Vaclav Masek",
+            "short": "Masek"
+          },
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Isidoro Díaz"
+          },
+          {
+            "minute": 30,
+            "type": "goal",
+            "side": "home",
+            "player": "Alfredo Del Aguila",
+            "short": "Del Aguila"
+          },
+          {
+            "minute": 90,
+            "addedTime": 1,
+            "type": "penalty",
+            "side": "home",
+            "player": "Héctor Hernández",
+            "short": "Hernández"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Antonio Carbajal",
+              "short": "Carbajal"
+            },
+            {
+              "name": "Jesús Del Muro",
+              "short": "Del Muro"
+            },
+            {
+              "name": "Ignacio Jauregui",
+              "short": "Jauregui"
+            },
+            {
+              "name": "Guillermo Sepúlveda",
+              "short": "Sepúlveda"
+            },
+            {
+              "name": "Alfredo Del Aguila",
+              "short": "Del Aguila"
+            },
+            {
+              "name": "Raúl Cardenas",
+              "short": "Cardenas"
+            },
+            {
+              "name": "Isidoro Díaz"
+            },
+            {
+              "name": "Héctor Hernández",
+              "short": "Hernández"
+            },
+            {
+              "name": "Alfredo Hernández",
+              "short": "Hernández"
+            },
+            {
+              "name": "Pedro Najera",
+              "short": "Najera"
+            },
+            {
+              "name": "Salvador Reyes",
+              "short": "Reyes"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Villiam Schroif",
+              "short": "Schroif"
+            },
+            {
+              "name": "Jan Lala",
+              "short": "Lala"
+            },
+            {
+              "name": "Ladislav Novak",
+              "short": "Novak"
+            },
+            {
+              "name": "Jan Popluhar",
+              "short": "Popluhar"
+            },
+            {
+              "name": "Svatopluk Pluskal",
+              "short": "Pluskal"
+            },
+            {
+              "name": "Adolf Scherer",
+              "short": "Scherer"
+            },
+            {
+              "name": "Vaclav Masek",
+              "short": "Masek"
+            },
+            {
+              "name": "Josef Adamec",
+              "short": "Adamec"
+            },
+            {
+              "name": "Andrei Kvasnak",
+              "short": "Kvasnak"
+            },
+            {
+              "name": "Josef Masopust",
+              "short": "Masopust"
+            },
+            {
+              "name": "Josef Stibranyi",
+              "short": "Stibranyi"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197704",
+      "competition": "mondiali",
+      "season": "1962",
+      "round": 3,
+      "title": "Jugoslavia - Colombia",
+      "session": "match",
+      "startsAt": "1962-06-07T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "awayTeam": {
+        "id": "espn-208",
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/col.png"
+      },
+      "homeScore": 5,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "home",
+            "player": "Milan Galic",
+            "short": "Galic"
+          },
+          {
+            "minute": 26,
+            "type": "goal",
+            "side": "home",
+            "player": "Dragan Jerkovic",
+            "short": "Jerkovic"
+          },
+          {
+            "minute": 62,
+            "type": "goal",
+            "side": "home",
+            "player": "Milan Galic",
+            "short": "Galic"
+          },
+          {
+            "minute": 83,
+            "type": "goal",
+            "side": "home",
+            "player": "Voislav Melic",
+            "short": "Melic"
+          },
+          {
+            "minute": 88,
+            "type": "goal",
+            "side": "home",
+            "player": "Dragan Jerkovic",
+            "short": "Jerkovic"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Milutin Soskic",
+              "short": "Soskic"
+            },
+            {
+              "name": "Andrjia Ankovic",
+              "short": "Ankovic"
+            },
+            {
+              "name": "Vladimir Durkovic",
+              "short": "Durkovic"
+            },
+            {
+              "name": "Fahrudin Jusufi",
+              "short": "Jusufi"
+            },
+            {
+              "name": "Vladimir Markovic",
+              "short": "Markovic"
+            },
+            {
+              "name": "Voislav Melic",
+              "short": "Melic"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Petar Radakovic",
+              "short": "Radakovic"
+            },
+            {
+              "name": "Dragoslav Sekularac",
+              "short": "Sekularac"
+            },
+            {
+              "name": "Milan Galic",
+              "short": "Galic"
+            },
+            {
+              "name": "Dragan Jerkovic",
+              "short": "Jerkovic"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Efraim Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Aníbal Alzate",
+              "short": "Alzate"
+            },
+            {
+              "name": "Ignacio Calle",
+              "short": "Calle"
+            },
+            {
+              "name": "Héctor Echeverry",
+              "short": "Echeverry"
+            },
+            {
+              "name": "Jaime González",
+              "short": "González"
+            },
+            {
+              "name": "Oscar López",
+              "short": "López"
+            },
+            {
+              "name": "Germán Aceros",
+              "short": "Aceros"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Héctor González",
+              "short": "González"
+            },
+            {
+              "name": "Marino Klinger",
+              "short": "Klinger"
+            },
+            {
+              "name": "Antonio Rada",
+              "short": "Rada"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197724",
+      "competition": "mondiali",
+      "season": "1962",
+      "stage": "quarter_finals",
+      "title": "Brasile - Inghilterra",
+      "session": "match",
+      "startsAt": "1962-06-10T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 32,
+            "type": "goal",
+            "side": "home",
+            "player": "Garrincha"
+          },
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "away",
+            "player": "Gerry Hitchens",
+            "short": "Hitchens"
+          },
+          {
+            "minute": 54,
+            "type": "goal",
+            "side": "home",
+            "player": "Izidio Vavá"
+          },
+          {
+            "minute": 60,
+            "type": "goal",
+            "side": "home",
+            "player": "Garrincha"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gilmar"
+            },
+            {
+              "name": "Djalma Djalma Santos",
+              "short": "Djalma Santos"
+            },
+            {
+              "name": "Dos Nilton Santos",
+              "short": "Nilton Santos"
+            },
+            {
+              "name": "Alves Zózimo",
+              "short": "Zózimo"
+            },
+            {
+              "name": "Zito"
+            },
+            {
+              "name": "Ramos Mauro",
+              "short": "Mauro"
+            },
+            {
+              "name": "Garrincha"
+            },
+            {
+              "name": "Vava",
+              "short": "Neto"
+            },
+            {
+              "name": "Amarildo"
+            },
+            {
+              "name": "Didí"
+            },
+            {
+              "name": "Mario Zagallo",
+              "short": "Zagallo"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ron Springett",
+              "short": "Springett"
+            },
+            {
+              "name": "Jimmy Armfield",
+              "short": "Armfield"
+            },
+            {
+              "name": "Bobby Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Ray Wilson",
+              "short": "Wilson"
+            },
+            {
+              "name": "Bryan Douglas",
+              "short": "Douglas"
+            },
+            {
+              "name": "Ron Flowers",
+              "short": "Flowers"
+            },
+            {
+              "name": "Gerry Hitchens",
+              "short": "Hitchens"
+            },
+            {
+              "name": "Bobby Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "Jimmy Greaves",
+              "short": "Greaves"
+            },
+            {
+              "name": "Johnny Haynes",
+              "short": "Haynes"
+            },
+            {
+              "name": "Maurice Norman",
+              "short": "Norman"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197723",
+      "competition": "mondiali",
+      "season": "1962",
+      "stage": "quarter_finals",
+      "title": "Cile - Unione Sovietica",
+      "session": "match",
+      "startsAt": "1962-06-10T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "awayTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 12,
+            "type": "goal",
+            "side": "home",
+            "player": "Leonel Sánchez",
+            "short": "Sánchez"
+          },
+          {
+            "minute": 27,
+            "type": "goal",
+            "side": "away",
+            "player": "Igor Chislenko",
+            "short": "Chislenko"
+          },
+          {
+            "minute": 30,
+            "type": "goal",
+            "side": "home",
+            "player": "Eladio Rojas",
+            "short": "Rojas"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Carlos Toro",
+              "short": "Toro"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Misael Escuti",
+              "short": "Escuti"
+            },
+            {
+              "name": "Luis Eyzaguirre",
+              "short": "Eyzaguirre"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Raúl Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Eladio Rojas",
+              "short": "Rojas"
+            },
+            {
+              "name": "Leonel Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Honorino Landa",
+              "short": "Landa"
+            },
+            {
+              "name": "Jaime Ramirez",
+              "short": "Ramirez"
+            },
+            {
+              "name": "Armando Tobar",
+              "short": "Tobar"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Givi Chokeli",
+              "short": "Chokeli"
+            },
+            {
+              "name": "Anatoli Maslenkin",
+              "short": "Maslenkin"
+            },
+            {
+              "name": "Leonid Ostrovski",
+              "short": "Ostrovski"
+            },
+            {
+              "name": "Alexei Mamykin",
+              "short": "Mamykin"
+            },
+            {
+              "name": "Valeri Voronin",
+              "short": "Voronin"
+            },
+            {
+              "name": "Igor Chislenko",
+              "short": "Chislenko"
+            },
+            {
+              "name": "Valentin Ivanov",
+              "short": "Ivanov"
+            },
+            {
+              "name": "Mikhail Meshki",
+              "short": "Meshki"
+            },
+            {
+              "name": "Igor Netto",
+              "short": "Netto"
+            },
+            {
+              "name": "Viktor Ponedelnik",
+              "short": "Ponedelnik"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197725",
+      "competition": "mondiali",
+      "season": "1962",
+      "stage": "quarter_finals",
+      "title": "Cecoslovacchia - Ungheria",
+      "session": "match",
+      "startsAt": "1962-06-10T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "awayTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 14,
+            "type": "goal",
+            "side": "home",
+            "player": "Adolf Scherer",
+            "short": "Scherer"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Villiam Schroif",
+              "short": "Schroif"
+            },
+            {
+              "name": "Jan Lala",
+              "short": "Lala"
+            },
+            {
+              "name": "Ladislav Novak",
+              "short": "Novak"
+            },
+            {
+              "name": "Jan Popluhar",
+              "short": "Popluhar"
+            },
+            {
+              "name": "Adolf Scherer",
+              "short": "Scherer"
+            },
+            {
+              "name": "Svatopluk Pluskal",
+              "short": "Pluskal"
+            },
+            {
+              "name": "Josef Jelinek",
+              "short": "Jelinek"
+            },
+            {
+              "name": "Josef Kadraba",
+              "short": "Kadraba"
+            },
+            {
+              "name": "Andrei Kvasnak",
+              "short": "Kvasnak"
+            },
+            {
+              "name": "Josef Masopust",
+              "short": "Masopust"
+            },
+            {
+              "name": "Tomas Pospichal",
+              "short": "Pospichal"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Gyula Grosics",
+              "short": "Grosics"
+            },
+            {
+              "name": "Kalman Meszoly",
+              "short": "Meszoly"
+            },
+            {
+              "name": "Lazlo Sarosi",
+              "short": "Sarosi"
+            },
+            {
+              "name": "Ferenc Sipos",
+              "short": "Sipos"
+            },
+            {
+              "name": "Sandor Matrai",
+              "short": "Matrai"
+            },
+            {
+              "name": "Erno Solymosi",
+              "short": "Solymosi"
+            },
+            {
+              "name": "Florian Albert",
+              "short": "Albert"
+            },
+            {
+              "name": "Máté Fenyvesi",
+              "short": "Fenyvesi"
+            },
+            {
+              "name": "Gyula Rakosi",
+              "short": "Rakosi"
+            },
+            {
+              "name": "Karoly Sandor",
+              "short": "Sandor"
+            },
+            {
+              "name": "Lajos Tichy",
+              "short": "Tichy"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197726",
+      "competition": "mondiali",
+      "season": "1962",
+      "stage": "quarter_finals",
+      "title": "Jugoslavia - Germania Ovest",
+      "session": "match",
+      "startsAt": "1962-06-10T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "awayTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "home",
+            "player": "Petar Radakovic",
+            "short": "Radakovic"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Milutin Soskic",
+              "short": "Soskic"
+            },
+            {
+              "name": "Petar Radakovic",
+              "short": "Radakovic"
+            },
+            {
+              "name": "Fahrudin Jusufi",
+              "short": "Jusufi"
+            },
+            {
+              "name": "Vladimir Markovic",
+              "short": "Markovic"
+            },
+            {
+              "name": "Vladimir Durkovic",
+              "short": "Durkovic"
+            },
+            {
+              "name": "Dragoslav Sekularac",
+              "short": "Sekularac"
+            },
+            {
+              "name": "Milan Galic",
+              "short": "Galic"
+            },
+            {
+              "name": "Dragan Jerkovic",
+              "short": "Jerkovic"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Josip Skoblar",
+              "short": "Skoblar"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Wolfgang Fahrian",
+              "short": "Fahrian"
+            },
+            {
+              "name": "Herbert Erhardt",
+              "short": "Erhardt"
+            },
+            {
+              "name": "Hans Nowak",
+              "short": "Nowak"
+            },
+            {
+              "name": "Karl Schnellinger",
+              "short": "Schnellinger"
+            },
+            {
+              "name": "Helmut Haller",
+              "short": "Haller"
+            },
+            {
+              "name": "Willi Schulz",
+              "short": "Schulz"
+            },
+            {
+              "name": "Albert Brulls",
+              "short": "Brulls"
+            },
+            {
+              "name": "Willi Geisemann",
+              "short": "Geisemann"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            },
+            {
+              "name": "Horst Szymaniak",
+              "short": "Szymaniak"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197727",
+      "competition": "mondiali",
+      "season": "1962",
+      "stage": "semi_finals",
+      "title": "Brasile - Cile",
+      "session": "match",
+      "startsAt": "1962-06-13T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "homeScore": 4,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 10,
+            "type": "goal",
+            "side": "home",
+            "player": "Garrincha"
+          },
+          {
+            "minute": 33,
+            "type": "goal",
+            "side": "home",
+            "player": "Garrincha"
+          },
+          {
+            "minute": 43,
+            "type": "goal",
+            "side": "away",
+            "player": "Carlos Toro",
+            "short": "Toro"
+          },
+          {
+            "minute": 48,
+            "type": "goal",
+            "side": "home",
+            "player": "Izidio Vavá"
+          },
+          {
+            "minute": 62,
+            "type": "penalty",
+            "side": "away",
+            "player": "Leonel Sánchez",
+            "short": "Sánchez"
+          },
+          {
+            "minute": 79,
+            "type": "goal",
+            "side": "home",
+            "player": "Izidio Vavá"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gilmar"
+            },
+            {
+              "name": "Djalma Djalma Santos",
+              "short": "Djalma Santos"
+            },
+            {
+              "name": "Dos Nilton Santos",
+              "short": "Nilton Santos"
+            },
+            {
+              "name": "Alves Zózimo",
+              "short": "Zózimo"
+            },
+            {
+              "name": "Zito"
+            },
+            {
+              "name": "Ramos Mauro",
+              "short": "Mauro"
+            },
+            {
+              "name": "Garrincha"
+            },
+            {
+              "name": "Vava",
+              "short": "Neto"
+            },
+            {
+              "name": "Amarildo"
+            },
+            {
+              "name": "Didí"
+            },
+            {
+              "name": "Mario Zagallo",
+              "short": "Zagallo"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "Misael Escuti",
+              "short": "Escuti"
+            },
+            {
+              "name": "Luis Eyzaguirre",
+              "short": "Eyzaguirre"
+            },
+            {
+              "name": "Carlos Toro",
+              "short": "Toro"
+            },
+            {
+              "name": "Eladio Rojas",
+              "short": "Rojas"
+            },
+            {
+              "name": "Raúl Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Leonel Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Honorino Landa",
+              "short": "Landa"
+            },
+            {
+              "name": "Jaime Ramirez",
+              "short": "Ramirez"
+            },
+            {
+              "name": "Manuel Rodríguez",
+              "short": "Rodríguez"
+            },
+            {
+              "name": "Armando Tobar",
+              "short": "Tobar"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197728",
+      "competition": "mondiali",
+      "season": "1962",
+      "stage": "semi_finals",
+      "title": "Cecoslovacchia - Jugoslavia",
+      "session": "match",
+      "startsAt": "1962-06-13T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 49,
+            "type": "goal",
+            "side": "home",
+            "player": "Josef Kadraba",
+            "short": "Kadraba"
+          },
+          {
+            "minute": 70,
+            "type": "goal",
+            "side": "away",
+            "player": "Dragan Jerkovic",
+            "short": "Jerkovic"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "home",
+            "player": "Adolf Scherer",
+            "short": "Scherer"
+          },
+          {
+            "minute": 85,
+            "type": "penalty",
+            "side": "home",
+            "player": "Adolf Scherer",
+            "short": "Scherer"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Villiam Schroif",
+              "short": "Schroif"
+            },
+            {
+              "name": "Jan Lala",
+              "short": "Lala"
+            },
+            {
+              "name": "Ladislav Novak",
+              "short": "Novak"
+            },
+            {
+              "name": "Jan Popluhar",
+              "short": "Popluhar"
+            },
+            {
+              "name": "Adolf Scherer",
+              "short": "Scherer"
+            },
+            {
+              "name": "Josef Masopust",
+              "short": "Masopust"
+            },
+            {
+              "name": "Tomas Pospichal",
+              "short": "Pospichal"
+            },
+            {
+              "name": "Josef Kadraba",
+              "short": "Kadraba"
+            },
+            {
+              "name": "Josef Jelinek",
+              "short": "Jelinek"
+            },
+            {
+              "name": "Andrei Kvasnak",
+              "short": "Kvasnak"
+            },
+            {
+              "name": "Svatopluk Pluskal",
+              "short": "Pluskal"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Milutin Soskic",
+              "short": "Soskic"
+            },
+            {
+              "name": "Vladimir Durkovic",
+              "short": "Durkovic"
+            },
+            {
+              "name": "Fahrudin Jusufi",
+              "short": "Jusufi"
+            },
+            {
+              "name": "Vladimir Markovic",
+              "short": "Markovic"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Petar Radakovic",
+              "short": "Radakovic"
+            },
+            {
+              "name": "Dragoslav Sekularac",
+              "short": "Sekularac"
+            },
+            {
+              "name": "Vasilije Sijakovic",
+              "short": "Sijakovic"
+            },
+            {
+              "name": "Dragan Jerkovic",
+              "short": "Jerkovic"
+            },
+            {
+              "name": "Milan Galic",
+              "short": "Galic"
+            },
+            {
+              "name": "Josip Skoblar",
+              "short": "Skoblar"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197729",
+      "competition": "mondiali",
+      "season": "1962",
+      "stage": "third_place",
+      "title": "Cile - Jugoslavia",
+      "session": "match",
+      "startsAt": "1962-06-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 90,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Eladio Rojas",
+            "short": "Rojas"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Adán Godoy",
+              "short": "Godoy"
+            },
+            {
+              "name": "Luis Eyzaguirre",
+              "short": "Eyzaguirre"
+            },
+            {
+              "name": "Raúl Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Eladio Rojas",
+              "short": "Rojas"
+            },
+            {
+              "name": "Humberto Cruz",
+              "short": "Cruz"
+            },
+            {
+              "name": "Carlos Toro",
+              "short": "Toro"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jaime Ramirez",
+              "short": "Ramirez"
+            },
+            {
+              "name": "Manuel Rodríguez",
+              "short": "Rodríguez"
+            },
+            {
+              "name": "Leonel Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Armando Tobar",
+              "short": "Tobar"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Milutin Soskic",
+              "short": "Soskic"
+            },
+            {
+              "name": "Vladimir Markovic",
+              "short": "Markovic"
+            },
+            {
+              "name": "Petar Radakovic",
+              "short": "Radakovic"
+            },
+            {
+              "name": "Slavko Svinjarevic",
+              "short": "Svinjarevic"
+            },
+            {
+              "name": "Vladimir Durkovic",
+              "short": "Durkovic"
+            },
+            {
+              "name": "Dragoslav Sekularac",
+              "short": "Sekularac"
+            },
+            {
+              "name": "Milan Galic",
+              "short": "Galic"
+            },
+            {
+              "name": "Dragan Jerkovic",
+              "short": "Jerkovic"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Josip Skoblar",
+              "short": "Skoblar"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1962-197730",
+      "competition": "mondiali",
+      "season": "1962",
+      "stage": "final",
+      "title": "Brasile - Cecoslovacchia",
+      "session": "match",
+      "startsAt": "1962-06-17T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "away",
+            "player": "Josef Masopust",
+            "short": "Masopust"
+          },
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "home",
+            "player": "Amarildo"
+          },
+          {
+            "minute": 70,
+            "type": "goal",
+            "side": "home",
+            "player": "Zito"
+          },
+          {
+            "minute": 79,
+            "type": "goal",
+            "side": "home",
+            "player": "Izidio Vavá"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gilmar"
+            },
+            {
+              "name": "Djalma Djalma Santos",
+              "short": "Djalma Santos"
+            },
+            {
+              "name": "Dos Nilton Santos",
+              "short": "Nilton Santos"
+            },
+            {
+              "name": "Alves Zózimo",
+              "short": "Zózimo"
+            },
+            {
+              "name": "Zito"
+            },
+            {
+              "name": "Amarildo"
+            },
+            {
+              "name": "Ramos Mauro",
+              "short": "Mauro"
+            },
+            {
+              "name": "Vava",
+              "short": "Neto"
+            },
+            {
+              "name": "Garrincha"
+            },
+            {
+              "name": "Didí"
+            },
+            {
+              "name": "Mario Zagallo",
+              "short": "Zagallo"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Villiam Schroif",
+              "short": "Schroif"
+            },
+            {
+              "name": "Jan Popluhar",
+              "short": "Popluhar"
+            },
+            {
+              "name": "Jiri Tichy",
+              "short": "Tichy"
+            },
+            {
+              "name": "Svatopluk Pluskal",
+              "short": "Pluskal"
+            },
+            {
+              "name": "Adolf Scherer",
+              "short": "Scherer"
+            },
+            {
+              "name": "Josef Masopust",
+              "short": "Masopust"
+            },
+            {
+              "name": "Josef Jelinek",
+              "short": "Jelinek"
+            },
+            {
+              "name": "Josef Kadraba",
+              "short": "Kadraba"
+            },
+            {
+              "name": "Andrei Kvasnak",
+              "short": "Kvasnak"
+            },
+            {
+              "name": "Ladislav Novak",
+              "short": "Novak"
+            },
+            {
+              "name": "Tomas Pospichal",
+              "short": "Pospichal"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "table",
+      "title": "Gironi",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Unione Sovietica",
+          "code": "USSR",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 3,
+          "zone": "qualified",
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Jugoslavia",
+          "code": "YUG",
+          "points": 4,
+          "wins": 2,
+          "played": 3,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 5,
+          "zone": "qualified",
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Uruguay",
+          "code": "URU",
+          "points": 2,
+          "wins": 1,
+          "played": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -2,
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Colombia",
+          "code": "COL",
+          "points": 1,
+          "wins": 0,
+          "played": 3,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": -6,
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Germania Ovest",
+          "code": "GFR",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 3,
+          "zone": "qualified",
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Cile",
+          "code": "CHI",
+          "points": 4,
+          "wins": 2,
+          "played": 3,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 2,
+          "zone": "qualified",
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Italia",
+          "code": "ITA",
+          "points": 3,
+          "wins": 1,
+          "played": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalDifference": 1,
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Svizzera",
+          "code": "SUI",
+          "points": 0,
+          "wins": 0,
+          "played": 3,
+          "draws": 0,
+          "losses": 3,
+          "goalDifference": -6,
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Brasile",
+          "code": "BRA",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 3,
+          "zone": "qualified",
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Cecoslovacchia",
+          "code": "CZK",
+          "points": 3,
+          "wins": 1,
+          "played": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalDifference": -1,
+          "zone": "qualified",
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Messico",
+          "code": "MEX",
+          "points": 2,
+          "wins": 1,
+          "played": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -1,
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Spagna",
+          "code": "ESP",
+          "points": 2,
+          "wins": 1,
+          "played": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -1,
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Ungheria",
+          "code": "HUN",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 6,
+          "zone": "qualified",
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Inghilterra",
+          "code": "ENG",
+          "points": 3,
+          "wins": 1,
+          "played": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalDifference": 1,
+          "zone": "qualified",
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Argentina",
+          "code": "ARG",
+          "points": 3,
+          "wins": 1,
+          "played": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalDifference": -1,
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Bulgaria",
+          "code": "BUL",
+          "points": 1,
+          "wins": 0,
+          "played": 3,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": -6,
+          "group": "Gruppo 4"
+        }
+      ]
+    },
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Vava",
+          "team": "Brasile",
+          "points": 4
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Garrincha",
+          "team": "Brasile",
+          "points": 4
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Leonel Sánchez",
+          "team": "Cile",
+          "points": 4
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Dragan Jerkovic",
+          "team": "Jugoslavia",
+          "points": 4
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Valentin Ivanov",
+          "team": "Unione Sovietica",
+          "points": 4
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Florian Albert",
+          "team": "Ungheria",
+          "points": 4
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Adolf Scherer",
+          "team": "Cecoslovacchia",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Milan Galic",
+          "team": "Jugoslavia",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Amarildo",
+          "team": "Brasile",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Lajos Tichy",
+          "team": "Ungheria",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

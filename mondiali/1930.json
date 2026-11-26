@@ -1,0 +1,2823 @@
+{
+  "competition": "mondiali",
+  "season": "1930",
+  "generatedAt": "2026-11-26T16:16:37.8331833+00:00",
+  "events": [
+    {
+      "id": "mondiali-1930-197555",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 1,
+      "title": "Francia - Messico",
+      "session": "match",
+      "startsAt": "1930-07-13T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 4,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 20,
+            "type": "goal",
+            "side": "home",
+            "player": "Lucien Laurent",
+            "short": "Laurent"
+          },
+          {
+            "minute": 41,
+            "type": "goal",
+            "side": "home",
+            "player": "Marcel Langiller",
+            "short": "Langiller"
+          },
+          {
+            "minute": 43,
+            "type": "goal",
+            "side": "home",
+            "player": "Andre Maschinot",
+            "short": "Maschinot"
+          },
+          {
+            "minute": 69,
+            "type": "goal",
+            "side": "away",
+            "player": "Juan Carreño",
+            "short": "Carreño"
+          },
+          {
+            "minute": 87,
+            "type": "goal",
+            "side": "home",
+            "player": "Andre Maschinot",
+            "short": "Maschinot"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Alexis Thépot",
+              "short": "Thépot"
+            },
+            {
+              "name": "Marcel Capelle",
+              "short": "Capelle"
+            },
+            {
+              "name": "Etienne Mattler",
+              "short": "Mattler"
+            },
+            {
+              "name": "Agustín Chantrel",
+              "short": "Chantrel"
+            },
+            {
+              "name": "Marcel Pinel",
+              "short": "Pinel"
+            },
+            {
+              "name": "Alex Villaplance",
+              "short": "Villaplance"
+            },
+            {
+              "name": "Lucien Laurent",
+              "short": "Laurent"
+            },
+            {
+              "name": "Marcel Langiller",
+              "short": "Langiller"
+            },
+            {
+              "name": "Andre Maschinot",
+              "short": "Maschinot"
+            },
+            {
+              "name": "Edmond Delfour",
+              "short": "Delfour"
+            },
+            {
+              "name": "Ernest Liberati",
+              "short": "Liberati"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Oscar Bonfiglio",
+              "short": "Bonfiglio"
+            },
+            {
+              "name": "Rafael Garza Gutiérrez",
+              "short": "Garza Gutiérrez"
+            },
+            {
+              "name": "Manuel Rosas",
+              "short": "Rosas"
+            },
+            {
+              "name": "Efraín Amezcua",
+              "short": "Amezcua"
+            },
+            {
+              "name": "Felipe Rosas",
+              "short": "Rosas"
+            },
+            {
+              "name": "Alfredo Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Juan Carreño",
+              "short": "Carreño"
+            },
+            {
+              "name": "Hilario López",
+              "short": "López"
+            },
+            {
+              "name": "Dionisio Mejía",
+              "short": "Mejía"
+            },
+            {
+              "name": "Luís Pérez",
+              "short": "Pérez"
+            },
+            {
+              "name": "José Ruiz",
+              "short": "Ruiz"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197177",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 1,
+      "title": "Stati Uniti - Belgio",
+      "session": "match",
+      "startsAt": "1930-07-13T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-660",
+        "name": "United States",
+        "shortName": "Stati Uniti",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
+      },
+      "awayTeam": {
+        "id": "espn-459",
+        "name": "Belgium",
+        "shortName": "Belgio",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 24,
+            "type": "goal",
+            "side": "home",
+            "player": "Bart Mc Ghee",
+            "short": "Mc Ghee"
+          },
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "Bart Mc Ghee",
+            "short": "Mc Ghee"
+          },
+          {
+            "minute": 69,
+            "type": "goal",
+            "side": "home",
+            "player": "Bart Patenaude",
+            "short": "Patenaude"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "James Douglas",
+              "short": "Douglas"
+            },
+            {
+              "name": "George Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Alexander Wood",
+              "short": "Wood"
+            },
+            {
+              "name": "James Brown",
+              "short": "Brown"
+            },
+            {
+              "name": "James Gallagher",
+              "short": "Gallagher"
+            },
+            {
+              "name": "Raphael Tracy",
+              "short": "Tracy"
+            },
+            {
+              "name": "Andrew Auld",
+              "short": "Auld"
+            },
+            {
+              "name": "Thomas Florie",
+              "short": "Florie"
+            },
+            {
+              "name": "William Gonsalves",
+              "short": "Gonsalves"
+            },
+            {
+              "name": "Bart Mc Ghee",
+              "short": "Mc Ghee"
+            },
+            {
+              "name": "Bart Patenaude",
+              "short": "Patenaude"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Arnold Badjou",
+              "short": "Badjou"
+            },
+            {
+              "name": "Nico Hoydonckx",
+              "short": "Hoydonckx"
+            },
+            {
+              "name": "Theodore Nouwens",
+              "short": "Nouwens"
+            },
+            {
+              "name": "Pierre Braine",
+              "short": "Braine"
+            },
+            {
+              "name": "Jean De Clerq",
+              "short": "De Clerq"
+            },
+            {
+              "name": "Gustav Hellemans",
+              "short": "Hellemans"
+            },
+            {
+              "name": "Ferdnand Adams",
+              "short": "Adams"
+            },
+            {
+              "name": "Jan Diddens",
+              "short": "Diddens"
+            },
+            {
+              "name": "Jacques Moeschal",
+              "short": "Moeschal"
+            },
+            {
+              "name": "Louis Versijp",
+              "short": "Versijp"
+            },
+            {
+              "name": "Bernard Voorhhof",
+              "short": "Voorhhof"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197174",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 1,
+      "title": "Romania - Perù",
+      "session": "match",
+      "startsAt": "1930-07-14T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-473",
+        "name": "Romania",
+        "shortName": "Romania",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png"
+      },
+      "awayTeam": {
+        "id": "espn-211",
+        "name": "Peru",
+        "shortName": "Perù",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/per.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": []
+    },
+    {
+      "id": "mondiali-1930-197171",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 1,
+      "title": "Jugoslavia - Brasile",
+      "session": "match",
+      "startsAt": "1930-07-14T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 22,
+            "type": "goal",
+            "side": "home",
+            "player": "Aleksander Tirnanic",
+            "short": "Tirnanic"
+          },
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Iván Bek",
+            "short": "Bek"
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "away",
+            "player": "Joao Preguinho",
+            "short": "Preguinho"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Milovan Jaksic",
+              "short": "Jaksic"
+            },
+            {
+              "name": "Milovan Ivkovic",
+              "short": "Ivkovic"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Milorad Arsenijevic",
+              "short": "Arsenijevic"
+            },
+            {
+              "name": "Momcilo Djokic",
+              "short": "Djokic"
+            },
+            {
+              "name": "Ljubisa Stefanovic",
+              "short": "Stefanovic"
+            },
+            {
+              "name": "Iván Bek",
+              "short": "Bek"
+            },
+            {
+              "name": "Blagoje Marjanovic",
+              "short": "Marjanovic"
+            },
+            {
+              "name": "Branislav Sekulic",
+              "short": "Sekulic"
+            },
+            {
+              "name": "Aleksander Tirnanic",
+              "short": "Tirnanic"
+            },
+            {
+              "name": "Djordje Vujadinovic",
+              "short": "Vujadinovic"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Monteiro Joel",
+              "short": "Joel"
+            },
+            {
+              "name": "Luiz Italia",
+              "short": "Italia"
+            },
+            {
+              "name": ", Bartesko",
+              "short": "Bartesko"
+            },
+            {
+              "name": "Dos Fausto",
+              "short": "Fausto"
+            },
+            {
+              "name": "Guidicelli Fernando",
+              "short": "Fernando"
+            },
+            {
+              "name": "Fonseca Hermogenes",
+              "short": "Hermogenes"
+            },
+            {
+              "name": ", Oscarino",
+              "short": "Oscarino"
+            },
+            {
+              "name": "Murtinho Nilo",
+              "short": "Nilo"
+            },
+            {
+              "name": "Ribeiro Poly",
+              "short": "Poly"
+            },
+            {
+              "name": "Joao Preguinho",
+              "short": "Preguinho"
+            },
+            {
+              "name": "Bettencourt Teofilo",
+              "short": "Teofilo"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197166",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 2,
+      "title": "Argentina - Francia",
+      "session": "match",
+      "startsAt": "1930-07-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "home",
+            "player": "Luís Monti",
+            "short": "Monti"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Angel Bossio",
+              "short": "Bossio"
+            },
+            {
+              "name": "José Della Torre",
+              "short": "Della Torre"
+            },
+            {
+              "name": "Ramón Muttis",
+              "short": "Muttis"
+            },
+            {
+              "name": "Juan Evaristo",
+              "short": "Evaristo"
+            },
+            {
+              "name": "Luís Monti",
+              "short": "Monti"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Francisco Varallo",
+              "short": "Varallo"
+            },
+            {
+              "name": "Roberto Cherro",
+              "short": "Cherro"
+            },
+            {
+              "name": "Mario Evaristo",
+              "short": "Evaristo"
+            },
+            {
+              "name": "Manuel Ferreira",
+              "short": "Ferreira"
+            },
+            {
+              "name": "Natalio Perinetti",
+              "short": "Perinetti"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Alexis Thépot",
+              "short": "Thépot"
+            },
+            {
+              "name": "Marcel Capelle",
+              "short": "Capelle"
+            },
+            {
+              "name": "Etienne Mattler",
+              "short": "Mattler"
+            },
+            {
+              "name": "Agustín Chantrel",
+              "short": "Chantrel"
+            },
+            {
+              "name": "Marcel Pinel",
+              "short": "Pinel"
+            },
+            {
+              "name": "Alex Villaplance",
+              "short": "Villaplance"
+            },
+            {
+              "name": "Edmond Delfour",
+              "short": "Delfour"
+            },
+            {
+              "name": "Marcel Langiller",
+              "short": "Langiller"
+            },
+            {
+              "name": "Lucien Laurent",
+              "short": "Laurent"
+            },
+            {
+              "name": "Ernest Liberati",
+              "short": "Liberati"
+            },
+            {
+              "name": "Andre Maschinot",
+              "short": "Maschinot"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197167",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 2,
+      "title": "Cile - Messico",
+      "session": "match",
+      "startsAt": "1930-07-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Guillermo Subiabre",
+            "short": "Subiabre"
+          },
+          {
+            "minute": 51,
+            "type": "goal",
+            "side": "home",
+            "player": "Guillermo Subiabre",
+            "short": "Subiabre"
+          },
+          {
+            "minute": 66,
+            "type": "goal",
+            "side": "home",
+            "player": "Carlos Vidal",
+            "short": "Vidal"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Roberto Cortes",
+              "short": "Cortes"
+            },
+            {
+              "name": "Víctor Morales",
+              "short": "Morales"
+            },
+            {
+              "name": "Ulises Poirier",
+              "short": "Poirier"
+            },
+            {
+              "name": "Humberto Elgueta",
+              "short": "Elgueta"
+            },
+            {
+              "name": "Guillermo Saavedra",
+              "short": "Saavedra"
+            },
+            {
+              "name": "Arturo Torres",
+              "short": "Torres"
+            },
+            {
+              "name": "Tomás Ojeda",
+              "short": "Ojeda"
+            },
+            {
+              "name": "Carlos Schneeberger",
+              "short": "Schneeberger"
+            },
+            {
+              "name": "Guillermo Subiabre",
+              "short": "Subiabre"
+            },
+            {
+              "name": "Carlos Vidal",
+              "short": "Vidal"
+            },
+            {
+              "name": "Eberardo Villalobos",
+              "short": "Villalobos"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Isidro Sota",
+              "short": "Sota"
+            },
+            {
+              "name": "Rafael Garza Gutiérrez",
+              "short": "Garza Gutiérrez"
+            },
+            {
+              "name": "Manuel Rosas",
+              "short": "Rosas"
+            },
+            {
+              "name": "Efraín Amezcua",
+              "short": "Amezcua"
+            },
+            {
+              "name": "Felipe Rosas",
+              "short": "Rosas"
+            },
+            {
+              "name": "Alfredo Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Juan Carreño",
+              "short": "Carreño"
+            },
+            {
+              "name": "Roberto Gayón",
+              "short": "Gayón"
+            },
+            {
+              "name": "Hilario López",
+              "short": "López"
+            },
+            {
+              "name": "Luís Pérez",
+              "short": "Pérez"
+            },
+            {
+              "name": "José Ruiz",
+              "short": "Ruiz"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197178",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 2,
+      "title": "Stati Uniti - Paraguay",
+      "session": "match",
+      "startsAt": "1930-07-17T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-660",
+        "name": "United States",
+        "shortName": "Stati Uniti",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
+      },
+      "awayTeam": {
+        "id": "espn-210",
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/par.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 11,
+            "type": "goal",
+            "side": "home",
+            "player": "Bart Patenaude",
+            "short": "Patenaude"
+          },
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": "Thomas Florie",
+            "short": "Florie"
+          },
+          {
+            "minute": 51,
+            "type": "goal",
+            "side": "home",
+            "player": "Bart Patenaude",
+            "short": "Patenaude"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "James Douglas",
+              "short": "Douglas"
+            },
+            {
+              "name": "George Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Alexander Wood",
+              "short": "Wood"
+            },
+            {
+              "name": "James Brown",
+              "short": "Brown"
+            },
+            {
+              "name": "James Gallagher",
+              "short": "Gallagher"
+            },
+            {
+              "name": "Raphael Tracy",
+              "short": "Tracy"
+            },
+            {
+              "name": "Andrew Auld",
+              "short": "Auld"
+            },
+            {
+              "name": "Thomas Florie",
+              "short": "Florie"
+            },
+            {
+              "name": "William Gonsalves",
+              "short": "Gonsalves"
+            },
+            {
+              "name": "Bart Mc Ghee",
+              "short": "Mc Ghee"
+            },
+            {
+              "name": "Bart Patenaude",
+              "short": "Patenaude"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Modesto Denis",
+              "short": "Denis"
+            },
+            {
+              "name": "José Miracca",
+              "short": "Miracca"
+            },
+            {
+              "name": "Quiterio Olmedo",
+              "short": "Olmedo"
+            },
+            {
+              "name": "Francisco Aguirre",
+              "short": "Aguirre"
+            },
+            {
+              "name": "Eusebio Díaz",
+              "short": "Díaz"
+            },
+            {
+              "name": "Romildo Etcheverry",
+              "short": "Etcheverry"
+            },
+            {
+              "name": "Tranquilino Garcete",
+              "short": "Garcete"
+            },
+            {
+              "name": "Dió;;genes Domínguez",
+              "short": "Domínguez"
+            },
+            {
+              "name": "Aurelio González",
+              "short": "González"
+            },
+            {
+              "name": "Lino Nessi",
+              "short": "Nessi"
+            },
+            {
+              "name": "Luís Vargas Peña",
+              "short": "Vargas Peña"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197172",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 2,
+      "title": "Jugoslavia - Bolivia",
+      "session": "match",
+      "startsAt": "1930-07-17T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "awayTeam": {
+        "id": "espn-204",
+        "name": "Bolivia",
+        "shortName": "Bolivia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bol.png"
+      },
+      "homeScore": 4,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Iván Bek",
+            "short": "Bek"
+          },
+          {
+            "minute": 66,
+            "type": "goal",
+            "side": "home",
+            "player": "Blagoje Marjanovic",
+            "short": "Marjanovic"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Iván Bek",
+            "short": "Bek"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "home",
+            "player": "Djordje Vujadinovic",
+            "short": "Vujadinovic"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Milovan Jaksic",
+              "short": "Jaksic"
+            },
+            {
+              "name": "Milovan Ivkovic",
+              "short": "Ivkovic"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Milorad Arsenijevic",
+              "short": "Arsenijevic"
+            },
+            {
+              "name": "Momcilo Djokic",
+              "short": "Djokic"
+            },
+            {
+              "name": "Ljubisa Stefanovic",
+              "short": "Stefanovic"
+            },
+            {
+              "name": "Iván Bek",
+              "short": "Bek"
+            },
+            {
+              "name": "Blagoje Marjanovic",
+              "short": "Marjanovic"
+            },
+            {
+              "name": "Dragutin Najdanovic",
+              "short": "Najdanovic"
+            },
+            {
+              "name": "Aleksander Tirnanic",
+              "short": "Tirnanic"
+            },
+            {
+              "name": "Djordje Vujadinovic",
+              "short": "Vujadinovic"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jesús Bermúdez",
+              "short": "Bermúdez"
+            },
+            {
+              "name": "Casiano Chavarría",
+              "short": "Chavarría"
+            },
+            {
+              "name": "Segundo Durandal",
+              "short": "Durandal"
+            },
+            {
+              "name": "Juan Argote",
+              "short": "Argote"
+            },
+            {
+              "name": "Dió;;genes Lara",
+              "short": "Lara"
+            },
+            {
+              "name": "Jorge Valderrama",
+              "short": "Valderrama"
+            },
+            {
+              "name": "Mario Alborta",
+              "short": "Alborta"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "René Fernández",
+              "short": "Fernández"
+            },
+            {
+              "name": "Gumercindo Gómez",
+              "short": "Gómez"
+            },
+            {
+              "name": "Rafael Méndez",
+              "short": "Méndez"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197175",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 2,
+      "title": "Uruguay - Perù",
+      "session": "match",
+      "startsAt": "1930-07-18T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-211",
+        "name": "Peru",
+        "shortName": "Perù",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/per.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Héctor Castro",
+            "short": "Castro"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Enrique Ballestero",
+              "short": "Ballestero"
+            },
+            {
+              "name": "José Nasazzi",
+              "short": "Nasazzi"
+            },
+            {
+              "name": "Domingo Tejera",
+              "short": "Tejera"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Lorenzo Fernández",
+              "short": "Fernández"
+            },
+            {
+              "name": "Alvaro Gestido",
+              "short": "Gestido"
+            },
+            {
+              "name": "Héctor Castro",
+              "short": "Castro"
+            },
+            {
+              "name": "Pedro Cea",
+              "short": "Cea"
+            },
+            {
+              "name": "Santos Iriarte",
+              "short": "Iriarte"
+            },
+            {
+              "name": "Pedro Petrone",
+              "short": "Petrone"
+            },
+            {
+              "name": "Santos Urdinaram",
+              "short": "Urdinaram"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jorge Pardón",
+              "short": "Pardón"
+            },
+            {
+              "name": "Mario De las Casas",
+              "short": "De las Casas"
+            },
+            {
+              "name": "Antonio Maquillón",
+              "short": "Maquillón"
+            },
+            {
+              "name": "Alberto Soria",
+              "short": "Soria"
+            },
+            {
+              "name": "Eduardo Astengo",
+              "short": "Astengo"
+            },
+            {
+              "name": "Plácido Galindo",
+              "short": "Galindo"
+            },
+            {
+              "name": "José Lavalle",
+              "short": "Lavalle"
+            },
+            {
+              "name": "Alberto De Negri",
+              "short": "De Negri"
+            },
+            {
+              "name": "Demetrio Neyra",
+              "short": "Neyra"
+            },
+            {
+              "name": "Luís Souza Ferreira",
+              "short": "Souza Ferreira"
+            },
+            {
+              "name": "Alejandro Villanueva",
+              "short": "Villanueva"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197169",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 3,
+      "title": "Argentina - Messico",
+      "session": "match",
+      "startsAt": "1930-07-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 6,
+      "awayScore": 3,
+      "videos": []
+    },
+    {
+      "id": "mondiali-1930-197168",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 3,
+      "title": "Cile - Francia",
+      "session": "match",
+      "startsAt": "1930-07-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "awayTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 65,
+            "type": "goal",
+            "side": "home",
+            "player": "Guillermo Subiabre",
+            "short": "Subiabre"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Roberto Cortes",
+              "short": "Cortes"
+            },
+            {
+              "name": "Ernesto Chaparro",
+              "short": "Chaparro"
+            },
+            {
+              "name": "Guillermo Riveros",
+              "short": "Riveros"
+            },
+            {
+              "name": "Guillermo Saavedra",
+              "short": "Saavedra"
+            },
+            {
+              "name": "Arturo Torres",
+              "short": "Torres"
+            },
+            {
+              "name": "Casimiro Torres",
+              "short": "Torres"
+            },
+            {
+              "name": "Tomás Ojeda",
+              "short": "Ojeda"
+            },
+            {
+              "name": "Carlos Schneeberger",
+              "short": "Schneeberger"
+            },
+            {
+              "name": "Guillermo Subiabre",
+              "short": "Subiabre"
+            },
+            {
+              "name": "Carlos Vidal",
+              "short": "Vidal"
+            },
+            {
+              "name": "Eberardo Villalobos",
+              "short": "Villalobos"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Alexis Thépot",
+              "short": "Thépot"
+            },
+            {
+              "name": "Marcel Capelle",
+              "short": "Capelle"
+            },
+            {
+              "name": "Etienne Mattler",
+              "short": "Mattler"
+            },
+            {
+              "name": "Agustín Chantrel",
+              "short": "Chantrel"
+            },
+            {
+              "name": "Marcel Pinel",
+              "short": "Pinel"
+            },
+            {
+              "name": "Alex Villaplance",
+              "short": "Villaplance"
+            },
+            {
+              "name": "Edmond Delfour",
+              "short": "Delfour"
+            },
+            {
+              "name": "Marcel Langiller",
+              "short": "Langiller"
+            },
+            {
+              "name": "Lucien Laurent",
+              "short": "Laurent"
+            },
+            {
+              "name": "Ernest Liberati",
+              "short": "Liberati"
+            },
+            {
+              "name": "Andre Maschinot",
+              "short": "Maschinot"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197173",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 2,
+      "title": "Brasile - Bolivia",
+      "session": "match",
+      "startsAt": "1930-07-20T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-204",
+        "name": "Bolivia",
+        "shortName": "Bolivia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bol.png"
+      },
+      "homeScore": 4,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 38,
+            "type": "goal",
+            "side": "home",
+            "player": "Wisintainer Moderato",
+            "short": "Moderato"
+          },
+          {
+            "minute": 52,
+            "type": "goal",
+            "side": "home",
+            "player": "Joao Preguinho",
+            "short": "Preguinho"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "home",
+            "player": "Wisintainer Moderato",
+            "short": "Moderato"
+          },
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "home",
+            "player": "Joao Preguinho",
+            "short": "Preguinho"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Oswaldo Velloso",
+              "short": "Velloso"
+            },
+            {
+              "name": "Luiz Italia",
+              "short": "Italia"
+            },
+            {
+              "name": "José Ze Luís",
+              "short": "Ze Luís"
+            },
+            {
+              "name": "Dos Fausto",
+              "short": "Fausto"
+            },
+            {
+              "name": "Guidicelli Fernando",
+              "short": "Fernando"
+            },
+            {
+              "name": "Fonseca Hermogenes",
+              "short": "Hermogenes"
+            },
+            {
+              "name": "Moraes Benedicto",
+              "short": "Benedicto"
+            },
+            {
+              "name": "Carlos Carvalho Liete",
+              "short": "Carvalho Liete"
+            },
+            {
+              "name": "Wisintainer Moderato",
+              "short": "Moderato"
+            },
+            {
+              "name": "Joao Preguinho",
+              "short": "Preguinho"
+            },
+            {
+              "name": "Moacyr Russinho",
+              "short": "Russinho"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Jesús Bermúdez",
+              "short": "Bermúdez"
+            },
+            {
+              "name": "Casiano Chavarría",
+              "short": "Chavarría"
+            },
+            {
+              "name": "Segundo Durandal",
+              "short": "Durandal"
+            },
+            {
+              "name": "Juan Argote",
+              "short": "Argote"
+            },
+            {
+              "name": "Dió;;genes Lara",
+              "short": "Lara"
+            },
+            {
+              "name": "Jorge Valderrama",
+              "short": "Valderrama"
+            },
+            {
+              "name": "Mario Alborta",
+              "short": "Alborta"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "René Fernández",
+              "short": "Fernández"
+            },
+            {
+              "name": "Gumercindo Gómez",
+              "short": "Gómez"
+            },
+            {
+              "name": "Rafael Méndez",
+              "short": "Méndez"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197179",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 2,
+      "title": "Paraguay - Belgio",
+      "session": "match",
+      "startsAt": "1930-07-20T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-210",
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/par.png"
+      },
+      "awayTeam": {
+        "id": "espn-459",
+        "name": "Belgium",
+        "shortName": "Belgio",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 41,
+            "type": "goal",
+            "side": "home",
+            "player": "Luís Vargas Peña",
+            "short": "Vargas Peña"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "Salvador Flores",
+              "short": "Flores"
+            },
+            {
+              "name": "Quiterio Olmedo",
+              "short": "Olmedo"
+            },
+            {
+              "name": "Santiago Benítez",
+              "short": "Benítez"
+            },
+            {
+              "name": "Eusebio Díaz",
+              "short": "Díaz"
+            },
+            {
+              "name": "Tranquilino Garcete",
+              "short": "Garcete"
+            },
+            {
+              "name": "Delfín Benítez Cáceres",
+              "short": "Benítez Cáceres"
+            },
+            {
+              "name": "Aurelio González",
+              "short": "González"
+            },
+            {
+              "name": "Lino Nessi",
+              "short": "Nessi"
+            },
+            {
+              "name": "Gerardo Romero",
+              "short": "Romero"
+            },
+            {
+              "name": "Luís Vargas Peña",
+              "short": "Vargas Peña"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Arnold Badjou",
+              "short": "Badjou"
+            },
+            {
+              "name": "Henri De Deken",
+              "short": "De Deken"
+            },
+            {
+              "name": "Nico Hoydonckx",
+              "short": "Hoydonckx"
+            },
+            {
+              "name": "Theodore Nouwens",
+              "short": "Nouwens"
+            },
+            {
+              "name": "Pierre Braine",
+              "short": "Braine"
+            },
+            {
+              "name": "Gustav Hellemans",
+              "short": "Hellemans"
+            },
+            {
+              "name": "Ferdnand Adams",
+              "short": "Adams"
+            },
+            {
+              "name": "Gerard Delbeke",
+              "short": "Delbeke"
+            },
+            {
+              "name": "Jan Diddens",
+              "short": "Diddens"
+            },
+            {
+              "name": "Jacques Moeschal",
+              "short": "Moeschal"
+            },
+            {
+              "name": "Louis Versijp",
+              "short": "Versijp"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197176",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 2,
+      "title": "Uruguay - Romania",
+      "session": "match",
+      "startsAt": "1930-07-21T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-473",
+        "name": "Romania",
+        "shortName": "Romania",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png"
+      },
+      "homeScore": 4,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 8,
+            "type": "goal",
+            "side": "home",
+            "player": "Pablo Dorado",
+            "short": "Dorado"
+          },
+          {
+            "minute": 25,
+            "type": "goal",
+            "side": "home",
+            "player": "Héctor Scarone",
+            "short": "Scarone"
+          },
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Juan Anselmo",
+            "short": "Anselmo"
+          },
+          {
+            "minute": 36,
+            "type": "goal",
+            "side": "home",
+            "player": "Pedro Cea",
+            "short": "Cea"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Enrique Ballestero",
+              "short": "Ballestero"
+            },
+            {
+              "name": "Ernesto Mascheroni",
+              "short": "Mascheroni"
+            },
+            {
+              "name": "José Nasazzi",
+              "short": "Nasazzi"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Lorenzo Fernández",
+              "short": "Fernández"
+            },
+            {
+              "name": "Alvaro Gestido",
+              "short": "Gestido"
+            },
+            {
+              "name": "Juan Anselmo",
+              "short": "Anselmo"
+            },
+            {
+              "name": "Pedro Cea",
+              "short": "Cea"
+            },
+            {
+              "name": "Pablo Dorado",
+              "short": "Dorado"
+            },
+            {
+              "name": "Santos Iriarte",
+              "short": "Iriarte"
+            },
+            {
+              "name": "Héctor Scarone",
+              "short": "Scarone"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ioan Lapusneanu",
+              "short": "Lapusneanu"
+            },
+            {
+              "name": "Rudolf Burger",
+              "short": "Burger"
+            },
+            {
+              "name": "Iosif Czako",
+              "short": "Czako"
+            },
+            {
+              "name": "Alfred Eisenbeisser",
+              "short": "Eisenbeisser"
+            },
+            {
+              "name": "Ladislau Rafinski",
+              "short": "Rafinski"
+            },
+            {
+              "name": "Corneliu Robe",
+              "short": "Robe"
+            },
+            {
+              "name": "Emerich Vogl",
+              "short": "Vogl"
+            },
+            {
+              "name": "Stefan Barbu",
+              "short": "Barbu"
+            },
+            {
+              "name": "Adalbert Desu",
+              "short": "Desu"
+            },
+            {
+              "name": "Kalman Kovacs",
+              "short": "Kovacs"
+            },
+            {
+              "name": "Rudolf Wetzer",
+              "short": "Wetzer"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197170",
+      "competition": "mondiali",
+      "season": "1930",
+      "round": 3,
+      "title": "Argentina - Cile",
+      "session": "match",
+      "startsAt": "1930-07-22T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Guillermo Stábile",
+            "short": "Stábile"
+          },
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "home",
+            "player": "Guillermo Stábile",
+            "short": "Stábile"
+          },
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "away",
+            "player": "Guillermo Subiabre",
+            "short": "Subiabre"
+          },
+          {
+            "minute": 52,
+            "type": "goal",
+            "side": "home",
+            "player": "Mario Evaristo",
+            "short": "Evaristo"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Angel Bossio",
+              "short": "Bossio"
+            },
+            {
+              "name": "José Della Torre",
+              "short": "Della Torre"
+            },
+            {
+              "name": "Fernando Paternoster",
+              "short": "Paternoster"
+            },
+            {
+              "name": "Juan Evaristo",
+              "short": "Evaristo"
+            },
+            {
+              "name": "Luís Monti",
+              "short": "Monti"
+            },
+            {
+              "name": "Rodolfo Orlandini",
+              "short": "Orlandini"
+            },
+            {
+              "name": "Carlos Peucelle",
+              "short": "Peucelle"
+            },
+            {
+              "name": "Francisco Varallo",
+              "short": "Varallo"
+            },
+            {
+              "name": "Mario Evaristo",
+              "short": "Evaristo"
+            },
+            {
+              "name": "Manuel Ferreira",
+              "short": "Ferreira"
+            },
+            {
+              "name": "Guillermo Stábile",
+              "short": "Stábile"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Roberto Cortes",
+              "short": "Cortes"
+            },
+            {
+              "name": "Ernesto Chaparro",
+              "short": "Chaparro"
+            },
+            {
+              "name": "Víctor Morales",
+              "short": "Morales"
+            },
+            {
+              "name": "Guillermo Saavedra",
+              "short": "Saavedra"
+            },
+            {
+              "name": "Arturo Torres",
+              "short": "Torres"
+            },
+            {
+              "name": "Casimiro Torres",
+              "short": "Torres"
+            },
+            {
+              "name": "Juan Aguilera",
+              "short": "Aguilera"
+            },
+            {
+              "name": "Guillermo Arellano",
+              "short": "Arellano"
+            },
+            {
+              "name": "Guillermo Subiabre",
+              "short": "Subiabre"
+            },
+            {
+              "name": "Carlos Vidal",
+              "short": "Vidal"
+            },
+            {
+              "name": "Eberardo Villalobos",
+              "short": "Villalobos"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197180",
+      "competition": "mondiali",
+      "season": "1930",
+      "stage": "semi_finals",
+      "title": "Argentina - Stati Uniti",
+      "session": "match",
+      "startsAt": "1930-07-26T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-660",
+        "name": "United States",
+        "shortName": "Stati Uniti",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
+      },
+      "homeScore": 6,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "home",
+            "player": "Luís Monti",
+            "short": "Monti"
+          },
+          {
+            "minute": 62,
+            "type": "goal",
+            "side": "home",
+            "player": "Alejandro Scopelli",
+            "short": "Scopelli"
+          },
+          {
+            "minute": 70,
+            "type": "goal",
+            "side": "home",
+            "player": "Guillermo Stábile",
+            "short": "Stábile"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "home",
+            "player": "Carlos Peucelle",
+            "short": "Peucelle"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "home",
+            "player": "Carlos Peucelle",
+            "short": "Peucelle"
+          },
+          {
+            "minute": 88,
+            "type": "goal",
+            "side": "home",
+            "player": "Guillermo Stábile",
+            "short": "Stábile"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "away",
+            "player": "James Brown",
+            "short": "Brown"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Juan Botasso",
+              "short": "Botasso"
+            },
+            {
+              "name": "José Della Torre",
+              "short": "Della Torre"
+            },
+            {
+              "name": "Fernando Paternoster",
+              "short": "Paternoster"
+            },
+            {
+              "name": "Juan Evaristo",
+              "short": "Evaristo"
+            },
+            {
+              "name": "Luís Monti",
+              "short": "Monti"
+            },
+            {
+              "name": "Rodolfo Orlandini",
+              "short": "Orlandini"
+            },
+            {
+              "name": "Carlos Peucelle",
+              "short": "Peucelle"
+            },
+            {
+              "name": "Mario Evaristo",
+              "short": "Evaristo"
+            },
+            {
+              "name": "Manuel Ferreira",
+              "short": "Ferreira"
+            },
+            {
+              "name": "Alejandro Scopelli",
+              "short": "Scopelli"
+            },
+            {
+              "name": "Guillermo Stábile",
+              "short": "Stábile"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "James Douglas",
+              "short": "Douglas"
+            },
+            {
+              "name": "George Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Alexander Wood",
+              "short": "Wood"
+            },
+            {
+              "name": "James Brown",
+              "short": "Brown"
+            },
+            {
+              "name": "James Gallagher",
+              "short": "Gallagher"
+            },
+            {
+              "name": "Raphael Tracy",
+              "short": "Tracy"
+            },
+            {
+              "name": "Andrew Auld",
+              "short": "Auld"
+            },
+            {
+              "name": "Thomas Florie",
+              "short": "Florie"
+            },
+            {
+              "name": "William Gonsalves",
+              "short": "Gonsalves"
+            },
+            {
+              "name": "Bart Mc Ghee",
+              "short": "Mc Ghee"
+            },
+            {
+              "name": "Bart Patenaude",
+              "short": "Patenaude"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197181",
+      "competition": "mondiali",
+      "season": "1930",
+      "stage": "semi_finals",
+      "title": "Uruguay - Jugoslavia",
+      "session": "match",
+      "startsAt": "1930-07-27T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 6,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 5,
+            "type": "goal",
+            "side": "away",
+            "player": "Branislav Sekulic",
+            "short": "Sekulic"
+          },
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Pedro Cea",
+            "short": "Cea"
+          },
+          {
+            "minute": 22,
+            "type": "goal",
+            "side": "home",
+            "player": "Juan Anselmo",
+            "short": "Anselmo"
+          },
+          {
+            "minute": 40,
+            "type": "goal",
+            "side": "home",
+            "player": "Juan Anselmo",
+            "short": "Anselmo"
+          },
+          {
+            "minute": 62,
+            "type": "goal",
+            "side": "home",
+            "player": "Santos Iriarte",
+            "short": "Iriarte"
+          },
+          {
+            "minute": 66,
+            "type": "goal",
+            "side": "home",
+            "player": "Pedro Cea",
+            "short": "Cea"
+          },
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "home",
+            "player": "Pedro Cea",
+            "short": "Cea"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Enrique Ballestero",
+              "short": "Ballestero"
+            },
+            {
+              "name": "Ernesto Mascheroni",
+              "short": "Mascheroni"
+            },
+            {
+              "name": "José Nasazzi",
+              "short": "Nasazzi"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Lorenzo Fernández",
+              "short": "Fernández"
+            },
+            {
+              "name": "Alvaro Gestido",
+              "short": "Gestido"
+            },
+            {
+              "name": "Juan Anselmo",
+              "short": "Anselmo"
+            },
+            {
+              "name": "Pedro Cea",
+              "short": "Cea"
+            },
+            {
+              "name": "Pablo Dorado",
+              "short": "Dorado"
+            },
+            {
+              "name": "Santos Iriarte",
+              "short": "Iriarte"
+            },
+            {
+              "name": "Héctor Scarone",
+              "short": "Scarone"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Milovan Jaksic",
+              "short": "Jaksic"
+            },
+            {
+              "name": "Milovan Ivkovic",
+              "short": "Ivkovic"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Milorad Arsenijevic",
+              "short": "Arsenijevic"
+            },
+            {
+              "name": "Momcilo Djokic",
+              "short": "Djokic"
+            },
+            {
+              "name": "Ljubisa Stefanovic",
+              "short": "Stefanovic"
+            },
+            {
+              "name": "Iván Bek",
+              "short": "Bek"
+            },
+            {
+              "name": "Blagoje Marjanovic",
+              "short": "Marjanovic"
+            },
+            {
+              "name": "Branislav Sekulic",
+              "short": "Sekulic"
+            },
+            {
+              "name": "Aleksander Tirnanic",
+              "short": "Tirnanic"
+            },
+            {
+              "name": "Djordje Vujadinovic",
+              "short": "Vujadinovic"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1930-197182",
+      "competition": "mondiali",
+      "season": "1930",
+      "stage": "final",
+      "title": "Uruguay - Argentina",
+      "session": "match",
+      "startsAt": "1930-07-30T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "homeScore": 4,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Pablo Dorado",
+            "short": "Dorado"
+          },
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "away",
+            "player": "Carlos Peucelle",
+            "short": "Peucelle"
+          },
+          {
+            "minute": 38,
+            "type": "goal",
+            "side": "away",
+            "player": "Guillermo Stábile",
+            "short": "Stábile"
+          },
+          {
+            "minute": 58,
+            "type": "goal",
+            "side": "home",
+            "player": "Pedro Cea",
+            "short": "Cea"
+          },
+          {
+            "minute": 69,
+            "type": "goal",
+            "side": "home",
+            "player": "Santos Iriarte",
+            "short": "Iriarte"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "home",
+            "player": "Héctor Castro",
+            "short": "Castro"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Enrique Ballestero",
+              "short": "Ballestero"
+            },
+            {
+              "name": "Ernesto Mascheroni",
+              "short": "Mascheroni"
+            },
+            {
+              "name": "José Nasazzi",
+              "short": "Nasazzi"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Lorenzo Fernández",
+              "short": "Fernández"
+            },
+            {
+              "name": "Alvaro Gestido",
+              "short": "Gestido"
+            },
+            {
+              "name": "Héctor Castro",
+              "short": "Castro"
+            },
+            {
+              "name": "Pedro Cea",
+              "short": "Cea"
+            },
+            {
+              "name": "Pablo Dorado",
+              "short": "Dorado"
+            },
+            {
+              "name": "Santos Iriarte",
+              "short": "Iriarte"
+            },
+            {
+              "name": "Héctor Scarone",
+              "short": "Scarone"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Juan Botasso",
+              "short": "Botasso"
+            },
+            {
+              "name": "José Della Torre",
+              "short": "Della Torre"
+            },
+            {
+              "name": "Fernando Paternoster",
+              "short": "Paternoster"
+            },
+            {
+              "name": "Juan Evaristo",
+              "short": "Evaristo"
+            },
+            {
+              "name": "Luís Monti",
+              "short": "Monti"
+            },
+            {
+              "name": "Carlos Peucelle",
+              "short": "Peucelle"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Francisco Varallo",
+              "short": "Varallo"
+            },
+            {
+              "name": "Mario Evaristo",
+              "short": "Evaristo"
+            },
+            {
+              "name": "Manuel Ferreira",
+              "short": "Ferreira"
+            },
+            {
+              "name": "Guillermo Stábile",
+              "short": "Stábile"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "table",
+      "title": "Gironi",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Argentina",
+          "code": "ARG",
+          "points": 6,
+          "wins": 3,
+          "played": 3,
+          "draws": 0,
+          "losses": 0,
+          "goalDifference": 6,
+          "zone": "qualified",
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Cile",
+          "code": "CHI",
+          "points": 4,
+          "wins": 2,
+          "played": 3,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 2,
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Francia",
+          "code": "FRA",
+          "points": 2,
+          "wins": 1,
+          "played": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": 1,
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Messico",
+          "code": "MEX",
+          "points": 0,
+          "wins": 0,
+          "played": 3,
+          "draws": 0,
+          "losses": 3,
+          "goalDifference": -9,
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Jugoslavia",
+          "code": "YUG",
+          "points": 4,
+          "wins": 2,
+          "played": 2,
+          "draws": 0,
+          "losses": 0,
+          "goalDifference": 5,
+          "zone": "qualified",
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Brasile",
+          "code": "BRA",
+          "points": 2,
+          "wins": 1,
+          "played": 2,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 3,
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Bolivia",
+          "code": "BOL",
+          "points": 0,
+          "wins": 0,
+          "played": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -8,
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Uruguay",
+          "code": "URU",
+          "points": 4,
+          "wins": 2,
+          "played": 2,
+          "draws": 0,
+          "losses": 0,
+          "goalDifference": 5,
+          "zone": "qualified",
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Romania",
+          "code": "ROU",
+          "points": 2,
+          "wins": 1,
+          "played": 2,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": -3,
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Perù",
+          "code": "PER",
+          "points": 0,
+          "wins": 0,
+          "played": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -2,
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Stati Uniti",
+          "code": "USA",
+          "points": 4,
+          "wins": 2,
+          "played": 2,
+          "draws": 0,
+          "losses": 0,
+          "goalDifference": 6,
+          "zone": "qualified",
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Paraguay",
+          "code": "PAR",
+          "points": 2,
+          "wins": 1,
+          "played": 2,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": -2,
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Belgio",
+          "code": "BEL",
+          "points": 0,
+          "wins": 0,
+          "played": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -4,
+          "group": "Gruppo 4"
+        }
+      ]
+    },
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Guillermo Stábile",
+          "team": "Argentina",
+          "points": 8
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Pedro Cea",
+          "team": "Uruguay",
+          "points": 5
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Guillermo Subiabre",
+          "team": "Cile",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Carlos Peucelle",
+          "team": "Argentina",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Bart Patenaude",
+          "team": "Stati Uniti",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Iván Bek",
+          "team": "Jugoslavia",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Juan Anselmo",
+          "team": "Uruguay",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Joao Preguinho",
+          "team": "Brasile",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Santos Iriarte",
+          "team": "Uruguay",
+          "points": 2
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Luís Monti",
+          "team": "Argentina",
+          "points": 2
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Manuel Rosas",
+          "team": "Messico",
+          "points": 2
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Bart Mc Ghee",
+          "team": "Stati Uniti",
+          "points": 2
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Pablo Dorado",
+          "team": "Uruguay",
+          "points": 2
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Andre Maschinot",
+          "team": "Francia",
+          "points": 2
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Héctor Castro",
+          "team": "Uruguay",
+          "points": 2
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Constantin Stanciu",
+          "team": "Romania",
+          "points": 2
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Wisintainer Moderato",
+          "team": "Brasile",
+          "points": 2
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Adolfo Zumelzú",
+          "team": "Argentina",
+          "points": 2
+        }
+      ]
+    }
+  ]
+}

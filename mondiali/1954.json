@@ -1,0 +1,4530 @@
+{
+  "competition": "mondiali",
+  "season": "1954",
+  "generatedAt": "2026-11-26T16:16:37.8331833+00:00",
+  "events": [
+    {
+      "id": "mondiali-1954-197587",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 1,
+      "title": "Austria - Scozia",
+      "session": "match",
+      "startsAt": "1954-06-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "awayTeam": {
+        "id": "espn-580",
+        "name": "Scotland",
+        "shortName": "Scozia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 34,
+            "type": "goal",
+            "side": "home",
+            "player": "Erich Probst",
+            "short": "Probst"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Kurt Schmied",
+              "short": "Schmied"
+            },
+            {
+              "name": "Robert Dienst",
+              "short": "Dienst"
+            },
+            {
+              "name": "Ernst Happel",
+              "short": "Happel"
+            },
+            {
+              "name": "Robert Korner",
+              "short": "Korner"
+            },
+            {
+              "name": "Leopold Barschandt",
+              "short": "Barschandt"
+            },
+            {
+              "name": "Gerhard Hanappi",
+              "short": "Hanappi"
+            },
+            {
+              "name": "Karl Koller",
+              "short": "Koller"
+            },
+            {
+              "name": "Ernst Ocwirk",
+              "short": "Ocwirk"
+            },
+            {
+              "name": "Erich Probst",
+              "short": "Probst"
+            },
+            {
+              "name": "Alfred Korner",
+              "short": "Korner"
+            },
+            {
+              "name": "Walter Schleger",
+              "short": "Schleger"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Frank Martin",
+              "short": "Martin"
+            },
+            {
+              "name": "Jock Aird",
+              "short": "Aird"
+            },
+            {
+              "name": "Willie Cunningham",
+              "short": "Cunningham"
+            },
+            {
+              "name": "Doug Cowie",
+              "short": "Cowie"
+            },
+            {
+              "name": "Jimmy Davidson",
+              "short": "Davidson"
+            },
+            {
+              "name": "Tommy Docherty",
+              "short": "Docherty"
+            },
+            {
+              "name": "Allan Brown",
+              "short": "Brown"
+            },
+            {
+              "name": "Willie Fernie",
+              "short": "Fernie"
+            },
+            {
+              "name": "Johnny Mc Kenzie",
+              "short": "Mc Kenzie"
+            },
+            {
+              "name": "Neil Mochan",
+              "short": "Mochan"
+            },
+            {
+              "name": "Willie Ormond",
+              "short": "Ormond"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197580",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 1,
+      "title": "Brasile - Messico",
+      "session": "match",
+      "startsAt": "1954-06-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 5,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 24,
+            "type": "goal",
+            "side": "home",
+            "player": "Oswaldo Baltazar",
+            "short": "Baltazar"
+          },
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Didí"
+          },
+          {
+            "minute": 35,
+            "type": "goal",
+            "side": "home",
+            "player": "Jose Pinga",
+            "short": "Pinga"
+          },
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "home",
+            "player": "Jose Pinga",
+            "short": "Pinga"
+          },
+          {
+            "minute": 70,
+            "type": "goal",
+            "side": "home",
+            "player": "Julio Julinho",
+            "short": "Julinho"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Carlos Castilho",
+              "short": "Castilho"
+            },
+            {
+              "name": "Djalma Djalma Santos",
+              "short": "Djalma Santos"
+            },
+            {
+              "name": "Dos Nilton Santos",
+              "short": "Nilton Santos"
+            },
+            {
+              "name": "José Bauer",
+              "short": "Bauer"
+            },
+            {
+              "name": "Antenor Brandaozinho",
+              "short": "Brandaozinho"
+            },
+            {
+              "name": "João",
+              "short": "Pinheiro"
+            },
+            {
+              "name": "Didí"
+            },
+            {
+              "name": "Oswaldo Baltazar",
+              "short": "Baltazar"
+            },
+            {
+              "name": "Julio Julinho",
+              "short": "Julinho"
+            },
+            {
+              "name": "Jose Pinga",
+              "short": "Pinga"
+            },
+            {
+              "name": "Francisco Rodrigues",
+              "short": "Rodrigues"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Salvador Mota",
+              "short": "Mota"
+            },
+            {
+              "name": "Narciso López",
+              "short": "López"
+            },
+            {
+              "name": "Rafael Avalos",
+              "short": "Avalos"
+            },
+            {
+              "name": "Raúl Cardenas",
+              "short": "Cardenas"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Raúl Arellano",
+              "short": "Arellano"
+            },
+            {
+              "name": "Tomás Balcázar",
+              "short": "Balcázar"
+            },
+            {
+              "name": "Juan Gómez",
+              "short": "Gómez"
+            },
+            {
+              "name": "José Lamadrid",
+              "short": "Lamadrid"
+            },
+            {
+              "name": ""
+            },
+            {
+              "number": 7,
+              "name": "Alfredo Torres",
+              "short": "Torres Gonzalez"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197588",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 1,
+      "title": "Uruguay - Cecoslovacchia",
+      "session": "match",
+      "startsAt": "1954-06-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 73,
+            "type": "goal",
+            "side": "home",
+            "player": "Omar Míguez",
+            "short": "Míguez"
+          },
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "home",
+            "player": "Juan Schiaffino",
+            "short": "Schiaffino"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Roque Máspoli",
+              "short": "Máspoli"
+            },
+            {
+              "name": "William Martínez",
+              "short": "Martínez"
+            },
+            {
+              "name": "José Santamaría",
+              "short": "Santamaría"
+            },
+            {
+              "name": "Víctor Andrade",
+              "short": "Andrade"
+            },
+            {
+              "name": "Luis Cruz",
+              "short": "Cruz"
+            },
+            {
+              "name": "Obdulio Varela",
+              "short": "Varela"
+            },
+            {
+              "name": "Omar Míguez",
+              "short": "Míguez"
+            },
+            {
+              "name": "Juan Schiaffino",
+              "short": "Schiaffino"
+            },
+            {
+              "name": "Julio Abbadie",
+              "short": "Abbadie"
+            },
+            {
+              "name": "Javier Ambrois",
+              "short": "Ambrois"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Theodor Reimann",
+              "short": "Reimann"
+            },
+            {
+              "name": "Ladislav Novak",
+              "short": "Novak"
+            },
+            {
+              "name": "Frantis Safranek",
+              "short": "Safranek"
+            },
+            {
+              "name": "Jan Hertl",
+              "short": "Hertl"
+            },
+            {
+              "name": "Jiri Hledik",
+              "short": "Hledik"
+            },
+            {
+              "name": "Jiri Trnka",
+              "short": "Trnka"
+            },
+            {
+              "name": "Otto Hemele",
+              "short": "Hemele"
+            },
+            {
+              "name": "Ladislav Hlavacek",
+              "short": "Hlavacek"
+            },
+            {
+              "name": "Ladislav Kacani",
+              "short": "Kacani"
+            },
+            {
+              "name": "Emil Pazicky",
+              "short": "Pazicky"
+            },
+            {
+              "name": "Jiri Pesek",
+              "short": "Pesek"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197579",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 1,
+      "title": "Jugoslavia - Francia",
+      "session": "match",
+      "startsAt": "1954-06-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "awayTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": "Milos Milutinovic",
+            "short": "Milutinovic"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Vladimir Beara",
+              "short": "Beara"
+            },
+            {
+              "name": "Tomislav Crnkovic",
+              "short": "Crnkovic"
+            },
+            {
+              "name": "Ivan Horvat",
+              "short": "Horvat"
+            },
+            {
+              "name": "Branislav Stankovic",
+              "short": "Stankovic"
+            },
+            {
+              "name": "Vujadin Boskov",
+              "short": "Boskov"
+            },
+            {
+              "name": "Milos Milutinovic",
+              "short": "Milutinovic"
+            },
+            {
+              "name": "Stjepan Bobek",
+              "short": "Bobek"
+            },
+            {
+              "name": "Zeljko Cajkovski",
+              "short": "Cajkovski"
+            },
+            {
+              "name": "Rajko Mitic",
+              "short": "Mitic"
+            },
+            {
+              "name": "Bernard Vukas",
+              "short": "Vukas"
+            },
+            {
+              "name": "Branko Zebec",
+              "short": "Zebec"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Francois Remetter",
+              "short": "Remetter"
+            },
+            {
+              "name": "Robert Jonquet",
+              "short": "Jonquet"
+            },
+            {
+              "name": "Jean Marcel",
+              "short": "Marcel"
+            },
+            {
+              "name": "Roger Marche",
+              "short": "Marche"
+            },
+            {
+              "name": "Armand Penverne",
+              "short": "Penverne"
+            },
+            {
+              "name": "Lazare Gianessi",
+              "short": "Gianessi"
+            },
+            {
+              "name": "Leon Glovacki",
+              "short": "Glovacki"
+            },
+            {
+              "name": "Raymond Kopa",
+              "short": "Kopa"
+            },
+            {
+              "name": "Andre Strappe",
+              "short": "Strappe"
+            },
+            {
+              "name": "Jean Vincent",
+              "short": "Vincent"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197592",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 1,
+      "title": "Inghilterra - Belgio",
+      "session": "match",
+      "startsAt": "1954-06-17T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "awayTeam": {
+        "id": "espn-459",
+        "name": "Belgium",
+        "shortName": "Belgio",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png"
+      },
+      "homeScore": 3,
+      "awayScore": 4,
+      "videos": []
+    },
+    {
+      "id": "mondiali-1954-197584",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 1,
+      "title": "Germania Ovest - Turchia",
+      "session": "match",
+      "startsAt": "1954-06-17T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-465",
+        "name": "Türkiye",
+        "shortName": "Turchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png"
+      },
+      "homeScore": 4,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 3,
+            "type": "goal",
+            "side": "away",
+            "player": "Mamat Suat",
+            "short": "Suat"
+          },
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "home",
+            "player": "Hans Schafer",
+            "short": "Schafer"
+          },
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "home",
+            "player": "Berni Klodt",
+            "short": "Klodt"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Ottmar Walter",
+            "short": "Walter"
+          },
+          {
+            "minute": 85,
+            "type": "goal",
+            "side": "home",
+            "player": "Max Morlock",
+            "short": "Morlock"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Toni Turek",
+              "short": "Turek"
+            },
+            {
+              "name": "Paul Mebus",
+              "short": "Mebus"
+            },
+            {
+              "name": "Werner Kohlmeyer",
+              "short": "Kohlmeyer"
+            },
+            {
+              "name": "Fritz Laband",
+              "short": "Laband"
+            },
+            {
+              "name": "Karl Mai",
+              "short": "Mai"
+            },
+            {
+              "name": "Jupp Posipal",
+              "short": "Posipal"
+            },
+            {
+              "name": "Berni Klodt",
+              "short": "Klodt"
+            },
+            {
+              "name": "Max Morlock",
+              "short": "Morlock"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            },
+            {
+              "name": "Ottmar Walter",
+              "short": "Walter"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Seren Turgay",
+              "short": "Turgay"
+            },
+            {
+              "name": "Dirimlili Basri",
+              "short": "Basri"
+            },
+            {
+              "name": "Bolatli Ridvan",
+              "short": "Ridvan"
+            },
+            {
+              "name": "Zeybek Cetin",
+              "short": "Cetin"
+            },
+            {
+              "name": "Ertan Mustafa",
+              "short": "Mustafa"
+            },
+            {
+              "name": "Izak Rober",
+              "short": "Rober"
+            },
+            {
+              "name": "Mamat Suat",
+              "short": "Suat"
+            },
+            {
+              "name": "Sargin Burhan",
+              "short": "Burhan"
+            },
+            {
+              "name": "Keskin Erol",
+              "short": "Erol"
+            },
+            {
+              "name": "Bugeker Feridun",
+              "short": "Feridun"
+            },
+            {
+              "name": "Kucukandonyanides Lefter",
+              "short": "Lefter"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197583",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 1,
+      "title": "Ungheria - Corea del Sud",
+      "session": "match",
+      "startsAt": "1954-06-17T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-451",
+        "name": "South Korea",
+        "shortName": "Corea del Sud",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png"
+      },
+      "homeScore": 9,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Ferenc Puskas",
+            "short": "Puskas"
+          },
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Mihaly Lantos",
+            "short": "Lantos"
+          },
+          {
+            "minute": 25,
+            "type": "goal",
+            "side": "home",
+            "player": "Sandor Kocsis",
+            "short": "Kocsis"
+          },
+          {
+            "minute": 37,
+            "type": "goal",
+            "side": "home",
+            "player": "Sandor Kocsis",
+            "short": "Kocsis"
+          },
+          {
+            "minute": 51,
+            "type": "goal",
+            "side": "home",
+            "player": "Sandor Kocsis",
+            "short": "Kocsis"
+          },
+          {
+            "minute": 60,
+            "type": "goal",
+            "side": "home",
+            "player": "Zoltan Czibor",
+            "short": "Czibor"
+          },
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "home",
+            "player": "Peter Palotas",
+            "short": "Palotas"
+          },
+          {
+            "minute": 84,
+            "type": "goal",
+            "side": "home",
+            "player": "Peter Palotas",
+            "short": "Palotas"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "home",
+            "player": "Ferenc Puskas",
+            "short": "Puskas"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gyula Grosics",
+              "short": "Grosics"
+            },
+            {
+              "name": "Mihaly Lantos",
+              "short": "Lantos"
+            },
+            {
+              "name": "Jeno Buzansky",
+              "short": "Buzansky"
+            },
+            {
+              "name": "Gyula Lorant",
+              "short": "Lorant"
+            },
+            {
+              "name": "Joszef Bozsik",
+              "short": "Bozsik"
+            },
+            {
+              "name": "Ferenc Szojka",
+              "short": "Szojka"
+            },
+            {
+              "name": "Zoltan Czibor",
+              "short": "Czibor"
+            },
+            {
+              "name": "Sandor Kocsis",
+              "short": "Kocsis"
+            },
+            {
+              "name": "Peter Palotas",
+              "short": "Palotas"
+            },
+            {
+              "name": "Ferenc Puskas",
+              "short": "Puskas"
+            },
+            {
+              "name": "Laszlo Budai",
+              "short": "Budai"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Duk Hong",
+              "short": "Hong"
+            },
+            {
+              "name": "Kyu Park",
+              "short": "Park"
+            },
+            {
+              "name": "Yae Park",
+              "short": "Park"
+            },
+            {
+              "name": "Sang Woo",
+              "short": "Woo"
+            },
+            {
+              "name": "Young Chu",
+              "short": "Chu"
+            },
+            {
+              "name": "Chang Kang",
+              "short": "Kang"
+            },
+            {
+              "name": "Byung Ming",
+              "short": "Ming"
+            },
+            {
+              "name": "Chung Choi",
+              "short": "Choi"
+            },
+            {
+              "name": "Hae Chung",
+              "short": "Chung"
+            },
+            {
+              "name": "Kap Park II",
+              "short": "Park II"
+            },
+            {
+              "name": "Nak Sung",
+              "short": "Sung"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197591",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 1,
+      "title": "Svizzera - Italia",
+      "session": "match",
+      "startsAt": "1954-06-17T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "awayTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Robert Ballaman",
+            "short": "Ballaman"
+          },
+          {
+            "minute": 45,
+            "type": "goal",
+            "side": "away",
+            "player": "Gianpiero Boniperti",
+            "short": "Boniperti"
+          },
+          {
+            "minute": 79,
+            "type": "goal",
+            "side": "home",
+            "player": "Josef Hugi",
+            "short": "Hugi"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Eugene Parlier",
+              "short": "Parlier"
+            },
+            {
+              "name": "Roger Bocquet",
+              "short": "Bocquet"
+            },
+            {
+              "name": "Andre Neury",
+              "short": "Neury"
+            },
+            {
+              "name": "Charles Casali",
+              "short": "Casali"
+            },
+            {
+              "name": "Willy Kernen",
+              "short": "Kernen"
+            },
+            {
+              "name": "Eugen Meier",
+              "short": "Meier"
+            },
+            {
+              "name": "Robert Ballaman",
+              "short": "Ballaman"
+            },
+            {
+              "name": "Josef Hugi",
+              "short": "Hugi"
+            },
+            {
+              "name": "Jacques Fatton",
+              "short": "Fatton"
+            },
+            {
+              "name": "Marcel Fluckiger",
+              "short": "Fluckiger"
+            },
+            {
+              "name": "Roger Vonlanthen",
+              "short": "Vonlanthen"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Giorgio Ghezzi",
+              "short": "Ghezzi"
+            },
+            {
+              "name": "Gianni Giacomazzi",
+              "short": "Giacomazzi"
+            },
+            {
+              "name": "Guido Vincenzi",
+              "short": "Vincenzi"
+            },
+            {
+              "name": "Maino Neri",
+              "short": "Neri"
+            },
+            {
+              "name": "Fulvio Nesti",
+              "short": "Nesti"
+            },
+            {
+              "name": "Omero Tognon",
+              "short": "Tognon"
+            },
+            {
+              "name": "Gianpiero Boniperti",
+              "short": "Boniperti"
+            },
+            {
+              "name": "Carlo Galli",
+              "short": "Galli"
+            },
+            {
+              "name": "Benito Lorenzi",
+              "short": "Lorenzi"
+            },
+            {
+              "name": "Hermes Muccinelli",
+              "short": "Muccinelli"
+            },
+            {
+              "name": "Egisto Pandolfini",
+              "short": "Pandolfini"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197590",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 2,
+      "title": "Austria - Cecoslovacchia",
+      "session": "match",
+      "startsAt": "1954-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "awayTeam": {
+        "id": "espn-6648",
+        "name": "Czechoslovakia",
+        "shortName": "Cecoslovacchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/czk.png"
+      },
+      "homeScore": 5,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 4,
+            "type": "goal",
+            "side": "home",
+            "player": "Ernst Stojaspal",
+            "short": "Stojaspal"
+          },
+          {
+            "minute": 5,
+            "type": "goal",
+            "side": "home",
+            "player": "Erich Probst",
+            "short": "Probst"
+          },
+          {
+            "minute": 22,
+            "type": "goal",
+            "side": "home",
+            "player": "Erich Probst",
+            "short": "Probst"
+          },
+          {
+            "minute": 25,
+            "type": "goal",
+            "side": "home",
+            "player": "Erich Probst",
+            "short": "Probst"
+          },
+          {
+            "minute": 71,
+            "type": "goal",
+            "side": "home",
+            "player": "Ernst Stojaspal",
+            "short": "Stojaspal"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Kurt Schmied",
+              "short": "Schmied"
+            },
+            {
+              "name": "Gerhard Hanappi",
+              "short": "Hanappi"
+            },
+            {
+              "name": "Ernst Happel",
+              "short": "Happel"
+            },
+            {
+              "name": "Ernst Ocwirk",
+              "short": "Ocwirk"
+            },
+            {
+              "name": "Leopold Barschandt",
+              "short": "Barschandt"
+            },
+            {
+              "name": "Karl Koller",
+              "short": "Koller"
+            },
+            {
+              "name": "Erich Probst",
+              "short": "Probst"
+            },
+            {
+              "name": "Ernst Stojaspal",
+              "short": "Stojaspal"
+            },
+            {
+              "name": "Alfred Korner",
+              "short": "Korner"
+            },
+            {
+              "name": "Robert Korner",
+              "short": "Korner"
+            },
+            {
+              "name": "Theodor Wagner",
+              "short": "Wagner"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Imrich Stacho",
+              "short": "Stacho"
+            },
+            {
+              "name": "Jan Hertl",
+              "short": "Hertl"
+            },
+            {
+              "name": "Svatopluk Pluskal",
+              "short": "Pluskal"
+            },
+            {
+              "name": "Jiri Trnka",
+              "short": "Trnka"
+            },
+            {
+              "name": "Otto Hemele",
+              "short": "Hemele"
+            },
+            {
+              "name": "Ladislav Hlavacek",
+              "short": "Hlavacek"
+            },
+            {
+              "name": "Ladislav Kacani",
+              "short": "Kacani"
+            },
+            {
+              "name": "Tadeus Kraus",
+              "short": "Kraus"
+            },
+            {
+              "name": "Ladislav Novak",
+              "short": "Novak"
+            },
+            {
+              "name": "Emil Pazicky",
+              "short": "Pazicky"
+            },
+            {
+              "name": "Frantis Safranek",
+              "short": "Safranek"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197581",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 2,
+      "title": "Brasile - Jugoslavia",
+      "session": "match",
+      "startsAt": "1954-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 49,
+            "type": "goal",
+            "side": "away",
+            "player": "Branko Zebec",
+            "short": "Zebec"
+          },
+          {
+            "minute": 70,
+            "type": "goal",
+            "side": "home",
+            "player": "Didí"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Carlos Castilho",
+              "short": "Castilho"
+            },
+            {
+              "name": "Djalma Djalma Santos",
+              "short": "Djalma Santos"
+            },
+            {
+              "name": "Dos Nilton Santos",
+              "short": "Nilton Santos"
+            },
+            {
+              "name": "José Bauer",
+              "short": "Bauer"
+            },
+            {
+              "name": "Antenor Brandaozinho",
+              "short": "Brandaozinho"
+            },
+            {
+              "name": "João",
+              "short": "Pinheiro"
+            },
+            {
+              "name": "Didí"
+            },
+            {
+              "name": "Oswaldo Baltazar",
+              "short": "Baltazar"
+            },
+            {
+              "name": "Julio Julinho",
+              "short": "Julinho"
+            },
+            {
+              "name": "Jose Pinga",
+              "short": "Pinga"
+            },
+            {
+              "name": "Francisco Rodrigues",
+              "short": "Rodrigues"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Vladimir Beara",
+              "short": "Beara"
+            },
+            {
+              "name": "Tomislav Crnkovic",
+              "short": "Crnkovic"
+            },
+            {
+              "name": "Ivan Horvat",
+              "short": "Horvat"
+            },
+            {
+              "name": "Branislav Stankovic",
+              "short": "Stankovic"
+            },
+            {
+              "name": "Vujadin Boskov",
+              "short": "Boskov"
+            },
+            {
+              "name": "Zeljko Cajkovski",
+              "short": "Cajkovski"
+            },
+            {
+              "name": "Dion Dvornic",
+              "short": "Dvornic"
+            },
+            {
+              "name": "Branko Zebec",
+              "short": "Zebec"
+            },
+            {
+              "name": "Milos Milutinovic",
+              "short": "Milutinovic"
+            },
+            {
+              "name": "Rajko Mitic",
+              "short": "Mitic"
+            },
+            {
+              "name": "Bernard Vukas",
+              "short": "Vukas"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197582",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 2,
+      "title": "Francia - Messico",
+      "session": "match",
+      "startsAt": "1954-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 20,
+            "type": "goal",
+            "side": "home",
+            "player": "Jean Vincent",
+            "short": "Vincent"
+          },
+          {
+            "minute": 50,
+            "type": "ownGoal",
+            "side": "home",
+            "player": "Raúl Cardenas",
+            "short": "Cardenas"
+          },
+          {
+            "minute": 55,
+            "type": "goal",
+            "side": "away",
+            "player": "José Lamadrid",
+            "short": "Lamadrid"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "away",
+            "player": "Tomás Balcázar",
+            "short": "Balcázar"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Raymond Kopa",
+            "short": "Kopa"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Francois Remetter",
+              "short": "Remetter"
+            },
+            {
+              "name": "Lazare Gianessi",
+              "short": "Gianessi"
+            },
+            {
+              "name": "Raymond Kaelbel",
+              "short": "Kaelbel"
+            },
+            {
+              "name": "Jean Marcel",
+              "short": "Marcel"
+            },
+            {
+              "name": "Abderahmane Mahjoub",
+              "short": "Mahjoub"
+            },
+            {
+              "name": "Roger Marche",
+              "short": "Marche"
+            },
+            {
+              "name": "Abdel Ben Tifour",
+              "short": "Ben Tifour"
+            },
+            {
+              "name": "Rene Dereuddre",
+              "short": "Dereuddre"
+            },
+            {
+              "name": "Raymond Kopa",
+              "short": "Kopa"
+            },
+            {
+              "name": "Andre Strappe",
+              "short": "Strappe"
+            },
+            {
+              "name": "Jean Vincent",
+              "short": "Vincent"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Carbajal",
+              "short": "Carbajal"
+            },
+            {
+              "number": 7,
+              "name": "Alfredo Torres",
+              "short": "Torres Gonzalez"
+            },
+            {
+              "name": "Narciso López",
+              "short": "López"
+            },
+            {
+              "name": "Rafael Avalos",
+              "short": "Avalos"
+            },
+            {
+              "name": "Raúl Cardenas",
+              "short": "Cardenas"
+            },
+            {
+              "name": "Saturnino Martínez",
+              "short": "Martínez"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Raúl Arellano",
+              "short": "Arellano"
+            },
+            {
+              "name": "Tomás Balcázar",
+              "short": "Balcázar"
+            },
+            {
+              "name": "José Lamadrid",
+              "short": "Lamadrid"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197589",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 2,
+      "title": "Uruguay - Scozia",
+      "session": "match",
+      "startsAt": "1954-06-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-580",
+        "name": "Scotland",
+        "shortName": "Scozia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png"
+      },
+      "homeScore": 7,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Omar Míguez",
+            "short": "Míguez"
+          },
+          {
+            "minute": 48,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 55,
+            "type": "goal",
+            "side": "home",
+            "player": "Julio Abbadie",
+            "short": "Abbadie"
+          },
+          {
+            "minute": 58,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 84,
+            "type": "goal",
+            "side": "home",
+            "player": "Omar Míguez",
+            "short": "Míguez"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "home",
+            "player": "Julio Abbadie",
+            "short": "Abbadie"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Roque Máspoli",
+              "short": "Máspoli"
+            },
+            {
+              "name": "William Martínez",
+              "short": "Martínez"
+            },
+            {
+              "name": "José Santamaría",
+              "short": "Santamaría"
+            },
+            {
+              "name": "Víctor Andrade",
+              "short": "Andrade"
+            },
+            {
+              "name": "Luis Cruz",
+              "short": "Cruz"
+            },
+            {
+              "name": "Obdulio Varela",
+              "short": "Varela"
+            },
+            {
+              "name": "Julio Abbadie",
+              "short": "Abbadie"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Omar Míguez",
+              "short": "Míguez"
+            },
+            {
+              "name": "Javier Ambrois",
+              "short": "Ambrois"
+            },
+            {
+              "name": "Juan Schiaffino",
+              "short": "Schiaffino"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Frank Martin",
+              "short": "Martin"
+            },
+            {
+              "name": "Jock Aird",
+              "short": "Aird"
+            },
+            {
+              "name": "Doug Cowie",
+              "short": "Cowie"
+            },
+            {
+              "name": "Jimmy Davidson",
+              "short": "Davidson"
+            },
+            {
+              "name": "Tommy Docherty",
+              "short": "Docherty"
+            },
+            {
+              "name": "Allan Brown",
+              "short": "Brown"
+            },
+            {
+              "name": "Willie Cunningham",
+              "short": "Cunningham"
+            },
+            {
+              "name": "Willie Fernie",
+              "short": "Fernie"
+            },
+            {
+              "name": "Johnny Mc Kenzie",
+              "short": "Mc Kenzie"
+            },
+            {
+              "name": "Neil Mochan",
+              "short": "Mochan"
+            },
+            {
+              "name": "Willie Ormond",
+              "short": "Ormond"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197594",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 2,
+      "title": "Inghilterra - Svizzera",
+      "session": "match",
+      "startsAt": "1954-06-20T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "awayTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "home",
+            "player": "Jimmy Mullen",
+            "short": "Mullen"
+          },
+          {
+            "minute": 70,
+            "type": "goal",
+            "side": "home",
+            "player": "Denis Wishaw",
+            "short": "Wishaw"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gil Merrick",
+              "short": "Merrick"
+            },
+            {
+              "name": "Roger Byrne",
+              "short": "Byrne"
+            },
+            {
+              "name": "Bill Mc Garry",
+              "short": "Mc Garry"
+            },
+            {
+              "name": "Denis Wishaw",
+              "short": "Wishaw"
+            },
+            {
+              "name": "Jimmy Dickinson",
+              "short": "Dickinson"
+            },
+            {
+              "name": "Ron Staniforth",
+              "short": "Staniforth"
+            },
+            {
+              "name": "Jimmy Mullen",
+              "short": "Mullen"
+            },
+            {
+              "name": "Ivor Broadis",
+              "short": "Broadis"
+            },
+            {
+              "name": "Thomas Finney",
+              "short": "Finney"
+            },
+            {
+              "name": "Tommy Taylor",
+              "short": "Taylor"
+            },
+            {
+              "name": "Tommy Wright",
+              "short": "Wright"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Eugene Parlier",
+              "short": "Parlier"
+            },
+            {
+              "name": "Roger Bocquet",
+              "short": "Bocquet"
+            },
+            {
+              "name": "Andre Neury",
+              "short": "Neury"
+            },
+            {
+              "name": "Heinz Bigler",
+              "short": "Bigler"
+            },
+            {
+              "name": "Willy Kernen",
+              "short": "Kernen"
+            },
+            {
+              "name": "Eugen Meier",
+              "short": "Meier"
+            },
+            {
+              "name": "Charles Antenen",
+              "short": "Antenen"
+            },
+            {
+              "name": "Robert Ballaman",
+              "short": "Ballaman"
+            },
+            {
+              "name": "Oliver Eggiman",
+              "short": "Eggiman"
+            },
+            {
+              "name": "Jacques Fatton",
+              "short": "Fatton"
+            },
+            {
+              "name": "Roger Vonlanthen",
+              "short": "Vonlanthen"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197585",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 2,
+      "title": "Ungheria - Germania Ovest",
+      "session": "match",
+      "startsAt": "1954-06-20T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "homeScore": 8,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 4,
+            "type": "goal",
+            "side": "home",
+            "player": "Sandor Kocsis",
+            "short": "Kocsis"
+          },
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "home",
+            "player": "Ferenc Puskas",
+            "short": "Puskas"
+          },
+          {
+            "minute": 22,
+            "type": "goal",
+            "side": "home",
+            "player": "Sandor Kocsis",
+            "short": "Kocsis"
+          },
+          {
+            "minute": 26,
+            "type": "goal",
+            "side": "away",
+            "player": "Alfred Pfaff",
+            "short": "Pfaff"
+          },
+          {
+            "minute": 51,
+            "type": "goal",
+            "side": "home",
+            "player": "Nandor Hidegkuti",
+            "short": "Hidegkuti"
+          },
+          {
+            "minute": 55,
+            "type": "goal",
+            "side": "home",
+            "player": "Nandor Hidegkuti",
+            "short": "Hidegkuti"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Sandor Kocsis",
+            "short": "Kocsis"
+          },
+          {
+            "minute": 74,
+            "type": "goal",
+            "side": "home",
+            "player": "Joszef Toth",
+            "short": "Toth"
+          },
+          {
+            "minute": 78,
+            "type": "goal",
+            "side": "away",
+            "player": "Helmut Rahn",
+            "short": "Rahn"
+          },
+          {
+            "minute": 79,
+            "type": "goal",
+            "side": "home",
+            "player": "Sandor Kocsis",
+            "short": "Kocsis"
+          },
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "away",
+            "player": "Richard Herrmann",
+            "short": "Herrmann"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gyula Grosics",
+              "short": "Grosics"
+            },
+            {
+              "name": "Jeno Buzansky",
+              "short": "Buzansky"
+            },
+            {
+              "name": "Mihaly Lantos",
+              "short": "Lantos"
+            },
+            {
+              "name": "Gyula Lorant",
+              "short": "Lorant"
+            },
+            {
+              "name": "Joszef Bozsik",
+              "short": "Bozsik"
+            },
+            {
+              "name": "Jozsef Zakarias",
+              "short": "Zakarias"
+            },
+            {
+              "name": "Nandor Hidegkuti",
+              "short": "Hidegkuti"
+            },
+            {
+              "name": "Sandor Kocsis",
+              "short": "Kocsis"
+            },
+            {
+              "name": "Ferenc Puskas",
+              "short": "Puskas"
+            },
+            {
+              "name": "Joszef Toth",
+              "short": "Toth"
+            },
+            {
+              "name": "Zoltan Czibor",
+              "short": "Czibor"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Heiner Kwiatkowski",
+              "short": "Kwiatkowski"
+            },
+            {
+              "name": "Karl Mai",
+              "short": "Mai"
+            },
+            {
+              "name": "Jupp Posipal",
+              "short": "Posipal"
+            },
+            {
+              "name": "Werner Kohlmeyer",
+              "short": "Kohlmeyer"
+            },
+            {
+              "name": "Werner Liebrich",
+              "short": "Liebrich"
+            },
+            {
+              "name": "Paul Mebus",
+              "short": "Mebus"
+            },
+            {
+              "name": "Toni Turek",
+              "short": "Turek"
+            },
+            {
+              "name": "Richard Herrmann",
+              "short": "Herrmann"
+            },
+            {
+              "name": "Alfred Pfaff",
+              "short": "Pfaff"
+            },
+            {
+              "name": "Helmut Rahn",
+              "short": "Rahn"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197593",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 2,
+      "title": "Italia - Belgio",
+      "session": "match",
+      "startsAt": "1954-06-20T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-459",
+        "name": "Belgium",
+        "shortName": "Belgio",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png"
+      },
+      "homeScore": 4,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 42,
+            "type": "penalty",
+            "side": "home",
+            "player": "Egisto Pandolfini",
+            "short": "Pandolfini"
+          },
+          {
+            "minute": 48,
+            "type": "goal",
+            "side": "home",
+            "player": "Carlo Galli",
+            "short": "Galli"
+          },
+          {
+            "minute": 58,
+            "type": "goal",
+            "side": "home",
+            "player": "Amleto Frignani",
+            "short": "Frignani"
+          },
+          {
+            "minute": 79,
+            "type": "goal",
+            "side": "home",
+            "player": "Benito Lorenzi",
+            "short": "Lorenzi"
+          },
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "away",
+            "player": "Pol Anoul",
+            "short": "Anoul"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Giorgio Ghezzi",
+              "short": "Ghezzi"
+            },
+            {
+              "name": "Gianni Giacomazzi",
+              "short": "Giacomazzi"
+            },
+            {
+              "name": "Ardico Magnini",
+              "short": "Magnini"
+            },
+            {
+              "name": "Maino Neri",
+              "short": "Neri"
+            },
+            {
+              "name": "Fulvio Nesti",
+              "short": "Nesti"
+            },
+            {
+              "name": "Omero Tognon",
+              "short": "Tognon"
+            },
+            {
+              "name": "Amleto Frignani",
+              "short": "Frignani"
+            },
+            {
+              "name": "Carlo Galli",
+              "short": "Galli"
+            },
+            {
+              "name": "Benito Lorenzi",
+              "short": "Lorenzi"
+            },
+            {
+              "name": "Egisto Pandolfini",
+              "short": "Pandolfini"
+            },
+            {
+              "name": "Gino Cappello",
+              "short": "Cappello"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Leo Gernaey",
+              "short": "Gernaey"
+            },
+            {
+              "name": "Marcel Dries",
+              "short": "Dries"
+            },
+            {
+              "name": "Fons Van Brandt",
+              "short": "Van Brandt"
+            },
+            {
+              "name": "Louis Carre",
+              "short": "Carre"
+            },
+            {
+              "name": "Stan Huysmans",
+              "short": "Huysmans"
+            },
+            {
+              "name": "Victor Mees",
+              "short": "Mees"
+            },
+            {
+              "name": "Pol Anoul",
+              "short": "Anoul"
+            },
+            {
+              "name": "Rik Coppens",
+              "short": "Coppens"
+            },
+            {
+              "name": "Jef Mermans",
+              "short": "Mermans"
+            },
+            {
+              "name": "Hipolyte Van den Bosch",
+              "short": "Van den Bosch"
+            },
+            {
+              "name": "Piet Van den Bosch",
+              "short": "Van den Bosch"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197586",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 2,
+      "title": "Turchia - Corea del Sud",
+      "session": "match",
+      "startsAt": "1954-06-20T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-465",
+        "name": "Türkiye",
+        "shortName": "Turchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png"
+      },
+      "awayTeam": {
+        "id": "espn-451",
+        "name": "South Korea",
+        "shortName": "Corea del Sud",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png"
+      },
+      "homeScore": 7,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 11,
+            "type": "goal",
+            "side": "home",
+            "player": "Mamat Suat",
+            "short": "Suat"
+          },
+          {
+            "minute": 25,
+            "type": "goal",
+            "side": "home",
+            "player": "Kucukandonyanides Lefter",
+            "short": "Lefter"
+          },
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Mamat Suat",
+            "short": "Suat"
+          },
+          {
+            "minute": 38,
+            "type": "goal",
+            "side": "home",
+            "player": "Sargin Burhan",
+            "short": "Burhan"
+          },
+          {
+            "minute": 65,
+            "type": "goal",
+            "side": "home",
+            "player": "Sargin Burhan",
+            "short": "Burhan"
+          },
+          {
+            "minute": 71,
+            "type": "goal",
+            "side": "home",
+            "player": "Sargin Burhan",
+            "short": "Burhan"
+          },
+          {
+            "minute": 77,
+            "type": "goal",
+            "side": "home",
+            "player": "Keskin Erol",
+            "short": "Erol"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Seren Turgay",
+              "short": "Turgay"
+            },
+            {
+              "name": "Dirimlili Basri",
+              "short": "Basri"
+            },
+            {
+              "name": "Bolatli Ridvan",
+              "short": "Ridvan"
+            },
+            {
+              "name": "Zeybek Cetin",
+              "short": "Cetin"
+            },
+            {
+              "name": "Ertan Mustafa",
+              "short": "Mustafa"
+            },
+            {
+              "name": "Izak Rober",
+              "short": "Rober"
+            },
+            {
+              "name": "Sargin Burhan",
+              "short": "Burhan"
+            },
+            {
+              "name": "Keskin Erol",
+              "short": "Erol"
+            },
+            {
+              "name": "Kucukandonyanides Lefter",
+              "short": "Lefter"
+            },
+            {
+              "name": "Mamat Suat",
+              "short": "Suat"
+            },
+            {
+              "name": "Bugeker Feridun",
+              "short": "Feridun"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Duk Hong",
+              "short": "Hong"
+            },
+            {
+              "name": "Soo Lee",
+              "short": "Lee"
+            },
+            {
+              "name": "Kook Chung",
+              "short": "Chung"
+            },
+            {
+              "name": "Chang Kang",
+              "short": "Kang"
+            },
+            {
+              "name": "Chi Lee",
+              "short": "Lee"
+            },
+            {
+              "name": "Kyu Park",
+              "short": "Park"
+            },
+            {
+              "name": "Chung Choi",
+              "short": "Choi"
+            },
+            {
+              "name": "Chong Han",
+              "short": "Han"
+            },
+            {
+              "name": "Chi Kim",
+              "short": "Kim"
+            },
+            {
+              "name": "Jong Lee",
+              "short": "Lee"
+            },
+            {
+              "name": "Sang Woo",
+              "short": "Woo"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197595",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 3,
+      "title": "Germania Ovest - Turchia",
+      "session": "match",
+      "startsAt": "1954-06-23T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-465",
+        "name": "Türkiye",
+        "shortName": "Turchia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png"
+      },
+      "homeScore": 7,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 8,
+            "type": "goal",
+            "side": "home",
+            "player": "Ottmar Walter",
+            "short": "Walter"
+          },
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "home",
+            "player": "Hans Schafer",
+            "short": "Schafer"
+          },
+          {
+            "minute": 22,
+            "type": "goal",
+            "side": "away",
+            "player": "Ertan Mustafa",
+            "short": "Mustafa"
+          },
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Max Morlock",
+            "short": "Morlock"
+          },
+          {
+            "minute": 60,
+            "type": "goal",
+            "side": "home",
+            "player": "Max Morlock",
+            "short": "Morlock"
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 78,
+            "type": "goal",
+            "side": "home",
+            "player": "Max Morlock",
+            "short": "Morlock"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Hans Schafer",
+            "short": "Schafer"
+          },
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "away",
+            "player": "Kucukandonyanides Lefter",
+            "short": "Lefter"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Toni Turek",
+              "short": "Turek"
+            },
+            {
+              "name": "Hans Bauer",
+              "short": "Bauer"
+            },
+            {
+              "name": "Fritz Laband",
+              "short": "Laband"
+            },
+            {
+              "name": "Horst Eckel",
+              "short": "Eckel"
+            },
+            {
+              "name": "Karl Mai",
+              "short": "Mai"
+            },
+            {
+              "name": "Jupp Posipal",
+              "short": "Posipal"
+            },
+            {
+              "name": "Max Morlock",
+              "short": "Morlock"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Ottmar Walter",
+              "short": "Walter"
+            },
+            {
+              "name": "Berni Klodt",
+              "short": "Klodt"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Sukru Erskoy",
+              "short": "Erskoy"
+            },
+            {
+              "name": "Dirimlili Basri",
+              "short": "Basri"
+            },
+            {
+              "name": "Erdem Naci",
+              "short": "Naci"
+            },
+            {
+              "name": "Bolatli Ridvan",
+              "short": "Ridvan"
+            },
+            {
+              "name": "Ertan Mustafa",
+              "short": "Mustafa"
+            },
+            {
+              "name": "Zeybek Cetin",
+              "short": "Cetin"
+            },
+            {
+              "name": "Izak Rober",
+              "short": "Rober"
+            },
+            {
+              "name": "Kucukandonyanides Lefter",
+              "short": "Lefter"
+            },
+            {
+              "name": "Tas Coskun",
+              "short": "Coskun"
+            },
+            {
+              "name": "Keskin Erol",
+              "short": "Erol"
+            },
+            {
+              "name": "Necmi Necmettin",
+              "short": "Necmettin"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197596",
+      "competition": "mondiali",
+      "season": "1954",
+      "round": 3,
+      "title": "Svizzera - Italia",
+      "session": "match",
+      "startsAt": "1954-06-23T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "awayTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "homeScore": 4,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "home",
+            "player": "Josef Hugi",
+            "short": "Hugi"
+          },
+          {
+            "minute": 49,
+            "type": "goal",
+            "side": "home",
+            "player": "Robert Ballaman",
+            "short": "Ballaman"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "away",
+            "player": "Fulvio Nesti",
+            "short": "Nesti"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "home",
+            "player": "Josef Hugi",
+            "short": "Hugi"
+          },
+          {
+            "minute": 90,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Jacques Fatton",
+            "short": "Fatton"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Eugene Parlier",
+              "short": "Parlier"
+            },
+            {
+              "name": "Roger Bocquet",
+              "short": "Bocquet"
+            },
+            {
+              "name": "Andre Neury",
+              "short": "Neury"
+            },
+            {
+              "name": "Charles Casali",
+              "short": "Casali"
+            },
+            {
+              "name": "Oliver Eggiman",
+              "short": "Eggiman"
+            },
+            {
+              "name": "Willy Kernen",
+              "short": "Kernen"
+            },
+            {
+              "name": "Robert Ballaman",
+              "short": "Ballaman"
+            },
+            {
+              "name": "Jacques Fatton",
+              "short": "Fatton"
+            },
+            {
+              "name": "Josef Hugi",
+              "short": "Hugi"
+            },
+            {
+              "name": "Charles Antenen",
+              "short": "Antenen"
+            },
+            {
+              "name": "Roger Vonlanthen",
+              "short": "Vonlanthen"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Gianni Viola",
+              "short": "Viola"
+            },
+            {
+              "name": "Gianni Giacomazzi",
+              "short": "Giacomazzi"
+            },
+            {
+              "name": "Ardico Magnini",
+              "short": "Magnini"
+            },
+            {
+              "name": "Armando Segato",
+              "short": "Segato"
+            },
+            {
+              "name": "Fulvio Nesti",
+              "short": "Nesti"
+            },
+            {
+              "name": "Giacomo Mari",
+              "short": "Mari"
+            },
+            {
+              "name": "Omero Tognon",
+              "short": "Tognon"
+            },
+            {
+              "name": "Amleto Frignani",
+              "short": "Frignani"
+            },
+            {
+              "name": "Benito Lorenzi",
+              "short": "Lorenzi"
+            },
+            {
+              "name": "Hermes Muccinelli",
+              "short": "Muccinelli"
+            },
+            {
+              "name": "Egisto Pandolfini",
+              "short": "Pandolfini"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197597",
+      "competition": "mondiali",
+      "season": "1954",
+      "stage": "quarter_finals",
+      "title": "Austria - Svizzera",
+      "session": "match",
+      "startsAt": "1954-06-26T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "awayTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "homeScore": 7,
+      "awayScore": 5,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 17,
+            "type": "goal",
+            "side": "away",
+            "player": "Robert Ballaman",
+            "short": "Ballaman"
+          },
+          {
+            "minute": 18,
+            "type": "goal",
+            "side": "away",
+            "player": "Josef Hugi",
+            "short": "Hugi"
+          },
+          {
+            "minute": 24,
+            "type": "goal",
+            "side": "away",
+            "player": "Josef Hugi",
+            "short": "Hugi"
+          },
+          {
+            "minute": 26,
+            "type": "goal",
+            "side": "home",
+            "player": "Alfred Korner",
+            "short": "Korner"
+          },
+          {
+            "minute": 28,
+            "type": "goal",
+            "side": "home",
+            "player": "Theodor Wagner",
+            "short": "Wagner"
+          },
+          {
+            "minute": 33,
+            "type": "goal",
+            "side": "home",
+            "player": "Ernst Ocwirk",
+            "short": "Ocwirk"
+          },
+          {
+            "minute": 35,
+            "type": "goal",
+            "side": "home",
+            "player": "Alfred Korner",
+            "short": "Korner"
+          },
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "home",
+            "player": "Theodor Wagner",
+            "short": "Wagner"
+          },
+          {
+            "minute": 59,
+            "type": "goal",
+            "side": "away",
+            "player": "Josef Hugi",
+            "short": "Hugi"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "home",
+            "player": "Theodor Wagner",
+            "short": "Wagner"
+          },
+          {
+            "minute": 77,
+            "type": "goal",
+            "side": "home",
+            "player": "Erich Probst",
+            "short": "Probst"
+          },
+          {
+            "minute": 85,
+            "type": "goal",
+            "side": "away",
+            "player": "Robert Ballaman",
+            "short": "Ballaman"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Erich Probst",
+              "short": "Probst"
+            },
+            {
+              "name": "Ernst Happel",
+              "short": "Happel"
+            },
+            {
+              "name": "Kurt Schmied",
+              "short": "Schmied"
+            },
+            {
+              "name": "Ernst Ocwirk",
+              "short": "Ocwirk"
+            },
+            {
+              "name": "Alfred Korner",
+              "short": "Korner"
+            },
+            {
+              "name": "Gerhard Hanappi",
+              "short": "Hanappi"
+            },
+            {
+              "name": "Karl Koller",
+              "short": "Koller"
+            },
+            {
+              "name": "Theodor Wagner",
+              "short": "Wagner"
+            },
+            {
+              "name": "Leopold Barschandt",
+              "short": "Barschandt"
+            },
+            {
+              "name": "Robert Korner",
+              "short": "Korner"
+            },
+            {
+              "name": "Ernst Stojaspal",
+              "short": "Stojaspal"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Eugene Parlier",
+              "short": "Parlier"
+            },
+            {
+              "name": "Roger Bocquet",
+              "short": "Bocquet"
+            },
+            {
+              "name": "Andre Neury",
+              "short": "Neury"
+            },
+            {
+              "name": "Charles Casali",
+              "short": "Casali"
+            },
+            {
+              "name": "Oliver Eggiman",
+              "short": "Eggiman"
+            },
+            {
+              "name": "Willy Kernen",
+              "short": "Kernen"
+            },
+            {
+              "name": "Robert Ballaman",
+              "short": "Ballaman"
+            },
+            {
+              "name": "Josef Hugi",
+              "short": "Hugi"
+            },
+            {
+              "name": "Charles Antenen",
+              "short": "Antenen"
+            },
+            {
+              "name": "Jacques Fatton",
+              "short": "Fatton"
+            },
+            {
+              "name": "Roger Vonlanthen",
+              "short": "Vonlanthen"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197598",
+      "competition": "mondiali",
+      "season": "1954",
+      "stage": "quarter_finals",
+      "title": "Uruguay - Inghilterra",
+      "session": "match",
+      "startsAt": "1954-06-26T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "homeScore": 4,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 6,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 17,
+            "type": "goal",
+            "side": "away",
+            "player": "Nat Lofthouse",
+            "short": "Lofthouse"
+          },
+          {
+            "minute": 40,
+            "type": "goal",
+            "side": "home",
+            "player": "Obdulio Varela",
+            "short": "Varela"
+          },
+          {
+            "minute": 47,
+            "type": "goal",
+            "side": "home",
+            "player": "Juan Schiaffino",
+            "short": "Schiaffino"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "away",
+            "player": "Thomas Finney",
+            "short": "Finney"
+          },
+          {
+            "minute": 79,
+            "type": "goal",
+            "side": "home",
+            "player": "Javier Ambrois",
+            "short": "Ambrois"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Roque Máspoli",
+              "short": "Máspoli"
+            },
+            {
+              "name": "William Martínez",
+              "short": "Martínez"
+            },
+            {
+              "name": "José Santamaría",
+              "short": "Santamaría"
+            },
+            {
+              "name": "Obdulio Varela",
+              "short": "Varela"
+            },
+            {
+              "name": "Víctor Andrade",
+              "short": "Andrade"
+            },
+            {
+              "name": "Luis Cruz",
+              "short": "Cruz"
+            },
+            {
+              "name": "Javier Ambrois",
+              "short": "Ambrois"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Juan Schiaffino",
+              "short": "Schiaffino"
+            },
+            {
+              "name": "Julio Abbadie",
+              "short": "Abbadie"
+            },
+            {
+              "name": "Omar Míguez",
+              "short": "Míguez"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Gil Merrick",
+              "short": "Merrick"
+            },
+            {
+              "name": "Roger Byrne",
+              "short": "Byrne"
+            },
+            {
+              "name": "Bill Mc Garry",
+              "short": "Mc Garry"
+            },
+            {
+              "name": "Jimmy Dickinson",
+              "short": "Dickinson"
+            },
+            {
+              "name": "Ron Staniforth",
+              "short": "Staniforth"
+            },
+            {
+              "name": "Denis Wishaw",
+              "short": "Wishaw"
+            },
+            {
+              "name": "Tommy Wright",
+              "short": "Wright"
+            },
+            {
+              "name": "Thomas Finney",
+              "short": "Finney"
+            },
+            {
+              "name": "Nat Lofthouse",
+              "short": "Lofthouse"
+            },
+            {
+              "name": "Ivor Broadis",
+              "short": "Broadis"
+            },
+            {
+              "name": "Stanley Matthews",
+              "short": "Matthews"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197600",
+      "competition": "mondiali",
+      "season": "1954",
+      "stage": "quarter_finals",
+      "title": "Germania Ovest - Jugoslavia",
+      "session": "match",
+      "startsAt": "1954-06-27T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-6647",
+        "name": "Yugoslavia",
+        "shortName": "Jugoslavia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/yug.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 10,
+            "type": "ownGoal",
+            "side": "home",
+            "player": "Ivan Horvat",
+            "short": "Horvat"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "home",
+            "player": "Helmut Rahn",
+            "short": "Rahn"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Toni Turek",
+              "short": "Turek"
+            },
+            {
+              "name": "Fritz Laband",
+              "short": "Laband"
+            },
+            {
+              "name": "Werner Liebrich",
+              "short": "Liebrich"
+            },
+            {
+              "name": "Horst Eckel",
+              "short": "Eckel"
+            },
+            {
+              "name": "Werner Kohlmeyer",
+              "short": "Kohlmeyer"
+            },
+            {
+              "name": "Karl Mai",
+              "short": "Mai"
+            },
+            {
+              "name": "Helmut Rahn",
+              "short": "Rahn"
+            },
+            {
+              "name": "Max Morlock",
+              "short": "Morlock"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Ottmar Walter",
+              "short": "Walter"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Vladimir Beara",
+              "short": "Beara"
+            },
+            {
+              "name": "Ivan Horvat",
+              "short": "Horvat"
+            },
+            {
+              "name": "Branislav Stankovic",
+              "short": "Stankovic"
+            },
+            {
+              "name": "Vujadin Boskov",
+              "short": "Boskov"
+            },
+            {
+              "name": "Tomislav Crnkovic",
+              "short": "Crnkovic"
+            },
+            {
+              "name": "Bernard Vukas",
+              "short": "Vukas"
+            },
+            {
+              "name": "Stjepan Bobek",
+              "short": "Bobek"
+            },
+            {
+              "name": "Zeljko Cajkovski",
+              "short": "Cajkovski"
+            },
+            {
+              "name": "Milos Milutinovic",
+              "short": "Milutinovic"
+            },
+            {
+              "name": "Rajko Mitic",
+              "short": "Mitic"
+            },
+            {
+              "name": "Branko Zebec",
+              "short": "Zebec"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197599",
+      "competition": "mondiali",
+      "season": "1954",
+      "stage": "quarter_finals",
+      "title": "Ungheria - Brasile",
+      "session": "match",
+      "startsAt": "1954-06-27T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 4,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 5,
+            "type": "goal",
+            "side": "home",
+            "player": "Nandor Hidegkuti",
+            "short": "Hidegkuti"
+          },
+          {
+            "minute": 8,
+            "type": "goal",
+            "side": "home",
+            "player": "Sandor Kocsis",
+            "short": "Kocsis"
+          },
+          {
+            "minute": 19,
+            "type": "penalty",
+            "side": "away",
+            "player": "Djalma Djalma Santos",
+            "short": "Djalma Santos"
+          },
+          {
+            "minute": 61,
+            "type": "penalty",
+            "side": "home",
+            "player": "Mihaly Lantos",
+            "short": "Lantos"
+          },
+          {
+            "minute": 66,
+            "type": "goal",
+            "side": "away",
+            "player": "Julio Julinho",
+            "short": "Julinho"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Sandor Kocsis",
+            "short": "Kocsis"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gyula Grosics",
+              "short": "Grosics"
+            },
+            {
+              "name": "Mihaly Lantos",
+              "short": "Lantos"
+            },
+            {
+              "name": "Jeno Buzansky",
+              "short": "Buzansky"
+            },
+            {
+              "name": "Gyula Lorant",
+              "short": "Lorant"
+            },
+            {
+              "name": "Joszef Bozsik",
+              "short": "Bozsik"
+            },
+            {
+              "name": "Jozsef Zakarias",
+              "short": "Zakarias"
+            },
+            {
+              "name": "Nandor Hidegkuti",
+              "short": "Hidegkuti"
+            },
+            {
+              "name": "Sandor Kocsis",
+              "short": "Kocsis"
+            },
+            {
+              "name": "Zoltan Czibor",
+              "short": "Czibor"
+            },
+            {
+              "name": "Joszef Toth",
+              "short": "Toth"
+            },
+            {
+              "name": "Mihaly Toth",
+              "short": "Toth"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Carlos Castilho",
+              "short": "Castilho"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Djalma Djalma Santos",
+              "short": "Djalma Santos"
+            },
+            {
+              "name": "Dos Nilton Santos",
+              "short": "Nilton Santos"
+            },
+            {
+              "name": "José Bauer",
+              "short": "Bauer"
+            },
+            {
+              "name": "Antenor Brandaozinho",
+              "short": "Brandaozinho"
+            },
+            {
+              "name": "Barbosa Humberto",
+              "short": "Humberto"
+            },
+            {
+              "name": "João",
+              "short": "Pinheiro"
+            },
+            {
+              "name": "Julio Julinho",
+              "short": "Julinho"
+            },
+            {
+              "name": "Didí"
+            },
+            {
+              "name": "Aluizio Indio",
+              "short": "Indio"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197601",
+      "competition": "mondiali",
+      "season": "1954",
+      "stage": "semi_finals",
+      "title": "Germania Ovest - Austria",
+      "session": "match",
+      "startsAt": "1954-06-30T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "homeScore": 6,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 32,
+            "type": "goal",
+            "side": "home",
+            "player": "Max Morlock",
+            "short": "Morlock"
+          },
+          {
+            "minute": 48,
+            "type": "goal",
+            "side": "home",
+            "player": "Max Morlock",
+            "short": "Morlock"
+          },
+          {
+            "minute": 52,
+            "type": "goal",
+            "side": "away",
+            "player": "Erich Probst",
+            "short": "Probst"
+          },
+          {
+            "minute": 55,
+            "type": "penalty",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 62,
+            "type": "goal",
+            "side": "home",
+            "player": "Max Morlock",
+            "short": "Morlock"
+          },
+          {
+            "minute": 65,
+            "type": "penalty",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "home",
+            "player": "Ottmar Walter",
+            "short": "Walter"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Toni Turek",
+              "short": "Turek"
+            },
+            {
+              "name": "Werner Liebrich",
+              "short": "Liebrich"
+            },
+            {
+              "name": "Jupp Posipal",
+              "short": "Posipal"
+            },
+            {
+              "name": "Horst Eckel",
+              "short": "Eckel"
+            },
+            {
+              "name": "Werner Kohlmeyer",
+              "short": "Kohlmeyer"
+            },
+            {
+              "name": "Karl Mai",
+              "short": "Mai"
+            },
+            {
+              "name": "Max Morlock",
+              "short": "Morlock"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Ottmar Walter",
+              "short": "Walter"
+            },
+            {
+              "name": "Helmut Rahn",
+              "short": "Rahn"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Erich Probst",
+              "short": "Probst"
+            },
+            {
+              "name": "Ernst Happel",
+              "short": "Happel"
+            },
+            {
+              "name": "Walter Zeman",
+              "short": "Zeman"
+            },
+            {
+              "name": "Gerhard Hanappi",
+              "short": "Hanappi"
+            },
+            {
+              "name": "Karl Koller",
+              "short": "Koller"
+            },
+            {
+              "name": "Ernst Ocwirk",
+              "short": "Ocwirk"
+            },
+            {
+              "name": "Alfred Korner",
+              "short": "Korner"
+            },
+            {
+              "name": "Robert Korner",
+              "short": "Korner"
+            },
+            {
+              "name": "Walter Schleger",
+              "short": "Schleger"
+            },
+            {
+              "name": "Ernst Stojaspal",
+              "short": "Stojaspal"
+            },
+            {
+              "name": "Theodor Wagner",
+              "short": "Wagner"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197602",
+      "competition": "mondiali",
+      "season": "1954",
+      "stage": "semi_finals",
+      "title": "Ungheria - Uruguay",
+      "session": "match",
+      "startsAt": "1954-06-30T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "homeScore": 4,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 14,
+            "type": "goal",
+            "side": "home",
+            "player": "Zoltan Czibor",
+            "short": "Czibor"
+          },
+          {
+            "minute": 47,
+            "type": "goal",
+            "side": "home",
+            "player": "Nandor Hidegkuti",
+            "short": "Hidegkuti"
+          },
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "away",
+            "player": "Juan Hohberg",
+            "short": "Hohberg"
+          },
+          {
+            "minute": 87,
+            "type": "goal",
+            "side": "away",
+            "player": "Juan Hohberg",
+            "short": "Hohberg"
+          },
+          {
+            "minute": 112,
+            "type": "goal",
+            "side": "home",
+            "player": "Sandor Kocsis",
+            "short": "Kocsis"
+          },
+          {
+            "minute": 117,
+            "type": "goal",
+            "side": "home",
+            "player": "Sandor Kocsis",
+            "short": "Kocsis"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gyula Grosics",
+              "short": "Grosics"
+            },
+            {
+              "name": "Jeno Buzansky",
+              "short": "Buzansky"
+            },
+            {
+              "name": "Mihaly Lantos",
+              "short": "Lantos"
+            },
+            {
+              "name": "Gyula Lorant",
+              "short": "Lorant"
+            },
+            {
+              "name": "Joszef Bozsik",
+              "short": "Bozsik"
+            },
+            {
+              "name": "Jozsef Zakarias",
+              "short": "Zakarias"
+            },
+            {
+              "name": "Zoltan Czibor",
+              "short": "Czibor"
+            },
+            {
+              "name": "Nandor Hidegkuti",
+              "short": "Hidegkuti"
+            },
+            {
+              "name": "Sandor Kocsis",
+              "short": "Kocsis"
+            },
+            {
+              "name": "Laszlo Budai",
+              "short": "Budai"
+            },
+            {
+              "name": "Peter Palotas",
+              "short": "Palotas"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Roque Máspoli",
+              "short": "Máspoli"
+            },
+            {
+              "name": "William Martínez",
+              "short": "Martínez"
+            },
+            {
+              "name": "José Santamaría",
+              "short": "Santamaría"
+            },
+            {
+              "name": "Víctor Andrade",
+              "short": "Andrade"
+            },
+            {
+              "name": "Néstor Carballo",
+              "short": "Carballo"
+            },
+            {
+              "name": "Luis Cruz",
+              "short": "Cruz"
+            },
+            {
+              "name": "Juan Hohberg",
+              "short": "Hohberg"
+            },
+            {
+              "name": "Javier Ambrois",
+              "short": "Ambrois"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Juan Schiaffino",
+              "short": "Schiaffino"
+            },
+            {
+              "name": "Rafael Souto",
+              "short": "Souto"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197603",
+      "competition": "mondiali",
+      "season": "1954",
+      "stage": "third_place",
+      "title": "Austria - Uruguay",
+      "session": "match",
+      "startsAt": "1954-07-03T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-474",
+        "name": "Austria",
+        "shortName": "Austria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+      },
+      "awayTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 17,
+            "type": "penalty",
+            "side": "home",
+            "player": "Ernst Stojaspal",
+            "short": "Stojaspal"
+          },
+          {
+            "minute": 23,
+            "type": "goal",
+            "side": "away",
+            "player": "Juan Hohberg",
+            "short": "Hohberg"
+          },
+          {
+            "minute": 60,
+            "type": "ownGoal",
+            "side": "home",
+            "player": "Luis Cruz",
+            "short": "Cruz"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "home",
+            "player": "Ernst Ocwirk",
+            "short": "Ocwirk"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Robert Dienst",
+              "short": "Dienst"
+            },
+            {
+              "name": "Kurt Schmied",
+              "short": "Schmied"
+            },
+            {
+              "name": "Ernst Ocwirk",
+              "short": "Ocwirk"
+            },
+            {
+              "name": "Gerhard Hanappi",
+              "short": "Hanappi"
+            },
+            {
+              "name": "Karl Koller",
+              "short": "Koller"
+            },
+            {
+              "name": "Ernst Stojaspal",
+              "short": "Stojaspal"
+            },
+            {
+              "name": "Leopold Barschandt",
+              "short": "Barschandt"
+            },
+            {
+              "name": "Walter Kollmann",
+              "short": "Kollmann"
+            },
+            {
+              "name": "Robert Korner",
+              "short": "Korner"
+            },
+            {
+              "name": "Erich Probst",
+              "short": "Probst"
+            },
+            {
+              "name": "Theodor Wagner",
+              "short": "Wagner"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Roque Máspoli",
+              "short": "Máspoli"
+            },
+            {
+              "name": "William Martínez",
+              "short": "Martínez"
+            },
+            {
+              "name": "José Santamaría",
+              "short": "Santamaría"
+            },
+            {
+              "name": "Luis Cruz",
+              "short": "Cruz"
+            },
+            {
+              "name": "Víctor Andrade",
+              "short": "Andrade"
+            },
+            {
+              "name": "Néstor Carballo",
+              "short": "Carballo"
+            },
+            {
+              "name": "Juan Hohberg",
+              "short": "Hohberg"
+            },
+            {
+              "name": "Julio Abbadie",
+              "short": "Abbadie"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Omar Mendez",
+              "short": "Mendez"
+            },
+            {
+              "name": "Juan Schiaffino",
+              "short": "Schiaffino"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1954-197604",
+      "competition": "mondiali",
+      "season": "1954",
+      "stage": "final",
+      "title": "Germania Ovest - Ungheria",
+      "session": "match",
+      "startsAt": "1954-07-04T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 7,
+            "type": "goal",
+            "side": "away",
+            "player": "Ferenc Puskas",
+            "short": "Puskas"
+          },
+          {
+            "minute": 9,
+            "type": "goal",
+            "side": "away",
+            "player": "Zoltan Czibor",
+            "short": "Czibor"
+          },
+          {
+            "minute": 11,
+            "type": "goal",
+            "side": "home",
+            "player": "Max Morlock",
+            "short": "Morlock"
+          },
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Helmut Rahn",
+            "short": "Rahn"
+          },
+          {
+            "minute": 85,
+            "type": "goal",
+            "side": "home",
+            "player": "Helmut Rahn",
+            "short": "Rahn"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Toni Turek",
+              "short": "Turek"
+            },
+            {
+              "name": "Werner Liebrich",
+              "short": "Liebrich"
+            },
+            {
+              "name": "Jupp Posipal",
+              "short": "Posipal"
+            },
+            {
+              "name": "Horst Eckel",
+              "short": "Eckel"
+            },
+            {
+              "name": "Werner Kohlmeyer",
+              "short": "Kohlmeyer"
+            },
+            {
+              "name": "Karl Mai",
+              "short": "Mai"
+            },
+            {
+              "name": "Max Morlock",
+              "short": "Morlock"
+            },
+            {
+              "name": "Helmut Rahn",
+              "short": "Rahn"
+            },
+            {
+              "name": "Hans Schafer",
+              "short": "Schafer"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Ottmar Walter",
+              "short": "Walter"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Gyula Grosics",
+              "short": "Grosics"
+            },
+            {
+              "name": "Zoltan Czibor",
+              "short": "Czibor"
+            },
+            {
+              "name": "Jeno Buzansky",
+              "short": "Buzansky"
+            },
+            {
+              "name": "Mihaly Lantos",
+              "short": "Lantos"
+            },
+            {
+              "name": "Joszef Bozsik",
+              "short": "Bozsik"
+            },
+            {
+              "name": "Gyula Lorant",
+              "short": "Lorant"
+            },
+            {
+              "name": "Jozsef Zakarias",
+              "short": "Zakarias"
+            },
+            {
+              "name": "Ferenc Puskas",
+              "short": "Puskas"
+            },
+            {
+              "name": "Nandor Hidegkuti",
+              "short": "Hidegkuti"
+            },
+            {
+              "name": "Sandor Kocsis",
+              "short": "Kocsis"
+            },
+            {
+              "name": "Mihaly Toth",
+              "short": "Toth"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "table",
+      "title": "Gironi",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Brasile",
+          "code": "BRA",
+          "points": 3,
+          "wins": 1,
+          "played": 2,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 5,
+          "zone": "qualified",
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Jugoslavia",
+          "code": "YUG",
+          "points": 3,
+          "wins": 1,
+          "played": 2,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 1,
+          "zone": "qualified",
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Francia",
+          "code": "FRA",
+          "points": 2,
+          "wins": 1,
+          "played": 2,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 0,
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Messico",
+          "code": "MEX",
+          "points": 0,
+          "wins": 0,
+          "played": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -6,
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Ungheria",
+          "code": "HUN",
+          "points": 4,
+          "wins": 2,
+          "played": 2,
+          "draws": 0,
+          "losses": 0,
+          "goalDifference": 14,
+          "zone": "qualified",
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Turchia",
+          "code": "TUR",
+          "points": 2,
+          "wins": 1,
+          "played": 2,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 4,
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Germania Ovest",
+          "code": "GFR",
+          "points": 2,
+          "wins": 1,
+          "played": 2,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": -2,
+          "zone": "qualified",
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Corea del Sud",
+          "code": "KOR",
+          "points": 0,
+          "wins": 0,
+          "played": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -16,
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Uruguay",
+          "code": "URU",
+          "points": 4,
+          "wins": 2,
+          "played": 2,
+          "draws": 0,
+          "losses": 0,
+          "goalDifference": 9,
+          "zone": "qualified",
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Austria",
+          "code": "AUT",
+          "points": 4,
+          "wins": 2,
+          "played": 2,
+          "draws": 0,
+          "losses": 0,
+          "goalDifference": 6,
+          "zone": "qualified",
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Cecoslovacchia",
+          "code": "CZK",
+          "points": 0,
+          "wins": 0,
+          "played": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -7,
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Scozia",
+          "code": "SCO",
+          "points": 0,
+          "wins": 0,
+          "played": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -8,
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Inghilterra",
+          "code": "ENG",
+          "points": 4,
+          "wins": 2,
+          "played": 2,
+          "draws": 0,
+          "losses": 0,
+          "goalDifference": 4,
+          "zone": "qualified",
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Italia",
+          "code": "ITA",
+          "points": 2,
+          "wins": 1,
+          "played": 2,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 2,
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Svizzera",
+          "code": "SUI",
+          "points": 2,
+          "wins": 1,
+          "played": 2,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": -1,
+          "zone": "qualified",
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Belgio",
+          "code": "BEL",
+          "points": 0,
+          "wins": 0,
+          "played": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -5,
+          "group": "Gruppo 4"
+        }
+      ]
+    },
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Sandor Kocsis",
+          "team": "Ungheria",
+          "points": 11
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Max Morlock",
+          "team": "Germania Ovest",
+          "points": 8
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Erich Probst",
+          "team": "Austria",
+          "points": 6
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Josef Hugi",
+          "team": "Svizzera",
+          "points": 6
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Carlos Forbs",
+          "team": "Uruguay",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Robert Ballaman",
+          "team": "Svizzera",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Helmut Rahn",
+          "team": "Germania Ovest",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Nandor Hidegkuti",
+          "team": "Ungheria",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Ferenc Puskas",
+          "team": "Ungheria",
+          "points": 4
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Fritz Walter",
+          "team": "Germania Ovest",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Ottmar Walter",
+          "team": "Germania Ovest",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Hans Schafer",
+          "team": "Germania Ovest",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Zoltan Czibor",
+          "team": "Ungheria",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Theodor Wagner",
+          "team": "Austria",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Ernst Stojaspal",
+          "team": "Austria",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Omar Míguez",
+          "team": "Uruguay",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Juan Hohberg",
+          "team": "Uruguay",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Pol Anoul",
+          "team": "Belgio",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Nat Lofthouse",
+          "team": "Inghilterra",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Sargin Burhan",
+          "team": "Turchia",
+          "points": 3
+        },
+        {
+          "pos": 5,
+          "posText": "5",
+          "name": "Mamat Suat",
+          "team": "Turchia",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5020 @@
+{
+  "competition": "mondiali",
+  "season": "1966",
+  "generatedAt": "2026-11-26T16:16:37.8331833+00:00",
+  "events": [
+    {
+      "id": "mondiali-1966-197731",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 1,
+      "title": "Inghilterra - Uruguay",
+      "session": "match",
+      "startsAt": "1966-07-11T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "awayTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Gordon Banks",
+              "short": "Banks"
+            },
+            {
+              "name": "Jackie Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "George Cohen",
+              "short": "Cohen"
+            },
+            {
+              "name": "Bobby Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Alan Ball",
+              "short": "Ball"
+            },
+            {
+              "name": "Ramon Wilson",
+              "short": "Wilson"
+            },
+            {
+              "name": "Bobby Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "John Connelly",
+              "short": "Connelly"
+            },
+            {
+              "name": "Jimmy Greaves",
+              "short": "Greaves"
+            },
+            {
+              "name": "Roger Hunt",
+              "short": "Hunt"
+            },
+            {
+              "name": "Nobby Stiles",
+              "short": "Stiles"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ladislao Mazurkiewicz",
+              "short": "Mazurkiewicz"
+            },
+            {
+              "name": "Jorge Manicera",
+              "short": "Manicera"
+            },
+            {
+              "name": "Horacio Troche",
+              "short": "Troche"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Julio Cortés",
+              "short": "Cortés"
+            },
+            {
+              "name": "Néstor Goncalvez",
+              "short": "Goncalvez"
+            },
+            {
+              "name": "Omar Caetano",
+              "short": "Caetano"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Pedro Rocha",
+              "short": "Rocha"
+            },
+            {
+              "name": "Héctor Salva",
+              "short": "Salva"
+            },
+            {
+              "name": "Milton Viera",
+              "short": "Viera"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197743",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 1,
+      "title": "Brasile - Bulgaria",
+      "session": "match",
+      "startsAt": "1966-07-12T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "awayTeam": {
+        "id": "espn-462",
+        "name": "Bulgaria",
+        "shortName": "Bulgaria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": ""
+          },
+          {
+            "minute": 64,
+            "type": "goal",
+            "side": "home",
+            "player": "Garrincha"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gilmar"
+            },
+            {
+              "name": "Hideraldo Bellini"
+            },
+            {
+              "name": "Gomes Altair",
+              "short": "Altair"
+            },
+            {
+              "name": "Djalma Djalma Santos",
+              "short": "Djalma Santos"
+            },
+            {
+              "name": "Antonio Lima",
+              "short": "Lima"
+            },
+            {
+              "name": "Souza Paulo Enrique",
+              "short": "Paulo Enrique"
+            },
+            {
+              "name": "Garrincha"
+            },
+            {
+              "name": "Pele",
+              "short": "Arantes do Nascimento"
+            },
+            {
+              "name": "Jairzinho"
+            },
+            {
+              "name": "Martha Alcindo",
+              "short": "Alcindo"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Georgy Naydenov",
+              "short": "Naydenov"
+            },
+            {
+              "name": "Alexander Chalamanov",
+              "short": "Chalamanov"
+            },
+            {
+              "name": "Dobromir Jetchev",
+              "short": "Jetchev"
+            },
+            {
+              "name": "Dimitar Penev",
+              "short": "Penev"
+            },
+            {
+              "name": "Sojan Kitov",
+              "short": "Kitov"
+            },
+            {
+              "name": "Ivan Vutzov",
+              "short": "Vutzov"
+            },
+            {
+              "name": "Georgi Asparukhov",
+              "short": "Asparukhov"
+            },
+            {
+              "name": "Dinko Dermendjiev",
+              "short": "Dermendjiev"
+            },
+            {
+              "name": "Boris Gaganelov",
+              "short": "Gaganelov"
+            },
+            {
+              "name": "Dimiter Jakimov",
+              "short": "Jakimov"
+            },
+            {
+              "name": "Ivan Kolev",
+              "short": "Kolev"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197737",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 1,
+      "title": "Germania Ovest - Svizzera",
+      "session": "match",
+      "startsAt": "1966-07-12T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "homeScore": 5,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": "Siegfried Held",
+            "short": "Held"
+          },
+          {
+            "minute": 21,
+            "type": "goal",
+            "side": "home",
+            "player": "Helmut Haller",
+            "short": "Haller"
+          },
+          {
+            "minute": 40,
+            "type": "goal",
+            "side": "home",
+            "player": "Franz Beckenbauer",
+            "short": "Beckenbauer"
+          },
+          {
+            "minute": 53,
+            "type": "goal",
+            "side": "home",
+            "player": "Franz Beckenbauer",
+            "short": "Beckenbauer"
+          },
+          {
+            "minute": 77,
+            "type": "penalty",
+            "side": "home",
+            "player": "Helmut Haller",
+            "short": "Haller"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Hans Tilkowski",
+              "short": "Tilkowski"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Horst Hoettges",
+              "short": "Hoettges"
+            },
+            {
+              "name": "Karl Schnellinger",
+              "short": "Schnellinger"
+            },
+            {
+              "name": "Willi Schulz",
+              "short": "Schulz"
+            },
+            {
+              "name": "Wolfgang Weber",
+              "short": "Weber"
+            },
+            {
+              "name": "Helmut Haller",
+              "short": "Haller"
+            },
+            {
+              "name": "Siegfried Held",
+              "short": "Held"
+            },
+            {
+              "name": "Albert Brulls",
+              "short": "Brulls"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Karl Elsner",
+              "short": "Elsner"
+            },
+            {
+              "name": "Hansruedi Fuhrer",
+              "short": "Fuhrer"
+            },
+            {
+              "name": "André Grobéty",
+              "short": "Grobéty"
+            },
+            {
+              "name": "Ely Tachella",
+              "short": "Tachella"
+            },
+            {
+              "name": "Heinz Bani",
+              "short": "Bani"
+            },
+            {
+              "name": "Heinz Schneiter",
+              "short": "Schneiter"
+            },
+            {
+              "name": "Richard Dürr",
+              "short": "Dürr"
+            },
+            {
+              "name": "Robert Hosp",
+              "short": "Hosp"
+            },
+            {
+              "name": "Fritz Künzli",
+              "short": "Künzli"
+            },
+            {
+              "name": "Karl Odermatt",
+              "short": "Odermatt"
+            },
+            {
+              "name": "Jean Schindelholz",
+              "short": "Schindelholz"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197746",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 1,
+      "title": "Unione Sovietica - Corea del Nord",
+      "session": "match",
+      "startsAt": "1966-07-12T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "awayTeam": {
+        "id": "espn-4860",
+        "name": "North Korea",
+        "shortName": "Corea del Nord",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/korn.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 32,
+            "type": "goal",
+            "side": "home",
+            "player": "Eduard Malofeev",
+            "short": "Malofeev"
+          },
+          {
+            "minute": 34,
+            "type": "goal",
+            "side": "home",
+            "player": "Anatoli Banishevski",
+            "short": "Banishevski"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Eduard Malofeev",
+            "short": "Malofeev"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Anzor Kavasashvili",
+              "short": "Kavasashvili"
+            },
+            {
+              "name": "Murtaz Khurtsilava",
+              "short": "Khurtsilava"
+            },
+            {
+              "name": "Leonid Ostrovski",
+              "short": "Ostrovski"
+            },
+            {
+              "name": "Albert Shesternev",
+              "short": "Shesternev"
+            },
+            {
+              "name": "Vladimir Ponomarev",
+              "short": "Ponomarev"
+            },
+            {
+              "name": "Georgi Sichinava",
+              "short": "Sichinava"
+            },
+            {
+              "name": "Anatoli Banishevski",
+              "short": "Banishevski"
+            },
+            {
+              "name": "Eduard Malofeev",
+              "short": "Malofeev"
+            },
+            {
+              "name": "Igor Chislenko",
+              "short": "Chislenko"
+            },
+            {
+              "name": "Galimzian Khusianov",
+              "short": "Khusianov"
+            },
+            {
+              "name": "Joszef Szabo",
+              "short": "Szabo"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Chan Li",
+              "short": "Li"
+            },
+            {
+              "name": "Bong Kang",
+              "short": "Kang"
+            },
+            {
+              "name": "Li Pak",
+              "short": "Pak"
+            },
+            {
+              "name": "Yung Shin",
+              "short": "Shin"
+            },
+            {
+              "name": "Bong Han",
+              "short": "Han"
+            },
+            {
+              "name": "Zoong Lim",
+              "short": "Lim"
+            },
+            {
+              "name": "Seun Im",
+              "short": "Im"
+            },
+            {
+              "name": "Ryong Kang",
+              "short": "Kang"
+            },
+            {
+              "name": "Seung Kim",
+              "short": "Kim"
+            },
+            {
+              "name": "Doo Pak",
+              "short": "Pak"
+            },
+            {
+              "name": "Seung Pak",
+              "short": "Pak"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197738",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 1,
+      "title": "Argentina - Spagna",
+      "session": "match",
+      "startsAt": "1966-07-13T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 66,
+            "type": "goal",
+            "side": "home",
+            "player": "Luis Artime",
+            "short": "Artime"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "away",
+            "player": "José Pirri",
+            "short": "Pirri"
+          },
+          {
+            "minute": 80,
+            "type": "goal",
+            "side": "home",
+            "player": "Luis Artime",
+            "short": "Artime"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Antonio Roma",
+              "short": "Roma"
+            },
+            {
+              "name": "Jorge Albrecht",
+              "short": "Albrecht"
+            },
+            {
+              "name": "Roberto Ferreiro",
+              "short": "Ferreiro"
+            },
+            {
+              "name": "Roberto Perfumo",
+              "short": "Perfumo"
+            },
+            {
+              "name": "Silvio Marzolini",
+              "short": "Marzolini"
+            },
+            {
+              "name": "Antonio Rattín",
+              "short": "Rattín"
+            },
+            {
+              "name": "Luis Artime",
+              "short": "Artime"
+            },
+            {
+              "name": "Alberto González",
+              "short": "González"
+            },
+            {
+              "name": "Oscar Mas",
+              "short": "Mas"
+            },
+            {
+              "name": "Ermindo Onega",
+              "short": "Onega"
+            },
+            {
+              "name": "Jorge Solari",
+              "short": "Solari"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "José Iribar",
+              "short": "Iribar"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Joaquín Peiró",
+              "short": "Peiró"
+            },
+            {
+              "name": "Ignacio Zoco",
+              "short": "Zoco"
+            },
+            {
+              "name": "Silvestre Eladio",
+              "short": "Eladio"
+            },
+            {
+              "name": "Manuel Sanchís II",
+              "short": "Sanchís II"
+            },
+            {
+              "name": "José Pirri",
+              "short": "Pirri"
+            },
+            {
+              "name": "Luis Del Sol",
+              "short": "Del Sol"
+            },
+            {
+              "name": "Francisco Gento",
+              "short": "Gento"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "José Ufarte",
+              "short": "Ufarte"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197732",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 1,
+      "title": "Francia - Messico",
+      "session": "match",
+      "startsAt": "1966-07-13T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 49,
+            "type": "goal",
+            "side": "away",
+            "player": ""
+          },
+          {
+            "minute": 63,
+            "type": "goal",
+            "side": "home",
+            "player": "Gerard Hausser",
+            "short": "Hausser"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Marcel Aubour",
+              "short": "Aubour"
+            },
+            {
+              "name": "Marcel Artelesa",
+              "short": "Artelesa"
+            },
+            {
+              "name": "Gabriel De Michéle",
+              "short": "De Michéle"
+            },
+            {
+              "name": "Jean Djorkaeff",
+              "short": "Djorkaeff"
+            },
+            {
+              "name": "Bernard Bosquier",
+              "short": "Bosquier"
+            },
+            {
+              "name": "Robert Budzinski",
+              "short": "Budzinski"
+            },
+            {
+              "name": "Gerard Hausser",
+              "short": "Hausser"
+            },
+            {
+              "name": "Joseph Bonnel",
+              "short": "Bonnel"
+            },
+            {
+              "name": "Nestor Combin",
+              "short": "Combin"
+            },
+            {
+              "name": "Philliphe Gondet",
+              "short": "Gondet"
+            },
+            {
+              "name": "Robert Herbin",
+              "short": "Herbin"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ignacio Calderón",
+              "short": "Calderón"
+            },
+            {
+              "name": "Arturo Chaires",
+              "short": "Chaires"
+            },
+            {
+              "name": "Guillermo Hernández",
+              "short": "Hernández"
+            },
+            {
+              "name": "Gabriel Nuñez",
+              "short": "Nuñez"
+            },
+            {
+              "name": "Magdaleno Mercado",
+              "short": "Mercado"
+            },
+            {
+              "name": "Gustavo Pena",
+              "short": "Pena"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Isidoro Díaz"
+            },
+            {
+              "name": "Javier Fragoso",
+              "short": "Fragoso"
+            },
+            {
+              "name": "Aaron Padilla",
+              "short": "Padilla"
+            },
+            {
+              "name": "Salvador Reyes",
+              "short": "Reyes"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197747",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 1,
+      "title": "Italia - Cile",
+      "session": "match",
+      "startsAt": "1966-07-13T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "awayTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 9,
+            "type": "goal",
+            "side": "home",
+            "player": "Alessandro Mazzola",
+            "short": "Mazzola"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Paolo Barison",
+            "short": "Barison"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Enrico Albertosi",
+              "short": "Albertosi"
+            },
+            {
+              "name": "Giacinto Facchetti",
+              "short": "Facchetti"
+            },
+            {
+              "name": "Roberto Rosato",
+              "short": "Rosato"
+            },
+            {
+              "name": "Sandro Salvadore",
+              "short": "Salvadore"
+            },
+            {
+              "name": "Tarcisio Burgnich",
+              "short": "Burgnich"
+            },
+            {
+              "name": "Gianni Rivera",
+              "short": "Rivera"
+            },
+            {
+              "name": "Paolo Barison",
+              "short": "Barison"
+            },
+            {
+              "name": "Alessandro Mazzola",
+              "short": "Mazzola"
+            },
+            {
+              "name": "Giacomo Bulgarelli",
+              "short": "Bulgarelli"
+            },
+            {
+              "name": "Giovanni Lodetti",
+              "short": "Lodetti"
+            },
+            {
+              "name": "Marino Perani",
+              "short": "Perani"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Juan Olivares",
+              "short": "Olivares"
+            },
+            {
+              "name": "Luis Eyzaguirre",
+              "short": "Eyzaguirre"
+            },
+            {
+              "name": "Elias Figueroa",
+              "short": "Figueroa"
+            },
+            {
+              "name": "Hugo Villanueva",
+              "short": "Villanueva"
+            },
+            {
+              "name": "Humberto Cruz",
+              "short": "Cruz"
+            },
+            {
+              "name": "Ignacio Prieto",
+              "short": "Prieto"
+            },
+            {
+              "name": "Pedro Araya",
+              "short": "Araya"
+            },
+            {
+              "name": "Alberto Fouilloux",
+              "short": "Fouilloux"
+            },
+            {
+              "name": "Rubén Marcos",
+              "short": "Marcos"
+            },
+            {
+              "name": "Leonel Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Armando Tobar",
+              "short": "Tobar"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197757",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 1,
+      "title": "Portogallo - Ungheria",
+      "session": "match",
+      "startsAt": "1966-07-13T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-482",
+        "name": "Portugal",
+        "shortName": "Portogallo",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
+      },
+      "awayTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 2,
+            "type": "goal",
+            "side": "home",
+            "player": "Pinto José Augusto",
+            "short": "José Augusto"
+          },
+          {
+            "minute": 61,
+            "type": "goal",
+            "side": "away",
+            "player": "Ferenc Bene",
+            "short": "Bene"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Pinto José Augusto",
+            "short": "José Augusto"
+          },
+          {
+            "minute": 90,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "José Torres",
+            "short": "Torres"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Joaquim Carvalho",
+              "short": "Carvalho"
+            },
+            {
+              "name": "José Baptista",
+              "short": "Baptista"
+            },
+            {
+              "name": "Joao Morais",
+              "short": "Morais"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jaime Graca",
+              "short": "Graca"
+            },
+            {
+              "name": "Rosario Hilario",
+              "short": "Hilario"
+            },
+            {
+              "name": "Pinto José Augusto",
+              "short": "José Augusto"
+            },
+            {
+              "name": "José Torres",
+              "short": "Torres"
+            },
+            {
+              "name": "Eusebio",
+              "short": "Ferreira"
+            },
+            {
+              "name": "Mario Coluna",
+              "short": "Coluna"
+            },
+            {
+              "name": "Antonio Simoes",
+              "short": "Simoes"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antal Szentmihályi",
+              "short": "Szentmihályi"
+            },
+            {
+              "name": "Beno Kaposzta",
+              "short": "Kaposzta"
+            },
+            {
+              "name": "Kalman Meszoly",
+              "short": "Meszoly"
+            },
+            {
+              "name": "Ferenc Sipos",
+              "short": "Sipos"
+            },
+            {
+              "name": "Sandor Matrai",
+              "short": "Matrai"
+            },
+            {
+              "name": "Kálmán Sovari",
+              "short": "Sovari"
+            },
+            {
+              "name": "Ferenc Bene",
+              "short": "Bene"
+            },
+            {
+              "name": "Florian Albert",
+              "short": "Albert"
+            },
+            {
+              "name": "Janos Farkas",
+              "short": "Farkas"
+            },
+            {
+              "name": "Antal Nagy II",
+              "short": "Nagy II"
+            },
+            {
+              "name": "Gyula Rakosi",
+              "short": "Rakosi"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197744",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 2,
+      "title": "Ungheria - Brasile",
+      "session": "match",
+      "startsAt": "1966-07-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 3,
+            "type": "goal",
+            "side": "home",
+            "player": "Ferenc Bene",
+            "short": "Bene"
+          },
+          {
+            "minute": 15,
+            "type": "goal",
+            "side": "away",
+            "player": "Tostao"
+          },
+          {
+            "minute": 65,
+            "type": "goal",
+            "side": "home",
+            "player": "Janos Farkas",
+            "short": "Farkas"
+          },
+          {
+            "minute": 74,
+            "type": "penalty",
+            "side": "home",
+            "player": "Kalman Meszoly",
+            "short": "Meszoly"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Joszef Gelei",
+              "short": "Gelei"
+            },
+            {
+              "name": "Beno Kaposzta",
+              "short": "Kaposzta"
+            },
+            {
+              "name": "Imre Mathesz",
+              "short": "Mathesz"
+            },
+            {
+              "name": "Ferenc Sipos",
+              "short": "Sipos"
+            },
+            {
+              "name": "Kalman Meszoly",
+              "short": "Meszoly"
+            },
+            {
+              "name": "Sandor Matrai",
+              "short": "Matrai"
+            },
+            {
+              "name": "Ferenc Bene",
+              "short": "Bene"
+            },
+            {
+              "name": "Janos Farkas",
+              "short": "Farkas"
+            },
+            {
+              "name": "Florian Albert",
+              "short": "Albert"
+            },
+            {
+              "name": "Gyula Rakosi",
+              "short": "Rakosi"
+            },
+            {
+              "name": "Szedunka Szepesi",
+              "short": "Szepesi"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Gilmar"
+            },
+            {
+              "name": "Hideraldo Bellini"
+            },
+            {
+              "name": "Gomes Altair",
+              "short": "Altair"
+            },
+            {
+              "name": "Djalma Djalma Santos",
+              "short": "Djalma Santos"
+            },
+            {
+              "name": "Antonio Lima",
+              "short": "Lima"
+            },
+            {
+              "name": "Souza Paulo Enrique",
+              "short": "Paulo Enrique"
+            },
+            {
+              "name": "Tostao"
+            },
+            {
+              "name": "Jairzinho"
+            },
+            {
+              "name": "Garrincha"
+            },
+            {
+              "name": "Gérson"
+            },
+            {
+              "name": "Martha Alcindo",
+              "short": "Alcindo"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197748",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 2,
+      "title": "Corea del Nord - Cile",
+      "session": "match",
+      "startsAt": "1966-07-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-4860",
+        "name": "North Korea",
+        "shortName": "Corea del Nord",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/korn.png"
+      },
+      "awayTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 27,
+            "type": "penalty",
+            "side": "away",
+            "player": "Rubén Marcos",
+            "short": "Marcos"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "home",
+            "player": "Seung Pak",
+            "short": "Pak"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Chan Li",
+              "short": "Li"
+            },
+            {
+              "name": "Yoon Oh",
+              "short": "Oh"
+            },
+            {
+              "name": "Li Pak",
+              "short": "Pak"
+            },
+            {
+              "name": "Yung Shin",
+              "short": "Shin"
+            },
+            {
+              "name": "Bong Han",
+              "short": "Han"
+            },
+            {
+              "name": "Zoong Lim",
+              "short": "Lim"
+            },
+            {
+              "name": "Seung Pak",
+              "short": "Pak"
+            },
+            {
+              "name": "Seun Im",
+              "short": "Im"
+            },
+            {
+              "name": "Ryong Kang",
+              "short": "Kang"
+            },
+            {
+              "name": "Dong Li",
+              "short": "Li"
+            },
+            {
+              "name": "Doo Pak",
+              "short": "Pak"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Juan Olivares",
+              "short": "Olivares"
+            },
+            {
+              "name": "Humberto Cruz",
+              "short": "Cruz"
+            },
+            {
+              "name": "Elias Figueroa",
+              "short": "Figueroa"
+            },
+            {
+              "name": "Hugo Villanueva",
+              "short": "Villanueva"
+            },
+            {
+              "name": "Rubén Marcos",
+              "short": "Marcos"
+            },
+            {
+              "name": "Ignacio Prieto",
+              "short": "Prieto"
+            },
+            {
+              "name": "Pedro Araya",
+              "short": "Araya"
+            },
+            {
+              "name": "Alberto Fouilloux",
+              "short": "Fouilloux"
+            },
+            {
+              "name": "Honorino Landa",
+              "short": "Landa"
+            },
+            {
+              "name": "Leonel Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Aldo Valentini",
+              "short": "Valentini"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197739",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 2,
+      "title": "Spagna - Svizzera",
+      "session": "match",
+      "startsAt": "1966-07-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "awayTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 29,
+            "type": "goal",
+            "side": "away",
+            "player": "Rene Quentin",
+            "short": "Quentin"
+          },
+          {
+            "minute": 58,
+            "type": "goal",
+            "side": "home",
+            "player": "Manuel Sanchís II",
+            "short": "Sanchís II"
+          },
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "home",
+            "player": "Amaro Amancio",
+            "short": "Amancio"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "José Iribar",
+              "short": "Iribar"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Joaquín Peiró",
+              "short": "Peiró"
+            },
+            {
+              "name": "Ignacio Zoco",
+              "short": "Zoco"
+            },
+            {
+              "name": "Manuel Sanchís II",
+              "short": "Sanchís II"
+            },
+            {
+              "name": "Severino Reija",
+              "short": "Reija"
+            },
+            {
+              "name": "Amaro Amancio",
+              "short": "Amancio"
+            },
+            {
+              "name": "Luis Del Sol",
+              "short": "Del Sol"
+            },
+            {
+              "name": "Francisco Gento",
+              "short": "Gento"
+            },
+            {
+              "name": "José Pirri",
+              "short": "Pirri"
+            },
+            {
+              "name": ""
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Karl Elsner",
+              "short": "Elsner"
+            },
+            {
+              "name": "Kurt Ambruster",
+              "short": "Ambruster"
+            },
+            {
+              "name": "René Brodmann",
+              "short": "Brodmann"
+            },
+            {
+              "name": "Hansruedi Fuhrer",
+              "short": "Fuhrer"
+            },
+            {
+              "name": "Heinz Bani",
+              "short": "Bani"
+            },
+            {
+              "name": "Werner Leimgruber",
+              "short": "Leimgruber"
+            },
+            {
+              "name": "Rene Quentin",
+              "short": "Quentin"
+            },
+            {
+              "name": "Vittore Gottardi",
+              "short": "Gottardi"
+            },
+            {
+              "name": "Robert Hosp",
+              "short": "Hosp"
+            },
+            {
+              "name": "Jakob Kuhn",
+              "short": "Kuhn"
+            },
+            {
+              "name": "Xavier Stierli",
+              "short": "Stierli"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197733",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 2,
+      "title": "Uruguay - Francia",
+      "session": "match",
+      "startsAt": "1966-07-15T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "penalty",
+            "side": "away",
+            "player": "Héctor de Bourgoing",
+            "short": "de Bourgoing"
+          },
+          {
+            "minute": 27,
+            "type": "goal",
+            "side": "home",
+            "player": "Pedro Rocha",
+            "short": "Rocha"
+          },
+          {
+            "minute": 32,
+            "type": "goal",
+            "side": "home",
+            "player": "Julio Cortés",
+            "short": "Cortés"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Ladislao Mazurkiewicz",
+              "short": "Mazurkiewicz"
+            },
+            {
+              "name": "Jorge Manicera",
+              "short": "Manicera"
+            },
+            {
+              "name": "Horacio Troche",
+              "short": "Troche"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Julio Cortés",
+              "short": "Cortés"
+            },
+            {
+              "name": "Néstor Goncalvez",
+              "short": "Goncalvez"
+            },
+            {
+              "name": "Pedro Rocha",
+              "short": "Rocha"
+            },
+            {
+              "name": "Omar Caetano",
+              "short": "Caetano"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "José Sassia",
+              "short": "Sassia"
+            },
+            {
+              "name": "Milton Viera",
+              "short": "Viera"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Marcel Aubour",
+              "short": "Aubour"
+            },
+            {
+              "name": "Marcel Artelesa",
+              "short": "Artelesa"
+            },
+            {
+              "name": "Robert Budzinski",
+              "short": "Budzinski"
+            },
+            {
+              "name": "Jean Djorkaeff",
+              "short": "Djorkaeff"
+            },
+            {
+              "name": "Héctor de Bourgoing",
+              "short": "de Bourgoing"
+            },
+            {
+              "name": "Bernard Bosquier",
+              "short": "Bosquier"
+            },
+            {
+              "name": "Joseph Bonnel",
+              "short": "Bonnel"
+            },
+            {
+              "name": "Philliphe Gondet",
+              "short": "Gondet"
+            },
+            {
+              "name": "Gerard Hausser",
+              "short": "Hausser"
+            },
+            {
+              "name": "Yves Herbert",
+              "short": "Herbert"
+            },
+            {
+              "name": "Jacques Simon",
+              "short": "Simon"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197734",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 2,
+      "title": "Inghilterra - Messico",
+      "session": "match",
+      "startsAt": "1966-07-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 38,
+            "type": "goal",
+            "side": "home",
+            "player": "Bobby Charlton",
+            "short": "Charlton"
+          },
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "home",
+            "player": "Roger Hunt",
+            "short": "Hunt"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gordon Banks",
+              "short": "Banks"
+            },
+            {
+              "name": "Jackie Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "George Cohen",
+              "short": "Cohen"
+            },
+            {
+              "name": "Bobby Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Martin Peters",
+              "short": "Peters"
+            },
+            {
+              "name": "Ramon Wilson",
+              "short": "Wilson"
+            },
+            {
+              "name": "Roger Hunt",
+              "short": "Hunt"
+            },
+            {
+              "name": "Bobby Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "Jimmy Greaves",
+              "short": "Greaves"
+            },
+            {
+              "name": "Terry Paine",
+              "short": "Paine"
+            },
+            {
+              "name": "Nobby Stiles",
+              "short": "Stiles"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ignacio Calderón",
+              "short": "Calderón"
+            },
+            {
+              "name": "Arturo Chaires",
+              "short": "Chaires"
+            },
+            {
+              "name": "Guillermo Hernández",
+              "short": "Hernández"
+            },
+            {
+              "name": "Gabriel Nuñez",
+              "short": "Nuñez"
+            },
+            {
+              "name": "Ignacio Jauregui",
+              "short": "Jauregui"
+            },
+            {
+              "name": "Gustavo Pena",
+              "short": "Pena"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jesús Del Muro",
+              "short": "Del Muro"
+            },
+            {
+              "name": "Isidoro Díaz"
+            },
+            {
+              "name": "Aaron Padilla",
+              "short": "Padilla"
+            },
+            {
+              "name": "Salvador Reyes",
+              "short": "Reyes"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197740",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 2,
+      "title": "Germania Ovest - Argentina",
+      "session": "match",
+      "startsAt": "1966-07-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Hans Tilkowski",
+              "short": "Tilkowski"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Helmut Haller",
+              "short": "Haller"
+            },
+            {
+              "name": "Horst Hoettges",
+              "short": "Hoettges"
+            },
+            {
+              "name": "Karl Schnellinger",
+              "short": "Schnellinger"
+            },
+            {
+              "name": "Willi Schulz",
+              "short": "Schulz"
+            },
+            {
+              "name": "Wolfgang Weber",
+              "short": "Weber"
+            },
+            {
+              "name": "Albert Brulls",
+              "short": "Brulls"
+            },
+            {
+              "name": "Siegfried Held",
+              "short": "Held"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Roma",
+              "short": "Roma"
+            },
+            {
+              "name": "Jorge Albrecht",
+              "short": "Albrecht"
+            },
+            {
+              "name": "Roberto Ferreiro",
+              "short": "Ferreiro"
+            },
+            {
+              "name": "Roberto Perfumo",
+              "short": "Perfumo"
+            },
+            {
+              "name": "Silvio Marzolini",
+              "short": "Marzolini"
+            },
+            {
+              "name": "Antonio Rattín",
+              "short": "Rattín"
+            },
+            {
+              "name": "Luis Artime",
+              "short": "Artime"
+            },
+            {
+              "name": "Alberto González",
+              "short": "González"
+            },
+            {
+              "name": "Oscar Mas",
+              "short": "Mas"
+            },
+            {
+              "name": "Ermindo Onega",
+              "short": "Onega"
+            },
+            {
+              "name": "Jorge Solari",
+              "short": "Solari"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197758",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 2,
+      "title": "Portogallo - Bulgaria",
+      "session": "match",
+      "startsAt": "1966-07-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-482",
+        "name": "Portugal",
+        "shortName": "Portogallo",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
+      },
+      "awayTeam": {
+        "id": "espn-462",
+        "name": "Bulgaria",
+        "shortName": "Bulgaria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png"
+      },
+      "homeScore": 3,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 18,
+            "type": "ownGoal",
+            "side": "home",
+            "player": "Ivan Vutzov",
+            "short": "Vutzov"
+          },
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "Eusebio"
+          },
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "home",
+            "player": "José Torres",
+            "short": "Torres"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "Alberto Festa",
+              "short": "Festa"
+            },
+            {
+              "name": "Da Figuereido Germano",
+              "short": "Germano"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jaime Graca",
+              "short": "Graca"
+            },
+            {
+              "name": "Rosario Hilario",
+              "short": "Hilario"
+            },
+            {
+              "name": "Eusebio",
+              "short": "Ferreira"
+            },
+            {
+              "name": "José Torres",
+              "short": "Torres"
+            },
+            {
+              "name": "Mario Coluna",
+              "short": "Coluna"
+            },
+            {
+              "name": "Pinto José Augusto",
+              "short": "José Augusto"
+            },
+            {
+              "name": "Antonio Simoes",
+              "short": "Simoes"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Georgy Naydenov",
+              "short": "Naydenov"
+            },
+            {
+              "name": "Alexander Chalamanov",
+              "short": "Chalamanov"
+            },
+            {
+              "name": "Dobromir Jetchev",
+              "short": "Jetchev"
+            },
+            {
+              "name": "Dimitar Penev",
+              "short": "Penev"
+            },
+            {
+              "name": "Ivan Vutzov",
+              "short": "Vutzov"
+            },
+            {
+              "name": "Alexander Kostov",
+              "short": "Kostov"
+            },
+            {
+              "name": "Georgi Asparukhov",
+              "short": "Asparukhov"
+            },
+            {
+              "name": "Dinko Dermendjiev",
+              "short": "Dermendjiev"
+            },
+            {
+              "name": "Boris Gaganelov",
+              "short": "Gaganelov"
+            },
+            {
+              "name": "Dimiter Jakimov",
+              "short": "Jakimov"
+            },
+            {
+              "name": "Peter Jekov",
+              "short": "Jekov"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197749",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 2,
+      "title": "Unione Sovietica - Italia",
+      "session": "match",
+      "startsAt": "1966-07-16T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "awayTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 58,
+            "type": "goal",
+            "side": "home",
+            "player": "Igor Chislenko",
+            "short": "Chislenko"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Murtaz Khurtsilava",
+              "short": "Khurtsilava"
+            },
+            {
+              "name": "Albert Shesternev",
+              "short": "Shesternev"
+            },
+            {
+              "name": "Valeri Voronin",
+              "short": "Voronin"
+            },
+            {
+              "name": "Vasili Danilov",
+              "short": "Danilov"
+            },
+            {
+              "name": "Vladimir Ponomarev",
+              "short": "Ponomarev"
+            },
+            {
+              "name": "Igor Chislenko",
+              "short": "Chislenko"
+            },
+            {
+              "name": "Anatoli Banishevski",
+              "short": "Banishevski"
+            },
+            {
+              "name": "Galimzian Khusianov",
+              "short": "Khusianov"
+            },
+            {
+              "name": "Eduard Malofeev",
+              "short": "Malofeev"
+            },
+            {
+              "name": "Joszef Szabo",
+              "short": "Szabo"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Enrico Albertosi",
+              "short": "Albertosi"
+            },
+            {
+              "name": "Giacinto Facchetti",
+              "short": "Facchetti"
+            },
+            {
+              "name": "Roberto Rosato",
+              "short": "Rosato"
+            },
+            {
+              "name": "Sandro Salvadore",
+              "short": "Salvadore"
+            },
+            {
+              "name": "Tarcisio Burgnich",
+              "short": "Burgnich"
+            },
+            {
+              "name": "Gianfranco Leoncini",
+              "short": "Leoncini"
+            },
+            {
+              "name": "Giacomo Bulgarelli",
+              "short": "Bulgarelli"
+            },
+            {
+              "name": "Giovanni Lodetti",
+              "short": "Lodetti"
+            },
+            {
+              "name": "Alessandro Mazzola",
+              "short": "Mazzola"
+            },
+            {
+              "name": "Luigi Meroni",
+              "short": "Meroni"
+            },
+            {
+              "name": "Ezio Pascutti",
+              "short": "Pascutti"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197741",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 3,
+      "title": "Argentina - Svizzera",
+      "session": "match",
+      "startsAt": "1966-07-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "awayTeam": {
+        "id": "espn-475",
+        "name": "Switzerland",
+        "shortName": "Svizzera",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 54,
+            "type": "goal",
+            "side": "home",
+            "player": "Luis Artime",
+            "short": "Artime"
+          },
+          {
+            "minute": 82,
+            "type": "goal",
+            "side": "home",
+            "player": "Ermindo Onega",
+            "short": "Onega"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Antonio Roma",
+              "short": "Roma"
+            },
+            {
+              "name": "Oscar Calics",
+              "short": "Calics"
+            },
+            {
+              "name": "Roberto Ferreiro",
+              "short": "Ferreiro"
+            },
+            {
+              "name": "Roberto Perfumo",
+              "short": "Perfumo"
+            },
+            {
+              "name": "Silvio Marzolini",
+              "short": "Marzolini"
+            },
+            {
+              "name": "Antonio Rattín",
+              "short": "Rattín"
+            },
+            {
+              "name": "Luis Artime",
+              "short": "Artime"
+            },
+            {
+              "name": "Ermindo Onega",
+              "short": "Onega"
+            },
+            {
+              "name": "Alberto González",
+              "short": "González"
+            },
+            {
+              "name": "Oscar Mas",
+              "short": "Mas"
+            },
+            {
+              "name": "Jorge Solari",
+              "short": "Solari"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Léo Eichmann",
+              "short": "Eichmann"
+            },
+            {
+              "name": "Kurt Ambruster",
+              "short": "Ambruster"
+            },
+            {
+              "name": "René Brodmann",
+              "short": "Brodmann"
+            },
+            {
+              "name": "Hansruedi Fuhrer",
+              "short": "Fuhrer"
+            },
+            {
+              "name": "Heinz Bani",
+              "short": "Bani"
+            },
+            {
+              "name": "Jakob Kuhn",
+              "short": "Kuhn"
+            },
+            {
+              "name": "Vittore Gottardi",
+              "short": "Gottardi"
+            },
+            {
+              "name": "Robert Hosp",
+              "short": "Hosp"
+            },
+            {
+              "name": "Fritz Künzli",
+              "short": "Künzli"
+            },
+            {
+              "name": "Rene Quentin",
+              "short": "Quentin"
+            },
+            {
+              "name": "Xavier Stierli",
+              "short": "Stierli"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197750",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 3,
+      "title": "Corea del Nord - Italia",
+      "session": "match",
+      "startsAt": "1966-07-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-4860",
+        "name": "North Korea",
+        "shortName": "Corea del Nord",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/korn.png"
+      },
+      "awayTeam": {
+        "id": "espn-162",
+        "name": "Italy",
+        "shortName": "Italia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 43,
+            "type": "goal",
+            "side": "home",
+            "player": "Doo Pak",
+            "short": "Pak"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Chan Li",
+              "short": "Li"
+            },
+            {
+              "name": "Jung Ha",
+              "short": "Ha"
+            },
+            {
+              "name": "Yoon Oh",
+              "short": "Oh"
+            },
+            {
+              "name": "Yung Shin",
+              "short": "Shin"
+            },
+            {
+              "name": "Bong Kim",
+              "short": "Kim"
+            },
+            {
+              "name": "Zoong Lim",
+              "short": "Lim"
+            },
+            {
+              "name": "Sung Yang",
+              "short": "Yang"
+            },
+            {
+              "name": "Doo Pak",
+              "short": "Pak"
+            },
+            {
+              "name": "Bong Han",
+              "short": "Han"
+            },
+            {
+              "name": "Seun Im",
+              "short": "Im"
+            },
+            {
+              "name": "Seung Pak",
+              "short": "Pak"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Enrico Albertosi",
+              "short": "Albertosi"
+            },
+            {
+              "name": "Giacinto Facchetti",
+              "short": "Facchetti"
+            },
+            {
+              "name": "Aristide Guarneri",
+              "short": "Guarneri"
+            },
+            {
+              "name": "Francesco Janich",
+              "short": "Janich"
+            },
+            {
+              "name": "Marino Perani",
+              "short": "Perani"
+            },
+            {
+              "name": "Gianni Rivera",
+              "short": "Rivera"
+            },
+            {
+              "name": "Paolo Barison",
+              "short": "Barison"
+            },
+            {
+              "name": "Giacomo Bulgarelli",
+              "short": "Bulgarelli"
+            },
+            {
+              "name": "Romano Fogli",
+              "short": "Fogli"
+            },
+            {
+              "name": "Spartaco Landini",
+              "short": "Landini"
+            },
+            {
+              "name": "Alessandro Mazzola",
+              "short": "Mazzola"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197759",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 3,
+      "title": "Portogallo - Brasile",
+      "session": "match",
+      "startsAt": "1966-07-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-482",
+        "name": "Portugal",
+        "shortName": "Portogallo",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
+      },
+      "awayTeam": {
+        "id": "espn-205",
+        "name": "Brazil",
+        "shortName": "Brasile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "home",
+            "player": "Antonio Simoes",
+            "short": "Simoes"
+          },
+          {
+            "minute": 28,
+            "type": "goal",
+            "side": "home",
+            "player": "Eusebio"
+          },
+          {
+            "minute": 71,
+            "type": "goal",
+            "side": "away",
+            "player": "Rildo"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "home",
+            "player": "Eusebio"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "José Baptista",
+              "short": "Baptista"
+            },
+            {
+              "name": "Joao Morais",
+              "short": "Morais"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jaime Graca",
+              "short": "Graca"
+            },
+            {
+              "name": "Rosario Hilario",
+              "short": "Hilario"
+            },
+            {
+              "name": "Eusebio",
+              "short": "Ferreira"
+            },
+            {
+              "name": "Antonio Simoes",
+              "short": "Simoes"
+            },
+            {
+              "name": "Mario Coluna",
+              "short": "Coluna"
+            },
+            {
+              "name": "Pinto José Augusto",
+              "short": "José Augusto"
+            },
+            {
+              "name": "José Torres",
+              "short": "Torres"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Rildo"
+            },
+            {
+              "name": "Hercules Brito",
+              "short": "Brito"
+            },
+            {
+              "name": "José Fidelis",
+              "short": "Fidelis"
+            },
+            {
+              "name": "Hailton Manga",
+              "short": "Manga"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Antonio Lima",
+              "short": "Lima"
+            },
+            {
+              "name": "Jairzinho"
+            },
+            {
+              "name": "Pele",
+              "short": "Arantes do Nascimento"
+            },
+            {
+              "name": "Pecanha Orlando",
+              "short": "Orlando"
+            },
+            {
+              "name": "Ademir Parana",
+              "short": "Parana"
+            },
+            {
+              "name": "Walter Silva",
+              "short": "Silva"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197735",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 3,
+      "title": "Uruguay - Messico",
+      "session": "match",
+      "startsAt": "1966-07-19T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "awayTeam": {
+        "id": "espn-203",
+        "name": "Mexico",
+        "shortName": "Messico",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [],
+        "home": {
+          "starters": [
+            {
+              "name": "Ladislao Mazurkiewicz",
+              "short": "Mazurkiewicz"
+            },
+            {
+              "name": "Jorge Manicera",
+              "short": "Manicera"
+            },
+            {
+              "name": "Horacio Troche",
+              "short": "Troche"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Julio Cortés",
+              "short": "Cortés"
+            },
+            {
+              "name": "Néstor Goncalvez",
+              "short": "Goncalvez"
+            },
+            {
+              "name": "Omar Caetano",
+              "short": "Caetano"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Pedro Rocha",
+              "short": "Rocha"
+            },
+            {
+              "name": "José Sassia",
+              "short": "Sassia"
+            },
+            {
+              "name": "Milton Viera",
+              "short": "Viera"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Carbajal",
+              "short": "Carbajal"
+            },
+            {
+              "name": "Arturo Chaires",
+              "short": "Chaires"
+            },
+            {
+              "name": "Guillermo Hernández",
+              "short": "Hernández"
+            },
+            {
+              "name": "Gabriel Nuñez",
+              "short": "Nuñez"
+            },
+            {
+              "name": "Ernesto Cisneros",
+              "short": "Cisneros"
+            },
+            {
+              "name": "Gustavo Pena",
+              "short": "Pena"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Isidoro Díaz"
+            },
+            {
+              "name": "Magdaleno Mercado",
+              "short": "Mercado"
+            },
+            {
+              "name": "Aaron Padilla",
+              "short": "Padilla"
+            },
+            {
+              "name": "Salvador Reyes",
+              "short": "Reyes"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197736",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 3,
+      "title": "Inghilterra - Francia",
+      "session": "match",
+      "startsAt": "1966-07-20T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "awayTeam": {
+        "id": "espn-478",
+        "name": "France",
+        "shortName": "Francia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "Roger Hunt",
+            "short": "Hunt"
+          },
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "home",
+            "player": "Roger Hunt",
+            "short": "Hunt"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gordon Banks",
+              "short": "Banks"
+            },
+            {
+              "name": "Jackie Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "George Cohen",
+              "short": "Cohen"
+            },
+            {
+              "name": "Bobby Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Roger Hunt",
+              "short": "Hunt"
+            },
+            {
+              "name": "Martin Peters",
+              "short": "Peters"
+            },
+            {
+              "name": "Ramon Wilson",
+              "short": "Wilson"
+            },
+            {
+              "name": "Ian Callagham",
+              "short": "Callagham"
+            },
+            {
+              "name": "Bobby Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "Jimmy Greaves",
+              "short": "Greaves"
+            },
+            {
+              "name": "Nobby Stiles",
+              "short": "Stiles"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Marcel Aubour",
+              "short": "Aubour"
+            },
+            {
+              "name": "Marcel Artelesa",
+              "short": "Artelesa"
+            },
+            {
+              "name": "Robert Budzinski",
+              "short": "Budzinski"
+            },
+            {
+              "name": "Jean Djorkaeff",
+              "short": "Djorkaeff"
+            },
+            {
+              "name": "Joseph Bonnel",
+              "short": "Bonnel"
+            },
+            {
+              "name": "Bernard Bosquier",
+              "short": "Bosquier"
+            },
+            {
+              "name": "Philliphe Gondet",
+              "short": "Gondet"
+            },
+            {
+              "name": "Gerard Hausser",
+              "short": "Hausser"
+            },
+            {
+              "name": "Yves Herbert",
+              "short": "Herbert"
+            },
+            {
+              "name": "Robert Herbin",
+              "short": "Herbin"
+            },
+            {
+              "name": "Jacques Simon",
+              "short": "Simon"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197742",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 3,
+      "title": "Germania Ovest - Spagna",
+      "session": "match",
+      "startsAt": "1966-07-20T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-164",
+        "name": "Spain",
+        "shortName": "Spagna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 23,
+            "type": "goal",
+            "side": "away",
+            "player": "José Fuste",
+            "short": "Fuste"
+          },
+          {
+            "minute": 39,
+            "type": "goal",
+            "side": "home",
+            "player": "Lothar Emmerich",
+            "short": "Emmerich"
+          },
+          {
+            "minute": 85,
+            "type": "goal",
+            "side": "home",
+            "player": "Uwe Seeler",
+            "short": "Seeler"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Hans Tilkowski",
+              "short": "Tilkowski"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Horst Hoettges",
+              "short": "Hoettges"
+            },
+            {
+              "name": "Karl Schnellinger",
+              "short": "Schnellinger"
+            },
+            {
+              "name": "Willi Schulz",
+              "short": "Schulz"
+            },
+            {
+              "name": "Wolfgang Weber",
+              "short": "Weber"
+            },
+            {
+              "name": "Lothar Emmerich",
+              "short": "Emmerich"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            },
+            {
+              "name": "Siegfried Held",
+              "short": "Held"
+            },
+            {
+              "name": "Werner Krämer",
+              "short": "Krämer"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "José Iribar",
+              "short": "Iribar"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jesús Glaría",
+              "short": "Glaría"
+            },
+            {
+              "name": "Ignacio Zoco",
+              "short": "Zoco"
+            },
+            {
+              "name": "Severino Reija",
+              "short": "Reija"
+            },
+            {
+              "name": "Manuel Sanchís II",
+              "short": "Sanchís II"
+            },
+            {
+              "name": "José Fuste",
+              "short": "Fuste"
+            },
+            {
+              "name": "Rodríguez Adelardo",
+              "short": "Adelardo"
+            },
+            {
+              "name": "Amaro Amancio",
+              "short": "Amancio"
+            },
+            {
+              "name": "Carlos Lapetra",
+              "short": "Lapetra"
+            },
+            {
+              "name": "Marcelino Martinez",
+              "short": "Martinez"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197745",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 3,
+      "title": "Ungheria - Bulgaria",
+      "session": "match",
+      "startsAt": "1966-07-20T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "awayTeam": {
+        "id": "espn-462",
+        "name": "Bulgaria",
+        "shortName": "Bulgaria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png"
+      },
+      "homeScore": 3,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 16,
+            "type": "goal",
+            "side": "away",
+            "player": "Georgi Asparukhov",
+            "short": "Asparukhov"
+          },
+          {
+            "minute": 44,
+            "type": "ownGoal",
+            "side": "home",
+            "player": "Ivan Davidov",
+            "short": "Davidov"
+          },
+          {
+            "minute": 45,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Kalman Meszoly",
+            "short": "Meszoly"
+          },
+          {
+            "minute": 55,
+            "type": "goal",
+            "side": "home",
+            "player": "Ferenc Bene",
+            "short": "Bene"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Joszef Gelei",
+              "short": "Gelei"
+            },
+            {
+              "name": "Beno Kaposzta",
+              "short": "Kaposzta"
+            },
+            {
+              "name": "Imre Mathesz",
+              "short": "Mathesz"
+            },
+            {
+              "name": "Ferenc Sipos",
+              "short": "Sipos"
+            },
+            {
+              "name": "Kalman Meszoly",
+              "short": "Meszoly"
+            },
+            {
+              "name": "Sandor Matrai",
+              "short": "Matrai"
+            },
+            {
+              "name": "Ferenc Bene",
+              "short": "Bene"
+            },
+            {
+              "name": "Florian Albert",
+              "short": "Albert"
+            },
+            {
+              "name": "Janos Farkas",
+              "short": "Farkas"
+            },
+            {
+              "name": "Gyula Rakosi",
+              "short": "Rakosi"
+            },
+            {
+              "name": "Szedunka Szepesi",
+              "short": "Szepesi"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Simeon Simeonov",
+              "short": "Simeonov"
+            },
+            {
+              "name": "Dobromir Jetchev",
+              "short": "Jetchev"
+            },
+            {
+              "name": "Dimitar Largov",
+              "short": "Largov"
+            },
+            {
+              "name": "Dimitar Penev",
+              "short": "Penev"
+            },
+            {
+              "name": "Boris Gaganelov",
+              "short": "Gaganelov"
+            },
+            {
+              "name": "Ivan Vutzov",
+              "short": "Vutzov"
+            },
+            {
+              "name": "Ivan Davidov",
+              "short": "Davidov"
+            },
+            {
+              "name": "Georgi Asparukhov",
+              "short": "Asparukhov"
+            },
+            {
+              "name": "Georgi Asparukhov",
+              "short": "Asparukhov"
+            },
+            {
+              "name": "Dimiter Jakimov",
+              "short": "Jakimov"
+            },
+            {
+              "name": "Ivan Kolev",
+              "short": "Kolev"
+            },
+            {
+              "name": "Nikola Kotkov",
+              "short": "Kotkov"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197751",
+      "competition": "mondiali",
+      "season": "1966",
+      "round": 3,
+      "title": "Unione Sovietica - Cile",
+      "session": "match",
+      "startsAt": "1966-07-20T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "awayTeam": {
+        "id": "espn-207",
+        "name": "Chile",
+        "shortName": "Cile",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 29,
+            "type": "goal",
+            "side": "home",
+            "player": "Valeri Porkuyan",
+            "short": "Porkuyan"
+          },
+          {
+            "minute": 33,
+            "type": "goal",
+            "side": "away",
+            "player": "Rubén Marcos",
+            "short": "Marcos"
+          },
+          {
+            "minute": 86,
+            "type": "goal",
+            "side": "home",
+            "player": "Valeri Porkuyan",
+            "short": "Porkuyan"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Anzor Kavasashvili",
+              "short": "Kavasashvili"
+            },
+            {
+              "name": "Valentin Afonin",
+              "short": "Afonin"
+            },
+            {
+              "name": "Leonid Ostrovski",
+              "short": "Ostrovski"
+            },
+            {
+              "name": "Albert Shesternev",
+              "short": "Shesternev"
+            },
+            {
+              "name": "Viktor Getmanov",
+              "short": "Getmanov"
+            },
+            {
+              "name": "Valeri Voronin",
+              "short": "Voronin"
+            },
+            {
+              "name": "Valeri Porkuyan",
+              "short": "Porkuyan"
+            },
+            {
+              "name": "Alexei Korneev",
+              "short": "Korneev"
+            },
+            {
+              "name": "Eduard Makarov",
+              "short": "Makarov"
+            },
+            {
+              "name": "Slava Metreveli",
+              "short": "Metreveli"
+            },
+            {
+              "name": "Viktor Serebriannikov",
+              "short": "Serebriannikov"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Juan Olivares",
+              "short": "Olivares"
+            },
+            {
+              "name": "Elias Figueroa",
+              "short": "Figueroa"
+            },
+            {
+              "name": "Hugo Villanueva",
+              "short": "Villanueva"
+            },
+            {
+              "name": "Rubén Marcos",
+              "short": "Marcos"
+            },
+            {
+              "name": "Humberto Cruz",
+              "short": "Cruz"
+            },
+            {
+              "name": "Ignacio Prieto",
+              "short": "Prieto"
+            },
+            {
+              "name": "Pedro Araya",
+              "short": "Araya"
+            },
+            {
+              "name": "Honorino Landa",
+              "short": "Landa"
+            },
+            {
+              "name": "Leonel Sánchez",
+              "short": "Sánchez"
+            },
+            {
+              "name": "Aldo Valentini",
+              "short": "Valentini"
+            },
+            {
+              "name": "Guillermo Yavar",
+              "short": "Yavar"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197753",
+      "competition": "mondiali",
+      "season": "1966",
+      "stage": "quarter_finals",
+      "title": "Germania Ovest - Uruguay",
+      "session": "match",
+      "startsAt": "1966-07-23T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-212",
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
+      },
+      "homeScore": 4,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 12,
+            "type": "goal",
+            "side": "home",
+            "player": "Helmut Haller",
+            "short": "Haller"
+          },
+          {
+            "minute": 71,
+            "type": "goal",
+            "side": "home",
+            "player": "Franz Beckenbauer",
+            "short": "Beckenbauer"
+          },
+          {
+            "minute": 76,
+            "type": "goal",
+            "side": "home",
+            "player": "Uwe Seeler",
+            "short": "Seeler"
+          },
+          {
+            "minute": 84,
+            "type": "goal",
+            "side": "home",
+            "player": "Helmut Haller",
+            "short": "Haller"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Hans Tilkowski",
+              "short": "Tilkowski"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Horst Hoettges",
+              "short": "Hoettges"
+            },
+            {
+              "name": "Karl Schnellinger",
+              "short": "Schnellinger"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            },
+            {
+              "name": "Willi Schulz",
+              "short": "Schulz"
+            },
+            {
+              "name": "Wolfgang Weber",
+              "short": "Weber"
+            },
+            {
+              "name": "Helmut Haller",
+              "short": "Haller"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            },
+            {
+              "name": "Lothar Emmerich",
+              "short": "Emmerich"
+            },
+            {
+              "name": "Siegfried Held",
+              "short": "Held"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Ladislao Mazurkiewicz",
+              "short": "Mazurkiewicz"
+            },
+            {
+              "name": "Jorge Manicera",
+              "short": "Manicera"
+            },
+            {
+              "name": "Horacio Troche",
+              "short": "Troche"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Néstor Goncalvez",
+              "short": "Goncalvez"
+            },
+            {
+              "name": "Héctor Salva",
+              "short": "Salva"
+            },
+            {
+              "name": "Omar Caetano",
+              "short": "Caetano"
+            },
+            {
+              "name": "Julio Cortés",
+              "short": "Cortés"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Pedro Rocha",
+              "short": "Rocha"
+            },
+            {
+              "name": "Héctor Silva",
+              "short": "Silva"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197760",
+      "competition": "mondiali",
+      "season": "1966",
+      "stage": "quarter_finals",
+      "title": "Portogallo - Corea del Nord",
+      "session": "match",
+      "startsAt": "1966-07-23T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-482",
+        "name": "Portugal",
+        "shortName": "Portogallo",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
+      },
+      "awayTeam": {
+        "id": "espn-4860",
+        "name": "North Korea",
+        "shortName": "Corea del Nord",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/korn.png"
+      },
+      "homeScore": 5,
+      "awayScore": 3,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 2,
+            "type": "goal",
+            "side": "away",
+            "player": "Seung Pak",
+            "short": "Pak"
+          },
+          {
+            "minute": 23,
+            "type": "goal",
+            "side": "away",
+            "player": "Dong Li",
+            "short": "Li"
+          },
+          {
+            "minute": 28,
+            "type": "goal",
+            "side": "away",
+            "player": "Sung Yang",
+            "short": "Yang"
+          },
+          {
+            "minute": 28,
+            "type": "goal",
+            "side": "home",
+            "player": "Eusebio"
+          },
+          {
+            "minute": 44,
+            "type": "penalty",
+            "side": "home",
+            "player": "Eusebio"
+          },
+          {
+            "minute": 57,
+            "type": "goal",
+            "side": "home",
+            "player": "Eusebio"
+          },
+          {
+            "minute": 60,
+            "type": "penalty",
+            "side": "home",
+            "player": "Eusebio"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "home",
+            "player": "Pinto José Augusto",
+            "short": "José Augusto"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "José Baptista",
+              "short": "Baptista"
+            },
+            {
+              "name": "Joao Morais",
+              "short": "Morais"
+            },
+            {
+              "name": ""
+            },
+            {
+              "name": "Jaime Graca",
+              "short": "Graca"
+            },
+            {
+              "name": "Rosario Hilario",
+              "short": "Hilario"
+            },
+            {
+              "name": "Pinto José Augusto",
+              "short": "José Augusto"
+            },
+            {
+              "name": "Eusebio",
+              "short": "Ferreira"
+            },
+            {
+              "name": "Mario Coluna",
+              "short": "Coluna"
+            },
+            {
+              "name": "Antonio Simoes",
+              "short": "Simoes"
+            },
+            {
+              "name": "José Torres",
+              "short": "Torres"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Chan Li",
+              "short": "Li"
+            },
+            {
+              "name": "Jung Ha",
+              "short": "Ha"
+            },
+            {
+              "name": "Yoon Oh",
+              "short": "Oh"
+            },
+            {
+              "name": "Yung Shin",
+              "short": "Shin"
+            },
+            {
+              "name": "Bong Han",
+              "short": "Han"
+            },
+            {
+              "name": "Zoong Lim",
+              "short": "Lim"
+            },
+            {
+              "name": "Dong Li",
+              "short": "Li"
+            },
+            {
+              "name": "Sung Yang",
+              "short": "Yang"
+            },
+            {
+              "name": "Seung Pak",
+              "short": "Pak"
+            },
+            {
+              "name": "Seun Im",
+              "short": "Im"
+            },
+            {
+              "name": "Doo Pak",
+              "short": "Pak"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197752",
+      "competition": "mondiali",
+      "season": "1966",
+      "stage": "quarter_finals",
+      "title": "Unione Sovietica - Ungheria",
+      "session": "match",
+      "startsAt": "1966-07-23T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "awayTeam": {
+        "id": "espn-480",
+        "name": "Hungary",
+        "shortName": "Ungheria",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 6,
+            "type": "goal",
+            "side": "home",
+            "player": "Igor Chislenko",
+            "short": "Chislenko"
+          },
+          {
+            "minute": 47,
+            "type": "goal",
+            "side": "home",
+            "player": "Valeri Porkuyan",
+            "short": "Porkuyan"
+          },
+          {
+            "minute": 59,
+            "type": "goal",
+            "side": "away",
+            "player": "Ferenc Bene",
+            "short": "Bene"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Vasili Danilov",
+              "short": "Danilov"
+            },
+            {
+              "name": "Albert Shesternev",
+              "short": "Shesternev"
+            },
+            {
+              "name": "Valeri Voronin",
+              "short": "Voronin"
+            },
+            {
+              "name": "Vladimir Ponomarev",
+              "short": "Ponomarev"
+            },
+            {
+              "name": "Joszef Szabo",
+              "short": "Szabo"
+            },
+            {
+              "name": "Igor Chislenko",
+              "short": "Chislenko"
+            },
+            {
+              "name": "Valeri Porkuyan",
+              "short": "Porkuyan"
+            },
+            {
+              "name": "Anatoli Banishevski",
+              "short": "Banishevski"
+            },
+            {
+              "name": "Galimzian Khusianov",
+              "short": "Khusianov"
+            },
+            {
+              "name": "Eduard Malofeev",
+              "short": "Malofeev"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Joszef Gelei",
+              "short": "Gelei"
+            },
+            {
+              "name": "Beno Kaposzta",
+              "short": "Kaposzta"
+            },
+            {
+              "name": "Kalman Meszoly",
+              "short": "Meszoly"
+            },
+            {
+              "name": "Ferenc Sipos",
+              "short": "Sipos"
+            },
+            {
+              "name": "Sandor Matrai",
+              "short": "Matrai"
+            },
+            {
+              "name": "Antal Nagy II",
+              "short": "Nagy II"
+            },
+            {
+              "name": "Ferenc Bene",
+              "short": "Bene"
+            },
+            {
+              "name": "Florian Albert",
+              "short": "Albert"
+            },
+            {
+              "name": "Janos Farkas",
+              "short": "Farkas"
+            },
+            {
+              "name": "Gyula Rakosi",
+              "short": "Rakosi"
+            },
+            {
+              "name": "Szedunka Szepesi",
+              "short": "Szepesi"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197754",
+      "competition": "mondiali",
+      "season": "1966",
+      "stage": "quarter_finals",
+      "title": "Inghilterra - Argentina",
+      "session": "match",
+      "startsAt": "1966-07-23T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "awayTeam": {
+        "id": "espn-202",
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 79,
+            "type": "goal",
+            "side": "home",
+            "player": "Geoffrey Hurst",
+            "short": "Hurst"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gordon Banks",
+              "short": "Banks"
+            },
+            {
+              "name": "Jackie Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "George Cohen",
+              "short": "Cohen"
+            },
+            {
+              "name": "Bobby Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Alan Ball",
+              "short": "Ball"
+            },
+            {
+              "name": "Nobby Stiles",
+              "short": "Stiles"
+            },
+            {
+              "name": "Ramon Wilson",
+              "short": "Wilson"
+            },
+            {
+              "name": "Geoffrey Hurst",
+              "short": "Hurst"
+            },
+            {
+              "name": "Bobby Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "Roger Hunt",
+              "short": "Hunt"
+            },
+            {
+              "name": "Martin Peters",
+              "short": "Peters"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Antonio Roma",
+              "short": "Roma"
+            },
+            {
+              "name": "Jorge Albrecht",
+              "short": "Albrecht"
+            },
+            {
+              "name": "Roberto Ferreiro",
+              "short": "Ferreiro"
+            },
+            {
+              "name": "Roberto Perfumo",
+              "short": "Perfumo"
+            },
+            {
+              "name": "Silvio Marzolini",
+              "short": "Marzolini"
+            },
+            {
+              "name": "Antonio Rattín",
+              "short": "Rattín"
+            },
+            {
+              "name": "Luis Artime",
+              "short": "Artime"
+            },
+            {
+              "name": "Alberto González",
+              "short": "González"
+            },
+            {
+              "name": "Oscar Mas",
+              "short": "Mas"
+            },
+            {
+              "name": "Ermindo Onega",
+              "short": "Onega"
+            },
+            {
+              "name": "Jorge Solari",
+              "short": "Solari"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197755",
+      "competition": "mondiali",
+      "season": "1966",
+      "stage": "semi_finals",
+      "title": "Germania Ovest - Unione Sovietica",
+      "session": "match",
+      "startsAt": "1966-07-25T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "awayTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "home",
+            "player": "Helmut Haller",
+            "short": "Haller"
+          },
+          {
+            "minute": 68,
+            "type": "goal",
+            "side": "home",
+            "player": "Franz Beckenbauer",
+            "short": "Beckenbauer"
+          },
+          {
+            "minute": 89,
+            "type": "goal",
+            "side": "away",
+            "player": "Valeri Porkuyan",
+            "short": "Porkuyan"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Hans Tilkowski",
+              "short": "Tilkowski"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Friedel Lutz",
+              "short": "Lutz"
+            },
+            {
+              "name": "Karl Schnellinger",
+              "short": "Schnellinger"
+            },
+            {
+              "name": "Willi Schulz",
+              "short": "Schulz"
+            },
+            {
+              "name": "Wolfgang Weber",
+              "short": "Weber"
+            },
+            {
+              "name": "Helmut Haller",
+              "short": "Haller"
+            },
+            {
+              "name": "Lothar Emmerich",
+              "short": "Emmerich"
+            },
+            {
+              "name": "Siegfried Held",
+              "short": "Held"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Vasili Danilov",
+              "short": "Danilov"
+            },
+            {
+              "name": "Albert Shesternev",
+              "short": "Shesternev"
+            },
+            {
+              "name": "Valeri Voronin",
+              "short": "Voronin"
+            },
+            {
+              "name": "Vladimir Ponomarev",
+              "short": "Ponomarev"
+            },
+            {
+              "name": "Joszef Szabo",
+              "short": "Szabo"
+            },
+            {
+              "name": "Valeri Porkuyan",
+              "short": "Porkuyan"
+            },
+            {
+              "name": "Anatoli Banishevski",
+              "short": "Banishevski"
+            },
+            {
+              "name": "Igor Chislenko",
+              "short": "Chislenko"
+            },
+            {
+              "name": "Galimzian Khusianov",
+              "short": "Khusianov"
+            },
+            {
+              "name": "Eduard Malofeev",
+              "short": "Malofeev"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197761",
+      "competition": "mondiali",
+      "season": "1966",
+      "stage": "semi_finals",
+      "title": "Inghilterra - Portogallo",
+      "session": "match",
+      "startsAt": "1966-07-26T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "awayTeam": {
+        "id": "espn-482",
+        "name": "Portugal",
+        "shortName": "Portogallo",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 31,
+            "type": "goal",
+            "side": "home",
+            "player": "Bobby Charlton",
+            "short": "Charlton"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "home",
+            "player": "Bobby Charlton",
+            "short": "Charlton"
+          },
+          {
+            "minute": 83,
+            "type": "penalty",
+            "side": "away",
+            "player": "Eusebio"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gordon Banks",
+              "short": "Banks"
+            },
+            {
+              "name": "Jackie Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "George Cohen",
+              "short": "Cohen"
+            },
+            {
+              "name": "Bobby Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Alan Ball",
+              "short": "Ball"
+            },
+            {
+              "name": "Ramon Wilson",
+              "short": "Wilson"
+            },
+            {
+              "name": "Bobby Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "Roger Hunt",
+              "short": "Hunt"
+            },
+            {
+              "name": "Geoffrey Hurst",
+              "short": "Hurst"
+            },
+            {
+              "name": "Martin Peters",
+              "short": "Peters"
+            },
+            {
+              "name": "Nobby Stiles",
+              "short": "Stiles"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "José Baptista",
+              "short": "Baptista"
+            },
+            {
+              "name": "Alberto Festa",
+              "short": "Festa"
+            },
+            {
+              "name": "Rosario Hilario",
+              "short": "Hilario"
+            },
+            {
+              "name": "Jaime Graca",
+              "short": "Graca"
+            },
+            {
+              "name": "Da Silva José Carlos",
+              "short": "José Carlos"
+            },
+            {
+              "name": "Eusebio",
+              "short": "Ferreira"
+            },
+            {
+              "name": "Mario Coluna",
+              "short": "Coluna"
+            },
+            {
+              "name": "Pinto José Augusto",
+              "short": "José Augusto"
+            },
+            {
+              "name": "Antonio Simoes",
+              "short": "Simoes"
+            },
+            {
+              "name": "José Torres",
+              "short": "Torres"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197762",
+      "competition": "mondiali",
+      "season": "1966",
+      "stage": "third_place",
+      "title": "Portogallo - Unione Sovietica",
+      "session": "match",
+      "startsAt": "1966-07-28T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-482",
+        "name": "Portugal",
+        "shortName": "Portogallo",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
+      },
+      "awayTeam": {
+        "id": "espn-6680",
+        "name": "Soviet Union",
+        "shortName": "Unione Sovietica",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/ussr.png"
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "penalty",
+            "side": "home",
+            "player": "Eusebio"
+          },
+          {
+            "minute": 44,
+            "type": "goal",
+            "side": "away",
+            "player": "Eduard Malofeev",
+            "short": "Malofeev"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "home",
+            "player": "José Torres",
+            "short": "Torres"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": ""
+            },
+            {
+              "name": "José Baptista",
+              "short": "Baptista"
+            },
+            {
+              "name": "Alberto Festa",
+              "short": "Festa"
+            },
+            {
+              "name": "Rosario Hilario",
+              "short": "Hilario"
+            },
+            {
+              "name": "Jaime Graca",
+              "short": "Graca"
+            },
+            {
+              "name": "Da Silva José Carlos",
+              "short": "José Carlos"
+            },
+            {
+              "name": "Eusebio",
+              "short": "Ferreira"
+            },
+            {
+              "name": "José Torres",
+              "short": "Torres"
+            },
+            {
+              "name": "Mario Coluna",
+              "short": "Coluna"
+            },
+            {
+              "name": "Pinto José Augusto",
+              "short": "José Augusto"
+            },
+            {
+              "name": "Antonio Simoes",
+              "short": "Simoes"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Lev Yashin",
+              "short": "Yashin"
+            },
+            {
+              "name": "Vasili Danilov",
+              "short": "Danilov"
+            },
+            {
+              "name": "Murtaz Khurtsilava",
+              "short": "Khurtsilava"
+            },
+            {
+              "name": "Valeri Voronin",
+              "short": "Voronin"
+            },
+            {
+              "name": "Alexei Korneev",
+              "short": "Korneev"
+            },
+            {
+              "name": "Vladimir Ponomarev",
+              "short": "Ponomarev"
+            },
+            {
+              "name": "Eduard Malofeev",
+              "short": "Malofeev"
+            },
+            {
+              "name": "Anatoli Banishevski",
+              "short": "Banishevski"
+            },
+            {
+              "name": "Slava Metreveli",
+              "short": "Metreveli"
+            },
+            {
+              "name": "Viktor Serebriannikov",
+              "short": "Serebriannikov"
+            },
+            {
+              "name": "Georgi Sichinava",
+              "short": "Sichinava"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    },
+    {
+      "id": "mondiali-1966-197756",
+      "competition": "mondiali",
+      "season": "1966",
+      "stage": "final",
+      "title": "Inghilterra - Germania Ovest",
+      "session": "match",
+      "startsAt": "1966-07-30T12:00:00+00:00",
+      "dateOnly": true,
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-448",
+        "name": "England",
+        "shortName": "Inghilterra",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+      },
+      "awayTeam": {
+        "id": "espn-6655",
+        "name": "Germany FR",
+        "shortName": "Germania Ovest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/countries/500/gfr.png"
+      },
+      "homeScore": 4,
+      "awayScore": 2,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 13,
+            "type": "goal",
+            "side": "away",
+            "player": "Helmut Haller",
+            "short": "Haller"
+          },
+          {
+            "minute": 19,
+            "type": "goal",
+            "side": "home",
+            "player": "Geoffrey Hurst",
+            "short": "Hurst"
+          },
+          {
+            "minute": 79,
+            "type": "goal",
+            "side": "home",
+            "player": "Martin Peters",
+            "short": "Peters"
+          },
+          {
+            "minute": 90,
+            "type": "goal",
+            "side": "away",
+            "player": "Wolfgang Weber",
+            "short": "Weber"
+          },
+          {
+            "minute": 102,
+            "type": "goal",
+            "side": "home",
+            "player": "Geoffrey Hurst",
+            "short": "Hurst"
+          },
+          {
+            "minute": 120,
+            "addedTime": 1,
+            "type": "goal",
+            "side": "home",
+            "player": "Geoffrey Hurst",
+            "short": "Hurst"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "name": "Gordon Banks",
+              "short": "Banks"
+            },
+            {
+              "name": "Jackie Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "George Cohen",
+              "short": "Cohen"
+            },
+            {
+              "name": "Bobby Moore",
+              "short": "Moore"
+            },
+            {
+              "name": "Alan Ball",
+              "short": "Ball"
+            },
+            {
+              "name": "Ramon Wilson",
+              "short": "Wilson"
+            },
+            {
+              "name": "Martin Peters",
+              "short": "Peters"
+            },
+            {
+              "name": "Geoffrey Hurst",
+              "short": "Hurst"
+            },
+            {
+              "name": "Bobby Charlton",
+              "short": "Charlton"
+            },
+            {
+              "name": "Roger Hunt",
+              "short": "Hunt"
+            },
+            {
+              "name": "Nobby Stiles",
+              "short": "Stiles"
+            }
+          ],
+          "substitutions": []
+        },
+        "away": {
+          "starters": [
+            {
+              "name": "Hans Tilkowski",
+              "short": "Tilkowski"
+            },
+            {
+              "name": "Franz Beckenbauer",
+              "short": "Beckenbauer"
+            },
+            {
+              "name": "Horst Hoettges",
+              "short": "Hoettges"
+            },
+            {
+              "name": "Karl Schnellinger",
+              "short": "Schnellinger"
+            },
+            {
+              "name": "Wolfgang Weber",
+              "short": "Weber"
+            },
+            {
+              "name": "Willi Schulz",
+              "short": "Schulz"
+            },
+            {
+              "name": "Helmut Haller",
+              "short": "Haller"
+            },
+            {
+              "name": "Lothar Emmerich",
+              "short": "Emmerich"
+            },
+            {
+              "name": "Siegfried Held",
+              "short": "Held"
+            },
+            {
+              "name": "Wolfgang Overath",
+              "short": "Overath"
+            },
+            {
+              "name": "Uwe Seeler",
+              "short": "Seeler"
+            }
+          ],
+          "substitutions": []
+        }
+      }
+    }
+  ],
+  "standings": [
+    {
+      "id": "table",
+      "title": "Gironi",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Inghilterra",
+          "code": "ENG",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 4,
+          "zone": "qualified",
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Uruguay",
+          "code": "URU",
+          "points": 4,
+          "wins": 1,
+          "played": 3,
+          "draws": 2,
+          "losses": 0,
+          "goalDifference": 1,
+          "zone": "qualified",
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Messico",
+          "code": "MEX",
+          "points": 2,
+          "wins": 0,
+          "played": 3,
+          "draws": 2,
+          "losses": 1,
+          "goalDifference": -2,
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Francia",
+          "code": "FRA",
+          "points": 1,
+          "wins": 0,
+          "played": 3,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": -3,
+          "group": "Gruppo 1"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Germania Ovest",
+          "code": "GFR",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 6,
+          "zone": "qualified",
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Argentina",
+          "code": "ARG",
+          "points": 5,
+          "wins": 2,
+          "played": 3,
+          "draws": 1,
+          "losses": 0,
+          "goalDifference": 3,
+          "zone": "qualified",
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Spagna",
+          "code": "ESP",
+          "points": 2,
+          "wins": 1,
+          "played": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -1,
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Svizzera",
+          "code": "SUI",
+          "points": 0,
+          "wins": 0,
+          "played": 3,
+          "draws": 0,
+          "losses": 3,
+          "goalDifference": -8,
+          "group": "Gruppo 2"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Portogallo",
+          "code": "POR",
+          "points": 6,
+          "wins": 3,
+          "played": 3,
+          "draws": 0,
+          "losses": 0,
+          "goalDifference": 7,
+          "zone": "qualified",
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Ungheria",
+          "code": "HUN",
+          "points": 4,
+          "wins": 2,
+          "played": 3,
+          "draws": 0,
+          "losses": 1,
+          "goalDifference": 2,
+          "zone": "qualified",
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Brasile",
+          "code": "BRA",
+          "points": 2,
+          "wins": 1,
+          "played": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": -2,
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Bulgaria",
+          "code": "BUL",
+          "points": 0,
+          "wins": 0,
+          "played": 3,
+          "draws": 0,
+          "losses": 3,
+          "goalDifference": -7,
+          "group": "Gruppo 3"
+        },
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Unione Sovietica",
+          "code": "USSR",
+          "points": 6,
+          "wins": 3,
+          "played": 3,
+          "draws": 0,
+          "losses": 0,
+          "goalDifference": 5,
+          "zone": "qualified",
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Corea del Nord",
+          "code": "PRK",
+          "points": 3,
+          "wins": 1,
+          "played": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalDifference": -2,
+          "zone": "qualified",
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Italia",
+          "code": "ITA",
+          "points": 2,
+          "wins": 1,
+          "played": 3,
+          "draws": 0,
+          "losses": 2,
+          "goalDifference": 0,
+          "group": "Gruppo 4"
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Cile",
+          "code": "CHI",
+          "points": 1,
+          "wins": 0,
+          "played": 3,
+          "draws": 1,
+          "losses": 2,
+          "goalDifference": -3,
+          "group": "Gruppo 4"
+        }
+      ]
+    },
+    {
+      "id": "scorers",
+      "title": "Marcatori",
+      "rows": [
+        {
+          "pos": 1,
+          "posText": "1",
+          "name": "Eusebio",
+          "team": "Portogallo",
+          "points": 9
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Helmut Haller",
+          "team": "Germania Ovest",
+          "points": 6
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Franz Beckenbauer",
+          "team": "Germania Ovest",
+          "points": 4
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Ferenc Bene",
+          "team": "Ungheria",
+          "points": 4
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Geoffrey Hurst",
+          "team": "Inghilterra",
+          "points": 4
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Valeri Porkuyan",
+          "team": "Unione Sovietica",
+          "points": 4
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "José Torres",
+          "team": "Portogallo",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Pinto José Augusto",
+          "team": "Portogallo",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Roger Hunt",
+          "team": "Inghilterra",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Bobby Charlton",
+          "team": "Inghilterra",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Eduard Malofeev",
+          "team": "Unione Sovietica",
+          "points": 3
+        },
+        {
+          "pos": 4,
+          "posText": "4",
+          "name": "Luis Artime",
+          "team": "Argentina",
+          "points": 3
+        }
+      ]
+    }
+  ]
+}
