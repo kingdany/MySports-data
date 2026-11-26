@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:22:41.3256923+00:00",
+  "generatedAt": "2026-11-26T16:27:22.401526+00:00",
   "competitions": [
     {
       "id": "f1",
@@ -329,6 +329,21 @@
         "2022-23",
         "2020-21",
         "2018-19"
+      ],
+      "group": "national"
+    },
+    {
+      "id": "europei",
+      "sport": "football",
+      "name": "Europei",
+      "shortName": "Europei",
+      "currentSeason": "2020",
+      "seasons": [
+        "2020",
+        "2016",
+        "2012",
+        "2008",
+        "2004"
       ],
       "group": "national"
     },
