@@ -9,11 +9,11 @@ on:
   workflow_dispatch:          # avvio da cron-job.org e manuale dalla scheda Actions
     inputs:
       seasons:
-        description: "Stagioni passate da importare (es. 1950-2025, 2019,2021 oppure 2024-25 per il calcio; per anno il Mondiale per club e la Coppa Intercontinentale). Vuoto = aggiornamento normale"
+        description: "Stagioni passate da importare (es. 1950-2025, 2019,2021 oppure 2024-25 per il calcio e la Nations League; per anno Mondiale per club, Coppa Intercontinentale, Europei e Mondiali). Vuoto = aggiornamento normale"
         required: false
         default: ""
       competition:
-        description: "Competizione delle stagioni passate (f1, motogp, serie-a, coppa-italia, supercoppa-italiana, champions-league, europa-league, conference-league, supercoppa-europea, mondiale-per-club, coppa-intercontinentale, wwe), obbligatoria se si indicano le stagioni"
+        description: "Competizione delle stagioni passate (f1, motogp, serie-a, coppa-italia, supercoppa-italiana, champions-league, europa-league, conference-league, supercoppa-europea, mondiale-per-club, coppa-intercontinentale, nations-league, europei, mondiali, wwe), obbligatoria se si indicano le stagioni"
         required: false
         default: ""
       standings_only:
