@@ -1,7 +1,7 @@
 {
   "competition": "europa-league",
   "season": "2026-27",
-  "generatedAt": "2026-11-26T17:01:23.573982+00:00",
+  "generatedAt": "2026-11-26T19:01:22.5903488+00:00",
   "events": [
     {
       "id": "europa-league-2026-27-401915594",
@@ -24265,7 +24265,7 @@
       "title": "Beşiktaş - Hapoel Be'er Sheva",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-1895",
         "name": "Besiktas",
@@ -24288,7 +24288,7 @@
       "title": "Celta Vigo - Bournemouth",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-85",
         "name": "Celta Vigo",
@@ -24311,7 +24311,7 @@
       "title": "Dinamo Zagabria - Bayer Leverkusen",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-597",
         "name": "Dinamo Zagreb",
@@ -24334,7 +24334,7 @@
       "title": "Marsiglia - Levski Sofia",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-176",
         "name": "Marseille",
@@ -24357,7 +24357,7 @@
       "title": "Olympiacos - Milan",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-435",
         "name": "Olympiacos",
@@ -24380,7 +24380,7 @@
       "title": "Salisburgo - Ararat-Armenia",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-2790",
         "name": "RB Salzburg",
@@ -24403,7 +24403,7 @@
       "title": "Union Saint-Gilloise - Lech Poznań",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-5807",
         "name": "Union St.-Gilloise",
@@ -24426,7 +24426,7 @@
       "title": "Viktoria Plzeň - Benfica",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-11706",
         "name": "Viktoria Plzen",

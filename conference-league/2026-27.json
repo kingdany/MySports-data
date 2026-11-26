@@ -1,7 +1,7 @@
 {
   "competition": "conference-league",
   "season": "2026-27",
-  "generatedAt": "2026-11-26T17:01:23.573982+00:00",
+  "generatedAt": "2026-11-26T19:01:22.5903488+00:00",
   "events": [
     {
       "id": "conference-league-2026-27-401915855",
@@ -17242,7 +17242,7 @@
       "title": "Kairat Almaty - Mjällby",
       "session": "match",
       "startsAt": "2026-11-26T15:30:00+00:00",
-      "status": "live",
+      "status": "finished",
       "homeTeam": {
         "id": "espn-2528",
         "name": "Kairat Almaty",
@@ -17255,7 +17255,240 @@
         "shortName": "Mjällby",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png"
       },
-      "videos": []
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 14,
+            "type": "goal",
+            "side": "home",
+            "player": "Erkin Tapalov",
+            "short": "Tapalov"
+          },
+          {
+            "minute": 55,
+            "type": "yellow",
+            "side": "home",
+            "player": "Luis Mata",
+            "short": "Mata"
+          },
+          {
+            "minute": 72,
+            "type": "yellow",
+            "side": "away",
+            "player": "Viktor Gustafson",
+            "short": "Gustafson"
+          },
+          {
+            "minute": 76,
+            "type": "yellow",
+            "side": "home",
+            "player": "Damir Kasabulat",
+            "short": "Kasabulat"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Temirlan Anarbekov",
+              "short": "Anarbekov"
+            },
+            {
+              "number": 14,
+              "name": "Alyaksandr Martynovich",
+              "short": "Martynovich"
+            },
+            {
+              "number": 4,
+              "name": "Damir Kasabulat",
+              "short": "Kasabulat"
+            },
+            {
+              "number": 25,
+              "name": "Aleksandr Shirobokov",
+              "short": "Shirobokov"
+            },
+            {
+              "number": 19,
+              "name": "Oiva Jukkola",
+              "short": "Jukkola"
+            },
+            {
+              "number": 13,
+              "name": "Jaakko Oksanen",
+              "short": "Oksanen"
+            },
+            {
+              "number": 22,
+              "name": "Gustavo Mendonça",
+              "short": "Mendonça"
+            },
+            {
+              "number": 3,
+              "name": "Luis Mata",
+              "short": "Mata"
+            },
+            {
+              "number": 20,
+              "name": "Erkin Tapalov",
+              "short": "Tapalov"
+            },
+            {
+              "number": 28,
+              "name": "Marc Gual",
+              "short": "Gual"
+            },
+            {
+              "number": 9,
+              "name": "Edmilson"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 59,
+              "in": {
+                "number": 17,
+                "name": "Azamat Tuyakbayev",
+                "short": "Tuyakbayev"
+              },
+              "out": {
+                "number": 19,
+                "name": "Oiva Jukkola",
+                "short": "Jukkola"
+              }
+            },
+            {
+              "minute": 73,
+              "in": {
+                "number": 24,
+                "name": "Aleksandr Mrynskiy",
+                "short": "Mrynskiy"
+              },
+              "out": {
+                "number": 20,
+                "name": "Erkin Tapalov",
+                "short": "Tapalov"
+              }
+            },
+            {
+              "minute": 73,
+              "in": {
+                "number": 81,
+                "name": "Ismail Bekbolat",
+                "short": "Bekbolat"
+              },
+              "out": {
+                "number": 9,
+                "name": "Edmilson"
+              }
+            },
+            {
+              "minute": 87,
+              "in": {
+                "number": 15,
+                "name": "Mansur Birkurmanov",
+                "short": "Birkurmanov"
+              },
+              "out": {
+                "number": 28,
+                "name": "Marc Gual",
+                "short": "Gual"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 35,
+              "name": "Alexander Lundin",
+              "short": "Lundin"
+            },
+            {
+              "number": 4,
+              "name": "Axel Norén",
+              "short": "Norén"
+            },
+            {
+              "number": 24,
+              "name": "Tom Pettersson",
+              "short": "Pettersson"
+            },
+            {
+              "number": 5,
+              "name": "Abdullah Iqbal",
+              "short": "Iqbal"
+            },
+            {
+              "number": 3,
+              "name": "Martin Agnarsson",
+              "short": "Agnarsson"
+            },
+            {
+              "number": 14,
+              "name": "Villiam Granath",
+              "short": "Granath"
+            },
+            {
+              "number": 22,
+              "name": "Jesper Gustavsson",
+              "short": "Gustavsson"
+            },
+            {
+              "number": 39,
+              "name": "Romeo Leandersson",
+              "short": "Leandersson"
+            },
+            {
+              "number": 7,
+              "name": "Viktor Gustafson",
+              "short": "Gustafson"
+            },
+            {
+              "number": 9,
+              "name": "Ali Youssef",
+              "short": "Youssef"
+            },
+            {
+              "number": 10,
+              "name": "Jeppe Kjaer Jensen",
+              "short": "Jensen"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 64,
+              "in": {
+                "number": 23,
+                "name": "Áki Debes Samuelsen",
+                "short": "Samuelsen"
+              },
+              "out": {
+                "number": 39,
+                "name": "Romeo Leandersson",
+                "short": "Leandersson"
+              }
+            },
+            {
+              "minute": 64,
+              "in": {
+                "number": 25,
+                "name": "Max Nielsen",
+                "short": "Nielsen"
+              },
+              "out": {
+                "number": 3,
+                "name": "Martin Agnarsson",
+                "short": "Agnarsson"
+              }
+            }
+          ]
+        }
+      }
     },
     {
       "id": "conference-league-2026-27-401915815",
@@ -17265,7 +17498,7 @@
       "title": "Ajax - Thun",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-139",
         "name": "Ajax Amsterdam",
@@ -17288,7 +17521,7 @@
       "title": "Brighton - Universitatea Craiova",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-331",
         "name": "Brighton & Hove Albion",
@@ -17311,7 +17544,7 @@
       "title": "Egnatia - Lincoln Red Imps",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-21943",
         "name": "Egnatia",
@@ -17334,7 +17567,7 @@
       "title": "Hearts - Monaco",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-262",
         "name": "Heart of Midlothian",
@@ -17357,7 +17590,7 @@
       "title": "Iberia 1999 - Getafe",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-20025",
         "name": "Iberia 1999",
@@ -17380,7 +17613,7 @@
       "title": "Jablonec - Lugano",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-7922",
         "name": "Jablonec",
@@ -17403,7 +17636,7 @@
       "title": "Kauno Žalgiris - Riga FC",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-20028",
         "name": "Kauno Zalgiris",
@@ -17426,7 +17659,7 @@
       "title": "Pafos - Midtjylland",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-22281",
         "name": "Pafos",
@@ -17449,7 +17682,7 @@
       "title": "Brann - Aarhus",
       "session": "match",
       "startsAt": "2026-11-26T17:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "espn-620",
         "name": "SK Brann",
@@ -18593,10 +18826,10 @@
           "code": "MJA",
           "points": 7,
           "wins": 2,
-          "played": 3,
+          "played": 4,
           "draws": 1,
-          "losses": 0,
-          "goalDifference": 4,
+          "losses": 1,
+          "goalDifference": 3,
           "zone": "playoff"
         },
         {
@@ -18667,6 +18900,19 @@
         {
           "pos": 15,
           "posText": "15",
+          "name": "Kairat Almaty",
+          "code": "KAI",
+          "points": 5,
+          "wins": 1,
+          "played": 4,
+          "draws": 2,
+          "losses": 1,
+          "goalDifference": -3,
+          "zone": "playoff"
+        },
+        {
+          "pos": 16,
+          "posText": "16",
           "name": "Stella Rossa",
           "code": "RSB",
           "points": 4,
@@ -18678,8 +18924,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 16,
-          "posText": "16",
+          "pos": 17,
+          "posText": "17",
           "name": "Atalanta",
           "code": "ATA",
           "points": 4,
@@ -18691,8 +18937,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 17,
-          "posText": "17",
+          "pos": 18,
+          "posText": "18",
           "name": "Braga",
           "code": "SCB",
           "points": 4,
@@ -18704,8 +18950,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 18,
-          "posText": "18",
+          "pos": 19,
+          "posText": "19",
           "name": "Gent",
           "code": "GENT",
           "points": 4,
@@ -18717,8 +18963,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 19,
-          "posText": "19",
+          "pos": 20,
+          "posText": "20",
           "name": "Riga FC",
           "code": "RIG",
           "points": 3,
@@ -18730,8 +18976,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 20,
-          "posText": "20",
+          "pos": 21,
+          "posText": "21",
           "name": "Thun",
           "code": "THUN",
           "points": 3,
@@ -18743,8 +18989,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 21,
-          "posText": "21",
+          "pos": 22,
+          "posText": "22",
           "name": "Borac Banja Luka",
           "code": "BBL",
           "points": 3,
@@ -18756,8 +19002,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 22,
-          "posText": "22",
+          "pos": 23,
+          "posText": "23",
           "name": "Lincoln Red Imps",
           "code": "LRI",
           "points": 3,
@@ -18769,8 +19015,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 23,
-          "posText": "23",
+          "pos": 24,
+          "posText": "24",
           "name": "Jablonec",
           "code": "JABL",
           "points": 2,
@@ -18782,8 +19028,8 @@
           "zone": "playoff"
         },
         {
-          "pos": 24,
-          "posText": "24",
+          "pos": 25,
+          "posText": "25",
           "name": "Aarhus",
           "code": "AGF",
           "points": 2,
@@ -18791,12 +19037,11 @@
           "played": 3,
           "draws": 2,
           "losses": 1,
-          "goalDifference": -1,
-          "zone": "playoff"
+          "goalDifference": -1
         },
         {
-          "pos": 25,
-          "posText": "25",
+          "pos": 26,
+          "posText": "26",
           "name": "Nordsjælland",
           "code": "FCN",
           "points": 2,
@@ -18807,8 +19052,8 @@
           "goalDifference": -2
         },
         {
-          "pos": 26,
-          "posText": "26",
+          "pos": 27,
+          "posText": "27",
           "name": "Egnatia",
           "code": "EGN",
           "points": 2,
@@ -18817,18 +19062,6 @@
           "draws": 2,
           "losses": 1,
           "goalDifference": -2
-        },
-        {
-          "pos": 27,
-          "posText": "27",
-          "name": "Kairat Almaty",
-          "code": "KAI",
-          "points": 2,
-          "wins": 0,
-          "played": 3,
-          "draws": 2,
-          "losses": 1,
-          "goalDifference": -4
         },
         {
           "pos": 28,

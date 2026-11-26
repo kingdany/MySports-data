@@ -1,6 +1,262 @@
 {
-  "generatedAt": "2026-11-26T17:01:23.573982+00:00",
+  "generatedAt": "2026-11-26T19:01:22.5903488+00:00",
   "events": [
+    {
+      "id": "conference-league-2026-27-401915816",
+      "competition": "conference-league",
+      "season": "2026-27",
+      "round": 4,
+      "title": "Kairat Almaty - Mjällby",
+      "session": "match",
+      "startsAt": "2026-11-26T15:30:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-2528",
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "awayTeam": {
+        "id": "espn-20301",
+        "name": "Mjällby AIF",
+        "shortName": "Mjällby",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png"
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 14,
+            "type": "goal",
+            "side": "home",
+            "player": "Erkin Tapalov",
+            "short": "Tapalov"
+          },
+          {
+            "minute": 55,
+            "type": "yellow",
+            "side": "home",
+            "player": "Luis Mata",
+            "short": "Mata"
+          },
+          {
+            "minute": 72,
+            "type": "yellow",
+            "side": "away",
+            "player": "Viktor Gustafson",
+            "short": "Gustafson"
+          },
+          {
+            "minute": 76,
+            "type": "yellow",
+            "side": "home",
+            "player": "Damir Kasabulat",
+            "short": "Kasabulat"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Temirlan Anarbekov",
+              "short": "Anarbekov"
+            },
+            {
+              "number": 14,
+              "name": "Alyaksandr Martynovich",
+              "short": "Martynovich"
+            },
+            {
+              "number": 4,
+              "name": "Damir Kasabulat",
+              "short": "Kasabulat"
+            },
+            {
+              "number": 25,
+              "name": "Aleksandr Shirobokov",
+              "short": "Shirobokov"
+            },
+            {
+              "number": 19,
+              "name": "Oiva Jukkola",
+              "short": "Jukkola"
+            },
+            {
+              "number": 13,
+              "name": "Jaakko Oksanen",
+              "short": "Oksanen"
+            },
+            {
+              "number": 22,
+              "name": "Gustavo Mendonça",
+              "short": "Mendonça"
+            },
+            {
+              "number": 3,
+              "name": "Luis Mata",
+              "short": "Mata"
+            },
+            {
+              "number": 20,
+              "name": "Erkin Tapalov",
+              "short": "Tapalov"
+            },
+            {
+              "number": 28,
+              "name": "Marc Gual",
+              "short": "Gual"
+            },
+            {
+              "number": 9,
+              "name": "Edmilson"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 59,
+              "in": {
+                "number": 17,
+                "name": "Azamat Tuyakbayev",
+                "short": "Tuyakbayev"
+              },
+              "out": {
+                "number": 19,
+                "name": "Oiva Jukkola",
+                "short": "Jukkola"
+              }
+            },
+            {
+              "minute": 73,
+              "in": {
+                "number": 24,
+                "name": "Aleksandr Mrynskiy",
+                "short": "Mrynskiy"
+              },
+              "out": {
+                "number": 20,
+                "name": "Erkin Tapalov",
+                "short": "Tapalov"
+              }
+            },
+            {
+              "minute": 73,
+              "in": {
+                "number": 81,
+                "name": "Ismail Bekbolat",
+                "short": "Bekbolat"
+              },
+              "out": {
+                "number": 9,
+                "name": "Edmilson"
+              }
+            },
+            {
+              "minute": 87,
+              "in": {
+                "number": 15,
+                "name": "Mansur Birkurmanov",
+                "short": "Birkurmanov"
+              },
+              "out": {
+                "number": 28,
+                "name": "Marc Gual",
+                "short": "Gual"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 35,
+              "name": "Alexander Lundin",
+              "short": "Lundin"
+            },
+            {
+              "number": 4,
+              "name": "Axel Norén",
+              "short": "Norén"
+            },
+            {
+              "number": 24,
+              "name": "Tom Pettersson",
+              "short": "Pettersson"
+            },
+            {
+              "number": 5,
+              "name": "Abdullah Iqbal",
+              "short": "Iqbal"
+            },
+            {
+              "number": 3,
+              "name": "Martin Agnarsson",
+              "short": "Agnarsson"
+            },
+            {
+              "number": 14,
+              "name": "Villiam Granath",
+              "short": "Granath"
+            },
+            {
+              "number": 22,
+              "name": "Jesper Gustavsson",
+              "short": "Gustavsson"
+            },
+            {
+              "number": 39,
+              "name": "Romeo Leandersson",
+              "short": "Leandersson"
+            },
+            {
+              "number": 7,
+              "name": "Viktor Gustafson",
+              "short": "Gustafson"
+            },
+            {
+              "number": 9,
+              "name": "Ali Youssef",
+              "short": "Youssef"
+            },
+            {
+              "number": 10,
+              "name": "Jeppe Kjaer Jensen",
+              "short": "Jensen"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 64,
+              "in": {
+                "number": 23,
+                "name": "Áki Debes Samuelsen",
+                "short": "Samuelsen"
+              },
+              "out": {
+                "number": 39,
+                "name": "Romeo Leandersson",
+                "short": "Leandersson"
+              }
+            },
+            {
+              "minute": 64,
+              "in": {
+                "number": 25,
+                "name": "Max Nielsen",
+                "short": "Nielsen"
+              },
+              "out": {
+                "number": 3,
+                "name": "Martin Agnarsson",
+                "short": "Agnarsson"
+              }
+            }
+          ]
+        }
+      }
+    },
     {
       "id": "champions-league-2026-27-575406",
       "competition": "champions-league",
