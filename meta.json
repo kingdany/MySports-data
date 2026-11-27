@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:37:38.6736662+00:00",
+  "generatedAt": "2026-11-27T09:09:02.0794351+00:00",
   "competitions": [
     {
       "id": "f1",
@@ -330,6 +330,17 @@
         "2022-23",
         "2020-21",
         "2018-19"
+      ],
+      "group": "national"
+    },
+    {
+      "id": "qualificazioni-europei",
+      "sport": "football",
+      "name": "Qualificazioni Europei",
+      "shortName": "Qual. Europei",
+      "currentSeason": "2024",
+      "seasons": [
+        "2024"
       ],
       "group": "national"
     },
