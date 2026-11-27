@@ -1,7 +1,7 @@
 {
   "competition": "europa-league",
   "season": "2026-27",
-  "generatedAt": "2026-11-26T23:01:13.1163799+00:00",
+  "generatedAt": "2026-11-27T03:01:18.2619399+00:00",
   "events": [
     {
       "id": "europa-league-2026-27-401915594",
@@ -27056,7 +27056,18 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "1143240",
+          "title": "Crystal Palace-Real Sociedad 2-1: gol e highlights",
+          "thumbnailUrl": "https://videoplatform.sky.it/captures/494/2026/11/27/1143240/1143240_1795734569615_thumb_494.0000001.jpg",
+          "publishedAt": "2026-11-27T00:11:18+01:00",
+          "source": "Sky Video",
+          "duration": "0:42",
+          "embeddable": false,
+          "url": "https://video.sky.it/sport/calcio/europa-league/video/crystal-palace-real-sociedad-gol-highlights-1143240"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -28306,7 +28317,18 @@
       },
       "homeScore": 3,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "1143249",
+          "title": "NEC Nijmegen-Rennes 3-1: gol e highlights",
+          "thumbnailUrl": "https://videoplatform.sky.it/captures/494/2026/11/27/1143249/1143249_1795735092184_thumb_494.0000001.jpg",
+          "publishedAt": "2026-11-27T00:22:47+01:00",
+          "source": "Sky Video",
+          "duration": "0:57",
+          "embeddable": false,
+          "url": "https://video.sky.it/sport/calcio/europa-league/video/nec-nijmegen-rennes-gol-highlights-1143249"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -28661,7 +28683,18 @@
       },
       "homeScore": 1,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "1143241",
+          "title": "OFI Creta-Anderlecht 1-3: gol e highlights",
+          "thumbnailUrl": "https://videoplatform.sky.it/captures/494/2026/11/27/1143241/1143241_1795734581315_thumb_494.0000001.jpg",
+          "publishedAt": "2026-11-27T00:12:51+01:00",
+          "source": "Sky Video",
+          "duration": "0:41",
+          "embeddable": false,
+          "url": "https://video.sky.it/sport/calcio/europa-league/video/ofi-creta-anderlecht-gol-highlights-1143241"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -29023,7 +29056,18 @@
       },
       "homeScore": 2,
       "awayScore": 4,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "1143243",
+          "title": "Sparta Praga-AZ Alkmaar 2-4: gol e highlights",
+          "thumbnailUrl": "https://videoplatform.sky.it/captures/494/2026/11/27/1143243/1143243_1795734601718_thumb_494.0000001.jpg",
+          "publishedAt": "2026-11-27T00:16:26+01:00",
+          "source": "Sky Video",
+          "duration": "1:14",
+          "embeddable": false,
+          "url": "https://video.sky.it/sport/calcio/europa-league/video/sparta-praga-az-alkmaar-gol-highlights-1143243"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -29363,7 +29407,18 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "1143237",
+          "title": "Sunderland-Jagiellonia 1-1: gol e highlights",
+          "thumbnailUrl": "https://videoplatform.sky.it/captures/494/2026/11/26/1143237/1143237_1795734415243_thumb_494.0000001.jpg",
+          "publishedAt": "2026-11-27T00:09:11+01:00",
+          "source": "Sky Video",
+          "duration": "0:27",
+          "embeddable": false,
+          "url": "https://video.sky.it/sport/calcio/europa-league/video/sunderland-jagiellonia-gol-highlights-1143237"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -29680,7 +29735,18 @@
       },
       "homeScore": 1,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "1143242",
+          "title": "Torreense-Celtic 1-2: gol e highlights",
+          "thumbnailUrl": "https://videoplatform.sky.it/captures/494/2026/11/27/1143242/1143242_1795734591074_thumb_494.0000001.jpg",
+          "publishedAt": "2026-11-27T00:14:22+01:00",
+          "source": "Sky Video",
+          "duration": "0:39",
+          "embeddable": false,
+          "url": "https://video.sky.it/sport/calcio/europa-league/video/torreense-celtic-gol-highlights-1143242"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -30006,7 +30072,18 @@
       },
       "homeScore": 3,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "1143245",
+          "title": "Hoffenheim-Sturm Graz 3-1: gol e highlights",
+          "thumbnailUrl": "https://videoplatform.sky.it/captures/494/2026/11/27/1143245/1143245_1795734612382_thumb_494.0000001.jpg",
+          "publishedAt": "2026-11-27T00:17:53+01:00",
+          "source": "Sky Video",
+          "duration": "0:50",
+          "embeddable": false,
+          "url": "https://video.sky.it/sport/calcio/europa-league/video/hoffenheim-sturm-graz-gol-highlights-1143245"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
