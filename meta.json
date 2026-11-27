@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T09:09:02.0794351+00:00",
+  "generatedAt": "2026-11-27T11:01:23.6680853+00:00",
   "competitions": [
     {
       "id": "f1",
@@ -337,7 +337,7 @@
       "id": "qualificazioni-europei",
       "sport": "football",
       "name": "Qualificazioni Europei",
-      "shortName": "Qual. Europei",
+      "shortName": "Q.EURO",
       "currentSeason": "2024",
       "seasons": [
         "2024"
@@ -357,6 +357,17 @@
         "2012",
         "2008",
         "2004"
+      ],
+      "group": "national"
+    },
+    {
+      "id": "qualificazioni-mondiali",
+      "sport": "football",
+      "name": "Qualificazioni Mondiali",
+      "shortName": "Q.WC",
+      "currentSeason": "2026",
+      "seasons": [
+        "2026"
       ],
       "group": "national"
     },

@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-27T07:01:26.1372144+00:00",
+  "generatedAt": "2026-11-27T11:01:23.6680853+00:00",
   "events": [
-    {
-      "id": "motogp-2026-22-fp1",
-      "competition": "motogp",
-      "season": "2026",
-      "round": 22,
-      "title": "Grand Prix of Valencia",
-      "session": "fp1",
-      "startsAt": "2026-11-27T09:45:00+00:00",
-      "venue": "Circuit Ricardo Tormo",
-      "city": "Cheste",
-      "country": "Spain",
-      "status": "scheduled",
-      "videos": []
-    },
     {
       "id": "f1-2026-22-fp1",
       "competition": "f1",

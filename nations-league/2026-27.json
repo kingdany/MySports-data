@@ -1,7 +1,7 @@
 {
   "competition": "nations-league",
   "season": "2026-27",
-  "generatedAt": "2026-11-27T07:01:26.1372144+00:00",
+  "generatedAt": "2026-11-27T11:01:23.6680853+00:00",
   "events": [
     {
       "id": "nations-league-2026-27-401861047",
@@ -16727,7 +16727,7 @@
       "id": "nations-league-2026-27-401861093",
       "competition": "nations-league",
       "season": "2026-27",
-      "round": 2,
+      "round": 3,
       "title": "Azerbaigian - Liechtenstein",
       "session": "match",
       "startsAt": "2026-10-01T16:00:00+00:00",
@@ -18292,7 +18292,7 @@
       "id": "nations-league-2026-27-401861099",
       "competition": "nations-league",
       "season": "2026-27",
-      "round": 2,
+      "round": 3,
       "title": "Malta - Gibilterra",
       "session": "match",
       "startsAt": "2026-10-01T18:45:00+00:00",
@@ -25174,7 +25174,7 @@
       "id": "nations-league-2026-27-401861119",
       "competition": "nations-league",
       "season": "2026-27",
-      "round": 3,
+      "round": 4,
       "title": "Azerbaigian - Lituania",
       "session": "match",
       "startsAt": "2026-10-04T13:00:00+00:00",
@@ -25806,7 +25806,7 @@
       "id": "nations-league-2026-27-401861120",
       "competition": "nations-league",
       "season": "2026-27",
-      "round": 3,
+      "round": 4,
       "title": "Malta - Andorra",
       "session": "match",
       "startsAt": "2026-10-04T16:00:00+00:00",
@@ -36335,7 +36335,7 @@
       "id": "nations-league-2026-27-401861155",
       "competition": "nations-league",
       "season": "2026-27",
-      "round": 4,
+      "round": 5,
       "title": "Andorra - Gibilterra",
       "session": "match",
       "startsAt": "2026-11-13T19:45:00+00:00",
@@ -37033,7 +37033,7 @@
       "id": "nations-league-2026-27-401861153",
       "competition": "nations-league",
       "season": "2026-27",
-      "round": 4,
+      "round": 5,
       "title": "Liechtenstein - Azerbaigian",
       "session": "match",
       "startsAt": "2026-11-13T19:45:00+00:00",
@@ -45580,7 +45580,7 @@
       "id": "nations-league-2026-27-401861184",
       "competition": "nations-league",
       "season": "2026-27",
-      "round": 4,
+      "round": 6,
       "title": "Lituania - Liechtenstein",
       "session": "match",
       "startsAt": "2026-11-16T17:00:00+00:00",
@@ -46242,7 +46242,7 @@
       "id": "nations-league-2026-27-401861179",
       "competition": "nations-league",
       "season": "2026-27",
-      "round": 4,
+      "round": 6,
       "title": "Gibilterra - Malta",
       "session": "match",
       "startsAt": "2026-11-16T19:45:00+00:00",
@@ -50685,6 +50685,7 @@
           "draws": 1,
           "losses": 1,
           "goalDifference": 4,
+          "zone": "qualified",
           "group": "Gruppo A1"
         },
         {
@@ -50698,6 +50699,7 @@
           "draws": 0,
           "losses": 2,
           "goalDifference": 5,
+          "zone": "qualified",
           "group": "Gruppo A1"
         },
         {
@@ -50724,6 +50726,7 @@
           "draws": 0,
           "losses": 6,
           "goalDifference": -11,
+          "zone": "relegation",
           "group": "Gruppo A1"
         },
         {
@@ -50737,6 +50740,7 @@
           "draws": 2,
           "losses": 1,
           "goalDifference": 8,
+          "zone": "qualified",
           "group": "Gruppo A2"
         },
         {
@@ -50750,6 +50754,7 @@
           "draws": 2,
           "losses": 1,
           "goalDifference": 4,
+          "zone": "qualified",
           "group": "Gruppo A2"
         },
         {
@@ -50776,6 +50781,7 @@
           "draws": 0,
           "losses": 6,
           "goalDifference": -8,
+          "zone": "playoff",
           "group": "Gruppo A2"
         },
         {
@@ -50789,6 +50795,7 @@
           "draws": 0,
           "losses": 1,
           "goalDifference": 13,
+          "zone": "qualified",
           "group": "Gruppo A3"
         },
         {
@@ -50802,6 +50809,7 @@
           "draws": 0,
           "losses": 1,
           "goalDifference": 8,
+          "zone": "qualified",
           "group": "Gruppo A3"
         },
         {
@@ -50815,6 +50823,7 @@
           "draws": 0,
           "losses": 4,
           "goalDifference": -10,
+          "zone": "playoff",
           "group": "Gruppo A3"
         },
         {
@@ -50828,6 +50837,7 @@
           "draws": 0,
           "losses": 6,
           "goalDifference": -11,
+          "zone": "relegation",
           "group": "Gruppo A3"
         },
         {
@@ -50841,6 +50851,7 @@
           "draws": 0,
           "losses": 1,
           "goalDifference": 3,
+          "zone": "qualified",
           "group": "Gruppo A4"
         },
         {
@@ -50854,6 +50865,7 @@
           "draws": 0,
           "losses": 3,
           "goalDifference": 1,
+          "zone": "qualified",
           "group": "Gruppo A4"
         },
         {
@@ -50867,6 +50879,7 @@
           "draws": 0,
           "losses": 3,
           "goalDifference": 2,
+          "zone": "playoff",
           "group": "Gruppo A4"
         },
         {
@@ -50880,6 +50893,7 @@
           "draws": 0,
           "losses": 5,
           "goalDifference": -6,
+          "zone": "playoff",
           "group": "Gruppo A4"
         },
         {
@@ -50893,6 +50907,7 @@
           "draws": 1,
           "losses": 0,
           "goalDifference": 14,
+          "zone": "promotion",
           "group": "Gruppo B1"
         },
         {
@@ -50906,6 +50921,7 @@
           "draws": 2,
           "losses": 1,
           "goalDifference": 5,
+          "zone": "playoff",
           "group": "Gruppo B1"
         },
         {
@@ -50932,6 +50948,7 @@
           "draws": 0,
           "losses": 6,
           "goalDifference": -14,
+          "zone": "playoff",
           "group": "Gruppo B1"
         },
         {
@@ -50945,6 +50962,7 @@
           "draws": 3,
           "losses": 0,
           "goalDifference": 5,
+          "zone": "promotion",
           "group": "Gruppo B2"
         },
         {
@@ -50958,6 +50976,7 @@
           "draws": 2,
           "losses": 1,
           "goalDifference": 3,
+          "zone": "playoff",
           "group": "Gruppo B2"
         },
         {
@@ -50984,6 +51003,7 @@
           "draws": 2,
           "losses": 4,
           "goalDifference": -5,
+          "zone": "playoff",
           "group": "Gruppo B2"
         },
         {
@@ -50997,6 +51017,7 @@
           "draws": 3,
           "losses": 0,
           "goalDifference": 5,
+          "zone": "promotion",
           "group": "Gruppo B3"
         },
         {
@@ -51010,6 +51031,7 @@
           "draws": 2,
           "losses": 2,
           "goalDifference": 4,
+          "zone": "playoff",
           "group": "Gruppo B3"
         },
         {
@@ -51036,6 +51058,7 @@
           "draws": 4,
           "losses": 2,
           "goalDifference": -5,
+          "zone": "playoff",
           "group": "Gruppo B3"
         },
         {
@@ -51049,6 +51072,7 @@
           "draws": 2,
           "losses": 0,
           "goalDifference": 5,
+          "zone": "promotion",
           "group": "Gruppo B4"
         },
         {
@@ -51062,6 +51086,7 @@
           "draws": 2,
           "losses": 1,
           "goalDifference": 3,
+          "zone": "playoff",
           "group": "Gruppo B4"
         },
         {
@@ -51088,6 +51113,7 @@
           "draws": 0,
           "losses": 5,
           "goalDifference": -10,
+          "zone": "playoff",
           "group": "Gruppo B4"
         },
         {
@@ -51101,6 +51127,7 @@
           "draws": 0,
           "losses": 1,
           "goalDifference": 9,
+          "zone": "promotion",
           "group": "Gruppo C1"
         },
         {
@@ -51114,6 +51141,7 @@
           "draws": 1,
           "losses": 2,
           "goalDifference": 3,
+          "zone": "playoff",
           "group": "Gruppo C1"
         },
         {
@@ -51153,6 +51181,7 @@
           "draws": 1,
           "losses": 0,
           "goalDifference": 7,
+          "zone": "promotion",
           "group": "Gruppo C2"
         },
         {
@@ -51166,6 +51195,7 @@
           "draws": 2,
           "losses": 2,
           "goalDifference": -1,
+          "zone": "playoff",
           "group": "Gruppo C2"
         },
         {
@@ -51205,6 +51235,7 @@
           "draws": 3,
           "losses": 0,
           "goalDifference": 7,
+          "zone": "promotion",
           "group": "Gruppo C3"
         },
         {
@@ -51218,6 +51249,7 @@
           "draws": 5,
           "losses": 0,
           "goalDifference": 1,
+          "zone": "playoff",
           "group": "Gruppo C3"
         },
         {
@@ -51257,6 +51289,7 @@
           "draws": 2,
           "losses": 0,
           "goalDifference": 14,
+          "zone": "promotion",
           "group": "Gruppo C4"
         },
         {
@@ -51270,6 +51303,7 @@
           "draws": 3,
           "losses": 0,
           "goalDifference": 3,
+          "zone": "playoff",
           "group": "Gruppo C4"
         },
         {
@@ -51309,6 +51343,7 @@
           "draws": 2,
           "losses": 0,
           "goalDifference": 2,
+          "zone": "promotion",
           "group": "Gruppo D1"
         },
         {
@@ -51322,6 +51357,7 @@
           "draws": 1,
           "losses": 2,
           "goalDifference": 0,
+          "zone": "promotion",
           "group": "Gruppo D1"
         },
         {
@@ -51335,6 +51371,7 @@
           "draws": 3,
           "losses": 1,
           "goalDifference": -2,
+          "zone": "promotion",
           "group": "Gruppo D1"
         },
         {
@@ -51348,6 +51385,7 @@
           "draws": 2,
           "losses": 0,
           "goalDifference": 2,
+          "zone": "promotion",
           "group": "Gruppo D2"
         },
         {
@@ -51361,6 +51399,7 @@
           "draws": 1,
           "losses": 1,
           "goalDifference": 2,
+          "zone": "promotion",
           "group": "Gruppo D2"
         },
         {
@@ -51374,6 +51413,7 @@
           "draws": 1,
           "losses": 3,
           "goalDifference": -4,
+          "zone": "promotion",
           "group": "Gruppo D2"
         }
       ]

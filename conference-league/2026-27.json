@@ -1,7 +1,7 @@
 {
   "competition": "conference-league",
   "season": "2026-27",
-  "generatedAt": "2026-11-27T07:01:26.1372144+00:00",
+  "generatedAt": "2026-11-27T11:01:23.6680853+00:00",
   "events": [
     {
       "id": "conference-league-2026-27-401915855",
@@ -24412,29 +24412,15 @@
         {
           "pos": 2,
           "posText": "2",
-          "name": "Albian Ajeti",
-          "team": "Lugano",
-          "points": 3
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Cyriel Dessers",
-          "team": "Panathinaikos",
-          "points": 3
-        },
-        {
-          "pos": 2,
-          "posText": "2",
-          "name": "Franculino Djú",
-          "team": "Trabzonspor",
-          "points": 3
-        },
-        {
-          "pos": 2,
-          "posText": "2",
           "name": "Mohamed Salah",
           "team": "Trabzonspor",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
+          "name": "Albian Ajeti",
+          "team": "Lugano",
           "points": 3
         },
         {
@@ -24447,85 +24433,36 @@
         {
           "pos": 2,
           "posText": "2",
+          "name": "Cyriel Dessers",
+          "team": "Panathinaikos",
+          "points": 3
+        },
+        {
+          "pos": 2,
+          "posText": "2",
           "name": "Tolu Arokodare",
           "team": "Ajax",
           "points": 3
         },
         {
+          "pos": 2,
+          "posText": "2",
+          "name": "Franculino Djú",
+          "team": "Trabzonspor",
+          "points": 3
+        },
+        {
           "pos": 3,
           "posText": "3",
-          "name": "Alexander Lind",
-          "team": "Nordsjælland",
+          "name": "Santiago Godoy",
+          "team": "CSKA Sofia",
           "points": 2
         },
         {
           "pos": 3,
           "posText": "3",
-          "name": "Andreas Cornelius",
-          "team": "Copenaghen",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Ansu Fati",
-          "team": "Monaco",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Assad Al-Hamlawi",
-          "team": "Universitatea Craiova",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Borja Arellano Monedero",
-          "team": "Inter Club d'Escaldes",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Daouda Weidmann",
-          "team": "Twente",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Davy Klaassen",
-          "team": "Ajax",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Elmin Rastoder",
-          "team": "Panathinaikos",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Folarin Balogun",
-          "team": "Monaco",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Gabriel Teixeira",
-          "team": "Pafos",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Georginio Rutter",
-          "team": "Brighton",
+          "name": "Marc Gual",
+          "team": "Kairat Almaty",
           "points": 2
         },
         {
@@ -24538,7 +24475,84 @@
         {
           "pos": 3,
           "posText": "3",
+          "name": "Kings Kangwa",
+          "team": "Panathinaikos",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Vicente Taborda",
+          "team": "Panathinaikos",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Jacob Bergstrom",
+          "team": "Mjällby",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Matej Deket",
+          "team": "Borac Banja Luka",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
           "name": "Ibrahim Osman",
+          "team": "Brighton",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Daouda Weidmann",
+          "team": "Twente",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Elmin Rastoder",
+          "team": "Panathinaikos",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Marcos Leonardo",
+          "team": "Ajax",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Mohamed Elyounoussi",
+          "team": "Copenaghen",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Borja Arellano Monedero",
+          "team": "Inter Club d'Escaldes",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Timi Elsnik",
+          "team": "Stella Rossa",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Georginio Rutter",
           "team": "Brighton",
           "points": 2
         },
@@ -24552,43 +24566,50 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Jacob Bergstrom",
-          "team": "Mjällby",
+          "name": "Alexander Lind",
+          "team": "Nordsjælland",
           "points": 2
         },
         {
           "pos": 3,
           "posText": "3",
-          "name": "Kings Kangwa",
-          "team": "Panathinaikos",
+          "name": "Paris Brunner",
+          "team": "Monaco",
           "points": 2
         },
         {
           "pos": 3,
           "posText": "3",
-          "name": "Marc Gual",
-          "team": "Kairat Almaty",
+          "name": "Yanis Cimignani",
+          "team": "Lugano",
           "points": 2
         },
         {
           "pos": 3,
           "posText": "3",
-          "name": "Marcos Leonardo",
+          "name": "Davy Klaassen",
           "team": "Ajax",
           "points": 2
         },
         {
           "pos": 3,
           "posText": "3",
-          "name": "Matej Deket",
-          "team": "Borac Banja Luka",
+          "name": "Assad Al-Hamlawi",
+          "team": "Universitatea Craiova",
           "points": 2
         },
         {
           "pos": 3,
           "posText": "3",
-          "name": "Mohamed Elyounoussi",
-          "team": "Copenaghen",
+          "name": "Gabriel Teixeira",
+          "team": "Pafos",
+          "points": 2
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Thomas van den Belt",
+          "team": "Twente",
           "points": 2
         },
         {
@@ -24601,7 +24622,7 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Paris Brunner",
+          "name": "Folarin Balogun",
           "team": "Monaco",
           "points": 2
         },
@@ -24615,36 +24636,15 @@
         {
           "pos": 3,
           "posText": "3",
-          "name": "Santiago Godoy",
-          "team": "CSKA Sofia",
+          "name": "Ansu Fati",
+          "team": "Monaco",
           "points": 2
         },
         {
           "pos": 3,
           "posText": "3",
-          "name": "Thomas van den Belt",
-          "team": "Twente",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Timi Elsnik",
-          "team": "Stella Rossa",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Vicente Taborda",
-          "team": "Panathinaikos",
-          "points": 2
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Yanis Cimignani",
-          "team": "Lugano",
+          "name": "Andreas Cornelius",
+          "team": "Copenaghen",
           "points": 2
         }
       ]

@@ -1,7 +1,7 @@
 {
   "competition": "europa-league",
   "season": "2026-27",
-  "generatedAt": "2026-11-27T07:01:26.1372144+00:00",
+  "generatedAt": "2026-11-27T11:01:23.6680853+00:00",
   "events": [
     {
       "id": "europa-league-2026-27-401915594",
@@ -32125,13 +32125,6 @@
         {
           "pos": 2,
           "posText": "2",
-          "name": "Dion Drena Beljo",
-          "team": "Dinamo Zagabria",
-          "points": 4
-        },
-        {
-          "pos": 2,
-          "posText": "2",
           "name": "Oumar Diakité",
           "team": "Sturm Graz",
           "points": 4
@@ -32144,66 +32137,17 @@
           "points": 4
         },
         {
-          "pos": 3,
-          "posText": "3",
-          "name": "Christophe Kabongo",
-          "team": "Viktoria Plzeň",
-          "points": 3
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Clement Bischoff",
-          "team": "NEC Nijmegen",
-          "points": 3
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Junior Olaitan",
-          "team": "Beşiktaş",
-          "points": 3
+          "pos": 2,
+          "posText": "2",
+          "name": "Dion Drena Beljo",
+          "team": "Dinamo Zagabria",
+          "points": 4
         },
         {
           "pos": 3,
           "posText": "3",
           "name": "Kristoffer Zachariassen",
           "team": "Ferencváros",
-          "points": 3
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Mexx Meerdink",
-          "team": "AZ Alkmaar",
-          "points": 3
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Nick Woltemade",
-          "team": "Juventus",
-          "points": 3
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Randal Kolo Muani",
-          "team": "Juventus",
-          "points": 3
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Sergio Gómez",
-          "team": "Real Sociedad",
-          "points": 3
-        },
-        {
-          "pos": 3,
-          "posText": "3",
-          "name": "Taxiarchis Fountas",
-          "team": "OFI Creta",
           "points": 3
         },
         {
@@ -32218,6 +32162,62 @@
           "posText": "3",
           "name": "Yéremy Pino",
           "team": "Crystal Palace",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Clement Bischoff",
+          "team": "NEC Nijmegen",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Sergio Gómez",
+          "team": "Real Sociedad",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Nick Woltemade",
+          "team": "Juventus",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Junior Olaitan",
+          "team": "Beşiktaş",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Taxiarchis Fountas",
+          "team": "OFI Creta",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Randal Kolo Muani",
+          "team": "Juventus",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Christophe Kabongo",
+          "team": "Viktoria Plzeň",
+          "points": 3
+        },
+        {
+          "pos": 3,
+          "posText": "3",
+          "name": "Mexx Meerdink",
+          "team": "AZ Alkmaar",
           "points": 3
         }
       ]
