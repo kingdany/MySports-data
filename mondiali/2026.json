@@ -1,7 +1,7 @@
 {
   "competition": "mondiali",
   "season": "2026",
-  "generatedAt": "2026-11-27T13:01:24.8103028+00:00",
+  "generatedAt": "2026-11-27T13:33:51.1680022+00:00",
   "events": [
     {
       "id": "mondiali-2026-760415",
@@ -26,7 +26,16 @@
       },
       "homeScore": 2,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "DbVdybEbhmw",
+          "title": "QUINONES diverte, per JIMENEZ è il primo | Messico-Sudafrica 2-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/DbVdybEbhmw/hqdefault.jpg",
+          "publishedAt": "2026-06-11T21:53:49+00:00",
+          "source": "DAZN",
+          "duration": "4:51"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -352,7 +361,16 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "MzA0dP4O66Y",
+          "title": "HWANG e HYEON-GYU firmano la RIMONTA | Corea del Sud-Cechia 2-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/MzA0dP4O66Y/hqdefault.jpg",
+          "publishedAt": "2026-06-12T04:25:46+00:00",
+          "source": "DAZN",
+          "duration": "4:16"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -650,7 +668,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "eqwzGlDrrDs",
+          "title": "LARIN per il primo punto storico ai Mondiali | Canada-Bosnia 1-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/eqwzGlDrrDs/hqdefault.jpg",
+          "publishedAt": "2026-06-12T21:36:10+00:00",
+          "source": "DAZN",
+          "duration": "4:24"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -984,7 +1011,17 @@
       },
       "homeScore": 4,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "HWsdDLHFOSU",
+          "title": "PULISIC ispira e BALOGUN colpisce, che POKER: USA-Paraguay 4-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/HWsdDLHFOSU/hqdefault.jpg",
+          "publishedAt": "2026-06-13T03:54:01+00:00",
+          "source": "DAZN",
+          "duration": "6:12",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -1331,7 +1368,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "fKCQLM431ZI",
+          "title": "KHOUKHI scrive la STORIA | Qatar-Svizzera 1-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/fKCQLM431ZI/hqdefault.jpg",
+          "publishedAt": "2026-06-13T21:57:16+00:00",
+          "source": "DAZN",
+          "duration": "4:48"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -1647,7 +1693,17 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "NzWRt3ojQsQ",
+          "title": "VINICIUS risponde a SAIBARI, stop ANCELOTTI: Brasile-Marocco 1-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NzWRt3ojQsQ/hqdefault.jpg",
+          "publishedAt": "2026-06-14T00:36:46+00:00",
+          "source": "DAZN",
+          "duration": "3:35",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -1948,7 +2004,16 @@
       },
       "homeScore": 0,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "0kbtoEdzyfQ",
+          "title": "Basta McGINN, la Scozia si prende la vetta!: Haiti-Scozia 0-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0kbtoEdzyfQ/hqdefault.jpg",
+          "publishedAt": "2026-06-14T03:31:06+00:00",
+          "source": "DAZN",
+          "duration": "3:23"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -2241,7 +2306,17 @@
       },
       "homeScore": 2,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Djf1EghfxVc",
+          "title": "Australia - Turchia 2-0: Highlights | Mondiali di Calcio FIFA 2026",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Djf1EghfxVc/hqdefault.jpg",
+          "publishedAt": "2026-06-14T07:39:49+00:00",
+          "source": "Rai",
+          "duration": "5:05",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -2544,7 +2619,17 @@
       },
       "homeScore": 7,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "MHVcdxxrPg4",
+          "title": "GERMANIA forza 7, MUSIALA e HAVERTZ show: Germania-Curaçao 7-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/MHVcdxxrPg4/hqdefault.jpg",
+          "publishedAt": "2026-06-14T20:01:16+00:00",
+          "source": "DAZN",
+          "duration": "5:04",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -2857,7 +2942,16 @@
       },
       "homeScore": 2,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Ar125v5c9IQ",
+          "title": "VAN DIJK sblocca, KAMADA la rimonta | Paesi Bassi-Giappone 2-2 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Ar125v5c9IQ/hqdefault.jpg",
+          "publishedAt": "2026-06-14T22:30:06+00:00",
+          "source": "DAZN",
+          "duration": "4:10"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -3189,7 +3283,16 @@
       },
       "homeScore": 1,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "q9Q_c3xh0hw",
+          "title": "Decide DIALLO all'ultimo minuto | Costa d'Avorio-Ecuador 1-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/q9Q_c3xh0hw/hqdefault.jpg",
+          "publishedAt": "2026-06-15T02:05:36+00:00",
+          "source": "DAZN",
+          "duration": "4:15"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -3493,7 +3596,17 @@
       },
       "homeScore": 5,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "F7GZ1zjBxrE",
+          "title": "Svezia TRAVOLGENTE! Doppietta AYARI, firma GYOKERES: Svezia-Tunisia 5-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/F7GZ1zjBxrE/hqdefault.jpg",
+          "publishedAt": "2026-06-15T05:31:12+00:00",
+          "source": "DAZN",
+          "duration": "3:03",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -3826,7 +3939,17 @@
       },
       "homeScore": 0,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "rMZUC-WA1aY",
+          "title": "VOZINHA eroe, FERMATI i campioni d'EUROPA: Spagna-Capo Verde 0-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rMZUC-WA1aY/hqdefault.jpg",
+          "publishedAt": "2026-06-15T18:41:06+00:00",
+          "source": "DAZN",
+          "duration": "5:01",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -4103,7 +4226,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "7i1oJOvCIZg",
+          "title": "LUKAKU decisivo in 28 SECONDI | Belgio-Egitto 1-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7i1oJOvCIZg/hqdefault.jpg",
+          "publishedAt": "2026-06-15T21:42:06+00:00",
+          "source": "DAZN",
+          "duration": "5:06"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -4426,7 +4558,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "B4LJarC-4QI",
+          "title": "ARAUJO la riprende, AL OWAIS ferma BIELSA | Arabia Saudita-Uruguay 1-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/B4LJarC-4QI/hqdefault.jpg",
+          "publishedAt": "2026-06-16T00:52:26+00:00",
+          "source": "DAZN",
+          "duration": "4:13"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -4732,7 +4873,16 @@
       },
       "homeScore": 2,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "3CQHp4vLAEM",
+          "title": "DOPPIO JUST, l'IRAN la riprende due volte: Iran-Nuova Zelanda 2-2 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3CQHp4vLAEM/hqdefault.jpg",
+          "publishedAt": "2026-06-16T03:56:26+00:00",
+          "source": "DAZN",
+          "duration": "4:11"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -5038,7 +5188,16 @@
       },
       "homeScore": 3,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "L4wFd5H1NL0",
+          "title": "MBAPPÉ da urlo e un super BARCOLA | Francia-Senegal 3-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/L4wFd5H1NL0/hqdefault.jpg",
+          "publishedAt": "2026-06-16T21:50:21+00:00",
+          "source": "DAZN",
+          "duration": "5:09"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -5311,7 +5470,16 @@
       },
       "homeScore": 1,
       "awayScore": 4,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "y7ymK6SCIjI",
+          "title": "POKER NORVEGIA, è URAGANO HAALAND: Iraq-Norvegia 1-4 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/y7ymK6SCIjI/hqdefault.jpg",
+          "publishedAt": "2026-06-17T00:46:26+00:00",
+          "source": "DAZN",
+          "duration": "5:02"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -5636,7 +5804,16 @@
       },
       "homeScore": 3,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "uI5QvMPscgs",
+          "title": "MESSI x3 ed è STORIA ai MONDIALI | Argentina-Algeria 3-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/uI5QvMPscgs/hqdefault.jpg",
+          "publishedAt": "2026-06-17T03:45:16+00:00",
+          "source": "DAZN",
+          "duration": "5:03"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -5939,7 +6116,17 @@
       },
       "homeScore": 3,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "AuKSozor0eU",
+          "title": "ARNAUTOVIC (quasi) due volte, gol storico di OLWAN: Austria-Giordania 3-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/AuKSozor0eU/hqdefault.jpg",
+          "publishedAt": "2026-06-17T07:23:06+00:00",
+          "source": "DAZN",
+          "duration": "4:54",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -6257,7 +6444,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "HPt45YeeJ6U",
+          "title": "CR7 fermato da uno storico WISSA | Portogallo-RD Congo 1-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/HPt45YeeJ6U/hqdefault.jpg",
+          "publishedAt": "2026-06-17T20:20:41+00:00",
+          "source": "DAZN",
+          "duration": "4:18"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -6568,7 +6764,16 @@
       },
       "homeScore": 4,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "W-RmYuX4dIQ",
+          "title": "KANE spazza via la Croazia | Inghilterra-Croazia 4-2 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/W-RmYuX4dIQ/hqdefault.jpg",
+          "publishedAt": "2026-06-17T23:03:36+00:00",
+          "source": "DAZN",
+          "duration": "5:04"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -6893,7 +7098,17 @@
       },
       "homeScore": 1,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Of8btChZin4",
+          "title": "Il gol nel recupero di YIRENKYI decide il match: Ghana-Panama 1-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Of8btChZin4/hqdefault.jpg",
+          "publishedAt": "2026-06-18T01:57:21+00:00",
+          "source": "DAZN",
+          "duration": "4:58",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -7192,7 +7407,16 @@
       },
       "homeScore": 1,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "UAxfxTPo-n8",
+          "title": "LUIS DIAZ sale in cattedra all'Azteca | Uzbekistan-Colombia 1-3 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UAxfxTPo-n8/hqdefault.jpg",
+          "publishedAt": "2026-06-18T04:48:01+00:00",
+          "source": "DAZN",
+          "duration": "5:08"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -7520,7 +7744,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "1GS_3eoQguk",
+          "title": "CUORE BAFANA BAFANA! Sadilek poi Mokoena | Repubblica Ceca-Sudafrica 1-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/1GS_3eoQguk/hqdefault.jpg",
+          "publishedAt": "2026-06-18T18:40:06+00:00",
+          "source": "DAZN",
+          "duration": "3:56"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -7811,7 +8044,16 @@
       },
       "homeScore": 4,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "FMQUDUdR_IE",
+          "title": "MANZAMBI e VARGAS scatenati! |Svizzera-Bosnia Erzegovina 4-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/FMQUDUdR_IE/hqdefault.jpg",
+          "publishedAt": "2026-06-18T21:42:16+00:00",
+          "source": "DAZN",
+          "duration": "5:06"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -8159,7 +8401,16 @@
       },
       "homeScore": 6,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "oxIU-zduk3A",
+          "title": "Tripla firma di Iceman DAVID sulla vittoria | Canada-Qatar 6-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oxIU-zduk3A/hqdefault.jpg",
+          "publishedAt": "2026-06-19T00:57:26+00:00",
+          "source": "DAZN",
+          "duration": "5:10"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -8511,7 +8762,17 @@
       },
       "homeScore": 1,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "YXFz20XtKfo",
+          "title": "ROMO porta la TRICOLOR ai SEDICESIMI: Messico-Corea del Sud 1-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/YXFz20XtKfo/hqdefault.jpg",
+          "publishedAt": "2026-06-19T03:42:06+00:00",
+          "source": "DAZN",
+          "duration": "4:19",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -8814,7 +9075,16 @@
       },
       "homeScore": 2,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Te0LovabGbs",
+          "title": "POCHETTINO vola ai SEDICESIMI | USA-Australia 2-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Te0LovabGbs/hqdefault.jpg",
+          "publishedAt": "2026-06-19T21:57:51+00:00",
+          "source": "DAZN",
+          "duration": "5:03"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -9162,7 +9432,16 @@
       },
       "homeScore": 0,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Z1UI3WD3sUw",
+          "title": "SAIBARI FLASH regala la vittoria al MAROCCO | Scozia-Marocco 0-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Z1UI3WD3sUw/hqdefault.jpg",
+          "publishedAt": "2026-06-20T00:36:56+00:00",
+          "source": "DAZN",
+          "duration": "4:59"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -9452,7 +9731,16 @@
       },
       "homeScore": 3,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "V5kFh5gjZmI",
+          "title": "DOPPIO CUNHA + VINI, VITTORIA per ANCELOTTI | Brasile-Haiti 3-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/V5kFh5gjZmI/hqdefault.jpg",
+          "publishedAt": "2026-06-20T03:20:16+00:00",
+          "source": "DAZN",
+          "duration": "5:00"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -9774,7 +10062,17 @@
       },
       "homeScore": 0,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "KlY1Zk17Pvg",
+          "title": "GALARZA decisivo, MONTELLA eliminato dal Mondiale: Turchia-Paraguay 0-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KlY1Zk17Pvg/hqdefault.jpg",
+          "publishedAt": "2026-06-20T05:56:31+00:00",
+          "source": "DAZN",
+          "duration": "5:07",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -10087,7 +10385,16 @@
       },
       "homeScore": 5,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "cNJhMzencD8",
+          "title": "Doppietta Brobbey-Gakpo e super Dumfries | Paesi Bassi-Svezia 5-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cNJhMzencD8/hqdefault.jpg",
+          "publishedAt": "2026-06-20T19:42:06+00:00",
+          "source": "DAZN",
+          "duration": "4:34"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -10433,7 +10740,16 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "QsHO_w3dhbQ",
+          "title": "NAGELSMANN nel segno del jolly UNDAV: Germania-C.D'Avorio 2-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QsHO_w3dhbQ/hqdefault.jpg",
+          "publishedAt": "2026-06-20T23:04:16+00:00",
+          "source": "DAZN",
+          "duration": "4:24"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -10737,7 +11053,17 @@
       },
       "homeScore": 0,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "gTCAjNUViLw",
+          "title": "ROOM chiude la porta, PAREGGIO STORICO: Ecuador-Curaçao 0-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/gTCAjNUViLw/hqdefault.jpg",
+          "publishedAt": "2026-06-21T02:40:06+00:00",
+          "source": "DAZN",
+          "duration": "4:54",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -11049,7 +11375,17 @@
       },
       "homeScore": 0,
       "awayScore": 4,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "7HC6YcilQkE",
+          "title": "La doppietta di UEDA spinge il poker nipponico: Tunisia-Giappone 0-4 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7HC6YcilQkE/hqdefault.jpg",
+          "publishedAt": "2026-06-21T06:48:41+00:00",
+          "source": "DAZN",
+          "duration": "4:17",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -11361,7 +11697,16 @@
       },
       "homeScore": 4,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "gp56TbqTz68",
+          "title": "Il 1° di YAMAL e la doppietta di OYARZABAL: Spagna-Arabia Saudita 4-0 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/gp56TbqTz68/hqdefault.jpg",
+          "publishedAt": "2026-06-21T18:49:21+00:00",
+          "source": "DAZN",
+          "duration": "4:56"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -11682,7 +12027,16 @@
       },
       "homeScore": 0,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "8nezx43iioE",
+          "title": "LUKAKU e DE BRUYNE non superano BEIRANVAND: Belgio-Iran 0-0 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8nezx43iioE/hqdefault.jpg",
+          "publishedAt": "2026-06-22T02:11:29+00:00",
+          "source": "DAZN",
+          "duration": "5:07"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -11985,7 +12339,17 @@
       },
       "homeScore": 2,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Y9lhCZLK60o",
+          "title": "CAPO VERDE l'ha fatto ancora, ora SOGNA: Uruguay-Capo Verde 2-2 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Y9lhCZLK60o/hqdefault.jpg",
+          "publishedAt": "2026-06-22T00:59:06+00:00",
+          "source": "DAZN",
+          "duration": "5:50",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -12298,7 +12662,16 @@
       },
       "homeScore": 1,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "8Bw72bI6Xw8",
+          "title": "SALAH è salito in cattedra | Nuova Zelanda-Egitto 1-3 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8Bw72bI6Xw8/hqdefault.jpg",
+          "publishedAt": "2026-06-22T04:15:06+00:00",
+          "source": "DAZN",
+          "duration": "5:41"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -12640,7 +13013,16 @@
       },
       "homeScore": 2,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "hHNLMABcR5U",
+          "title": "MESSI LEGGENDARIO, doppietta storica: Argentina-Austria 2-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hHNLMABcR5U/hqdefault.jpg",
+          "publishedAt": "2026-06-22T19:37:56+00:00",
+          "source": "DAZN",
+          "duration": "5:08"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -12973,7 +13355,17 @@
       },
       "homeScore": 3,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "A7TOyljELig",
+          "title": "MBAPPÉ formato super, si sblocca DEMBELÉ: Francia-Iraq 3-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/A7TOyljELig/hqdefault.jpg",
+          "publishedAt": "2026-06-23T01:33:06+00:00",
+          "source": "DAZN",
+          "duration": "4:59",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -13284,7 +13676,16 @@
       },
       "homeScore": 3,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "JFA5as6D-es",
+          "title": "Doppio HAALAND per la qualificazione | Norvegia-Senegal 3-2 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JFA5as6D-es/hqdefault.jpg",
+          "publishedAt": "2026-06-23T02:57:56+00:00",
+          "source": "DAZN",
+          "duration": "4:46"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -13602,7 +14003,16 @@
       },
       "homeScore": 1,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "gT3YnNrPK6I",
+          "title": "Rimonta firmata da BELBOUALI e GOUIRI | Giordania-Algeria 1-2 | | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/gT3YnNrPK6I/hqdefault.jpg",
+          "publishedAt": "2026-06-23T05:45:06+00:00",
+          "source": "DAZN",
+          "duration": "4:19"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -13921,7 +14331,17 @@
       },
       "homeScore": 5,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "9e4beu00Wv8",
+          "title": "CRISTIANO RONALDO show e manita: Portogallo-Uzbekistan 5-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/9e4beu00Wv8/hqdefault.jpg",
+          "publishedAt": "2026-06-23T19:57:28+00:00",
+          "source": "DAZN",
+          "duration": "5:16",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -14252,7 +14672,16 @@
       },
       "homeScore": 0,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "WcmiruF67Uw",
+          "title": "KANE si divora il gol vittoria nel finale | Inghilterra-Ghana 0-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WcmiruF67Uw/hqdefault.jpg",
+          "publishedAt": "2026-06-23T22:29:06+00:00",
+          "source": "DAZN",
+          "duration": "3:29"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -14536,7 +14965,17 @@
       },
       "homeScore": 0,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "ub9S6eJW-dE",
+          "title": "ANTE BUDIMIR entra e decide la partita: Panama-Croazia 0-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ub9S6eJW-dE/hqdefault.jpg",
+          "publishedAt": "2026-06-24T01:45:06+00:00",
+          "source": "DAZN",
+          "duration": "3:33",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -14827,7 +15266,16 @@
       },
       "homeScore": 1,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "PgXQ5aVq4Fs",
+          "title": "DECIDE ancora MUNOZ, la COLOMBIA è ai sedicesimi: Colombia-RD Congo 1-0 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PgXQ5aVq4Fs/hqdefault.jpg",
+          "publishedAt": "2026-06-24T04:32:11+00:00",
+          "source": "DAZN",
+          "duration": "4:41"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -15113,7 +15561,16 @@
       },
       "homeScore": 3,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "WDpjaEI2ySw",
+          "title": "Super gol di ALAJBEGOVIC, la BOSNIA passa | Bosnia-Qatar 3-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WDpjaEI2ySw/hqdefault.jpg",
+          "publishedAt": "2026-06-24T21:50:06+00:00",
+          "source": "DAZN",
+          "duration": "4:58"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -15435,7 +15892,16 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "KnlOlrGdCoY",
+          "title": "MANZAMBI decisivo per il PRIMO POSTO  | Svizzera-Canada 2-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KnlOlrGdCoY/hqdefault.jpg",
+          "publishedAt": "2026-06-24T21:44:06+00:00",
+          "source": "DAZN",
+          "duration": "4:29"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -15759,7 +16225,16 @@
       },
       "homeScore": 4,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "UrG5uMtbxG8",
+          "title": "Poker MAROCCO, è ai sedicesimi | Marocco-Haiti 4-2 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UrG5uMtbxG8/hqdefault.jpg",
+          "publishedAt": "2026-06-25T00:59:31+00:00",
+          "source": "DAZN",
+          "duration": "5:04"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -16106,7 +16581,16 @@
       },
       "homeScore": 0,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "IqHnIyoQyCY",
+          "title": "VINICIUS x2 e torna NEYMAR, ANCELOTTI primo | Scozia-Brasile 0-3 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/IqHnIyoQyCY/hqdefault.jpg",
+          "publishedAt": "2026-06-25T00:52:06+00:00",
+          "source": "DAZN",
+          "duration": "5:00"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -16418,7 +16902,16 @@
       },
       "homeScore": 0,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "I6dduQXh-M4",
+          "title": "TRIONFO del MESSICO, CECHI ELIMINATI | Repubblica Ceca-Messico 0-3 | FIFA World Cup DAZN | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/I6dduQXh-M4/hqdefault.jpg",
+          "publishedAt": "2026-06-25T03:45:06+00:00",
+          "source": "DAZN",
+          "duration": "4:16"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -16729,7 +17222,16 @@
       },
       "homeScore": 1,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "xyCRj5xgi0o",
+          "title": "IMPRESA SUDAFRICA, STORICA qualificazione | Sudafrica-Corea del Sud 1-0 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/xyCRj5xgi0o/hqdefault.jpg",
+          "publishedAt": "2026-06-25T03:45:06+00:00",
+          "source": "DAZN",
+          "duration": "4:57"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -17006,7 +17508,16 @@
       },
       "homeScore": 0,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "-s59fR5YpKU",
+          "title": "PÉPÉ scrive la STORIA degli Elefanti | Curaçao-Costa d'Avorio 0-2 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-s59fR5YpKU/hqdefault.jpg",
+          "publishedAt": "2026-06-25T23:03:01+00:00",
+          "source": "DAZN",
+          "duration": "4:12"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -17323,7 +17834,16 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "1gd06Zc-Yu0",
+          "title": "ANGULO + PLATA per il sogno qualificazione | Ecuador-Germania 2-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/1gd06Zc-Yu0/hqdefault.jpg",
+          "publishedAt": "2026-06-26T00:54:25+00:00",
+          "source": "DAZN",
+          "duration": "4:31"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -17654,7 +18174,17 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "QMs8oS66vNs",
+          "title": "ELANGA risponde a MAEDA, nipponici al secondo posto: Giappone-Svezia 1-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QMs8oS66vNs/hqdefault.jpg",
+          "publishedAt": "2026-06-26T01:49:06+00:00",
+          "source": "DAZN",
+          "duration": "4:44",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -17971,7 +18501,17 @@
       },
       "homeScore": 1,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "g19Lc0oRZ00",
+          "title": "Gli ORANJE non sbagliano e chiudono primi: Tunisia-Paesi Bassi 1-3 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/g19Lc0oRZ00/hqdefault.jpg",
+          "publishedAt": "2026-06-26T02:28:36+00:00",
+          "source": "DAZN",
+          "duration": "4:59",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -18281,7 +18821,16 @@
       },
       "homeScore": 0,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "opnQb3B8Wq0",
+          "title": "AUSTRALIA QUALIFICATA, il PARAGUAY SPERA | Paraguay-Australia 0-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/opnQb3B8Wq0/hqdefault.jpg",
+          "publishedAt": "2026-06-26T04:45:06+00:00",
+          "source": "DAZN",
+          "duration": "4:53"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -18552,7 +19101,16 @@
       },
       "homeScore": 3,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "YljSpRCJZDI",
+          "title": "MONTELLA saluta con una VITTORIA, USA vincono il girone | Turchia-USA 3-2 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/YljSpRCJZDI/hqdefault.jpg",
+          "publishedAt": "2026-06-26T04:51:56+00:00",
+          "source": "DAZN",
+          "duration": "4:59"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -18879,7 +19437,16 @@
       },
       "homeScore": 1,
       "awayScore": 4,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "uS8FUmL7FFs",
+          "title": "POKER BLUES, DEMBÉLÉ scatenato FA TRIPLETTA: Norvegia-Francia 1-4 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/uS8FUmL7FFs/hqdefault.jpg",
+          "publishedAt": "2026-06-26T22:30:11+00:00",
+          "source": "DAZN",
+          "duration": "5:00"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -19218,7 +19785,16 @@
       },
       "homeScore": 5,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "gZF4zXNTkRg",
+          "title": "MANITA storica, ora il Senegal sogna i sedicesimi: Senegal-Iraq 5-0 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/gZF4zXNTkRg/hqdefault.jpg",
+          "publishedAt": "2026-06-26T22:19:36+00:00",
+          "source": "DAZN",
+          "duration": "4:59"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -19570,7 +20146,17 @@
       },
       "homeScore": 0,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "ccYolx6Kfac",
+          "title": "Un pareggio che è STORIA! CAPO VERDE va avanti: Capo Verde-Arabia Saudita 0-0 | FIFA World Cup| DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ccYolx6Kfac/hqdefault.jpg",
+          "publishedAt": "2026-06-27T02:48:56+00:00",
+          "source": "DAZN",
+          "duration": "3:43",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -19881,7 +20467,17 @@
       },
       "homeScore": 0,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "n0Q3clf88u4",
+          "title": "Il gol di BAENA condanna BIELSA all'eliminazione: Uruguay-Spagna 0-1| FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/n0Q3clf88u4/hqdefault.jpg",
+          "publishedAt": "2026-06-27T03:10:06+00:00",
+          "source": "DAZN",
+          "duration": "4:45",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -20191,7 +20787,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "PqgoF9vKKIs",
+          "title": "FINALE THRILLER, SALAH si QUALIFICA e TAREMI SPERA | Egitto-Iran 1-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PqgoF9vKKIs/hqdefault.jpg",
+          "publishedAt": "2026-06-27T07:19:44+00:00",
+          "source": "DAZN",
+          "duration": "5:09"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -20518,7 +21123,16 @@
       },
       "homeScore": 1,
       "awayScore": 5,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "-zo4tAJuig0",
+          "title": "MANITA dei DIAVOLI ROSSI che volano ai sedicesimi | Nuova Zelanda-Belgio 1-5 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-zo4tAJuig0/hqdefault.jpg",
+          "publishedAt": "2026-06-27T05:45:06+00:00",
+          "source": "DAZN",
+          "duration": "4:58"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -20857,7 +21471,16 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "8HddW-78cXA",
+          "title": "SUCIC + VLASIC è ITALCROAZIA | Croazia-Ghana 2-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8HddW-78cXA/hqdefault.jpg",
+          "publishedAt": "2026-06-27T23:29:01+00:00",
+          "source": "DAZN",
+          "duration": "3:50"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -21162,7 +21785,16 @@
       },
       "homeScore": 0,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "w8w8nYrUOT4",
+          "title": "Kane NELLA STORIA, Bellingham SUPER: Panama-Inghilterra 0-2 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/w8w8nYrUOT4/hqdefault.jpg",
+          "publishedAt": "2026-06-27T23:40:06+00:00",
+          "source": "DAZN",
+          "duration": "5:00"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -21479,7 +22111,16 @@
       },
       "homeScore": 0,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "VBLqPBZicb4",
+          "title": "JAMES RODRIGUEZ davanti a CR7 | Colombia-Portogallo 0-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VBLqPBZicb4/hqdefault.jpg",
+          "publishedAt": "2026-06-28T02:32:23+00:00",
+          "source": "DAZN",
+          "duration": "4:10"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -21767,7 +22408,16 @@
       },
       "homeScore": 3,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "tLDv5QA7D44",
+          "title": "Doppio WISSA per scrivere la storia | RD Congo-Uzbekistan 3-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/tLDv5QA7D44/hqdefault.jpg",
+          "publishedAt": "2026-06-28T03:14:19+00:00",
+          "source": "DAZN",
+          "duration": "5:10"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -22114,7 +22764,17 @@
       },
       "homeScore": 3,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "aIb8iPKJoBI",
+          "title": "Doppietta MAHREZ e finale PAZZO: Algeria-Austria 3-3 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/aIb8iPKJoBI/hqdefault.jpg",
+          "publishedAt": "2026-06-28T05:15:41+00:00",
+          "source": "DAZN",
+          "duration": "4:53",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -22436,7 +23096,17 @@
       },
       "homeScore": 1,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "ZYe2l0jhsHM",
+          "title": "LAUTARO si sblocca, MESSI è leggenda: Giordania-Argentina 1-3 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ZYe2l0jhsHM/hqdefault.jpg",
+          "publishedAt": "2026-06-28T05:09:46+00:00",
+          "source": "DAZN",
+          "duration": "4:54",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -22768,7 +23438,16 @@
       },
       "homeScore": 0,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "LxKjXFccLFI",
+          "title": "Eustáquio al 92', Canada agli ottavi | Sudafrica-Canada 0-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/LxKjXFccLFI/hqdefault.jpg",
+          "publishedAt": "2026-06-28T21:26:06+00:00",
+          "source": "DAZN",
+          "duration": "4:10"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -23046,7 +23725,17 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Rk_RIQZqS9w",
+          "title": "MARTINELLI-GOL last minute, avanza ANCELOTTI: Brasile-Giappone 2-1 | FIFA World Cup |DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Rk_RIQZqS9w/hqdefault.jpg",
+          "publishedAt": "2026-06-29T19:59:31+00:00",
+          "source": "DAZN",
+          "duration": "4:54",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -23366,7 +24055,16 @@
       "awayScore": 1,
       "homePenalties": 3,
       "awayPenalties": 4,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "sc6bi3uY2eg",
+          "title": "PARAGUAY STORICO, GERMANIA eliminata ai RIGORI: Germania-Paraguay 4-5 DCR | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/sc6bi3uY2eg/hqdefault.jpg",
+          "publishedAt": "2026-06-30T01:06:51+00:00",
+          "source": "DAZN",
+          "duration": "5:00"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -23718,7 +24416,16 @@
       "awayScore": 1,
       "homePenalties": 2,
       "awayPenalties": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "-Gn_KcLSeFA",
+          "title": "SAIBARI decide dei rigori assurdi | Paesi Bassi-Marocco 3-4 DCR | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-Gn_KcLSeFA/hqdefault.jpg",
+          "publishedAt": "2026-06-30T05:22:23+00:00",
+          "source": "DAZN",
+          "duration": "5:08"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -24035,7 +24742,17 @@
       },
       "homeScore": 1,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "oxGxcDUU-Zc",
+          "title": "HAALAND mette il timbro per gli ottavi: Costa d'Avorio-Norvegia 1-2 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oxGxcDUU-Zc/hqdefault.jpg",
+          "publishedAt": "2026-06-30T19:45:56+00:00",
+          "source": "DAZN",
+          "duration": "5:00",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -24322,7 +25039,17 @@
       },
       "homeScore": 3,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "mrUIxjTZXS4",
+          "title": "Doppio MBAPPÉ e BARCOLA, spettacolo LES BLEUS: Francia-Svezia 3-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mrUIxjTZXS4/hqdefault.jpg",
+          "publishedAt": "2026-06-30T23:43:21+00:00",
+          "source": "DAZN",
+          "duration": "5:00",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -24625,7 +25352,16 @@
       },
       "homeScore": 2,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "cUi38CuN-Z0",
+          "title": "QUINONES + JIMENEZ, il MESSICO agli ottavi : Messico-Ecuador 2-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cUi38CuN-Z0/hqdefault.jpg",
+          "publishedAt": "2026-07-01T04:53:21+00:00",
+          "source": "DAZN",
+          "duration": "4:59"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -24953,7 +25689,16 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "NuXDlK1Nxj4",
+          "title": "HARRY KANE porta TUCHEL agli ottavi | Inghilterra-RD Congo 2-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NuXDlK1Nxj4/hqdefault.jpg",
+          "publishedAt": "2026-07-01T18:47:31+00:00",
+          "source": "DAZN",
+          "duration": "5:34"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -25258,7 +26003,16 @@
       },
       "homeScore": 3,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "xC9MhbyMUi8",
+          "title": "LUKAKU apre, TIELEMANS termina il capolavoro | Belgio-Senegal 3-2 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/xC9MhbyMUi8/hqdefault.jpg",
+          "publishedAt": "2026-07-01T23:59:01+00:00",
+          "source": "DAZN",
+          "duration": "5:32"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -25616,7 +26370,17 @@
       },
       "homeScore": 2,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "HxF4eRHcjOU",
+          "title": "Le reti di BALOGUN e TILLMAN per conquistare gli ottavi: USA-Bosnia 2-0 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/HxF4eRHcjOU/hqdefault.jpg",
+          "publishedAt": "2026-07-02T03:00:06+00:00",
+          "source": "DAZN",
+          "duration": "5:16",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -25901,7 +26665,16 @@
       },
       "homeScore": 3,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "GShGJlZ-Fhc",
+          "title": "Doppietta OYARZABAL e YAMAL-Show: Spagna-Austria 3-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/GShGJlZ-Fhc/hqdefault.jpg",
+          "publishedAt": "2026-07-02T21:30:06+00:00",
+          "source": "DAZN",
+          "duration": "5:21"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -26209,7 +26982,16 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "y9uzKPi_y3M",
+          "title": "CR7 + RAMOS in un finale di match FOLLE | Portogallo-Croazia 2-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/y9uzKPi_y3M/hqdefault.jpg",
+          "publishedAt": "2026-07-03T02:30:46+00:00",
+          "source": "DAZN",
+          "duration": "5:43"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -26522,7 +27304,16 @@
       },
       "homeScore": 2,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "y7pE5vN2QjM",
+          "title": "EMBOLO e NDOYE fanno la STORIA! | Svizzera-Algeria 2-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/y7pE5vN2QjM/hqdefault.jpg",
+          "publishedAt": "2026-07-03T06:18:57+00:00",
+          "source": "DAZN",
+          "duration": "4:34"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -26834,7 +27625,16 @@
       "awayScore": 1,
       "homePenalties": 2,
       "awayPenalties": 4,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "7pj7YzQuJw0",
+          "title": "SALAH col CUCCHIAIO ai RIGORI | Australia-Egitto 3-5 DCR | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7pj7YzQuJw0/hqdefault.jpg",
+          "publishedAt": "2026-07-03T21:55:18+00:00",
+          "source": "DAZN",
+          "duration": "5:31"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -27157,7 +27957,17 @@
       },
       "homeScore": 3,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "RN6-ZdZ121A",
+          "title": "MESSI porta l'Albiceleste agli OTTAVI: Argentina-Capo Verde 3-2 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/RN6-ZdZ121A/hqdefault.jpg",
+          "publishedAt": "2026-07-04T01:40:41+00:00",
+          "source": "DAZN",
+          "duration": "5:03",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -27500,7 +28310,16 @@
       },
       "homeScore": 1,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "2gDSnWX1tHk",
+          "title": "Ai CAFETEROS basta ARIAS, OTTAVI raggiunti | Colombia-Ghana 1-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2gDSnWX1tHk/hqdefault.jpg",
+          "publishedAt": "2026-07-04T05:55:14+00:00",
+          "source": "DAZN",
+          "duration": "4:35"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -27811,7 +28630,16 @@
       },
       "homeScore": 0,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "PeUBeEXHdGU",
+          "title": "OUNAHI e BONO portano il Marocco ai QUARTI | Canada-Marocco 0-3 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PeUBeEXHdGU/hqdefault.jpg",
+          "publishedAt": "2026-07-04T19:46:11+00:00",
+          "source": "DAZN",
+          "duration": "4:01"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -28172,7 +29000,16 @@
       },
       "homeScore": 0,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "7C2cqNowlrw",
+          "title": "Alta TENSIONE ma ci pensa MBAPPÉ, FRANCIA ai quarti: Paraguay-Francia 0-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7C2cqNowlrw/hqdefault.jpg",
+          "publishedAt": "2026-07-05T00:00:16+00:00",
+          "source": "DAZN",
+          "duration": "3:54"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -28430,7 +29267,17 @@
       },
       "homeScore": 1,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "em6EJ-OqkiM",
+          "title": "Doppietta di HAALAND, ANCELOTTI eliminato: Brasile-Norvegia 1-2 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/em6EJ-OqkiM/hqdefault.jpg",
+          "publishedAt": "2026-07-05T23:35:01+00:00",
+          "source": "DAZN",
+          "duration": "5:28",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -28713,7 +29560,16 @@
       },
       "homeScore": 2,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "3EkphwIMLj4",
+          "title": "Doppio BELLINGHAM e KANE all'AZTECA: Messico-Inghilterra 2-3 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3EkphwIMLj4/hqdefault.jpg",
+          "publishedAt": "2026-07-06T03:46:06+00:00",
+          "source": "DAZN",
+          "duration": "5:11"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -29068,7 +29924,17 @@
       },
       "homeScore": 0,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "aAKJJh3QZHU",
+          "title": "MERINO last minute, CR7 saluta il Mondiale: Portogallo-Spagna 0-1 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/aAKJJh3QZHU/hqdefault.jpg",
+          "publishedAt": "2026-07-06T21:42:26+00:00",
+          "source": "DAZN",
+          "duration": "5:27",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -29364,7 +30230,16 @@
       },
       "homeScore": 1,
       "awayScore": 4,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "3tHMlCB8uzQ",
+          "title": "Bomber DE KETELAERE e POKER: Usa-Belgio 1-4 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3tHMlCB8uzQ/hqdefault.jpg",
+          "publishedAt": "2026-07-07T02:43:06+00:00",
+          "source": "DAZN",
+          "duration": "5:09"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -29698,7 +30573,16 @@
       },
       "homeScore": 3,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "2FO5gypQUqs",
+          "title": "MESSI da GOAT, ma che RIMONTA PERFETTA | Argentina-Egitto 3-2 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2FO5gypQUqs/hqdefault.jpg",
+          "publishedAt": "2026-07-07T19:05:11+00:00",
+          "source": "DAZN",
+          "duration": "5:46"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -30045,7 +30929,16 @@
       "awayScore": 0,
       "homePenalties": 4,
       "awayPenalties": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "wDfxITCysGY",
+          "title": "SVIZZERA ai quarti, tutti i RIGORI: Svizzera-Colombia 4-3 d.c.r. | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/wDfxITCysGY/hqdefault.jpg",
+          "publishedAt": "2026-07-07T23:38:06+00:00",
+          "source": "DAZN",
+          "duration": "5:35"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -30376,7 +31269,16 @@
       },
       "homeScore": 2,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "dKDrI5c8R70",
+          "title": "Sono INGIOCABILI? MBAPPÉ+DEMBÉLÉ per la SEMIFINALE: Francia-Marocco 2-0 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/dKDrI5c8R70/hqdefault.jpg",
+          "publishedAt": "2026-07-09T22:44:41+00:00",
+          "source": "DAZN",
+          "duration": "4:56"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -30673,7 +31575,16 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "HLw8ULSzTwk",
+          "title": "MERINO ancora decisivo nel finale, Roja in semifinale: Spagna-Belgio 2-1 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/HLw8ULSzTwk/hqdefault.jpg",
+          "publishedAt": "2026-07-10T21:38:51+00:00",
+          "source": "DAZN",
+          "duration": "5:06"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -30991,7 +31902,16 @@
       },
       "homeScore": 1,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "msVi4-frTGg",
+          "title": "DOPPIO BELLINGHAM, i TRE LEONI sono in SEMIFINALE | Norvegia-Inghilterra 1-2 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/msVi4-frTGg/hqdefault.jpg",
+          "publishedAt": "2026-07-12T00:21:41+00:00",
+          "source": "DAZN",
+          "duration": "5:15"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -31328,7 +32248,17 @@
       },
       "homeScore": 3,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "m-KB-LaMF0U",
+          "title": "ALVAREZ e LAUTARO gol, MESSI in semifinale: Argentina-Svizzera 3-1 | FIFA World Cup| DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m-KB-LaMF0U/hqdefault.jpg",
+          "publishedAt": "2026-07-12T04:55:06+00:00",
+          "source": "DAZN",
+          "duration": "6:15",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -31701,7 +32631,16 @@
       },
       "homeScore": 0,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Bh-8FONGYuk",
+          "title": "OYARZABAL+PORRO, FRANCIA out e SPAGNA in FINALE: Francia-Spagna 0-2 | FIFA World Cup | DAZN",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Bh-8FONGYuk/hqdefault.jpg",
+          "publishedAt": "2026-07-14T21:46:46+00:00",
+          "source": "DAZN",
+          "duration": "5:35"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -32016,7 +32955,16 @@
       },
       "homeScore": 1,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "9QOX479R9l4",
+          "title": "ENZO-LAUTARO, rimonta e FINALE: Inghilterra-Argentina 1-2 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/9QOX479R9l4/hqdefault.jpg",
+          "publishedAt": "2026-07-15T21:40:00+00:00",
+          "source": "DAZN",
+          "duration": "5:31"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -32351,7 +33299,17 @@
       },
       "homeScore": 4,
       "awayScore": 6,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "bz5yFjv5oM4",
+          "title": "MBAPPÉ non basta, INGHILTERRA TERZA: Francia-Inghilterra 4-6 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bz5yFjv5oM4/hqdefault.jpg",
+          "publishedAt": "2026-07-19T00:16:21+00:00",
+          "source": "DAZN",
+          "duration": "5:31",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -32708,7 +33666,16 @@
       },
       "homeScore": 1,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "7LL3xy2KwPQ",
+          "title": "FERRÁN al 106', ROJA campione del Mondo | Spagna-Argentina 1-0 | FIFA World Cup | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7LL3xy2KwPQ/hqdefault.jpg",
+          "publishedAt": "2026-07-19T23:06:06+00:00",
+          "source": "DAZN",
+          "duration": "7:19"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
