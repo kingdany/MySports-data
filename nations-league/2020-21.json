@@ -1,7 +1,7 @@
 {
   "competition": "nations-league",
   "season": "2020-21",
-  "generatedAt": "2026-11-26T16:22:41.3256923+00:00",
+  "generatedAt": "2026-11-27T08:37:38.6736662+00:00",
   "events": [
     {
       "id": "nations-league-2020-21-570786",
@@ -48715,6 +48715,7 @@
           "draws": 3,
           "losses": 0,
           "goalDifference": 5,
+          "zone": "qualified",
           "group": "Gruppo A1"
         },
         {
@@ -48754,6 +48755,7 @@
           "draws": 2,
           "losses": 4,
           "goalDifference": -8,
+          "zone": "relegation",
           "group": "Gruppo A1"
         },
         {
@@ -48767,6 +48769,7 @@
           "draws": 0,
           "losses": 1,
           "goalDifference": 10,
+          "zone": "qualified",
           "group": "Gruppo A2"
         },
         {
@@ -48806,6 +48809,7 @@
           "draws": 0,
           "losses": 6,
           "goalDifference": -14,
+          "zone": "relegation",
           "group": "Gruppo A2"
         },
         {
@@ -48819,6 +48823,7 @@
           "draws": 1,
           "losses": 0,
           "goalDifference": 7,
+          "zone": "qualified",
           "group": "Gruppo A3"
         },
         {
@@ -48858,6 +48863,7 @@
           "draws": 0,
           "losses": 5,
           "goalDifference": -8,
+          "zone": "relegation",
           "group": "Gruppo A3"
         },
         {
@@ -48871,6 +48877,7 @@
           "draws": 2,
           "losses": 1,
           "goalDifference": 10,
+          "zone": "qualified",
           "group": "Gruppo A4"
         },
         {
@@ -48910,6 +48917,7 @@
           "draws": 0,
           "losses": 4,
           "goalDifference": -8,
+          "zone": "relegation",
           "group": "Gruppo A4"
         },
         {
@@ -48923,6 +48931,7 @@
           "draws": 1,
           "losses": 1,
           "goalDifference": 3,
+          "zone": "promotion",
           "group": "Gruppo B1"
         },
         {
@@ -48962,6 +48971,7 @@
           "draws": 2,
           "losses": 4,
           "goalDifference": -7,
+          "zone": "relegation",
           "group": "Gruppo B1"
         },
         {
@@ -48975,6 +48985,7 @@
           "draws": 0,
           "losses": 2,
           "goalDifference": 4,
+          "zone": "promotion",
           "group": "Gruppo B2"
         },
         {
@@ -49014,6 +49025,7 @@
           "draws": 1,
           "losses": 4,
           "goalDifference": -5,
+          "zone": "relegation",
           "group": "Gruppo B2"
         },
         {
@@ -49027,6 +49039,7 @@
           "draws": 2,
           "losses": 1,
           "goalDifference": 3,
+          "zone": "promotion",
           "group": "Gruppo B3"
         },
         {
@@ -49066,6 +49079,7 @@
           "draws": 3,
           "losses": 2,
           "goalDifference": -2,
+          "zone": "relegation",
           "group": "Gruppo B3"
         },
         {
@@ -49079,6 +49093,7 @@
           "draws": 1,
           "losses": 0,
           "goalDifference": 6,
+          "zone": "promotion",
           "group": "Gruppo B4"
         },
         {
@@ -49118,6 +49133,7 @@
           "draws": 2,
           "losses": 4,
           "goalDifference": -5,
+          "zone": "relegation",
           "group": "Gruppo B4"
         },
         {
@@ -49131,6 +49147,7 @@
           "draws": 1,
           "losses": 1,
           "goalDifference": 8,
+          "zone": "promotion",
           "group": "Gruppo C1"
         },
         {
@@ -49170,6 +49187,7 @@
           "draws": 1,
           "losses": 4,
           "goalDifference": -8,
+          "zone": "playoff",
           "group": "Gruppo C1"
         },
         {
@@ -49183,6 +49201,7 @@
           "draws": 2,
           "losses": 1,
           "goalDifference": 3,
+          "zone": "promotion",
           "group": "Gruppo C2"
         },
         {
@@ -49222,6 +49241,7 @@
           "draws": 3,
           "losses": 3,
           "goalDifference": -4,
+          "zone": "playoff",
           "group": "Gruppo C2"
         },
         {
@@ -49235,6 +49255,7 @@
           "draws": 2,
           "losses": 0,
           "goalDifference": 7,
+          "zone": "promotion",
           "group": "Gruppo C3"
         },
         {
@@ -49274,6 +49295,7 @@
           "draws": 1,
           "losses": 5,
           "goalDifference": -10,
+          "zone": "playoff",
           "group": "Gruppo C3"
         },
         {
@@ -49287,6 +49309,7 @@
           "draws": 2,
           "losses": 1,
           "goalDifference": 4,
+          "zone": "promotion",
           "group": "Gruppo C4"
         },
         {
@@ -49326,6 +49349,7 @@
           "draws": 1,
           "losses": 4,
           "goalDifference": -4,
+          "zone": "playoff",
           "group": "Gruppo C4"
         },
         {
@@ -49339,6 +49363,7 @@
           "draws": 3,
           "losses": 0,
           "goalDifference": 4,
+          "zone": "promotion",
           "group": "Gruppo D1"
         },
         {
@@ -49391,6 +49416,7 @@
           "draws": 2,
           "losses": 0,
           "goalDifference": 2,
+          "zone": "promotion",
           "group": "Gruppo D2"
         },
         {

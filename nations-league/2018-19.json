@@ -1,7 +1,7 @@
 {
   "competition": "nations-league",
   "season": "2018-19",
-  "generatedAt": "2026-11-26T16:22:41.3256923+00:00",
+  "generatedAt": "2026-11-27T08:37:38.6736662+00:00",
   "events": [
     {
       "id": "nations-league-2018-19-505509",
@@ -39056,6 +39056,7 @@
           "draws": 1,
           "losses": 0,
           "goalDifference": 10,
+          "zone": "promotion",
           "group": "Gruppo D1"
         },
         {
@@ -39108,6 +39109,7 @@
           "draws": 2,
           "losses": 0,
           "goalDifference": 10,
+          "zone": "promotion",
           "group": "Gruppo D2"
         },
         {
@@ -39160,6 +39162,7 @@
           "draws": 2,
           "losses": 0,
           "goalDifference": 13,
+          "zone": "promotion",
           "group": "Gruppo D3"
         },
         {
@@ -39212,6 +39215,7 @@
           "draws": 0,
           "losses": 1,
           "goalDifference": 9,
+          "zone": "promotion",
           "group": "Gruppo D4"
         },
         {
