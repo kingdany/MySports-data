@@ -1,7 +1,7 @@
 {
   "competition": "nations-league",
   "season": "2024-25",
-  "generatedAt": "2026-11-27T08:37:38.6736662+00:00",
+  "generatedAt": "2026-11-27T13:38:06.9196703+00:00",
   "events": [
     {
       "id": "nations-league-2024-25-698882",
@@ -3931,7 +3931,16 @@
       },
       "homeScore": 1,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "DnDOo6jL3OM",
+          "title": "Highlights: Francia-Italia 1-3 | Nations League 2024/25",
+          "thumbnailUrl": "https://i.ytimg.com/vi/DnDOo6jL3OM/hqdefault.jpg",
+          "publishedAt": "2024-09-07T18:00:12+00:00",
+          "source": "FIGC",
+          "duration": "2:06"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -12164,7 +12173,16 @@
       },
       "homeScore": 1,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "34mBAo9j0ro",
+          "title": "Highlights: Israele-Italia 1-2 | Nations League 2024/25",
+          "thumbnailUrl": "https://i.ytimg.com/vi/34mBAo9j0ro/hqdefault.jpg",
+          "publishedAt": "2024-09-10T16:00:06+00:00",
+          "source": "FIGC",
+          "duration": "2:00"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -17224,7 +17242,7 @@
       "id": "nations-league-2024-25-698941",
       "competition": "nations-league",
       "season": "2024-25",
-      "round": 2,
+      "round": 3,
       "title": "Moldavia - Andorra",
       "session": "match",
       "startsAt": "2024-10-10T16:00:00+00:00",
@@ -18809,7 +18827,7 @@
       "id": "nations-league-2024-25-698938",
       "competition": "nations-league",
       "season": "2024-25",
-      "round": 2,
+      "round": 3,
       "title": "Gibilterra - San Marino",
       "session": "match",
       "startsAt": "2024-10-10T18:45:00+00:00",
@@ -19494,7 +19512,16 @@
       },
       "homeScore": 2,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "l7ZCA-gJIB4",
+          "title": "Highlights: Italia-Belgio 2-2 | Nations League 2024/25",
+          "thumbnailUrl": "https://i.ytimg.com/vi/l7ZCA-gJIB4/hqdefault.jpg",
+          "publishedAt": "2024-10-11T16:00:54+00:00",
+          "source": "FIGC",
+          "duration": "2:05"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -26201,7 +26228,7 @@
       "id": "nations-league-2024-25-698963",
       "competition": "nations-league",
       "season": "2024-25",
-      "round": 3,
+      "round": 4,
       "title": "Liechtenstein - Gibilterra",
       "session": "match",
       "startsAt": "2024-10-13T16:00:00+00:00",
@@ -26497,7 +26524,7 @@
       "id": "nations-league-2024-25-698964",
       "competition": "nations-league",
       "season": "2024-25",
-      "round": 3,
+      "round": 4,
       "title": "Malta - Moldavia",
       "session": "match",
       "startsAt": "2024-10-13T16:00:00+00:00",
@@ -30047,7 +30074,16 @@
       },
       "homeScore": 4,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "WG6ZMn6QmTs",
+          "title": "Highlights: Italia-Israele 4-1 | Nations League 2024/25",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WG6ZMn6QmTs/hqdefault.jpg",
+          "publishedAt": "2024-10-15T15:30:20+00:00",
+          "source": "FIGC",
+          "duration": "2:03"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -33988,7 +34024,16 @@
       },
       "homeScore": 0,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "F2U30199Spc",
+          "title": "Highlights: Belgio-Italia 0-1 | Nations League 2024/25",
+          "thumbnailUrl": "https://i.ytimg.com/vi/F2U30199Spc/hqdefault.jpg",
+          "publishedAt": "2024-11-15T17:00:12+00:00",
+          "source": "FIGC",
+          "duration": "2:05"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -37567,7 +37612,7 @@
       "id": "nations-league-2024-25-699000",
       "competition": "nations-league",
       "season": "2024-25",
-      "round": 4,
+      "round": 5,
       "title": "San Marino - Gibilterra",
       "session": "match",
       "startsAt": "2024-11-15T19:45:00+00:00",
@@ -38825,7 +38870,7 @@
       "id": "nations-league-2024-25-699004",
       "competition": "nations-league",
       "season": "2024-25",
-      "round": 4,
+      "round": 5,
       "title": "Andorra - Moldavia",
       "session": "match",
       "startsAt": "2024-11-16T17:00:00+00:00",
@@ -43598,7 +43643,16 @@
       },
       "homeScore": 1,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "uL0megSXUYo",
+          "title": "Highlights: Italia-Francia 1-3 | Nations League 2024/25",
+          "thumbnailUrl": "https://i.ytimg.com/vi/uL0megSXUYo/hqdefault.jpg",
+          "publishedAt": "2024-11-18T18:00:41+00:00",
+          "source": "FIGC",
+          "duration": "1:46"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -44786,7 +44840,7 @@
       "id": "nations-league-2024-25-699028",
       "competition": "nations-league",
       "season": "2024-25",
-      "round": 4,
+      "round": 6,
       "title": "Liechtenstein - San Marino",
       "session": "match",
       "startsAt": "2024-11-18T19:45:00+00:00",
@@ -48086,7 +48140,7 @@
       "id": "nations-league-2024-25-699043",
       "competition": "nations-league",
       "season": "2024-25",
-      "round": 4,
+      "round": 6,
       "title": "Malta - Andorra",
       "session": "match",
       "startsAt": "2024-11-19T19:45:00+00:00",
@@ -52030,7 +52084,16 @@
       },
       "homeScore": 1,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "bfvTa7mZUtI",
+          "title": "Highlights: Italia-Germania 1-2 | Nations League 2024/25",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bfvTa7mZUtI/hqdefault.jpg",
+          "publishedAt": "2025-03-21T17:00:42+00:00",
+          "source": "FIGC",
+          "duration": "2:02"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -56371,7 +56434,16 @@
       },
       "homeScore": 3,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Fg0RykcLQcM",
+          "title": "Highlights: Germania-Italia 3-3 | Nations League 2024/25",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Fg0RykcLQcM/hqdefault.jpg",
+          "publishedAt": "2025-03-24T17:00:13+00:00",
+          "source": "FIGC",
+          "duration": "2:03"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -58906,7 +58978,16 @@
       "awayScore": 2,
       "homePenalties": 5,
       "awayPenalties": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "wjx4zDd3EDU",
+          "title": "Portogallo-Spagna 2-2 (7-5 dcr): gol e highlights | Finale Nations League",
+          "thumbnailUrl": "https://i.ytimg.com/vi/wjx4zDd3EDU/hqdefault.jpg",
+          "publishedAt": "2025-06-08T22:29:41+00:00",
+          "source": "Sky Sport",
+          "duration": "3:15"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [

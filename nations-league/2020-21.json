@@ -1,7 +1,7 @@
 {
   "competition": "nations-league",
   "season": "2020-21",
-  "generatedAt": "2026-11-27T08:37:38.6736662+00:00",
+  "generatedAt": "2026-11-27T13:38:06.9196703+00:00",
   "events": [
     {
       "id": "nations-league-2020-21-570786",
@@ -3230,7 +3230,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "c8CcuJ8NZrY",
+          "title": "Highlights: Italia-Bosnia 1-1 (4 settembre 2020)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/c8CcuJ8NZrY/hqdefault.jpg",
+          "publishedAt": "2020-09-06T07:56:17+00:00",
+          "source": "FIGC",
+          "duration": "2:24"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -11779,7 +11788,16 @@
       },
       "homeScore": 0,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "WA53BEv8zUY",
+          "title": "Highlights: Paesi Bassi-Italia 0-1 (7 settembre 2020)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WA53BEv8zUY/hqdefault.jpg",
+          "publishedAt": "2020-09-08T22:00:04+00:00",
+          "source": "FIGC",
+          "duration": "2:31"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -15758,7 +15776,7 @@
       "id": "nations-league-2020-21-570735",
       "competition": "nations-league",
       "season": "2020-21",
-      "round": 2,
+      "round": 3,
       "title": "Liechtenstein - Gibilterra",
       "session": "match",
       "startsAt": "2020-10-10T16:00:00+00:00",
@@ -21755,7 +21773,16 @@
       },
       "homeScore": 0,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "4FYkELwj24U",
+          "title": "Highlights: Polonia-Italia 0-0 (11 ottobre 2020)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/4FYkELwj24U/hqdefault.jpg",
+          "publishedAt": "2020-10-12T22:15:01+00:00",
+          "source": "FIGC",
+          "duration": "2:04"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -24301,7 +24328,7 @@
       "id": "nations-league-2020-21-570713",
       "competition": "nations-league",
       "season": "2020-21",
-      "round": 3,
+      "round": 4,
       "title": "Liechtenstein - San Marino",
       "session": "match",
       "startsAt": "2020-10-13T18:45:00+00:00",
@@ -27912,7 +27939,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "xhLeEr4q5Kg",
+          "title": "Highlights: Italia-Paesi Bassi 1-1 (14 ottobre 2020)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/xhLeEr4q5Kg/hqdefault.jpg",
+          "publishedAt": "2020-10-15T22:19:23+00:00",
+          "source": "FIGC",
+          "duration": "2:56"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -31601,7 +31637,7 @@
       "id": "nations-league-2020-21-570673",
       "competition": "nations-league",
       "season": "2020-21",
-      "round": 4,
+      "round": 5,
       "title": "San Marino - Gibilterra",
       "session": "match",
       "startsAt": "2020-11-14T14:00:00+00:00",
@@ -38329,7 +38365,16 @@
       },
       "homeScore": 2,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "RRaBnEagmHY",
+          "title": "Highlights: Italia-Polonia 2-0 (15 novembre 2020)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/RRaBnEagmHY/hqdefault.jpg",
+          "publishedAt": "2020-11-16T23:00:10+00:00",
+          "source": "FIGC",
+          "duration": "2:29"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -40276,7 +40321,7 @@
       "id": "nations-league-2020-21-570647",
       "competition": "nations-league",
       "season": "2020-21",
-      "round": 4,
+      "round": 6,
       "title": "Gibilterra - Liechtenstein",
       "session": "match",
       "startsAt": "2020-11-17T19:45:00+00:00",
@@ -43751,7 +43796,16 @@
       },
       "homeScore": 0,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "M_vyBADUNqQ",
+          "title": "Highlights: Bosnia Erzegovina-Italia 0-2\u00A0(18 novembre 2020)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/M_vyBADUNqQ/hqdefault.jpg",
+          "publishedAt": "2020-11-19T23:00:09+00:00",
+          "source": "FIGC",
+          "duration": "2:45"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -47514,7 +47568,16 @@
       },
       "homeScore": 1,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "n6gp2wz1Noo",
+          "title": "Highlights: Italia-Spagna 1-2 (6 ottobre 2021)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/n6gp2wz1Noo/hqdefault.jpg",
+          "publishedAt": "2021-10-07T19:00:11+00:00",
+          "source": "FIGC",
+          "duration": "2:43"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -48122,7 +48185,16 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "ch8mPbg6iMk",
+          "title": "Highlights: Italia-Belgio 2-1 (10 ottobre 2021)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ch8mPbg6iMk/hqdefault.jpg",
+          "publishedAt": "2021-10-11T13:48:29+00:00",
+          "source": "FIGC",
+          "duration": "2:41"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [

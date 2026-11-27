@@ -1,7 +1,7 @@
 {
   "competition": "nations-league",
   "season": "2022-23",
-  "generatedAt": "2026-11-27T08:37:38.6736662+00:00",
+  "generatedAt": "2026-11-27T13:38:06.9196703+00:00",
   "events": [
     {
       "id": "nations-league-2022-23-624153",
@@ -6999,7 +6999,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "q9YqB3lYCVo",
+          "title": "Highlights: Italia-Germania 1-1 (4 giugno 2022)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/q9YqB3lYCVo/hqdefault.jpg",
+          "publishedAt": "2022-06-05T22:02:00+00:00",
+          "source": "FIGC",
+          "duration": "2:01"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -14308,7 +14317,16 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "gN1_Oof2_fc",
+          "title": "Highlights: Italia-Ungheria 2-1 (7 giugno 2022)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/gN1_Oof2_fc/hqdefault.jpg",
+          "publishedAt": "2022-06-08T22:02:00+00:00",
+          "source": "FIGC",
+          "duration": "1:55"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -17197,7 +17215,7 @@
       "id": "nations-league-2022-23-624110",
       "competition": "nations-league",
       "season": "2022-23",
-      "round": 2,
+      "round": 3,
       "title": "Malta - Estonia",
       "session": "match",
       "startsAt": "2022-06-09T18:45:00+00:00",
@@ -22369,7 +22387,16 @@
       },
       "homeScore": 0,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "gepkDT-DrFU",
+          "title": "Highlights: Inghilterra-Italia 0-0 (11 giugno 2022)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/gepkDT-DrFU/hqdefault.jpg",
+          "publishedAt": "2022-06-12T22:02:00+00:00",
+          "source": "FIGC",
+          "duration": "1:49"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -26114,7 +26141,7 @@
       "id": "nations-league-2022-23-624078",
       "competition": "nations-league",
       "season": "2022-23",
-      "round": 3,
+      "round": 4,
       "title": "Malta - San Marino",
       "session": "match",
       "startsAt": "2022-06-12T18:45:00+00:00",
@@ -30368,7 +30395,16 @@
       },
       "homeScore": 5,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "9FSXvHhm1Lk",
+          "title": "Highlights: Germania-Italia 5-2 (14 giugno 2022)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/9FSXvHhm1Lk/hqdefault.jpg",
+          "publishedAt": "2022-06-15T22:02:00+00:00",
+          "source": "FIGC",
+          "duration": "1:50"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -32931,7 +32967,7 @@
       "id": "nations-league-2022-23-624118",
       "competition": "nations-league",
       "season": "2022-23",
-      "round": 4,
+      "round": 5,
       "title": "Scozia - Ucraina",
       "session": "match",
       "startsAt": "2022-09-21T18:45:00+00:00",
@@ -36430,7 +36466,7 @@
       "id": "nations-league-2022-23-624042",
       "competition": "nations-league",
       "season": "2022-23",
-      "round": 4,
+      "round": 5,
       "title": "Estonia - Malta",
       "session": "match",
       "startsAt": "2022-09-23T16:00:00+00:00",
@@ -38358,7 +38394,16 @@
       },
       "homeScore": 1,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "IW84LzqfmHA",
+          "title": "Highlights: Italia-Inghilterra 1-0 (23 settembre 2022)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/IW84LzqfmHA/hqdefault.jpg",
+          "publishedAt": "2022-09-24T22:01:00+00:00",
+          "source": "FIGC",
+          "duration": "1:57"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -38608,7 +38653,7 @@
       "id": "nations-league-2022-23-624047",
       "competition": "nations-league",
       "season": "2022-23",
-      "round": 5,
+      "round": 6,
       "title": "Armenia - Ucraina",
       "session": "match",
       "startsAt": "2022-09-24T13:00:00+00:00",
@@ -40534,7 +40579,7 @@
       "id": "nations-league-2022-23-624044",
       "competition": "nations-league",
       "season": "2022-23",
-      "round": 5,
+      "round": 6,
       "title": "Scozia - Irlanda",
       "session": "match",
       "startsAt": "2022-09-24T18:45:00+00:00",
@@ -45366,7 +45411,16 @@
       },
       "homeScore": 0,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "8ubh8bWQD8o",
+          "title": "Highlights: Ungheria-Italia 0-2 (26 settembre 2022)",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8ubh8bWQD8o/hqdefault.jpg",
+          "publishedAt": "2022-09-27T22:01:00+00:00",
+          "source": "FIGC",
+          "duration": "2:05"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -46660,7 +46714,7 @@
       "id": "nations-league-2022-23-624020",
       "competition": "nations-league",
       "season": "2022-23",
-      "round": 4,
+      "round": 6,
       "title": "San Marino - Estonia",
       "session": "match",
       "startsAt": "2022-09-26T18:45:00+00:00",
@@ -48590,7 +48644,7 @@
       "id": "nations-league-2022-23-624012",
       "competition": "nations-league",
       "season": "2022-23",
-      "round": 6,
+      "round": 7,
       "title": "Irlanda - Armenia",
       "session": "match",
       "startsAt": "2022-09-27T18:45:00+00:00",
@@ -49592,7 +49646,7 @@
       "id": "nations-league-2022-23-624019",
       "competition": "nations-league",
       "season": "2022-23",
-      "round": 6,
+      "round": 7,
       "title": "Ucraina - Scozia",
       "session": "match",
       "startsAt": "2022-09-27T18:45:00+00:00",
@@ -50332,7 +50386,16 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "OGt67eeh6P0",
+          "title": "Highlights: Spagna-Italia 2-1 | Nations League Finals",
+          "thumbnailUrl": "https://i.ytimg.com/vi/OGt67eeh6P0/hqdefault.jpg",
+          "publishedAt": "2023-06-16T22:02:00+00:00",
+          "source": "FIGC",
+          "duration": "1:58"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -50662,7 +50725,16 @@
       },
       "homeScore": 2,
       "awayScore": 3,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "ESSOvNPBW7k",
+          "title": "Highlights: Paesi Bassi-Italia 2-3 | Nations League Finals",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ESSOvNPBW7k/hqdefault.jpg",
+          "publishedAt": "2023-06-19T17:00:06+00:00",
+          "source": "FIGC",
+          "duration": "1:52"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -51012,7 +51084,17 @@
       "awayScore": 0,
       "homePenalties": 4,
       "awayPenalties": 5,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "vA4HKaA4k8s",
+          "title": "Croazia-Spagna 4-5 dcr: gli highlights | UEFA Nations League",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vA4HKaA4k8s/hqdefault.jpg",
+          "publishedAt": "2023-06-18T22:09:05+00:00",
+          "source": "Sky Sport",
+          "duration": "3:36",
+          "embeddable": false
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [

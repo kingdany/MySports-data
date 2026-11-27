@@ -1,7 +1,7 @@
 {
   "competition": "nations-league",
   "season": "2026-27",
-  "generatedAt": "2026-11-27T13:01:24.8103028+00:00",
+  "generatedAt": "2026-11-27T13:38:06.9196703+00:00",
   "events": [
     {
       "id": "nations-league-2026-27-401861047",
@@ -3591,7 +3591,16 @@
       },
       "homeScore": 0,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "OusstMtEERw",
+          "title": "Highlights: Italia-Belgio 0-2 | Nations League 2026/27",
+          "thumbnailUrl": "https://i.ytimg.com/vi/OusstMtEERw/hqdefault.jpg",
+          "publishedAt": "2026-09-27T10:54:40+00:00",
+          "source": "FIGC",
+          "duration": "2:04"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -13214,7 +13223,16 @@
       },
       "homeScore": 1,
       "awayScore": 4,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "bYBVXhBGW3A",
+          "title": "Highlights: Turchia-Italia 1-4 | Nations League 2026/27",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bYBVXhBGW3A/hqdefault.jpg",
+          "publishedAt": "2026-09-29T16:00:33+00:00",
+          "source": "FIGC",
+          "duration": "2:11"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -21098,7 +21116,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "Fy0FvylRroA",
+          "title": "Highlights: Francia-Italia 1-1 | Nations League 2026/27",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Fy0FvylRroA/hqdefault.jpg",
+          "publishedAt": "2026-10-03T16:00:18+00:00",
+          "source": "FIGC",
+          "duration": "2:11"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -28679,7 +28706,16 @@
       },
       "homeScore": 3,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "GJmHcoX81KI",
+          "title": "Highlights: Italia-Turchia 3-1 | Nations League 2026/27",
+          "thumbnailUrl": "https://i.ytimg.com/vi/GJmHcoX81KI/hqdefault.jpg",
+          "publishedAt": "2026-10-07T05:11:01+00:00",
+          "source": "FIGC",
+          "duration": "2:06"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -34977,7 +35013,16 @@
       },
       "homeScore": 3,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "p1_ZNfGHJl4",
+          "title": "Show Azzurro a San Siro \uD83E\uDD29 Italia-Francia 3-1 | Highlights Nations League 2026/27",
+          "thumbnailUrl": "https://i.ytimg.com/vi/p1_ZNfGHJl4/hqdefault.jpg",
+          "publishedAt": "2026-11-13T17:00:36+00:00",
+          "source": "FIGC",
+          "duration": "2:18"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -42976,7 +43021,16 @@
       },
       "homeScore": 4,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "1xqDbHQofxI",
+          "title": "Belgio-Italia 4-1 | Highlights Nations League 2026/27",
+          "thumbnailUrl": "https://i.ytimg.com/vi/1xqDbHQofxI/hqdefault.jpg",
+          "publishedAt": "2026-11-16T17:00:02+00:00",
+          "source": "FIGC",
+          "duration": "2:20"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
