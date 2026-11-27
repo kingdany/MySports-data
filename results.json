@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-27T13:01:24.8103028+00:00",
+  "generatedAt": "2026-11-27T15:01:16.317026+00:00",
   "events": [
+    {
+      "id": "motogp-2026-22-practice",
+      "competition": "motogp",
+      "season": "2026",
+      "round": 22,
+      "title": "Grand Prix of Valencia",
+      "session": "practice",
+      "startsAt": "2026-11-27T14:00:00+00:00",
+      "venue": "Circuit Ricardo Tormo",
+      "city": "Cheste",
+      "country": "Spain",
+      "status": "finished",
+      "videos": []
+    },
+    {
+      "id": "f1-2026-22-fp1",
+      "competition": "f1",
+      "season": "2026",
+      "round": 22,
+      "title": "Qatar Grand Prix",
+      "session": "fp1",
+      "startsAt": "2026-11-27T13:30:00+00:00",
+      "venue": "Lusail International Circuit",
+      "city": "Lusail",
+      "country": "Qatar",
+      "status": "finished",
+      "videos": []
+    },
     {
       "id": "motogp-2026-22-fp1",
       "competition": "motogp",
@@ -28120,7 +28148,16 @@
       },
       "homeScore": 4,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "2f8LbWScwdc",
+          "title": "Belgio - Italia 4-1: gli Highlights | UEFA Nations League 2026/27",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2f8LbWScwdc/hqdefault.jpg",
+          "publishedAt": "2026-11-15T22:06:13+00:00",
+          "source": "Rai",
+          "duration": "6:44"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [

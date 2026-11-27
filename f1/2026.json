@@ -1,7 +1,7 @@
 {
   "competition": "f1",
   "season": "2026",
-  "generatedAt": "2026-11-27T13:01:24.8103028+00:00",
+  "generatedAt": "2026-11-27T15:01:16.317026+00:00",
   "events": [
     {
       "id": "f1-2026-1-fp1",
@@ -2792,7 +2792,7 @@
       "round": 4,
       "title": "Miami Grand Prix",
       "session": "race",
-      "startsAt": "2026-05-03T20:00:00+00:00",
+      "startsAt": "2026-05-03T17:00:00+00:00",
       "venue": "Miami International Autodrome",
       "city": "Miami",
       "country": "USA",
@@ -13957,7 +13957,7 @@
       "venue": "Lusail International Circuit",
       "city": "Lusail",
       "country": "Qatar",
-      "status": "scheduled",
+      "status": "finished",
       "videos": []
     },
     {

@@ -1,7 +1,7 @@
 {
   "competition": "motogp",
   "season": "2026",
-  "generatedAt": "2026-11-27T13:01:24.8103028+00:00",
+  "generatedAt": "2026-11-27T15:01:16.317026+00:00",
   "events": [
     {
       "id": "motogp-2026-1-fp1",
@@ -15273,7 +15273,7 @@
       "venue": "Circuit Ricardo Tormo",
       "city": "Cheste",
       "country": "Spain",
-      "status": "scheduled",
+      "status": "finished",
       "videos": []
     },
     {
