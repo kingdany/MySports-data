@@ -1,7 +1,7 @@
 {
   "competition": "serie-a",
   "season": "2026-27",
-  "generatedAt": "2026-11-27T21:01:22.7334237+00:00",
+  "generatedAt": "2026-11-27T23:01:31.9169645+00:00",
   "events": [
     {
       "id": "serie-a-2026-27-558629",
@@ -39881,7 +39881,7 @@
       "title": "Venezia - Bologna",
       "session": "match",
       "startsAt": "2026-11-27T19:45:00+00:00",
-      "status": "live",
+      "status": "finished",
       "homeTeam": {
         "id": "454",
         "name": "Venezia FC",
@@ -39894,7 +39894,308 @@
         "shortName": "Bologna",
         "logoUrl": "https://crests.football-data.org/103.png"
       },
-      "videos": []
+      "homeScore": 0,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 15,
+            "type": "yellow",
+            "side": "home",
+            "player": "Juan Jesus",
+            "short": "Jesus"
+          },
+          {
+            "minute": 16,
+            "type": "yellow",
+            "side": "away",
+            "player": "Nadir Zortea",
+            "short": "Zortea"
+          },
+          {
+            "minute": 22,
+            "type": "yellow",
+            "side": "away",
+            "player": "Martin Vitík",
+            "short": "Vitík"
+          },
+          {
+            "minute": 28,
+            "type": "yellow",
+            "side": "home",
+            "player": "Antoine Hainaut",
+            "short": "Hainaut"
+          },
+          {
+            "minute": 49,
+            "type": "yellow",
+            "side": "away",
+            "player": "Jens Odgaard",
+            "short": "Odgaard"
+          },
+          {
+            "minute": 78,
+            "type": "yellow",
+            "side": "home",
+            "player": "Albion Rrahmani",
+            "short": "Rrahmani"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Filip Stankovic",
+              "short": "Stankovic"
+            },
+            {
+              "number": 2,
+              "name": "Matías Moreno",
+              "short": "Moreno"
+            },
+            {
+              "number": 15,
+              "name": "Juan Jesus",
+              "short": "Jesus"
+            },
+            {
+              "number": 25,
+              "name": "Redouane Halhal",
+              "short": "Halhal"
+            },
+            {
+              "number": 6,
+              "name": "Gianluca Busio",
+              "short": "Busio"
+            },
+            {
+              "number": 71,
+              "name": "Enrique Perez",
+              "short": "Perez"
+            },
+            {
+              "number": 19,
+              "name": "Simon Sohm",
+              "short": "Sohm"
+            },
+            {
+              "number": 5,
+              "name": "Ridgeciano Haps",
+              "short": "Haps"
+            },
+            {
+              "number": 18,
+              "name": "Antoine Hainaut",
+              "short": "Hainaut"
+            },
+            {
+              "number": 45,
+              "name": "Akor Adams",
+              "short": "Adams"
+            },
+            {
+              "number": 10,
+              "name": "John Yeboah",
+              "short": "Yeboah"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 58,
+              "in": {
+                "number": 21,
+                "name": "Thorir Johann Helgason",
+                "short": "Helgason"
+              },
+              "out": {
+                "number": 6,
+                "name": "Gianluca Busio",
+                "short": "Busio"
+              }
+            },
+            {
+              "minute": 70,
+              "in": {
+                "number": 7,
+                "name": "Albion Rrahmani",
+                "short": "Rrahmani"
+              },
+              "out": {
+                "number": 10,
+                "name": "John Yeboah",
+                "short": "Yeboah"
+              }
+            },
+            {
+              "minute": 70,
+              "in": {
+                "number": 29,
+                "name": "Lion Lauberbach",
+                "short": "Lauberbach"
+              },
+              "out": {
+                "number": 45,
+                "name": "Akor Adams",
+                "short": "Adams"
+              }
+            },
+            {
+              "minute": 76,
+              "in": {
+                "number": 17,
+                "name": "Armel Bella-Kotchap",
+                "short": "Bella-Kotchap"
+              },
+              "out": {
+                "number": 2,
+                "name": "Matías Moreno",
+                "short": "Moreno"
+              }
+            },
+            {
+              "minute": 76,
+              "in": {
+                "number": 30,
+                "name": "Matteo Dagasso",
+                "short": "Dagasso"
+              },
+              "out": {
+                "number": 71,
+                "name": "Enrique Perez",
+                "short": "Perez"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 1,
+              "name": "Lukasz Skorupski",
+              "short": "Skorupski"
+            },
+            {
+              "number": 16,
+              "name": "Nicoló Casale",
+              "short": "Casale"
+            },
+            {
+              "number": 3,
+              "name": "Arthur Theate",
+              "short": "Theate"
+            },
+            {
+              "number": 41,
+              "name": "Martin Vitík",
+              "short": "Vitík"
+            },
+            {
+              "number": 4,
+              "name": "Tommaso Pobega",
+              "short": "Pobega"
+            },
+            {
+              "number": 19,
+              "name": "Lewis Ferguson",
+              "short": "Ferguson"
+            },
+            {
+              "number": 23,
+              "name": "Rahim Alhassane",
+              "short": "Alhassane"
+            },
+            {
+              "number": 20,
+              "name": "Nadir Zortea",
+              "short": "Zortea"
+            },
+            {
+              "number": 21,
+              "name": "Jens Odgaard",
+              "short": "Odgaard"
+            },
+            {
+              "number": 11,
+              "name": "Samuel Mbangula",
+              "short": "Mbangula"
+            },
+            {
+              "number": 10,
+              "name": "Federico Bernardeschi",
+              "short": "Bernardeschi"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 36,
+                "name": "Matteo Darmian",
+                "short": "Darmian"
+              },
+              "out": {
+                "number": 41,
+                "name": "Martin Vitík",
+                "short": "Vitík"
+              }
+            },
+            {
+              "minute": 56,
+              "in": {
+                "number": 28,
+                "name": "Nicolò Cambiaghi",
+                "short": "Cambiaghi"
+              },
+              "out": {
+                "number": 11,
+                "name": "Samuel Mbangula",
+                "short": "Mbangula"
+              }
+            },
+            {
+              "minute": 56,
+              "in": {
+                "number": 7,
+                "name": "Riccardo Orsolini",
+                "short": "Orsolini"
+              },
+              "out": {
+                "number": 10,
+                "name": "Federico Bernardeschi",
+                "short": "Bernardeschi"
+              }
+            },
+            {
+              "minute": 66,
+              "in": {
+                "number": 91,
+                "name": "Roberto Piccoli",
+                "short": "Piccoli"
+              },
+              "out": {
+                "number": 21,
+                "name": "Jens Odgaard",
+                "short": "Odgaard"
+              }
+            },
+            {
+              "minute": 88,
+              "in": {
+                "number": 18,
+                "name": "Marco Libra",
+                "short": "Libra"
+              },
+              "out": {
+                "number": 4,
+                "name": "Tommaso Pobega",
+                "short": "Pobega"
+              }
+            }
+          ]
+        }
+      }
     },
     {
       "id": "serie-a-2026-27-558513",
@@ -46142,6 +46443,18 @@
         {
           "pos": 8,
           "posText": "8",
+          "name": "Bologna",
+          "code": "BOL",
+          "points": 19,
+          "wins": 5,
+          "played": 13,
+          "draws": 4,
+          "losses": 4,
+          "goalDifference": 2
+        },
+        {
+          "pos": 9,
+          "posText": "9",
           "name": "Napoli",
           "code": "NAP",
           "points": 18,
@@ -46150,18 +46463,6 @@
           "draws": 3,
           "losses": 4,
           "goalDifference": 5
-        },
-        {
-          "pos": 9,
-          "posText": "9",
-          "name": "Bologna",
-          "code": "BOL",
-          "points": 18,
-          "wins": 5,
-          "played": 12,
-          "draws": 3,
-          "losses": 4,
-          "goalDifference": 2
         },
         {
           "pos": 10,
@@ -46275,6 +46576,19 @@
         {
           "pos": 19,
           "posText": "19",
+          "name": "Venezia",
+          "code": "VEN",
+          "points": 7,
+          "wins": 2,
+          "played": 13,
+          "draws": 1,
+          "losses": 10,
+          "goalDifference": -17,
+          "zone": "relegation"
+        },
+        {
+          "pos": 20,
+          "posText": "20",
           "name": "Udinese",
           "code": "UDI",
           "points": 6,
@@ -46283,19 +46597,6 @@
           "draws": 3,
           "losses": 8,
           "goalDifference": -13,
-          "zone": "relegation"
-        },
-        {
-          "pos": 20,
-          "posText": "20",
-          "name": "Venezia",
-          "code": "VEN",
-          "points": 6,
-          "wins": 2,
-          "played": 12,
-          "draws": 0,
-          "losses": 10,
-          "goalDifference": -17,
           "zone": "relegation"
         }
       ]
