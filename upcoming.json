@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T19:01:18.9544932+00:00",
+  "generatedAt": "2026-11-27T21:01:22.7334237+00:00",
   "events": [
     {
       "id": "serie-a-2026-27-558515",
@@ -9,7 +9,7 @@
       "title": "Venezia - Bologna",
       "session": "match",
       "startsAt": "2026-11-27T19:45:00+00:00",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "454",
         "name": "Venezia FC",
@@ -1964,6 +1964,29 @@
         "name": "Ajax Amsterdam",
         "shortName": "Ajax",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "serie-a-2026-27-558491",
+      "competition": "serie-a",
+      "season": "2026-27",
+      "round": 15,
+      "title": "Udinese - Frosinone",
+      "session": "match",
+      "startsAt": "2026-12-11T19:45:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "115",
+        "name": "Udinese Calcio",
+        "shortName": "Udinese",
+        "logoUrl": "https://crests.football-data.org/115.png"
+      },
+      "awayTeam": {
+        "id": "470",
+        "name": "Frosinone Calcio",
+        "shortName": "Frosinone",
+        "logoUrl": "https://crests.football-data.org/470.png"
       },
       "videos": []
     }
