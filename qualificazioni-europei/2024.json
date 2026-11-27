@@ -1,7 +1,7 @@
 {
   "competition": "qualificazioni-europei",
   "season": "2024",
-  "generatedAt": "2026-11-27T09:09:02.0794351+00:00",
+  "generatedAt": "2026-11-27T13:43:50.4110812+00:00",
   "events": [
     {
       "id": "qualificazioni-europei-2024-655247",
@@ -978,7 +978,16 @@
       },
       "homeScore": 1,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "K6Ni9IIwrDI",
+          "title": "Highlights: Italia-Inghilterra 1-2 | Qualificazioni EURO 2024",
+          "thumbnailUrl": "https://i.ytimg.com/vi/K6Ni9IIwrDI/hqdefault.jpg",
+          "publishedAt": "2023-03-24T23:01:00+00:00",
+          "source": "FIGC",
+          "duration": "2:02"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -9120,7 +9129,16 @@
       },
       "homeScore": 0,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "bNiM0r9NVKU",
+          "title": "Highlights: Malta-Italia 0-2 | Qualificazioni EURO 2024",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bNiM0r9NVKU/hqdefault.jpg",
+          "publishedAt": "2023-03-27T22:02:00+00:00",
+          "source": "FIGC",
+          "duration": "1:55"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -36007,7 +36025,16 @@
       },
       "homeScore": 1,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "XFDt10QIGgw",
+          "title": "Highlights: Macedonia del Nord-Italia 1-1 | Qualificazioni EURO 2024",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XFDt10QIGgw/hqdefault.jpg",
+          "publishedAt": "2023-09-10T22:02:00+00:00",
+          "source": "FIGC",
+          "duration": "1:54"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -41865,7 +41892,16 @@
       },
       "homeScore": 2,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "KnZPbsP2hyI",
+          "title": "Highlights: Italia-Ucraina 2-1 | Qualificazioni EURO 2024",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KnZPbsP2hyI/hqdefault.jpg",
+          "publishedAt": "2023-09-13T22:02:00+00:00",
+          "source": "FIGC",
+          "duration": "2:01"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -51015,7 +51051,16 @@
       },
       "homeScore": 4,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "mi61T3vWoww",
+          "title": "Highlights: Italia-Malta 4-0 | Qualificazioni EURO 2024",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mi61T3vWoww/hqdefault.jpg",
+          "publishedAt": "2023-10-15T22:01:00+00:00",
+          "source": "FIGC",
+          "duration": "1:55"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -56500,7 +56545,16 @@
       },
       "homeScore": 3,
       "awayScore": 1,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "UO7_Esxosuo",
+          "title": "Highlights: Inghilterra-Italia 3-1 | Qualificazioni EURO 2024",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UO7_Esxosuo/hqdefault.jpg",
+          "publishedAt": "2023-10-18T22:02:01+00:00",
+          "source": "FIGC",
+          "duration": "2:04"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -63689,7 +63743,16 @@
       },
       "homeScore": 5,
       "awayScore": 2,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "sbJVcleZdQQ",
+          "title": "Highlights: Italia-Macedonia del Nord 5-2 | Qualificazioni EURO 2024",
+          "thumbnailUrl": "https://i.ytimg.com/vi/sbJVcleZdQQ/hqdefault.jpg",
+          "publishedAt": "2023-11-19T11:38:48+00:00",
+          "source": "FIGC",
+          "duration": "2:08"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
@@ -71345,7 +71408,16 @@
       },
       "homeScore": 0,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "WaOimUECB8Q",
+          "title": "Highlights: Ucraina-Italia 0-0 | Qualificazioni EURO 2024",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WaOimUECB8Q/hqdefault.jpg",
+          "publishedAt": "2023-11-21T23:01:00+00:00",
+          "source": "FIGC",
+          "duration": "1:53"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
