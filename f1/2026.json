@@ -1,7 +1,7 @@
 {
   "competition": "f1",
   "season": "2026",
-  "generatedAt": "2026-11-27T11:01:23.6680853+00:00",
+  "generatedAt": "2026-11-27T13:01:24.8103028+00:00",
   "events": [
     {
       "id": "f1-2026-1-fp1",
@@ -2792,7 +2792,7 @@
       "round": 4,
       "title": "Miami Grand Prix",
       "session": "race",
-      "startsAt": "2026-05-03T17:00:00+00:00",
+      "startsAt": "2026-05-03T20:00:00+00:00",
       "venue": "Miami International Autodrome",
       "city": "Miami",
       "country": "USA",
@@ -3019,16 +3019,7 @@
           "points": 0
         }
       ],
-      "videos": [
-        {
-          "videoId": "d5XfugB3_pw",
-          "title": "F1, GP Miami: gli highlights della gara, quarto Gran Premio della stagione",
-          "thumbnailUrl": "https://i.ytimg.com/vi/d5XfugB3_pw/hqdefault.jpg",
-          "publishedAt": "2026-05-03T19:25:56+00:00",
-          "source": "Sky Sport F1",
-          "duration": "3:46"
-        }
-      ]
+      "videos": []
     },
     {
       "id": "f1-2026-5-fp1",
