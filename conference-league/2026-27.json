@@ -1,7 +1,7 @@
 {
   "competition": "conference-league",
   "season": "2026-27",
-  "generatedAt": "2026-11-27T03:01:18.2619399+00:00",
+  "generatedAt": "2026-11-27T07:01:26.1372144+00:00",
   "events": [
     {
       "id": "conference-league-2026-27-401915855",
@@ -327,310 +327,6 @@
                 "number": 31,
                 "name": "Ansu Fati",
                 "short": "Fati"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "conference-league-2026-27-401915854",
-      "competition": "conference-league",
-      "season": "2026-27",
-      "round": 1,
-      "title": "Universitatea Craiova - Getafe",
-      "session": "match",
-      "startsAt": "2026-10-15T16:45:00+00:00",
-      "status": "finished",
-      "homeTeam": {
-        "id": "espn-8089",
-        "name": "Universitatea Craiova",
-        "shortName": "Universitatea Craiova",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
-      },
-      "awayTeam": {
-        "id": "espn-2922",
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
-      },
-      "homeScore": 1,
-      "awayScore": 1,
-      "videos": [],
-      "details": {
-        "version": 2,
-        "incidents": [
-          {
-            "minute": 26,
-            "type": "yellow",
-            "side": "home",
-            "player": "Oleksandr Romanchuk",
-            "short": "Romanchuk"
-          },
-          {
-            "minute": 51,
-            "type": "yellow",
-            "side": "home",
-            "player": "João Lameira",
-            "short": "Santos Lameira"
-          },
-          {
-            "minute": 56,
-            "type": "yellow",
-            "side": "home",
-            "player": "Alexandru Cicaldau",
-            "short": "Cicaldau"
-          },
-          {
-            "minute": 59,
-            "type": "goal",
-            "side": "home",
-            "player": "Assad Al-Hamlawi",
-            "short": "Al-Hamlawi"
-          },
-          {
-            "minute": 72,
-            "type": "yellow",
-            "side": "away",
-            "player": "Johan Mojica",
-            "short": "Mojica"
-          },
-          {
-            "minute": 77,
-            "type": "yellow",
-            "side": "home",
-            "player": "Vladimir Screciu",
-            "short": "Screciu"
-          },
-          {
-            "minute": 81,
-            "type": "goal",
-            "side": "away",
-            "player": "Nemanja Gudelj",
-            "short": "Gudelj"
-          }
-        ],
-        "home": {
-          "starters": [
-            {
-              "number": 21,
-              "name": "Laurentiu Popescu",
-              "short": "Popescu"
-            },
-            {
-              "number": 24,
-              "name": "Nikola Stevanovic",
-              "short": "Stevanovic"
-            },
-            {
-              "number": 6,
-              "name": "Vladimir Screciu",
-              "short": "Screciu"
-            },
-            {
-              "number": 3,
-              "name": "Oleksandr Romanchuk",
-              "short": "Romanchuk"
-            },
-            {
-              "number": 8,
-              "name": "Tudor Baluta",
-              "short": "Baluta"
-            },
-            {
-              "number": 16,
-              "name": "João Lameira",
-              "short": "Santos Lameira"
-            },
-            {
-              "number": 11,
-              "name": "Nicusor Bancu",
-              "short": "Bancu"
-            },
-            {
-              "number": 23,
-              "name": "Teles",
-              "short": "Pereira Nunes Silva"
-            },
-            {
-              "number": 9,
-              "name": "Assad Al-Hamlawi",
-              "short": "Al-Hamlawi"
-            },
-            {
-              "number": 10,
-              "name": "Stefan Baiaram",
-              "short": "Baiaram"
-            },
-            {
-              "number": 20,
-              "name": "Alexandru Cicaldau",
-              "short": "Cicaldau"
-            }
-          ],
-          "substitutions": [
-            {
-              "minute": 70,
-              "in": {
-                "number": 30,
-                "name": "David Matei",
-                "short": "Matei"
-              },
-              "out": {
-                "number": 10,
-                "name": "Stefan Baiaram",
-                "short": "Baiaram"
-              }
-            },
-            {
-              "minute": 75,
-              "in": {
-                "number": 22,
-                "name": "Simon Elisor",
-                "short": "Elisor"
-              },
-              "out": {
-                "number": 9,
-                "name": "Assad Al-Hamlawi",
-                "short": "Al-Hamlawi"
-              }
-            },
-            {
-              "minute": 75,
-              "in": {
-                "number": 4,
-                "name": "Alexandru Cretu",
-                "short": "Cretu"
-              },
-              "out": {
-                "number": 16,
-                "name": "João Lameira",
-                "short": "Santos Lameira"
-              }
-            },
-            {
-              "minute": 85,
-              "in": {
-                "number": 29,
-                "name": "Luca Basceanu",
-                "short": "Basceanu"
-              },
-              "out": {
-                "number": 20,
-                "name": "Alexandru Cicaldau",
-                "short": "Cicaldau"
-              }
-            }
-          ]
-        },
-        "away": {
-          "starters": [
-            {
-              "number": 13,
-              "name": "David Soria",
-              "short": "Soria"
-            },
-            {
-              "number": 26,
-              "name": "Jean Ives Valou",
-              "short": "Valou"
-            },
-            {
-              "number": 2,
-              "name": "Djené"
-            },
-            {
-              "number": 3,
-              "name": "Davinchi",
-              "short": "Cordón Mancha"
-            },
-            {
-              "number": 21,
-              "name": "Andrés García",
-              "short": "García"
-            },
-            {
-              "number": 6,
-              "name": "Mario Martín",
-              "short": "Martín"
-            },
-            {
-              "number": 16,
-              "name": "Francho Serrano",
-              "short": "Serrano"
-            },
-            {
-              "number": 8,
-              "name": "Nemanja Gudelj",
-              "short": "Gudelj"
-            },
-            {
-              "number": 9,
-              "name": "Borja Mayoral",
-              "short": "Mayoral"
-            },
-            {
-              "number": 10,
-              "name": "Martín Satriano",
-              "short": "Satriano"
-            },
-            {
-              "number": 11,
-              "name": "Ramón Terrats",
-              "short": "Terrats"
-            }
-          ],
-          "substitutions": [
-            {
-              "minute": 45,
-              "in": {
-                "number": 17,
-                "name": "Kiko Femenía",
-                "short": "Femenía"
-              },
-              "out": {
-                "number": 21,
-                "name": "Andrés García",
-                "short": "García"
-              }
-            },
-            {
-              "minute": 59,
-              "in": {
-                "number": 22,
-                "name": "Johan Mojica",
-                "short": "Mojica"
-              },
-              "out": {
-                "number": 3,
-                "name": "Davinchi",
-                "short": "Cordón Mancha"
-              }
-            },
-            {
-              "minute": 69,
-              "in": {
-                "number": 28,
-                "name": "Alberto Risco",
-                "short": "Risco"
-              },
-              "out": {
-                "number": 6,
-                "name": "Mario Martín",
-                "short": "Martín"
-              }
-            },
-            {
-              "minute": 82,
-              "in": {
-                "number": 15,
-                "name": "Sebastián Boselli",
-                "short": "Boselli"
-              },
-              "out": {
-                "number": 11,
-                "name": "Ramón Terrats",
-                "short": "Terrats"
               }
             }
           ]
@@ -3151,6 +2847,310 @@
                 "number": 22,
                 "name": "Gustavo Mendonça",
                 "short": "Mendonça"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "conference-league-2026-27-401915854",
+      "competition": "conference-league",
+      "season": "2026-27",
+      "round": 1,
+      "title": "Universitatea Craiova - Getafe",
+      "session": "match",
+      "startsAt": "2026-10-15T16:45:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-8089",
+        "name": "Universitatea Craiova",
+        "shortName": "Universitatea Craiova",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
+      },
+      "awayTeam": {
+        "id": "espn-2922",
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 26,
+            "type": "yellow",
+            "side": "home",
+            "player": "Oleksandr Romanchuk",
+            "short": "Romanchuk"
+          },
+          {
+            "minute": 51,
+            "type": "yellow",
+            "side": "home",
+            "player": "João Lameira",
+            "short": "Santos Lameira"
+          },
+          {
+            "minute": 56,
+            "type": "yellow",
+            "side": "home",
+            "player": "Alexandru Cicaldau",
+            "short": "Cicaldau"
+          },
+          {
+            "minute": 59,
+            "type": "goal",
+            "side": "home",
+            "player": "Assad Al-Hamlawi",
+            "short": "Al-Hamlawi"
+          },
+          {
+            "minute": 72,
+            "type": "yellow",
+            "side": "away",
+            "player": "Johan Mojica",
+            "short": "Mojica"
+          },
+          {
+            "minute": 77,
+            "type": "yellow",
+            "side": "home",
+            "player": "Vladimir Screciu",
+            "short": "Screciu"
+          },
+          {
+            "minute": 81,
+            "type": "goal",
+            "side": "away",
+            "player": "Nemanja Gudelj",
+            "short": "Gudelj"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 21,
+              "name": "Laurentiu Popescu",
+              "short": "Popescu"
+            },
+            {
+              "number": 24,
+              "name": "Nikola Stevanovic",
+              "short": "Stevanovic"
+            },
+            {
+              "number": 6,
+              "name": "Vladimir Screciu",
+              "short": "Screciu"
+            },
+            {
+              "number": 3,
+              "name": "Oleksandr Romanchuk",
+              "short": "Romanchuk"
+            },
+            {
+              "number": 8,
+              "name": "Tudor Baluta",
+              "short": "Baluta"
+            },
+            {
+              "number": 16,
+              "name": "João Lameira",
+              "short": "Santos Lameira"
+            },
+            {
+              "number": 11,
+              "name": "Nicusor Bancu",
+              "short": "Bancu"
+            },
+            {
+              "number": 23,
+              "name": "Teles",
+              "short": "Pereira Nunes Silva"
+            },
+            {
+              "number": 9,
+              "name": "Assad Al-Hamlawi",
+              "short": "Al-Hamlawi"
+            },
+            {
+              "number": 10,
+              "name": "Stefan Baiaram",
+              "short": "Baiaram"
+            },
+            {
+              "number": 20,
+              "name": "Alexandru Cicaldau",
+              "short": "Cicaldau"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 70,
+              "in": {
+                "number": 30,
+                "name": "David Matei",
+                "short": "Matei"
+              },
+              "out": {
+                "number": 10,
+                "name": "Stefan Baiaram",
+                "short": "Baiaram"
+              }
+            },
+            {
+              "minute": 75,
+              "in": {
+                "number": 22,
+                "name": "Simon Elisor",
+                "short": "Elisor"
+              },
+              "out": {
+                "number": 9,
+                "name": "Assad Al-Hamlawi",
+                "short": "Al-Hamlawi"
+              }
+            },
+            {
+              "minute": 75,
+              "in": {
+                "number": 4,
+                "name": "Alexandru Cretu",
+                "short": "Cretu"
+              },
+              "out": {
+                "number": 16,
+                "name": "João Lameira",
+                "short": "Santos Lameira"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 29,
+                "name": "Luca Basceanu",
+                "short": "Basceanu"
+              },
+              "out": {
+                "number": 20,
+                "name": "Alexandru Cicaldau",
+                "short": "Cicaldau"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 13,
+              "name": "David Soria",
+              "short": "Soria"
+            },
+            {
+              "number": 26,
+              "name": "Jean Ives Valou",
+              "short": "Valou"
+            },
+            {
+              "number": 2,
+              "name": "Djené"
+            },
+            {
+              "number": 3,
+              "name": "Davinchi",
+              "short": "Cordón Mancha"
+            },
+            {
+              "number": 21,
+              "name": "Andrés García",
+              "short": "García"
+            },
+            {
+              "number": 6,
+              "name": "Mario Martín",
+              "short": "Martín"
+            },
+            {
+              "number": 16,
+              "name": "Francho Serrano",
+              "short": "Serrano"
+            },
+            {
+              "number": 8,
+              "name": "Nemanja Gudelj",
+              "short": "Gudelj"
+            },
+            {
+              "number": 9,
+              "name": "Borja Mayoral",
+              "short": "Mayoral"
+            },
+            {
+              "number": 10,
+              "name": "Martín Satriano",
+              "short": "Satriano"
+            },
+            {
+              "number": 11,
+              "name": "Ramón Terrats",
+              "short": "Terrats"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 45,
+              "in": {
+                "number": 17,
+                "name": "Kiko Femenía",
+                "short": "Femenía"
+              },
+              "out": {
+                "number": 21,
+                "name": "Andrés García",
+                "short": "García"
+              }
+            },
+            {
+              "minute": 59,
+              "in": {
+                "number": 22,
+                "name": "Johan Mojica",
+                "short": "Mojica"
+              },
+              "out": {
+                "number": 3,
+                "name": "Davinchi",
+                "short": "Cordón Mancha"
+              }
+            },
+            {
+              "minute": 69,
+              "in": {
+                "number": 28,
+                "name": "Alberto Risco",
+                "short": "Risco"
+              },
+              "out": {
+                "number": 6,
+                "name": "Mario Martín",
+                "short": "Martín"
+              }
+            },
+            {
+              "minute": 82,
+              "in": {
+                "number": 15,
+                "name": "Sebastián Boselli",
+                "short": "Boselli"
+              },
+              "out": {
+                "number": 11,
+                "name": "Ramón Terrats",
+                "short": "Terrats"
               }
             }
           ]
@@ -14749,331 +14749,6 @@
       }
     },
     {
-      "id": "conference-league-2026-27-401915817",
-      "competition": "conference-league",
-      "season": "2026-27",
-      "round": 3,
-      "title": "Universitatea Craiova - Egnatia",
-      "session": "match",
-      "startsAt": "2026-11-05T20:00:00+00:00",
-      "status": "finished",
-      "homeTeam": {
-        "id": "espn-8089",
-        "name": "Universitatea Craiova",
-        "shortName": "Universitatea Craiova",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
-      },
-      "awayTeam": {
-        "id": "espn-21943",
-        "name": "Egnatia",
-        "shortName": "Egnatia",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png"
-      },
-      "homeScore": 2,
-      "awayScore": 0,
-      "videos": [],
-      "details": {
-        "version": 2,
-        "incidents": [
-          {
-            "minute": 24,
-            "type": "goal",
-            "side": "home",
-            "player": "Alexandru Cicaldau",
-            "short": "Cicaldau"
-          },
-          {
-            "minute": 32,
-            "type": "goal",
-            "side": "home",
-            "player": "Nicusor Bancu",
-            "short": "Bancu"
-          },
-          {
-            "minute": 34,
-            "type": "yellow",
-            "side": "home",
-            "player": "Nikola Stevanovic",
-            "short": "Stevanovic"
-          },
-          {
-            "minute": 74,
-            "type": "yellow",
-            "side": "home",
-            "player": "Alexandru Cicaldau",
-            "short": "Cicaldau"
-          },
-          {
-            "minute": 79,
-            "type": "yellow",
-            "side": "away",
-            "player": "Enea Bitri",
-            "short": "Bitri"
-          },
-          {
-            "minute": 79,
-            "type": "yellow",
-            "side": "home",
-            "player": "Simon Elisor",
-            "short": "Elisor"
-          },
-          {
-            "minute": 83,
-            "type": "secondYellow",
-            "side": "away",
-            "player": "Enea Bitri",
-            "short": "Bitri"
-          },
-          {
-            "minute": 90,
-            "type": "yellow",
-            "side": "home",
-            "player": "David Matei",
-            "short": "Matei"
-          }
-        ],
-        "home": {
-          "starters": [
-            {
-              "number": 21,
-              "name": "Laurentiu Popescu",
-              "short": "Popescu"
-            },
-            {
-              "number": 24,
-              "name": "Nikola Stevanovic",
-              "short": "Stevanovic"
-            },
-            {
-              "number": 6,
-              "name": "Vladimir Screciu",
-              "short": "Screciu"
-            },
-            {
-              "number": 3,
-              "name": "Oleksandr Romanchuk",
-              "short": "Romanchuk"
-            },
-            {
-              "number": 8,
-              "name": "Tudor Baluta",
-              "short": "Baluta"
-            },
-            {
-              "number": 16,
-              "name": "João Lameira",
-              "short": "Santos Lameira"
-            },
-            {
-              "number": 11,
-              "name": "Nicusor Bancu",
-              "short": "Bancu"
-            },
-            {
-              "number": 17,
-              "name": "Carlos Mora",
-              "short": "Mora"
-            },
-            {
-              "number": 9,
-              "name": "Assad Al-Hamlawi",
-              "short": "Al-Hamlawi"
-            },
-            {
-              "number": 10,
-              "name": "Stefan Baiaram",
-              "short": "Baiaram"
-            },
-            {
-              "number": 20,
-              "name": "Alexandru Cicaldau",
-              "short": "Cicaldau"
-            }
-          ],
-          "substitutions": [
-            {
-              "minute": 64,
-              "in": {
-                "number": 22,
-                "name": "Simon Elisor",
-                "short": "Elisor"
-              },
-              "out": {
-                "number": 9,
-                "name": "Assad Al-Hamlawi",
-                "short": "Al-Hamlawi"
-              }
-            },
-            {
-              "minute": 64,
-              "in": {
-                "number": 23,
-                "name": "Teles",
-                "short": "Pereira Nunes Silva"
-              },
-              "out": {
-                "number": 10,
-                "name": "Stefan Baiaram",
-                "short": "Baiaram"
-              }
-            },
-            {
-              "minute": 76,
-              "in": {
-                "number": 30,
-                "name": "David Matei",
-                "short": "Matei"
-              },
-              "out": {
-                "number": 20,
-                "name": "Alexandru Cicaldau",
-                "short": "Cicaldau"
-              }
-            },
-            {
-              "minute": 84,
-              "in": {
-                "number": 28,
-                "name": "Adrian Rus",
-                "short": "Rus"
-              },
-              "out": {
-                "number": 24,
-                "name": "Nikola Stevanovic",
-                "short": "Stevanovic"
-              }
-            }
-          ]
-        },
-        "away": {
-          "starters": [
-            {
-              "number": 98,
-              "name": "Mario Dajsinani",
-              "short": "Dajsinani"
-            },
-            {
-              "number": 33,
-              "name": "Enea Bitri",
-              "short": "Bitri"
-            },
-            {
-              "number": 24,
-              "name": "Numan Ajetovikj",
-              "short": "Ajetovikj"
-            },
-            {
-              "number": 6,
-              "name": "Albano Aleksi",
-              "short": "Aleksi"
-            },
-            {
-              "number": 17,
-              "name": "Altin Kryeziu",
-              "short": "Kryeziu"
-            },
-            {
-              "number": 7,
-              "name": "Fernando Medeiros",
-              "short": "Medeiros"
-            },
-            {
-              "number": 20,
-              "name": "Karim Loukili",
-              "short": "Loukili"
-            },
-            {
-              "number": 29,
-              "name": "Andrey Yago",
-              "short": "Yago"
-            },
-            {
-              "number": 22,
-              "name": "Guillem Jaime",
-              "short": "Jaime"
-            },
-            {
-              "number": 10,
-              "name": "Alessandro Albanese",
-              "short": "Albanese"
-            },
-            {
-              "number": 2,
-              "name": "Daniel Claude Junior Adjessa",
-              "short": "Adjessa"
-            }
-          ],
-          "substitutions": [
-            {
-              "minute": 60,
-              "in": {
-                "number": 4,
-                "name": "Zamiq Aliyev",
-                "short": "Aliyev"
-              },
-              "out": {
-                "number": 24,
-                "name": "Numan Ajetovikj",
-                "short": "Ajetovikj"
-              }
-            },
-            {
-              "minute": 60,
-              "in": {
-                "number": 55,
-                "name": "Geralb Smajli",
-                "short": "Smajli"
-              },
-              "out": {
-                "number": 22,
-                "name": "Guillem Jaime",
-                "short": "Jaime"
-              }
-            },
-            {
-              "minute": 61,
-              "in": {
-                "number": 80,
-                "name": "Ledio Beqja",
-                "short": "Beqja"
-              },
-              "out": {
-                "number": 20,
-                "name": "Karim Loukili",
-                "short": "Loukili"
-              }
-            },
-            {
-              "minute": 72,
-              "in": {
-                "number": 99,
-                "name": "Jurguens Montenegro",
-                "short": "Montenegro"
-              },
-              "out": {
-                "number": 2,
-                "name": "Daniel Claude Junior Adjessa",
-                "short": "Adjessa"
-              }
-            },
-            {
-              "minute": 85,
-              "in": {
-                "number": 8,
-                "name": "Ibrahim Diabaté",
-                "short": "Diabaté"
-              },
-              "out": {
-                "number": 10,
-                "name": "Alessandro Albanese",
-                "short": "Albanese"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
       "id": "conference-league-2026-27-401915740",
       "competition": "conference-league",
       "season": "2026-27",
@@ -17228,6 +16903,331 @@
                 "number": 14,
                 "name": "Ulrick Mathisen",
                 "short": "Mathisen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "conference-league-2026-27-401915817",
+      "competition": "conference-league",
+      "season": "2026-27",
+      "round": 3,
+      "title": "Universitatea Craiova - Egnatia",
+      "session": "match",
+      "startsAt": "2026-11-05T20:00:00+00:00",
+      "status": "finished",
+      "homeTeam": {
+        "id": "espn-8089",
+        "name": "Universitatea Craiova",
+        "shortName": "Universitatea Craiova",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
+      },
+      "awayTeam": {
+        "id": "espn-21943",
+        "name": "Egnatia",
+        "shortName": "Egnatia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png"
+      },
+      "homeScore": 2,
+      "awayScore": 0,
+      "videos": [],
+      "details": {
+        "version": 2,
+        "incidents": [
+          {
+            "minute": 24,
+            "type": "goal",
+            "side": "home",
+            "player": "Alexandru Cicaldau",
+            "short": "Cicaldau"
+          },
+          {
+            "minute": 32,
+            "type": "goal",
+            "side": "home",
+            "player": "Nicusor Bancu",
+            "short": "Bancu"
+          },
+          {
+            "minute": 34,
+            "type": "yellow",
+            "side": "home",
+            "player": "Nikola Stevanovic",
+            "short": "Stevanovic"
+          },
+          {
+            "minute": 74,
+            "type": "yellow",
+            "side": "home",
+            "player": "Alexandru Cicaldau",
+            "short": "Cicaldau"
+          },
+          {
+            "minute": 79,
+            "type": "yellow",
+            "side": "away",
+            "player": "Enea Bitri",
+            "short": "Bitri"
+          },
+          {
+            "minute": 79,
+            "type": "yellow",
+            "side": "home",
+            "player": "Simon Elisor",
+            "short": "Elisor"
+          },
+          {
+            "minute": 83,
+            "type": "secondYellow",
+            "side": "away",
+            "player": "Enea Bitri",
+            "short": "Bitri"
+          },
+          {
+            "minute": 90,
+            "type": "yellow",
+            "side": "home",
+            "player": "David Matei",
+            "short": "Matei"
+          }
+        ],
+        "home": {
+          "starters": [
+            {
+              "number": 21,
+              "name": "Laurentiu Popescu",
+              "short": "Popescu"
+            },
+            {
+              "number": 24,
+              "name": "Nikola Stevanovic",
+              "short": "Stevanovic"
+            },
+            {
+              "number": 6,
+              "name": "Vladimir Screciu",
+              "short": "Screciu"
+            },
+            {
+              "number": 3,
+              "name": "Oleksandr Romanchuk",
+              "short": "Romanchuk"
+            },
+            {
+              "number": 8,
+              "name": "Tudor Baluta",
+              "short": "Baluta"
+            },
+            {
+              "number": 16,
+              "name": "João Lameira",
+              "short": "Santos Lameira"
+            },
+            {
+              "number": 11,
+              "name": "Nicusor Bancu",
+              "short": "Bancu"
+            },
+            {
+              "number": 17,
+              "name": "Carlos Mora",
+              "short": "Mora"
+            },
+            {
+              "number": 9,
+              "name": "Assad Al-Hamlawi",
+              "short": "Al-Hamlawi"
+            },
+            {
+              "number": 10,
+              "name": "Stefan Baiaram",
+              "short": "Baiaram"
+            },
+            {
+              "number": 20,
+              "name": "Alexandru Cicaldau",
+              "short": "Cicaldau"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 64,
+              "in": {
+                "number": 22,
+                "name": "Simon Elisor",
+                "short": "Elisor"
+              },
+              "out": {
+                "number": 9,
+                "name": "Assad Al-Hamlawi",
+                "short": "Al-Hamlawi"
+              }
+            },
+            {
+              "minute": 64,
+              "in": {
+                "number": 23,
+                "name": "Teles",
+                "short": "Pereira Nunes Silva"
+              },
+              "out": {
+                "number": 10,
+                "name": "Stefan Baiaram",
+                "short": "Baiaram"
+              }
+            },
+            {
+              "minute": 76,
+              "in": {
+                "number": 30,
+                "name": "David Matei",
+                "short": "Matei"
+              },
+              "out": {
+                "number": 20,
+                "name": "Alexandru Cicaldau",
+                "short": "Cicaldau"
+              }
+            },
+            {
+              "minute": 84,
+              "in": {
+                "number": 28,
+                "name": "Adrian Rus",
+                "short": "Rus"
+              },
+              "out": {
+                "number": 24,
+                "name": "Nikola Stevanovic",
+                "short": "Stevanovic"
+              }
+            }
+          ]
+        },
+        "away": {
+          "starters": [
+            {
+              "number": 98,
+              "name": "Mario Dajsinani",
+              "short": "Dajsinani"
+            },
+            {
+              "number": 33,
+              "name": "Enea Bitri",
+              "short": "Bitri"
+            },
+            {
+              "number": 24,
+              "name": "Numan Ajetovikj",
+              "short": "Ajetovikj"
+            },
+            {
+              "number": 6,
+              "name": "Albano Aleksi",
+              "short": "Aleksi"
+            },
+            {
+              "number": 17,
+              "name": "Altin Kryeziu",
+              "short": "Kryeziu"
+            },
+            {
+              "number": 7,
+              "name": "Fernando Medeiros",
+              "short": "Medeiros"
+            },
+            {
+              "number": 20,
+              "name": "Karim Loukili",
+              "short": "Loukili"
+            },
+            {
+              "number": 29,
+              "name": "Andrey Yago",
+              "short": "Yago"
+            },
+            {
+              "number": 22,
+              "name": "Guillem Jaime",
+              "short": "Jaime"
+            },
+            {
+              "number": 10,
+              "name": "Alessandro Albanese",
+              "short": "Albanese"
+            },
+            {
+              "number": 2,
+              "name": "Daniel Claude Junior Adjessa",
+              "short": "Adjessa"
+            }
+          ],
+          "substitutions": [
+            {
+              "minute": 60,
+              "in": {
+                "number": 4,
+                "name": "Zamiq Aliyev",
+                "short": "Aliyev"
+              },
+              "out": {
+                "number": 24,
+                "name": "Numan Ajetovikj",
+                "short": "Ajetovikj"
+              }
+            },
+            {
+              "minute": 60,
+              "in": {
+                "number": 55,
+                "name": "Geralb Smajli",
+                "short": "Smajli"
+              },
+              "out": {
+                "number": 22,
+                "name": "Guillem Jaime",
+                "short": "Jaime"
+              }
+            },
+            {
+              "minute": 61,
+              "in": {
+                "number": 80,
+                "name": "Ledio Beqja",
+                "short": "Beqja"
+              },
+              "out": {
+                "number": 20,
+                "name": "Karim Loukili",
+                "short": "Loukili"
+              }
+            },
+            {
+              "minute": 72,
+              "in": {
+                "number": 99,
+                "name": "Jurguens Montenegro",
+                "short": "Montenegro"
+              },
+              "out": {
+                "number": 2,
+                "name": "Daniel Claude Junior Adjessa",
+                "short": "Adjessa"
+              }
+            },
+            {
+              "minute": 85,
+              "in": {
+                "number": 8,
+                "name": "Ibrahim Diabaté",
+                "short": "Diabaté"
+              },
+              "out": {
+                "number": 10,
+                "name": "Alessandro Albanese",
+                "short": "Albanese"
               }
             }
           ]
@@ -23659,29 +23659,6 @@
       "videos": []
     },
     {
-      "id": "conference-league-2026-27-401915613",
-      "competition": "conference-league",
-      "season": "2026-27",
-      "round": 6,
-      "title": "Universitatea Craiova - Copenaghen",
-      "session": "match",
-      "startsAt": "2026-12-17T20:00:00+00:00",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "espn-8089",
-        "name": "Universitatea Craiova",
-        "shortName": "Universitatea Craiova",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
-      },
-      "awayTeam": {
-        "id": "espn-909",
-        "name": "F.C. København",
-        "shortName": "Copenaghen",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/909.png"
-      },
-      "videos": []
-    },
-    {
       "id": "conference-league-2026-27-401915625",
       "competition": "conference-league",
       "season": "2026-27",
@@ -23931,6 +23908,29 @@
         "name": "Trabzonspor",
         "shortName": "Trabzonspor",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
+      },
+      "videos": []
+    },
+    {
+      "id": "conference-league-2026-27-401915613",
+      "competition": "conference-league",
+      "season": "2026-27",
+      "round": 6,
+      "title": "Universitatea Craiova - Copenaghen",
+      "session": "match",
+      "startsAt": "2026-12-17T20:00:00+00:00",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "espn-8089",
+        "name": "Universitatea Craiova",
+        "shortName": "Universitatea Craiova",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
+      },
+      "awayTeam": {
+        "id": "espn-909",
+        "name": "F.C. København",
+        "shortName": "Copenaghen",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/909.png"
       },
       "videos": []
     }
