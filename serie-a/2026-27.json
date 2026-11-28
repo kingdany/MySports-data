@@ -1,7 +1,7 @@
 {
   "competition": "serie-a",
   "season": "2026-27",
-  "generatedAt": "2026-11-27T23:01:31.9169645+00:00",
+  "generatedAt": "2026-11-28T03:01:34.364385+00:00",
   "events": [
     {
       "id": "serie-a-2026-27-558629",
@@ -39896,7 +39896,16 @@
       },
       "homeScore": 0,
       "awayScore": 0,
-      "videos": [],
+      "videos": [
+        {
+          "videoId": "dNPKJDcBhWg",
+          "title": "Il miracolo di STANKOVIC evita la beffa: Venezia-Bologna 0-0 | Serie A Enilive | DAZN Highlights",
+          "thumbnailUrl": "https://i.ytimg.com/vi/dNPKJDcBhWg/hqdefault.jpg",
+          "publishedAt": "2026-11-28T00:42:10+00:00",
+          "source": "DAZN",
+          "duration": "3:36"
+        }
+      ],
       "details": {
         "version": 2,
         "incidents": [
