@@ -1,7 +1,7 @@
 {
   "competition": "motogp",
   "season": "2026",
-  "generatedAt": "2026-11-28T07:01:28.90132+00:00",
+  "generatedAt": "2026-11-28T11:01:17.11989+00:00",
   "events": [
     {
       "id": "motogp-2026-1-fp1",
@@ -15287,7 +15287,7 @@
       "venue": "Circuit Ricardo Tormo",
       "city": "Cheste",
       "country": "Spain",
-      "status": "scheduled",
+      "status": "finished",
       "videos": []
     },
     {
@@ -15301,7 +15301,209 @@
       "venue": "Circuit Ricardo Tormo",
       "city": "Cheste",
       "country": "Spain",
-      "status": "scheduled",
+      "status": "finished",
+      "result": [
+        {
+          "pos": 1,
+          "number": "72",
+          "driver": "Marco Bezzecchi",
+          "code": "Bezzecchi",
+          "team": "Aprilia Racing",
+          "teamColor": "#8A2BE2",
+          "q2": "1:27.844"
+        },
+        {
+          "pos": 2,
+          "number": "93",
+          "driver": "Marc Marquez",
+          "code": "M. Marquez",
+          "team": "Ducati Lenovo Team",
+          "teamColor": "#CD0000",
+          "q2": "1:28.307"
+        },
+        {
+          "pos": 3,
+          "number": "25",
+          "driver": "Raul Fernandez",
+          "code": "R. Fernandez",
+          "team": "SuperFile Trackhouse MotoGP Team",
+          "teamColor": "#5CACEE",
+          "q2": "1:28.433"
+        },
+        {
+          "pos": 4,
+          "number": "73",
+          "driver": "Alex Marquez",
+          "code": "A. Marquez",
+          "team": "BK8 Gresini Racing MotoGP",
+          "teamColor": "#CAE1FF",
+          "q2": "1:28.580"
+        },
+        {
+          "pos": 5,
+          "number": "89",
+          "driver": "Jorge Martin",
+          "code": "Martin",
+          "team": "Aprilia Racing",
+          "teamColor": "#8A2BE2",
+          "q2": "1:28.639"
+        },
+        {
+          "pos": 6,
+          "number": "49",
+          "driver": "Fabio Di Giannantonio",
+          "code": "Di Giannantonio",
+          "team": "Pertamina Enduro VR46 Racing Team",
+          "teamColor": "#EEEE00",
+          "q2": "1:28.695"
+        },
+        {
+          "pos": 7,
+          "number": "23",
+          "driver": "Enea Bastianini",
+          "code": "Bastianini",
+          "team": "Red Bull KTM Tech3",
+          "teamColor": "#EE7621",
+          "q1": "1:29.053",
+          "q2": "1:28.780"
+        },
+        {
+          "pos": 8,
+          "number": "44",
+          "driver": "Pol Espargaro",
+          "code": "Espargaro",
+          "team": "Red Bull KTM Tech3",
+          "teamColor": "#EE7621",
+          "q2": "1:28.853"
+        },
+        {
+          "pos": 9,
+          "number": "54",
+          "driver": "Fermin Aldeguer",
+          "code": "Aldeguer",
+          "team": "BK8 Gresini Racing MotoGP",
+          "teamColor": "#CAE1FF",
+          "q2": "1:28.870"
+        },
+        {
+          "pos": 10,
+          "number": "37",
+          "driver": "Pedro Acosta",
+          "code": "Acosta",
+          "team": "Red Bull KTM Factory Racing",
+          "teamColor": "#FF8C00",
+          "q2": "1:28.884"
+        },
+        {
+          "pos": 11,
+          "number": "79",
+          "driver": "Ai Ogura",
+          "code": "Ogura",
+          "team": "SuperFile Trackhouse MotoGP Team",
+          "teamColor": "#5CACEE",
+          "q2": "1:29.150"
+        },
+        {
+          "pos": 12,
+          "number": "36",
+          "driver": "Joan Mir",
+          "code": "Mir",
+          "team": "Honda HRC Castrol",
+          "teamColor": "#FF0000",
+          "q1": "1:29.204",
+          "q2": "1:29.416"
+        },
+        {
+          "pos": 13,
+          "number": "33",
+          "driver": "Brad Binder",
+          "code": "Binder",
+          "team": "Red Bull KTM Factory Racing",
+          "teamColor": "#FF8C00",
+          "q1": "1:29.233"
+        },
+        {
+          "pos": 14,
+          "number": "27",
+          "driver": "Iker Lecuona",
+          "code": "Lecuona",
+          "team": "Ducati Lenovo Team",
+          "teamColor": "#CD0000",
+          "q1": "1:29.260"
+        },
+        {
+          "pos": 15,
+          "number": "5",
+          "driver": "Johann Zarco",
+          "code": "Zarco",
+          "team": "Castrol Honda LCR",
+          "teamColor": "#FAFAFA",
+          "q1": "1:29.286"
+        },
+        {
+          "pos": 16,
+          "number": "20",
+          "driver": "Fabio Quartararo",
+          "code": "Quartararo",
+          "team": "Monster Energy Yamaha MotoGP Team",
+          "teamColor": "#000F89",
+          "q1": "1:29.407"
+        },
+        {
+          "pos": 17,
+          "number": "21",
+          "driver": "Franco Morbidelli",
+          "code": "Morbidelli",
+          "team": "Pertamina Enduro VR46 Racing Team",
+          "teamColor": "#EEEE00",
+          "q1": "1:29.435"
+        },
+        {
+          "pos": 18,
+          "number": "11",
+          "driver": "Diogo Moreira",
+          "code": "Moreira",
+          "team": "Pro Honda LCR",
+          "teamColor": "#FAFAFA",
+          "q1": "1:29.584"
+        },
+        {
+          "pos": 19,
+          "number": "10",
+          "driver": "Luca Marini",
+          "code": "Marini",
+          "team": "Honda HRC Castrol",
+          "teamColor": "#FF0000",
+          "q1": "1:29.623"
+        },
+        {
+          "pos": 20,
+          "number": "43",
+          "driver": "Jack Miller",
+          "code": "Miller",
+          "team": "Prima Pramac Yamaha MotoGP",
+          "teamColor": "#055BDD",
+          "q1": "1:29.640"
+        },
+        {
+          "pos": 21,
+          "number": "47",
+          "driver": "Augusto Fernandez",
+          "code": "A. Fernandez",
+          "team": "Prima Pramac Yamaha MotoGP",
+          "teamColor": "#055BDD",
+          "q1": "1:29.721"
+        },
+        {
+          "pos": 22,
+          "number": "42",
+          "driver": "Alex Rins",
+          "code": "Rins",
+          "team": "Monster Energy Yamaha MotoGP Team",
+          "teamColor": "#000F89",
+          "q1": "1:30.148"
+        }
+      ],
       "videos": []
     },
     {
